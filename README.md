@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 😝 [Hulk](http://9gag.com/gag/a7oQGMr)
- - 💣 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 😝 [Took me a while](http://9gag.com/gag/agmWZpx)
+ - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 😝 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
  - 👉 [Life hack 101](http://9gag.com/gag/aD2yr9x)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 😝 [Took me a while](http://9gag.com/gag/agmWZpx)
+ - 😝 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
+ - 😝 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
  - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 😝 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 👉 [Life hack 101](http://9gag.com/gag/aD2yr9x)<!-- MEMES:END -->
+ - 😝 [Took me a while](http://9gag.com/gag/agmWZpx)
+ - 👉 [Aberfan disaster](http://9gag.com/gag/ajPpdW8)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
- - [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday &lpar;@anthropicai&rpar;](https://www.techmeme.com/260630/p40#a260630p40)
- - [Sources: Microsoft plans to announce job cuts next week affecting less than 2.5% of its 220,000-person workforce, including roles in sales, consulting, and Xbox &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260630/p39#a260630p39)
- - [Sources: the Trump administration plans to lift export restrictions on Anthropic&#39;s Fable 5 as early as Tuesday evening, making it available to all general users &lpar;Politico&rpar;](https://www.techmeme.com/260630/p38#a260630p38)
- - [The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models](https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/)<!-- TECH:END -->
+ - [Anthropic says Fable 5 will be available via usage credits for Claude users from July 7, and is working with partners to draft an AI jailbreak severity standard &lpar;Anthropic&rpar;](https://www.techmeme.com/260701/p1#a260701p1)
+ - [Getty Images announces plans to end its Shutterstock merger after the UK CMA conditioned approval of the deal on Shutterstock selling its editorial business &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260630/p46#a260630p46)
+ - [FOIA docs: White House officials used auto-deleting Signal chats even after Trump advised against its use in April 2025, raising federal recordkeeping concerns &lpar;The Atlantic&rpar;](https://www.techmeme.com/260630/p45#a260630p45)
+ - [SpaceX cuts monthly Starlink prices in half in the Memphis area, as it endures blowback and legal challenges from opponents of its Colossus data centers &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260630/p44#a260630p44)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

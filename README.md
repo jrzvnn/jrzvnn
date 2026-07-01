@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dish files for bankruptcy, but not shutting down](https://www.theverge.com/tech/959894/dish-chapter-11-bankruptcy)
- - [Almost 1,700 UK investors sue Binance and Changpeng Zhao for at least £150M, alleging Binance sold them risky derivative products without regulatory approval &lpar;Kirstin Ridley/Reuters&rpar;](https://www.techmeme.com/260630/p36#a260630p36)
- - [Filing: President Trump reports $1.4B+ in income from his family&#39;s crypto ventures in 2025, including $500M+ from WLF and $635M from the sale of his $TRUMP coin &lpar;Reuters&rpar;](https://www.techmeme.com/260630/p35#a260630p35)
- - [Sources: TikTok settles a lawsuit before a second California trial over social media harm to minors for an undisclosed sum; Meta and Snap remain defendants &lpar;Bloomberg&rpar;](https://www.techmeme.com/260630/p34#a260630p34)
- - [WhatsApp Lets You Reserve a Username, Making Your Phone Number More Private](https://www.cnet.com/tech/mobile/whatsapp-reserve-username-privacy-phone-number/)<!-- TECH:END -->
+ - [Anthropic&amp;#8217;s long-sidelined Fable 5 is greenlit to return](https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back)
+ - [Anthropic says the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5 and that it will begin restoring access Wednesday &lpar;@anthropicai&rpar;](https://www.techmeme.com/260630/p40#a260630p40)
+ - [Sources: Microsoft plans to announce job cuts next week affecting less than 2.5% of its 220,000-person workforce, including roles in sales, consulting, and Xbox &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260630/p39#a260630p39)
+ - [Sources: the Trump administration plans to lift export restrictions on Anthropic&#39;s Fable 5 as early as Tuesday evening, making it available to all general users &lpar;Politico&rpar;](https://www.techmeme.com/260630/p38#a260630p38)
+ - [The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models](https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

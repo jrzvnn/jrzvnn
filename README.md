@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX showed investors a handset-like device prototype with AI tech from xAI, a proprietary OS, a Snapdragon chip, and a design slimmer than an iPhone &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260701/p37#a260701p37)
- - [You Can Now Sound the Alarm on AI Behaving Badly](https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/)
- - [Sources: Microsoft has been working on a disc-to-digital feature for Xbox One and Xbox Series X that will let users digitize their physical game collections &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260701/p36#a260701p36)
- - [Krafton settles with Subnautica 2 developer after drawn-out dispute over $250 million](https://www.theverge.com/games/960354/krafton-subnautica-2-settlement-bonuses-unknown-worlds)
- - [The 49 Best Outdoor Deals From the REI 4th of July Sale](https://www.wired.com/story/rei-4th-of-july-sale-2026/)<!-- TECH:END -->
+ - [Elon Musk denies a report about SpaceX&amp;#8217;s AI phone prototype](https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 2, #647](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-2-647/)
+ - [July&#39;s Biggest Premieres on Hulu Include &#39;They Fight,&#39; Twisty Crime Thriller &#39;Furious&#39; and More](https://www.cnet.com/culture/entertainment/new-on-hulu-in-july-2026/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 2 #851](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-2-851/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1839](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1839/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

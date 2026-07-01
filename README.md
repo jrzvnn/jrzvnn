@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust](https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/)
- - [[Thread] The US&#39; now-lifted export controls on Anthropic models created uncertainty, are an own goal, and will push service providers towards Chinese AI models &lpar;Alex Stamos/@alexstamos&rpar;](https://www.techmeme.com/260701/p12#a260701p12)
- - [Anthropic says &quot;some routine tasks like coding and debugging&quot; on Fable 5 &quot;will fall back to Opus 4.8&quot; in &quot;the near term&quot; as it works to &quot;reduce false positives&quot; &lpar;@anthropicai&rpar;](https://www.techmeme.com/260701/p11#a260701p11)
- - [A look at Manifest, an annual convention for prediction markets where many purists worry that Kalshi and Polymarket are undermining the technology&#39;s public good &lpar;Christopher Beam/Bloomberg&rpar;](https://www.techmeme.com/260701/p10#a260701p10)
- - [BYD, Nio, and other Chinese carmakers are rushing to design and increase the use of locally developed chips with AI functions in a bid for chip self-sufficiency &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p9#a260701p9)<!-- TECH:END -->
+ - [Wayve files to sell shares on the London Stock Exchange&#39;s new Private Securities Market, the first major company to test it, and let staff sell $85M in shares &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p20#a260701p20)
+ - [A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the &quot;potential benefits of AI are enormous&quot;, and more &lpar;Andrea Shalal/Reuters&rpar;](https://www.techmeme.com/260701/p19#a260701p19)
+ - [Lectric XPress2 Review &lpar;2026&rpar;: A Heavy-Duty but Nimble Ebike](https://www.wired.com/review/lectric-xpress2-review/)
+ - [Oura Ring vs. Apple Watch: This Dealbreaker Made the Choice Obvious](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-smart-health-devices-compared/)
+ - [How the rapid rise in US- and China-made AI abilities is leading to both a transformation in AI use at work, and sudden lurches in policies and markets &lpar;Ethan Mollick/One Useful Thing&rpar;](https://www.techmeme.com/260701/p18#a260701p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

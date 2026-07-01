@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanna Cry?](http://9gag.com/gag/a7oQAz2)
- - 😝 [Always them](http://9gag.com/gag/aBypvpP)
- - 💣 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 😝 [What happens in a woman mouth during a date](http://9gag.com/gag/ajPpdzp)
- - 👉 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)<!-- MEMES:END -->
+ - 😝 [Looks like win](http://9gag.com/gag/a7oQ6gq)
+ - 😝 [Straight to jail](http://9gag.com/gag/amo3dKy)
+ - 💣 [Hollywood VS Real White Women](http://9gag.com/gag/apROd79)
+ - 😝 [Please protect these people](http://9gag.com/gag/a87ZX9Y)
+ - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 ---
 

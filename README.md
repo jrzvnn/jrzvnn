@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wayve files to sell shares on the London Stock Exchange&#39;s new Private Securities Market, the first major company to test it, and let staff sell $85M in shares &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p20#a260701p20)
- - [A UN panel co-chaired by Yoshua Bengio warns that AI capabilities are outpacing scientific understanding, the &quot;potential benefits of AI are enormous&quot;, and more &lpar;Andrea Shalal/Reuters&rpar;](https://www.techmeme.com/260701/p19#a260701p19)
- - [Lectric XPress2 Review &lpar;2026&rpar;: A Heavy-Duty but Nimble Ebike](https://www.wired.com/review/lectric-xpress2-review/)
- - [Oura Ring vs. Apple Watch: This Dealbreaker Made the Choice Obvious](https://www.cnet.com/tech/mobile/apple-watch-vs-oura-ring-smart-health-devices-compared/)
- - [How the rapid rise in US- and China-made AI abilities is leading to both a transformation in AI use at work, and sudden lurches in policies and markets &lpar;Ethan Mollick/One Useful Thing&rpar;](https://www.techmeme.com/260701/p18#a260701p18)<!-- TECH:END -->
+ - [Abu Dhabi-based MGX raised a $49B AI-focused fund, exceeding its $45B target, and plans to spend as much as $10B annually over the next few years &lpar;Dinesh Nair/Bloomberg&rpar;](https://www.techmeme.com/260701/p30#a260701p30)
+ - [Letter: the US says Anthropic &quot;agreed to proactively detect and address security risks&quot; of Fable 5 and Mythos 5; a source says Anthropic developed a &quot;safeguard&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260701/p29#a260701p29)
+ - [Sony says it is closing the virtual PlayStation 3 store in select markets in 2026 ahead of global store closures for the PS3 and PS Vita in July 2027 &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260701/p28#a260701p28)
+ - [Want to Fly? Google Earth Opens Its Secret Flight Simulator to All Users](https://www.cnet.com/tech/gaming/google-earths-secret-flight-simulator-is-now-free-for-everyone-on-the-web/)
+ - [47 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

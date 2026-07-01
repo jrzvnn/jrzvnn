@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
- - 😝 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
+ - 😝 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
+ - 💣 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 😝 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 👉 [Life hack 101](http://9gag.com/gag/aD2yr9x)<!-- MEMES:END -->
 
 ---
 

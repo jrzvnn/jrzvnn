@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
  - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
- - 💣 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
- - 😝 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
- - 👉 [When your micromanager boss sees you leave 1 minute early.](http://9gag.com/gag/aPA5pvw)<!-- MEMES:END -->
+ - 💣 [T90 Found Out](http://9gag.com/gag/ayNGzPY)
+ - 😝 [Meanwhile in Japan. In 5 minutes we begin the next match for Argentina](http://9gag.com/gag/aXPBe1g)
+ - 👉 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)<!-- MEMES:END -->
 
 ---
 

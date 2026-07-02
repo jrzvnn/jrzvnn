@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 😝 [Why?](http://9gag.com/gag/a7oQP6w)
+ - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
+ - 💣 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
  - 😝 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 💣 [Its always them.](http://9gag.com/gag/aVvA9j2)
- - 😝 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
- - 👉 [Colonization incoming](http://9gag.com/gag/agmWbAq)<!-- MEMES:END -->
+ - 👉 [That will definitly leave a mark ...](http://9gag.com/gag/aQzGKXw)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla&amp;#8217;s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report)
- - [New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation](https://www.cnet.com/health/new-poll-connects-social-media-and-chatbots-with-spread-of-vaccine-misinformation/)
- - [AI won’t save advertising, says Digitas’ Amy Lanzi](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)
- - [Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260702/p24#a260702p24)
- - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)<!-- TECH:END -->
+ - [Sources: Palmer Luckey&#39;s Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits grew from $1.1B in March to $4B now &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p26#a260702p26)
+ - [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings)
+ - [Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B &lpar;Zheping Huang/Bloomberg&rpar;](https://www.techmeme.com/260702/p25#a260702p25)
+ - [Godox’s feature-packed key light is down to its best price yet](https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale)
+ - [Tesla&amp;#8217;s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finnish quantum computing company IQM closed up 2% in its Nasdaq debut Thursday after going public via a SPAC merger at a ~$1.9B valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260702/p37#a260702p37)
+ - [SpaceX Secretly Unveiled New AI Device to Investors. Is It a Phone or Not?](https://www.cnet.com/tech/services-and-software/spacex-shows-new-ai-device-investors-phone-rumor/)
  - [What to expect from Apple&#39;s Q3 2026 results on July 30](https://appleinsider.com/articles/26/07/02/what-to-expect-from-apples-q3-2026-results-on-july-30?utm_source=rss)
  - [Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p36#a260702p36)
- - [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)
- - [Government-Backed AI? OpenAI Reportedly in Talks Over US Equity Stake](https://www.cnet.com/tech/services-and-software/government-backed-ai-openai-us-equity-stake/)
- - [Apple Reportedly Revamping iPad Pro Lineup and Building More Foldables](https://www.cnet.com/tech/mobile/apple-revamping-ipad-pro-lineup-building-more-foldables/)<!-- TECH:END -->
+ - [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

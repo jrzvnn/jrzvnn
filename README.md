@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260701/p45#a260701p45)
- - [Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p44#a260701p44)
- - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)
- - [Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ &lpar;Lauren Ohnesorge/Triangle Business ...&rpar;](https://www.techmeme.com/260701/p43#a260701p43)
- - [Accio, Wizards: Harry Potter Audiobooks Arrive on Spotify](https://www.cnet.com/tech/services-and-software/harry-potter-audiobooks-spotify/)<!-- TECH:END -->
+ - [Sources: data center operator Switch seeks a ~$2B funding round valuing the company at ~$50B, including debt, led by a $400M investment from Andreessen Horowitz &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p51#a260701p51)
+ - [Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M-8M previously, and 80M iPhones in total across new models &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260701/p50#a260701p50)
+ - [Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p49#a260701p49)
+ - [X launches Live Studio, an updated livestreaming hub within Creator Studio with a simplified desktop setup, chat control options, custom thumbnails, and more &lpar;Andrew Hutchinson/Social Media Today&rpar;](https://www.techmeme.com/260701/p48#a260701p48)
+ - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

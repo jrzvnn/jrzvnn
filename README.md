@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gorgeous shots winning 2026 iPhone Photography Awards show old models still cut it](https://appleinsider.com/articles/26/07/02/gorgeous-shots-winning-2026-iphone-photography-awards-show-old-models-still-cut-it?utm_source=rss)
- - [Sam Altman proposes a &quot;US-led international forum&quot; to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies &lpar;Sam Altman/Financial Times&rpar;](https://www.techmeme.com/260702/p21#a260702p21)
- - [Mystery box shows are complicated for everyone — even the actors](https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box)
- - [SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260702/p20#a260702p20)
- - [Confident Apple increases its iPhone Fold orders to 10 million](https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report)
+ - [New Poll Connects Social Media and Chatbots With Spread of Vaccine Misinformation](https://www.cnet.com/health/new-poll-connects-social-media-and-chatbots-with-spread-of-vaccine-misinformation/)
+ - [AI won’t save advertising, says Digitas’ Amy Lanzi](https://www.theverge.com/podcast/959792/digitas-ceo-amy-lanzi-cannes-ad-industry-marketing-ai-creators)
+ - [Sources: Anthropic has initiated early-stage development of a custom AI server chip and held preliminary discussions with Samsung about manufacturing the chip &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260702/p24#a260702p24)
+ - [Global VC funding hit a record $510B in H1 2026, with OpenAI and Anthropic accounting for $217B, or 43% of the total; in Q2, VCs put $205B into 5K+ startups &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260702/p23#a260702p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

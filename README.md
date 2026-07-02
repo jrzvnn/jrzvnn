@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/a7oQP6w)
- - 😝 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
- - 💣 [Best Pokemon](http://9gag.com/gag/amo3O0X)
- - 😝 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
- - 👉 [The ultimate ragebait design](http://9gag.com/gag/ae9LEqq)<!-- MEMES:END -->
+ - 😝 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
+ - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
+ - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 😝 [Thank you Sony &lt;3](http://9gag.com/gag/aoyX6dn)
+ - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 ---
 

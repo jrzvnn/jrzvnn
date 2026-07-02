@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
  - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 💣 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
- - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
+ - 😝 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
+ - 💣 [Life hack 101](http://9gag.com/gag/aD2yr9x)
+ - 😝 [All Hail to the Glorious Epstein Class](http://9gag.com/gag/aPA5LjQ)
+ - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 ---
 

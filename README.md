@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 😝 [MASSAGE](http://9gag.com/gag/aPA5djQ)
- - 💣 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
- - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 👉 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)<!-- MEMES:END -->
+ - 😝 [Walk the dog? Learn to walk first!](http://9gag.com/gag/awywG54)
+ - 😝 [So Trojans use rubber even for helmets?](http://9gag.com/gag/aQzGr58)
+ - 💣 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 😝 [Dude shows exiting Tokyo](http://9gag.com/gag/a7oQ6Om)
+ - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
+ - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - 😝 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
+ - 💣 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
  - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 💣 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 😝 [Go sports](http://9gag.com/gag/axy5KDb)
- - 👉 [Crying in four hours of sleep](http://9gag.com/gag/azxnoob)<!-- MEMES:END -->
+ - 👉 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)<!-- MEMES:END -->
 
 ---
 

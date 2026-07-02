@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the White House is in advanced talks with AI companies on voluntary standards and release timelines for new models to be announced as soon as next week &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260701/p45#a260701p45)
+ - [Bending Spoons, which owns Vimeo and AOL, closed up 40% in its US market debut on Wednesday at a $25.7B valuation, after raising $1.68B in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p44#a260701p44)
+ - [The Best July 4 Grill and Griddle Deals: Weber, Traeger, Recteq](https://www.wired.com/story/best-grill-griddle-deals-july-4-2026/)
  - [Higharc, which uses AI to assist house builders in design and construction, raised a $95M Series C led by Insight Partners, bringing its total funding to $170M+ &lpar;Lauren Ohnesorge/Triangle Business ...&rpar;](https://www.techmeme.com/260701/p43#a260701p43)
- - [Apple’s entry-level MacBook Pro could be up for a redesign](https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update)
- - [iPhone Fold expected to take 29% of 2026 foldable phone screen orders](https://appleinsider.com/articles/26/07/01/iphone-fold-expected-to-take-29-of-2026-foldable-phone-screen-orders?utm_source=rss)
- - [The funeral for PlayStation discs has begun](https://www.theverge.com/games/960476/playstation-physical-games-discs-stop-production-preservation-retail-stores)
- - [Lime&#39;s shares closed up 4% in its Nasdaq debut on Wednesday, valuing the company at ~$1.7B, after Lime and existing stockholders raised ~$174M in its US IPO &lpar;Reuters&rpar;](https://www.techmeme.com/260701/p42#a260701p42)<!-- TECH:END -->
+ - [Accio, Wizards: Harry Potter Audiobooks Arrive on Spotify](https://www.cnet.com/tech/services-and-software/harry-potter-audiobooks-spotify/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260702/p8#a260702p8)
- - [Nansen: about two-thirds of Trump&#39;s memecoin investors are currently in the red, and 85% of World Liberty&#39;s $WLFI buyers on the secondary market are underwater &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p7#a260702p7)
- - [UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260702/p6#a260702p6)
- - [CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment &lpar;FinSMEs&rpar;](https://www.techmeme.com/260702/p5#a260702p5)
- - [Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&amp;A as AI reshapes growth &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](https://www.techmeme.com/260702/p4#a260702p4)<!-- TECH:END -->
+ - [President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states &lpar;New York Times&rpar;](https://www.techmeme.com/260702/p14#a260702p14)
+ - [Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked &lpar;Samantha Elkins/NBC News&rpar;](https://www.techmeme.com/260702/p13#a260702p13)
+ - [Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech](https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/)
+ - [Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260702/p12#a260702p12)
+ - [Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech](https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

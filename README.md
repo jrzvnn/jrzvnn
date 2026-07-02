@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump says Micron will invest $250M in Trump Accounts; Micron says it will come via an employee matching program and a $250 deposit in some US states &lpar;New York Times&rpar;](https://www.techmeme.com/260702/p14#a260702p14)
- - [Cloudflare sets a September 15 deadline for AI companies to differentiate their web crawlers into search, AI training, and AI agents or face being blocked &lpar;Samantha Elkins/NBC News&rpar;](https://www.techmeme.com/260702/p13#a260702p13)
- - [Inside the Luddite Festival Harnessing Gen Z’s Rage Against Big Tech](https://www.wired.com/story/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/)
- - [Germany-based Quantum Systems, which sells surveillance drones used by Ukraine, raised $1.2B led by Blackstone, Noteus, Airbus, and Advent at an ~$8B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260702/p12#a260702p12)
- - [Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech](https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/)<!-- TECH:END -->
+ - [Gorgeous shots winning 2026 iPhone Photography Awards show old models still cut it](https://appleinsider.com/articles/26/07/02/gorgeous-shots-winning-2026-iphone-photography-awards-show-old-models-still-cut-it?utm_source=rss)
+ - [Sam Altman proposes a &quot;US-led international forum&quot; to establish AI standards, provide analysis of capabilities and risks, and make AI available to allies &lpar;Sam Altman/Financial Times&rpar;](https://www.techmeme.com/260702/p21#a260702p21)
+ - [Mystery box shows are complicated for everyone — even the actors](https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box)
+ - [SoftBank and its telecom unit launch SB Neo to offer AI chips and cloud services to big companies, aiming to provide 10GW of capacity in the US by 2030 &lpar;Min-Jeong Lee/Bloomberg&rpar;](https://www.techmeme.com/260702/p20#a260702p20)
+ - [Confident Apple increases its iPhone Fold orders to 10 million](https://appleinsider.com/articles/26/07/02/confident-apple-increases-its-iphone-fold-orders-to-10-million?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

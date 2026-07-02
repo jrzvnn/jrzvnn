@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why?](http://9gag.com/gag/a7oQP6w)
- - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
- - 💣 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
+ - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 💣 [Best Pokemon](http://9gag.com/gag/amo3O0X)
  - 😝 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 👉 [That will definitly leave a mark ...](http://9gag.com/gag/aQzGKXw)<!-- MEMES:END -->
+ - 👉 [Awesome Coach](http://9gag.com/gag/a9yo4Wm)<!-- MEMES:END -->
 
 ---
 

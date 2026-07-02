@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)
- - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
- - [Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260702/p33#a260702p33)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 3, #1118](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-3-1118/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 3 #852](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-3-852/)<!-- TECH:END -->
+ - [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai)
+ - [At a town hall, Mark Zuckerberg said Meta&#39;s AI agent development has not accelerated as expected and its reorganization was not as &quot;clean&quot; as it could have been &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260702/p35#a260702p35)
+ - [How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App](https://www.wired.com/story/love-island-usa-app/)
+ - [T-Mobile vs. Verizon: What to Look for if You&#39;re Switching](https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-what-to-look-for-if-youre-switching/)
+ - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

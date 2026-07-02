@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?](https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/)
- - [Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring AI agents dubbed AutoPilot and coding tools &lpar;The Information&rpar;](https://www.techmeme.com/260702/p29#a260702p29)
- - [Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260702/p28#a260702p28)
- - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)
- - [CNET&#39;s Shopping Experts Handpicked the Best Deals You Can Score This Week](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)<!-- TECH:END -->
+ - [Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off](https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss)
+ - [Internal memo: Tesla plans to impose a $200-per-week limit for staff&#39;s AI spending beginning July 6; the tally excludes beta versions of xAI products &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260702/p32#a260702p32)
+ - [Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p31#a260702p31)
+ - [Popular Potato Chips Face FDA&#39;s Most Serious Recall: What to Know](https://www.cnet.com/news/popular-potato-chips-recalled-salmonella/)
+ - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

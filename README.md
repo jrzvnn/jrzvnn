@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: data center operator Switch seeks a ~$2B funding round valuing the company at ~$50B, including debt, led by a $400M investment from Andreessen Horowitz &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p51#a260701p51)
- - [Sources: Apple has told suppliers to prepare to produce ~10M foldable iPhones in 2026, up from 7M-8M previously, and 80M iPhones in total across new models &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260701/p50#a260701p50)
- - [Sources: Apple is in negotiations to buy chips from CXMT and YMTC, two Chinese semiconductor makers on a Pentagon blacklist, for use in devices sold in China &lpar;Bloomberg&rpar;](https://www.techmeme.com/260701/p49#a260701p49)
- - [X launches Live Studio, an updated livestreaming hub within Creator Studio with a simplified desktop setup, chat control options, custom thumbnails, and more &lpar;Andrew Hutchinson/Social Media Today&rpar;](https://www.techmeme.com/260701/p48#a260701p48)
- - [India-based short video app ShareChat&#39;s parent company Mohalla Tech plans to raise up to $400M in an IPO in 2027; ShareChat has ~65M micro-drama viewers monthly &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260701/p47#a260701p47)<!-- TECH:END -->
+ - [A survey of US adults finds 56% support banning social media for under-16s, while 21% oppose; majorities across demographic and partisan groups support a ban &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260702/p8#a260702p8)
+ - [Nansen: about two-thirds of Trump&#39;s memecoin investors are currently in the red, and 85% of World Liberty&#39;s $WLFI buyers on the secondary market are underwater &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p7#a260702p7)
+ - [UK lawyers say the tide of AI-assisted employment claims is straining an already overloaded employment tribunal system, whose backlog has doubled in two years &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260702/p6#a260702p6)
+ - [CarbonSix, which is developing AI automation and robotic intelligence tech for manufacturing, raised a $40M Series A co-led by DSC Investment and LB Investment &lpar;FinSMEs&rpar;](https://www.techmeme.com/260702/p5#a260702p5)
+ - [Indian IT company Persistent Systems offers to acquire its Germany-based peer Nagarro for $1.45B; Indian IT companies are ramping up M&amp;A as AI reshapes growth &lpar;Sayan Chakraborty/Nikkei Asia&rpar;](https://www.techmeme.com/260702/p4#a260702p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

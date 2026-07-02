@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Palmer Luckey&#39;s Erebor Bank is in talks to raise money at an $8B+ valuation, up from $4.35B in 2025; its deposits grew from $1.1B in March to $4B now &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p26#a260702p26)
- - [Influencer screenings aren’t going away](https://www.theverge.com/entertainment/960260/the-odyssey-christopher-nolan-influencers-screenings)
- - [Kling AI, the Kuaishou AI video generator spin-off, raised $2B at a $15B pre-money valuation and says the round could extend to as much as $3B &lpar;Zheping Huang/Bloomberg&rpar;](https://www.techmeme.com/260702/p25#a260702p25)
- - [Godox’s feature-packed key light is down to its best price yet](https://www.theverge.com/gadgets/960664/godox-key-light-elgato-insta360-deal-sale)
- - [Tesla&amp;#8217;s Q2 sales jump 25 percent](https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report)<!-- TECH:END -->
+ - [Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?](https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/)
+ - [Memo: Microsoft is merging the consumer and enterprise versions of its Copilot chatbots into a single app featuring AI agents dubbed AutoPilot and coding tools &lpar;The Information&rpar;](https://www.techmeme.com/260702/p29#a260702p29)
+ - [Tripo AI, which is developing 3D foundation models and world models for use in games, raised $150M, a month after it said it raised $200M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260702/p28#a260702p28)
+ - [Emails disclosed in a court filing detail the uneasy back-and-forth between Dario Amodei and DOD&#39;s Emil Michael and how Anthropic&#39;s relationship with DOD soured &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260702/p27#a260702p27)
+ - [CNET&#39;s Shopping Experts Handpicked the Best Deals You Can Score This Week](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

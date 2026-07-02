@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off](https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss)
- - [Internal memo: Tesla plans to impose a $200-per-week limit for staff&#39;s AI spending beginning July 6; the tally excludes beta versions of xAI products &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260702/p32#a260702p32)
- - [Sources: ElevenLabs held early talks with investors on a secondary share sale for staff that would value the startup at ~$22B; it was valued at $11B in February &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p31#a260702p31)
- - [Popular Potato Chips Face FDA&#39;s Most Serious Recall: What to Know](https://www.cnet.com/news/popular-potato-chips-recalled-salmonella/)
- - [UK-based StirlingX, which develops secure data intelligence systems for defense and critical infrastructure, raised a $20M Series A, following a $11M seed &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260702/p30#a260702p30)<!-- TECH:END -->
+ - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)
+ - [The best July 4th sales we found so far](https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale)
+ - [Travel app Hopper agrees to a $35M FTC settlement over allegations the company misled users by imposing hidden fees and misrepresenting the total costs &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260702/p33#a260702p33)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 3, #1118](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-3-1118/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 3 #852](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-3-852/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

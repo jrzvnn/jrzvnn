@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Use a UV light you&#39;ll attract even more](http://9gag.com/gag/aoyXqB3)
- - 😝 [Looks for glass slipper/bent fork/tall tower](http://9gag.com/gag/ae9LyYQ)
- - 💣 [Percussive maintenance works on everything](http://9gag.com/gag/aVvA4p8)
- - 😝 [Woodturning a lamp is nothing new but that jig to cut the spirals was nicely done...](http://9gag.com/gag/aD2yrYw)
- - 👉 [Life hack 101](http://9gag.com/gag/aD2yr9x)<!-- MEMES:END -->
+ - 😝 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
+ - 😝 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
+ - 💣 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - 😝 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
+ - 👉 [Colonization incoming](http://9gag.com/gag/agmWbAq)<!-- MEMES:END -->
 
 ---
 

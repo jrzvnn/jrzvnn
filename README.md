@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why?](http://9gag.com/gag/a7oQP6w)
- - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 😝 [White people in the world trying to point out the problem:](http://9gag.com/gag/aVvA4Xd)
  - 💣 [Best Pokemon](http://9gag.com/gag/amo3O0X)
- - 😝 [The Great American Pride festival. LMAO! There was thousands, tens of thousands maybe even hundreds of thousands...................not there.](http://9gag.com/gag/avyN4AO)
- - 👉 [Awesome Coach](http://9gag.com/gag/a9yo4Wm)<!-- MEMES:END -->
+ - 😝 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
+ - 👉 [The ultimate ragebait design](http://9gag.com/gag/ae9LEqq)<!-- MEMES:END -->
 
 ---
 

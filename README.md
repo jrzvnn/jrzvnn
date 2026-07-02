@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta has a new app called Pocket that is absolutely nothing like the old Pocket](https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai)
- - [At a town hall, Mark Zuckerberg said Meta&#39;s AI agent development has not accelerated as expected and its reorganization was not as &quot;clean&quot; as it could have been &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260702/p35#a260702p35)
- - [How Big Is ‘Love Island USA’? More Than 10 Million People Are Already on Its App](https://www.wired.com/story/love-island-usa-app/)
- - [T-Mobile vs. Verizon: What to Look for if You&#39;re Switching](https://www.cnet.com/tech/mobile/t-mobile-vs-verizon-what-to-look-for-if-youre-switching/)
- - [Source: crypto payments and settlement startup Mesh is raising funding led by Binance at a ~$2B valuation, six months after raising $75M at a $1B valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260702/p34#a260702p34)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s Q3 2026 results on July 30](https://appleinsider.com/articles/26/07/02/what-to-expect-from-apples-q3-2026-results-on-july-30?utm_source=rss)
+ - [Sources: Crusoe is in active talks to raise ~$3B in a funding round expected to value the company in the ~$30B range, up from a ~$10B valuation in October &lpar;Bloomberg&rpar;](https://www.techmeme.com/260702/p36#a260702p36)
+ - [Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home](https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges)
+ - [Government-Backed AI? OpenAI Reportedly in Talks Over US Equity Stake](https://www.cnet.com/tech/services-and-software/government-backed-ai-openai-us-equity-stake/)
+ - [Apple Reportedly Revamping iPad Pro Lineup and Building More Foldables](https://www.cnet.com/tech/mobile/apple-revamping-ipad-pro-lineup-building-more-foldables/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
- - 😝 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
- - 💣 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
+ - 😝 [You ABSOLUTELY cannot fix her](http://9gag.com/gag/aRBn97M)
+ - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
+ - 💣 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)
  - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 👉 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)<!-- MEMES:END -->
+ - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
 
 ---
 

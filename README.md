@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
+ - 😝 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
+ - 😝 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
+ - 💣 [Superpower](http://9gag.com/gag/awywjXx)
  - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
- - 💣 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
- - 😝 [Best Pokemon](http://9gag.com/gag/amo3O0X)
- - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
+ - 👉 [Those poor unfortunate victims](http://9gag.com/gag/awywj8B)<!-- MEMES:END -->
 
 ---
 

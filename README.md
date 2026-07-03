@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 4, #1119](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-4-1119/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1841](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1841/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 4, #853](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-4-853/)
  - [Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/260703/p13#a260703p13)
- - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)
- - [Stop Making These 6 Common Rowing Machine Mistakes](https://www.cnet.com/health/fitness/rowing-machine-mistakes-how-to-fix/)
- - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)
- - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)<!-- TECH:END -->
+ - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)
- - 😝 [He would like both](http://9gag.com/gag/ajPpvA8)
- - 💣 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
- - 😝 [Lauren got no chill.](http://9gag.com/gag/aByp5nZ)
- - 👉 [Chemistry lesson](http://9gag.com/gag/a0eBG4Z)<!-- MEMES:END -->
+ - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
+ - 😝 [Anybody else bored of GTA posts?](http://9gag.com/gag/ayNGrrb)
+ - 💣 [Warden is f**king menace](http://9gag.com/gag/a7oQXvm)
+ - 😝 [The shire used to be peaceful. Then the gates were opened.](http://9gag.com/gag/aqy0wjQ)
+ - 👉 [Classic joe pesci move](http://9gag.com/gag/aRBnW5q)<!-- MEMES:END -->
 
 ---
 

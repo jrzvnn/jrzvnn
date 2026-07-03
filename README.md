@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)
- - [Leaker Jon Prosser denies Apple&#39;s charges, rolls co-defendant under the bus](https://appleinsider.com/articles/26/07/03/leaker-jon-prosser-denies-apples-charges-and-blames-everything-on-his-co-defendant?utm_source=rss)
- - [Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM](https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update)
- - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
- - [AirPods with cameras show up in iOS 27 beta code](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code?utm_source=rss)<!-- TECH:END -->
+ - [Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/260703/p13#a260703p13)
+ - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)
+ - [Stop Making These 6 Common Rowing Machine Mistakes](https://www.cnet.com/health/fitness/rowing-machine-mistakes-how-to-fix/)
+ - [Meta getting into the cloud business has been inevitable for a long time, as it seeks to diversify beyond ad revenue and monetize its AI buildout &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260703/p12#a260703p12)
+ - [3 Nuclear Startups Hit a Big Milestone. Why It Matters—and Why It Doesn’t](https://www.wired.com/story/nuclear-startups-hit-milestone-why-it-matters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

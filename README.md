@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
  - 😝 [Anybody else bored of GTA posts?](http://9gag.com/gag/ayNGrrb)
- - 💣 [Warden is f**king menace](http://9gag.com/gag/a7oQXvm)
- - 😝 [The shire used to be peaceful. Then the gates were opened.](http://9gag.com/gag/aqy0wjQ)
- - 👉 [Classic joe pesci move](http://9gag.com/gag/aRBnW5q)<!-- MEMES:END -->
+ - 😝 [Classic joe pesci move](http://9gag.com/gag/aRBnW5q)
+ - 💣 [The shire used to be peaceful. Then the gates were opened.](http://9gag.com/gag/aqy0wjQ)
+ - 😝 [Warden is f**king menace](http://9gag.com/gag/a7oQXvm)
+ - 👉 [The default response to shit tests](http://9gag.com/gag/a0eBgmq)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Sriram Krishnan, who says &quot;there will not be an FDA for AI&quot; under Trump, blames the AI backlash on the industry&#39;s &quot;doomer&quot; messaging, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p10#a260703p10)
- - [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
- - [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen)
- - [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions)
- - [iPhone 18 Pro leaks, AirDrop security concerns, and increased iPhone Fold orders, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/03/iphone-18-pro-leaks-airdrop-security-concerns-and-increased-iphone-fold-orders-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Google DeepMind Unionization Talks Are Off to a Rocky Start](https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/)
+ - [AirPods with cameras show up in iOS 27 beta code](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-show-up-in-ios-27-beta-code?utm_source=rss)
+ - [Instagram has been running ads promoting child sexual abuse material in India, with terms like &quot;rape video&quot; and &quot;child video&quot; and linking to Telegram channels &lpar;Divya Arya/BBC&rpar;](https://www.techmeme.com/260703/p11#a260703p11)
+ - [A Private Eye With a Supernatural Secret? This Sci-Fi Noir Series Is an Absolute Must-See](https://www.cnet.com/tech/services-and-software/collin-farrell-sugar-sci-fi-noir-apple-tv/)
+ - [Best 4th of July Apple deals: $89 AirTags, iPads up to $400 off, Macs up to $650 off](https://appleinsider.com/articles/26/07/02/best-4th-of-july-apple-deals-89-airtags-ipads-up-to-400-off-macs-up-to-650-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

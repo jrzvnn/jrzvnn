@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
+ - [Macy&#39;s 4th of July Fireworks Special 2026: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 4, #1119](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-4-1119/)
  - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1841](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1841/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 4, #853](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-4-853/)
- - [Meta could use its compute for its own models, ad scaling, SpaceX-like neocloud deals, and hosting 3rd-party models; it may be close to an Anthropic deal &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](https://www.techmeme.com/260703/p13#a260703p13)
- - [Three changes Apple could do to make iPhone Air 2 a hit](https://appleinsider.com/articles/26/07/03/three-changes-apple-could-do-to-make-iphone-air-2-a-hit?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 4, #853](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-4-853/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

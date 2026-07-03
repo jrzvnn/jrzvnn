@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life hack 101](http://9gag.com/gag/aD2yr9x)
- - 😝 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)
- - 💣 [Crying in four hours of sleep](http://9gag.com/gag/azxnoob)
- - 😝 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
- - 👉 [Germany out too.](http://9gag.com/gag/aVvA812)<!-- MEMES:END -->
+ - 😝 [Twin flags be like:](http://9gag.com/gag/a7oQmdm)
+ - 😝 [Its always them.](http://9gag.com/gag/aVvA9j2)
+ - 💣 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)
+ - 😝 [Best Pokemon](http://9gag.com/gag/amo3O0X)
+ - 👉 [He was neutral until he met one lmfao](http://9gag.com/gag/apROznn)<!-- MEMES:END -->
 
 ---
 

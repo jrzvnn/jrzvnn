@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
- - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
- - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)
- - [How Jeff Bezos&#39; changing relationship with President Trump has impacted his companies, including increased federal contract awards during Trump&#39;s second term &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260703/p8#a260703p8)
- - [SpaceX, Explained: 8 Things That Matter the Most After the IPO](https://www.cnet.com/tech/spacex-explained-8-things-that-matter-the-most-after-the-ipo/)<!-- TECH:END -->
+ - [An interview with Sriram Krishnan, who says &quot;there will not be an FDA for AI&quot; under Trump, blames the AI backlash on the industry&#39;s &quot;doomer&quot; messaging, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p10#a260703p10)
+ - [While you’re watching the World Cup, the feds may be watching you](https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras)
+ - [This slim camera has a transparent LCD screen for a viewfinder](https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen)
+ - [I finally got my Trump phone](https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions)
+ - [iPhone 18 Pro leaks, AirDrop security concerns, and increased iPhone Fold orders, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/03/iphone-18-pro-leaks-airdrop-security-concerns-and-increased-iphone-fold-orders-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

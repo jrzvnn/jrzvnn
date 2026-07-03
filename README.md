@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alexandr Wang said Meta&#39;s model currently in training, codenamed Watermelon, matches GPT-5.5 and uses an &quot;order of magnitude more compute than Avocado&quot; &lpar;Business Insider&rpar;](https://www.techmeme.com/260702/p40#a260702p40)
- - [Sources: Anthropic&#39;s bankers have hired UK law firm Freshfields to advise on its IPO; it also advised on Google&#39;s acquisition of Wiz and ServiceNow&#39;s Armis deal &lpar;The Information&rpar;](https://www.techmeme.com/260702/p39#a260702p39)
- - [Sony’s PlayStation disc factory is already being repurposed](https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead)
- - [Darren Aronofsky&#39;s &#39;1776&#39; AI Video Series Is Unhinged, and I Can&#39;t Look Away](https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/)
- - [Anker Solix E10 review: Whole home battery backups finally come within reach](https://appleinsider.com/articles/26/07/03/anker-solix-e10-review-whole-home-battery-backups-finally-come-within-reach?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Anthropic moves to close loopholes that let Chinese firms like Ant use its models via workarounds including cloud providers and overseas subsidiaries &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p2#a260703p2)
+ - [EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones](https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/)
+ - [SwitchBot Debuts Advanced Camera With AI Event Alerts, Wildlife Recognition](https://www.cnet.com/home/security/switchbot-debuts-advanced-camera-with-ai-event-alerts-wildlife-recognition/)
+ - [Blackstone&#39;s QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, following years of local opposition and legal challenges &lpar;Dawn Lim/Bloomberg&rpar;](https://www.techmeme.com/260703/p1#a260703p1)
+ - [Apple says public YouTube videos can be used in AI lawsuit defense](https://appleinsider.com/articles/26/07/03/apple-says-public-youtube-videos-can-be-used-in-ai-lawsuit-defense?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

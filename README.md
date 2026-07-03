@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic moves to close loopholes that let Chinese firms like Ant use its models via workarounds including cloud providers and overseas subsidiaries &lpar;Financial Times&rpar;](https://www.techmeme.com/260703/p2#a260703p2)
- - [EU Politicians Investigated Pegasus Spyware. Then It Ended Up on One of Their Phones](https://www.wired.com/story/eu-politicians-investigated-pegasus-spyware-then-it-ended-up-on-one-of-their-phones/)
- - [SwitchBot Debuts Advanced Camera With AI Event Alerts, Wildlife Recognition](https://www.cnet.com/home/security/switchbot-debuts-advanced-camera-with-ai-event-alerts-wildlife-recognition/)
- - [Blackstone&#39;s QTS abandons plans to build its portion of a 2,100-acre data center campus in Virginia, following years of local opposition and legal challenges &lpar;Dawn Lim/Bloomberg&rpar;](https://www.techmeme.com/260703/p1#a260703p1)
- - [Apple says public YouTube videos can be used in AI lawsuit defense](https://appleinsider.com/articles/26/07/03/apple-says-public-youtube-videos-can-be-used-in-ai-lawsuit-defense?utm_source=rss)<!-- TECH:END -->
+ - [Grab OWC Thunderbolt docks, cables, enclosures from just $19.99 with exclusive deals](https://appleinsider.com/articles/26/07/03/grab-owc-thunderbolt-docks-cables-enclosures-from-just-1999-with-exclusive-deals?utm_source=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 3, #1118](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-3-1118/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 3 #852](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-3-852/)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 3, #648](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-3-648/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 3, #1840](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-3-1840/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

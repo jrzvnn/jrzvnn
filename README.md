@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Bone Conduction Headphones &lpar;2026&rpar;: Shokz, Suunto, Mojawa](https://www.wired.com/gallery/best-bone-conduction-headphones/)
- - [AirPods with Cameras won&#39;t be coming any time soon after all](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-wont-be-coming-any-time-soon-after-all?utm_source=rss)
- - [T-Mobile Is Forcing Legacy Plan Customers Onto Its Current Plans](https://www.cnet.com/tech/mobile/t-mobile-is-forcing-legacy-plan-customers-onto-its-current-plans/)
- - [All Your Favorite Gadgets Are Getting Way More Expensive … Again](https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/)
- - [Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally &lpar;Reuters&rpar;](https://www.techmeme.com/260703/p7#a260703p7)<!-- TECH:END -->
+ - [Jon Prosser responds to Apple lawsuit by blaming the other guy](https://www.theverge.com/tech/961285/jon-prosser-apple-lawsuit-response-ios-leak)
+ - [The Verge’s annual summer ‘in’ and ‘out’ list](https://www.theverge.com/entertainment/960665/the-verge-2026-summer-in-out-list)
+ - [Siri AI is finally good, and Apple is going to win the AI wars](https://appleinsider.com/articles/26/07/03/siri-ai-is-finally-good-and-apple-is-going-to-with-the-ai-wars?utm_source=rss)
+ - [How Jeff Bezos&#39; changing relationship with President Trump has impacted his companies, including increased federal contract awards during Trump&#39;s second term &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260703/p8#a260703p8)
+ - [SpaceX, Explained: 8 Things That Matter the Most After the IPO](https://www.cnet.com/tech/spacex-explained-8-things-that-matter-the-most-after-the-ipo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

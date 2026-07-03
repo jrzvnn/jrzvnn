@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab OWC Thunderbolt docks, cables, enclosures from just $19.99 with exclusive deals](https://appleinsider.com/articles/26/07/03/grab-owc-thunderbolt-docks-cables-enclosures-from-just-1999-with-exclusive-deals?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 3, #1118](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-3-1118/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 3 #852](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-3-852/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 3, #648](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-3-648/)
- - [Today&#39;s Wordle Hints, Answer and Help for July 3, #1840](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-3-1840/)<!-- TECH:END -->
+ - [Best Bone Conduction Headphones &lpar;2026&rpar;: Shokz, Suunto, Mojawa](https://www.wired.com/gallery/best-bone-conduction-headphones/)
+ - [AirPods with Cameras won&#39;t be coming any time soon after all](https://appleinsider.com/articles/26/07/03/airpods-with-cameras-wont-be-coming-any-time-soon-after-all?utm_source=rss)
+ - [T-Mobile Is Forcing Legacy Plan Customers Onto Its Current Plans](https://www.cnet.com/tech/mobile/t-mobile-is-forcing-legacy-plan-customers-onto-its-current-plans/)
+ - [All Your Favorite Gadgets Are Getting Way More Expensive … Again](https://www.wired.com/story/we-are-in-the-knockout-round-of-price-increases-for-consumer-electronics/)
+ - [Filing: GoDaddy challenges a New Delhi court ruling requiring domain sellers to stop offering privacy by default, saying it could expose website owners globally &lpar;Reuters&rpar;](https://www.techmeme.com/260703/p7#a260703p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

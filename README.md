@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
- - 😝 [Support Bacteria](http://9gag.com/gag/a7oQBbA)
- - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
- - 😝 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
+ - 😝 [He would like both](http://9gag.com/gag/ajPpvA8)
+ - 💣 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)
+ - 😝 [The default response to shit tests](http://9gag.com/gag/a0eBgmq)
  - 👉 [Delivery driver defends himself against dog owner](http://9gag.com/gag/a4Pv89Q)<!-- MEMES:END -->
 
 ---

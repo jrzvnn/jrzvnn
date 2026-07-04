@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia&#39;s enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms &lpar;Marcel Thee/Nikkei Asia&rpar;](https://www.techmeme.com/260704/p11#a260704p11)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #1120](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-1120/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 5 #854](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-854/)
  - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1842](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1842/)
- - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
- - [How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260704/p10#a260704p10)<!-- TECH:END -->
+ - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

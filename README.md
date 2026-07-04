@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
- - [A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs &lpar;Robert P Baird/The Guardian&rpar;](https://www.techmeme.com/260704/p5#a260704p5)
- - [Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 &lpar;Mari Kiyohara/Bloomberg&rpar;](https://www.techmeme.com/260704/p4#a260704p4)
- - [Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A &lpar;Duc Dao/TNGlobal&rpar;](https://www.techmeme.com/260704/p3#a260704p3)
- - [Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260704/p2#a260704p2)<!-- TECH:END -->
+ - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
+ - [Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/)
+ - [Netflix&#39;s New True Crime Series Is the Latest Twisted Horror Show I Can&#39;t Stop Watching](https://www.cnet.com/tech/services-and-software/netflix-worst-neighbor-ever-true-crime-horror-blumhouse/)
+ - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)
+ - [I Got a First Look at Sony’s Cooling Neck Device, Just in Time for the Heat Wave](https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

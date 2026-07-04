@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
- - 😝 [I wonder why](http://9gag.com/gag/a1m9gNR)
- - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
  - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
+ - 💣 [Cool optical illusion](http://9gag.com/gag/an76wz5)
+ - 😝 [He would like both](http://9gag.com/gag/ajPpvA8)
+ - 👉 [I also had the seks nine months ago](http://9gag.com/gag/amo3wVV)<!-- MEMES:END -->
 
 ---
 

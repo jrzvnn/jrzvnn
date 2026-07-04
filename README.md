@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No need for one.](http://9gag.com/gag/aRBndOA)
- - 😝 [Oh say can you see.......\u266b\u266b\u266b\u266b\u266b\u266b\u266b\u266b](http://9gag.com/gag/aByp5NQ)
- - 💣 [Them again](http://9gag.com/gag/aVvA5Ky)
- - 😝 [True hero gets the crown he deserves](http://9gag.com/gag/ayNGr1W)
- - 👉 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)<!-- MEMES:END -->
+ - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
+ - 😝 [I wonder why](http://9gag.com/gag/a1m9gNR)
+ - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
+ - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 👉 [A local dude caught a doctor trying to corner a little girl and he didn&#39;t hesitate for a single second.](http://9gag.com/gag/a2veVbO)<!-- MEMES:END -->
 
 ---
 

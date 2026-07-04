@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
  - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
  - [Macy&#39;s 4th of July Fireworks Special 2026: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 4, #1119](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-4-1119/)
- - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1841](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1841/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 4, #853](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-4-853/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1841](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1841/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

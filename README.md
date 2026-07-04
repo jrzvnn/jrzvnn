@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the troubled rollout of the EU&#39;s automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays &lpar;Financial Times&rpar;](https://www.techmeme.com/260704/p9#a260704p9)
+ - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)
+ - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
  - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
- - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)
- - [Plex&#39;s $249.99 five-year pass arrives after $749.99 Lifetime Pass price hike](https://appleinsider.com/articles/26/07/04/plexs-24999-five-year-pass-arrives-after-74999-lifetime-pass-price-hike?utm_source=rss)
- - [How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting &lpar;Nilesh Christopher/Los Angeles Times&rpar;](https://www.techmeme.com/260704/p8#a260704p8)
- - [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview)<!-- TECH:END -->
+ - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

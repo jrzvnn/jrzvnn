@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
- - 😝 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
- - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
- - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
+ - 😝 [Hold your heads up high cape verde team. You did your country proud.](http://9gag.com/gag/amo3wDy)
+ - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 💣 [Haaland is hilarious](http://9gag.com/gag/ayNGKE8)
+ - 😝 [Cool optical illusion](http://9gag.com/gag/an76wz5)
+ - 👉 [Lauren got no chill.](http://9gag.com/gag/aByp5nZ)<!-- MEMES:END -->
 
 ---
 

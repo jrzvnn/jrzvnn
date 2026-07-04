@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Chatbot Pricing Breakdown: Is Premium AI Worth the Cost?](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)
  - [Indonesia&#39;s enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms &lpar;Marcel Thee/Nikkei Asia&rpar;](https://www.techmeme.com/260704/p11#a260704p11)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #1120](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-1120/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 5 #854](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-854/)
- - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1842](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1842/)
- - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1842](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1842/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/ajPpv3x)
- - 😝 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)
- - 💣 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
+ - 😝 [I wonder why](http://9gag.com/gag/a1m9gNR)
+ - 😝 [Go sports](http://9gag.com/gag/axy5KDb)
+ - 💣 [Wait for it](http://9gag.com/gag/a1m9jjP)
  - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
+ - 👉 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)<!-- MEMES:END -->
 
 ---
 

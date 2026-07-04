@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Californyssey trailer](http://9gag.com/gag/axy5KYp)
+ - 😝 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
+ - 💣 [He would like both](http://9gag.com/gag/ajPpvA8)
  - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 😝 [Go sports](http://9gag.com/gag/axy5KDb)
- - 💣 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)
- - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 👉 [I wonder why](http://9gag.com/gag/a1m9gNR)<!-- MEMES:END -->
+ - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)
- - [A look at the quant fund frenzy in China, as assets under management have more than doubled to ~$384B in less than a year amid rapid AI adoption &lpar;Bloomberg&rpar;](https://www.techmeme.com/260703/p14#a260703p14)
- - [Macy&#39;s 4th of July Fireworks Special 2026: How to Watch From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 4, #1119](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-4-1119/)
- - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1841](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1841/)<!-- TECH:END -->
+ - [Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 &lpar;Mari Kiyohara/Bloomberg&rpar;](https://www.techmeme.com/260704/p4#a260704p4)
+ - [Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A &lpar;Duc Dao/TNGlobal&rpar;](https://www.techmeme.com/260704/p3#a260704p3)
+ - [Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260704/p2#a260704p2)
+ - [Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M &lpar;Madison McLauchlan/BetaKit&rpar;](https://www.techmeme.com/260704/p1#a260704p1)
+ - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

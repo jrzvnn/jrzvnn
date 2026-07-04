@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qi fan fan](https://www.theverge.com/tech/961332/qi-active-cooling-really-works)
+ - [A profile of Google DeepMind philosopher Iason Gabriel, whose work has tracked, and in many cases predicted, the ethical challenges posed by the success of LLMs &lpar;Robert P Baird/The Guardian&rpar;](https://www.techmeme.com/260704/p5#a260704p5)
  - [Micron breaks ground on its ~$9.3B Hiroshima factory expansion, part of its global ramp-up to meet AI demand, and plans to start HBM shipments from summer 2028 &lpar;Mari Kiyohara/Bloomberg&rpar;](https://www.techmeme.com/260704/p4#a260704p4)
  - [Singapore-based dConstruct Robotics, which develops spatial tech to let autonomous robots operate in complex, GPS-denied environments, raised a $125M Series A &lpar;Duc Dao/TNGlobal&rpar;](https://www.techmeme.com/260704/p3#a260704p3)
- - [Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260704/p2#a260704p2)
- - [Montreal-based Stathera, a maker of MEMS-based silicon timing components for chips, raised a $55M Series B led by Maverick Silicon, taking total funding to $75M &lpar;Madison McLauchlan/BetaKit&rpar;](https://www.techmeme.com/260704/p1#a260704p1)
- - [Midjourney wants Disney, Universal, and Warner Bros. to reveal in court how they use AI across their companies; studios sued Midjourney in 2025 for infringement &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260703/p15#a260703p15)<!-- TECH:END -->
+ - [Prague-based EquiLibre, which offers AI for quant hedge funds and is founded by three ex-Google DeepMind researchers, raised a Series A at a $500M valuation &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260704/p2#a260704p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

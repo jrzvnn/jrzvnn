@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)
- - [Security Roundup: Apple’s Hide My Email Service Fails to Hide Your Email](https://www.wired.com/story/security-roundup-apples-hide-my-email-service-fails-to-hide-your-email/)
- - [Netflix&#39;s New True Crime Series Is the Latest Twisted Horror Show I Can&#39;t Stop Watching](https://www.cnet.com/tech/services-and-software/netflix-worst-neighbor-ever-true-crime-horror-blumhouse/)
- - [Food Preservatives May Increase the Risk of High Blood Pressure and Cardiovascular Disease](https://www.wired.com/story/food-preservatives-may-increase-the-risk-of-high-blood-pressure-and-cardiovascular-disease/)
- - [I Got a First Look at Sony’s Cooling Neck Device, Just in Time for the Heat Wave](https://www.cnet.com/health/personal-care/i-got-first-look-sony-cooling-neck-device-in-time-heat-wave/)<!-- TECH:END -->
+ - [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
+ - [15 Best MagSafe Wireless Chargers &lpar;2026&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+ - [Minisforum AtomMan G1 Pro Desktop Review: The Wobbly Line Between Desktop and True Mini PC](https://www.cnet.com/tech/computing/minisforum-atomman-g1-pro-desktop-review/)
+ - [Where NASA Posts Its Best Space Photos, and How to Find Them](https://www.wired.com/story/where-nasa-posts-its-best-space-photos/)
+ - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

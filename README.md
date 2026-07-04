@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
+ - [How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260704/p10#a260704p10)
  - [The 50th Macy&#39;s 4th of July Fireworks Show Blasts Off Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
  - [A look at the troubled rollout of the EU&#39;s automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays &lpar;Financial Times&rpar;](https://www.techmeme.com/260704/p9#a260704p9)
- - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)
- - [White House deletes thousands of web pages about energy conservation as heatwave slams US](https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion)
- - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)<!-- TECH:END -->
+ - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

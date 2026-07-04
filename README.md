@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fanfiction community is at war with AI — and itself](https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector)
- - [15 Best MagSafe Wireless Chargers &lpar;2026&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
- - [Minisforum AtomMan G1 Pro Desktop Review: The Wobbly Line Between Desktop and True Mini PC](https://www.cnet.com/tech/computing/minisforum-atomman-g1-pro-desktop-review/)
- - [Where NASA Posts Its Best Space Photos, and How to Find Them](https://www.wired.com/story/where-nasa-posts-its-best-space-photos/)
- - [This Buried Apple Feature Turns an iPhone Into the Perfect Kids’ Dumb Phone](https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/)<!-- TECH:END -->
+ - [5 Mistakes People Make When Buying a Pressure Washer](https://www.cnet.com/news/5-mistakes-to-avoid-when-buying-pressure-washer/)
+ - [The square-ish phone that I wanted to love](https://www.theverge.com/tech/960509/ikko-mindone-pro-hands-on)
+ - [Official data shows Hong Kong accounted for 50%+ of China&#39;s $239B in chip imports in the first five months of 2026, a record share, up from ~33% a decade ago &lpar;Bloomberg&rpar;](https://www.techmeme.com/260704/p6#a260704p6)
+ - [Can Wearing the Hypershell Exoskeleton on a Bike Replace an E-Bike? I Tested Both](https://www.cnet.com/roadshow/news/can-wearing-hypershell-exoskeleton-bike-replace-e-bike-i-tested-both/)
+ - [Need a New iPhone or Android Phone? Read My Tips Before You Shop](https://www.cnet.com/tech/mobile/shopping-for-a-new-iphone-or-android-phone-read-this-before-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

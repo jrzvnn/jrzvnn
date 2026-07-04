@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haaland is hilarious](http://9gag.com/gag/ayNGKE8)
- - 😝 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
- - 💣 [Mission Successful Soldier..](http://9gag.com/gag/aBypeOD)
- - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 👉 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)<!-- MEMES:END -->
+ - 😝 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)
+ - 😝 [Would](http://9gag.com/gag/ajPpv3x)
+ - 💣 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
+ - 😝 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
+ - 👉 [Californyssey trailer](http://9gag.com/gag/axy5KYp)<!-- MEMES:END -->
 
 ---
 

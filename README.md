@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #1120](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-1120/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5 #854](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-854/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1842](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1842/)
  - [NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth](https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies)
- - [How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260704/p10#a260704p10)
- - [The 50th Macy&#39;s 4th of July Fireworks Show Blasts Off Tonight. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/how-to-watch-macys-4th-of-july-fireworks-special/)
- - [A look at the troubled rollout of the EU&#39;s automated biometric entry/exit border system, as airport operators warn of severe delays ahead of the summer holidays &lpar;Financial Times&rpar;](https://www.techmeme.com/260704/p9#a260704p9)
- - [I Love This Floating Anker Speaker, and It’s on Sale for Less Than $100 This Fourth of July](https://www.cnet.com/deals/anker-soundcore-boom-3i-deal/)<!-- TECH:END -->
+ - [How some high-income families use AI-powered private schools and tutors, such as Alpha School, to teach their children life skills and tailor their curriculum &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260704/p10#a260704p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

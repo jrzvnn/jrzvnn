@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview)
- - [Google&#39;s Learn About AI Experiment Feels Like a Slimmed-Down NotebookLM](https://www.cnet.com/tech/services-and-software/googles-learn-about-ai-experiment-feels-like-a-slimmed-down-notebooklm/)
- - [Hey number pad lovers, this is a keyboard we can finally agree on](https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review)
- - [Q&amp;A with Doug Brooks, senior product manager of Apple silicon, about Mac minis becoming preferred AI agent machines, future of on-device AI, and more &lpar;Jason Hiner/The Deep View&rpar;](https://www.techmeme.com/260704/p7#a260704p7)
- - [5 Mistakes People Make When Buying a Pressure Washer](https://www.cnet.com/news/5-mistakes-to-avoid-when-buying-pressure-washer/)<!-- TECH:END -->
+ - [Submit Your Questions: Inside The World of Online Romance Scams](https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/)
+ - [Matic’s robot vacuum is getting a $250 price hike in September](https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy)
+ - [Plex&#39;s $249.99 five-year pass arrives after $749.99 Lifetime Pass price hike](https://appleinsider.com/articles/26/07/04/plexs-24999-five-year-pass-arrives-after-74999-lifetime-pass-price-hike?utm_source=rss)
+ - [How ByteDance is making Hollywood inroads with its Seedance video generator, thanks to low pricing, striking realism, and features like timeline-based prompting &lpar;Nilesh Christopher/Los Angeles Times&rpar;](https://www.techmeme.com/260704/p8#a260704p8)
+ - [Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard](https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

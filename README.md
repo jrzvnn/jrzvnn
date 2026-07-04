@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why](http://9gag.com/gag/a1m9gNR)
- - 😝 [Go sports](http://9gag.com/gag/axy5KDb)
- - 💣 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 👉 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)<!-- MEMES:END -->
+ - 😝 [Haaland is hilarious](http://9gag.com/gag/ayNGKE8)
+ - 😝 [Back Pain? Do this now.](http://9gag.com/gag/axy5Kz2)
+ - 💣 [Mission Successful Soldier..](http://9gag.com/gag/aBypeOD)
+ - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
+ - 👉 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)<!-- MEMES:END -->
 
 ---
 

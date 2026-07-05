@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)
- - 😝 [Would](http://9gag.com/gag/ajPpv3x)
- - 💣 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 😝 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
- - 👉 [Californyssey trailer](http://9gag.com/gag/axy5KYp)<!-- MEMES:END -->
+ - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
+ - 😝 [90&#39;s themed party](http://9gag.com/gag/ae9L8Gq)
+ - 💣 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
+ - 😝 [Dear God that looks like a surgical suite](http://9gag.com/gag/a34mO27)
+ - 👉 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)<!-- MEMES:END -->
 
 ---
 

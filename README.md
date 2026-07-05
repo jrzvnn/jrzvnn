@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy](https://www.wired.com/review/eight-sleep-pod-5/)
- - [What Are Fish Oil Supplements Good For? Here’s Your Crash Course](https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/)
- - [There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map](https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/)
- - [How to Avoid Spoilers Online and in Chats](https://www.wired.com/story/how-to-avoid-spoilers-online/)
- - [A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260705/p5#a260705p5)<!-- TECH:END -->
+ - [Who Needs a Steam Machine? I Converted My PC for Free and It Was Simple](https://www.cnet.com/tech/gaming/who-needs-a-steam-machine-when-you-can-just-install-steamos-on-your-computer/)
+ - [Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town](https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/)
+ - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 40+](https://www.wired.com/gallery/best-wifi-routers/)
+ - [Review: TCL RM9L RGB-Mini LED &lpar;2026&rpar;](https://www.wired.com/review/tcl-rm9l/)
+ - [Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy](https://www.wired.com/review/eight-sleep-pod-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

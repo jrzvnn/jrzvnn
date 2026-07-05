@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
+ - 💣 [Wait for it](http://9gag.com/gag/a1m9jjP)
  - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
- - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 💣 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 👉 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)<!-- MEMES:END -->
+ - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
 
 ---
 

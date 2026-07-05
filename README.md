@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
- - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 💣 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
- - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
+ - 😝 [I thought maybe someone out there needed this](http://9gag.com/gag/a2ve601)
+ - 😝 [How the off button on a fan works](http://9gag.com/gag/aPA5bOB)
+ - 💣 [I also had the seks nine months ago](http://9gag.com/gag/amo3wVV)
+ - 😝 [You ready?](http://9gag.com/gag/aAyj9o2)
+ - 👉 [That smile from Rafael Nadal when he realized the ball kid was a true fan](http://9gag.com/gag/aPA5bVG)<!-- MEMES:END -->
 
 ---
 

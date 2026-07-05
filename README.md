@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear God that looks like a surgical suite](http://9gag.com/gag/a34mO27)
- - 😝 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
- - 💣 [90&#39;s themed party](http://9gag.com/gag/ae9L8Gq)
- - 😝 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)
- - 👉 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)<!-- MEMES:END -->
+ - 😝 [The reason why Skynet decided to destroy humanity.](http://9gag.com/gag/aE034xp)
+ - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
+ - 💣 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
+ - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
+ - 👉 [Wait for it](http://9gag.com/gag/a1m9jjP)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs &lpar;Josh Zoffer/Financial Times&rpar;](https://www.techmeme.com/260705/p8#a260705p8)
- - [Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring](https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review)
- - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
- - [Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024 &lpar;Patricia Kowsmann/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p7#a260705p7)
- - [Folding iPhone may launch in September, good luck getting it before 2027](https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027?utm_source=rss)<!-- TECH:END -->
+ - [Sunday Reboot: Stats, iPhones, and AI devices are still a threat](https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 6, #1843](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-6-1843/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #1121](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-1121/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #855](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-855/)
+ - [Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs &lpar;Josh Zoffer/Financial Times&rpar;](https://www.techmeme.com/260705/p8#a260705p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

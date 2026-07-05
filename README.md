@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actually? Should have just stayed home.](http://9gag.com/gag/aD2y5Bd)
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 💣 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
- - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 👉 [Imagine](http://9gag.com/gag/aPA52KQ)<!-- MEMES:END -->
+ - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
+ - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 💣 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
+ - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
+ - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
 
 ---
 

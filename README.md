@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
+ - 😝 [Tomorrow begins the great annual migration from the Netherlands, a canonical European event. Happy holidays to all the Dutch !](http://9gag.com/gag/a7oQRXe)
+ - 💣 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
  - 😝 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
- - 💣 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 👉 [No Ticket needed???](http://9gag.com/gag/axy5r9p)<!-- MEMES:END -->
+ - 👉 [Imagine](http://9gag.com/gag/aPA52KQ)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 💣 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
+ - 😝 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
  - 😝 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
- - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
+ - 💣 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
+ - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
+ - 👉 [No Ticket needed???](http://9gag.com/gag/axy5r9p)<!-- MEMES:END -->
 
 ---
 

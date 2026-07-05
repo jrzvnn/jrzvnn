@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance&#39;s Doubao and Alibaba&#39;s Qwen will disable humanlike and user-created agents before July 15, as China&#39;s anthropomorphic AI interaction rules take effect &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260705/p9#a260705p9)
  - [Sunday Reboot: Stats, iPhones, and AI devices are still a threat](https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss)
  - [Today&#39;s Wordle Hints, Answer and Help for July 6, #1843](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-6-1843/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #1121](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-1121/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #855](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-855/)
- - [Data centers offer US a chance to get ahead in the next key technologies and to build domestic supply chains based on demand rather than subsidies and tariffs &lpar;Josh Zoffer/Financial Times&rpar;](https://www.techmeme.com/260705/p8#a260705p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #855](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-855/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

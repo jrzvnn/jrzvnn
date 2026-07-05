@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)
+ - [Tesla rolls out its Robotaxi service without a safety monitor in Miami, its fifth city, as it aims to expand to a dozen US states by the end of 2026 &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260705/p10#a260705p10)
  - [ByteDance&#39;s Doubao and Alibaba&#39;s Qwen will disable humanlike and user-created agents before July 15, as China&#39;s anthropomorphic AI interaction rules take effect &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260705/p9#a260705p9)
  - [Sunday Reboot: Stats, iPhones, and AI devices are still a threat](https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for July 6, #1843](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-6-1843/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 6, #1121](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-6-1121/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 6, #855](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-6-855/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 6, #1843](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-6-1843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

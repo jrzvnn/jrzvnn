@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
- - 😝 [I can&#39;t keep up with the indians wtf moments anymore](http://9gag.com/gag/aXPBOg6)
- - 💣 [Wait for it](http://9gag.com/gag/a1m9jjP)
- - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
+ - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
+ - 😝 [Wait for it](http://9gag.com/gag/a1m9jjP)
+ - 💣 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
+ - 😝 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
  - 👉 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)<!-- MEMES:END -->
 
 ---

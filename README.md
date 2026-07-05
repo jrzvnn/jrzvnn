@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260705/p5#a260705p5)
- - [Bending Spoons&#39; Nasdaq IPO caps its 50+ deals across 10+ years that transformed the Italian startup into a highly leveraged internet company with ~$4.4B in debt &lpar;Financial Times&rpar;](https://www.techmeme.com/260705/p4#a260705p4)
- - [NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures &lpar;Sofia Chesnokova/Tech Funding News&rpar;](https://www.techmeme.com/260705/p3#a260705p3)
- - [Sources: Uber halts plans to launch food delivery in five of the seven European countries it had targeted for expansion as it pursues a Delivery Hero takeover &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260705/p2#a260705p2)
- - [India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days &lpar;Sejal Sharma/Hindustan Times&rpar;](https://www.techmeme.com/260705/p1#a260705p1)<!-- TECH:END -->
+ - [Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy](https://www.wired.com/review/eight-sleep-pod-5/)
+ - [What Are Fish Oil Supplements Good For? Here’s Your Crash Course](https://www.wired.com/story/what-are-fish-oil-supplements-good-for-heres-your-crash-course/)
+ - [There’s a Global Network of Fungi Under Your Feet. This Is the First Complete Map](https://www.wired.com/story/theres-a-global-network-of-fungi-under-your-feet-this-is-the-first-complete-map/)
+ - [How to Avoid Spoilers Online and in Chats](https://www.wired.com/story/how-to-avoid-spoilers-online/)
+ - [A profile of Kaley Glenn-Mills, the plaintiff in K.G.M. v. Meta et al., who was awarded $6M in damages in a landmark LA jury trial over social media addiction &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260705/p5#a260705p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

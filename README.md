@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
- - [NotebookLM Alternatives: Which Similar AI Tools Are Worth Your Time?](https://www.cnet.com/tech/services-and-software/notebooklm-alternatives-what-similar-ai-tools-are-worth-your-time/)
- - [How I Cleaned Up the Thousands of Photos and Videos I Had Scattered Across the Internet](https://www.cnet.com/tech/computing/how-to-organize-your-photos-and-videos/)
- - [I&#39;ve Tested Hundreds of Phones in 15 Years. These Are the Weirdest I&#39;ve Seen](https://www.cnet.com/tech/mobile/the-weirdest-phones-ive-tested-in-14-years/)
- - [New Dental Robot Attaches to Patient&#39;s Teeth for Drilling](https://www.cnet.com/tech/computing/new-dental-robot-attaches-to-patients-teeth-for-drilling/)<!-- TECH:END -->
+ - [Folding iPhone may launch in September, good luck getting it before 2027](https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027?utm_source=rss)
+ - [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
+ - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
+ - [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history)
+ - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source calls UK- and OpenAI-touted plans in 2025 for Stargate&#39;s ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260704/p12#a260704p12)
- - [AI Chatbot Pricing Breakdown: Is Premium AI Worth the Cost?](https://www.cnet.com/tech/services-and-software/upgrading-your-ai-chatbot-heres-how-much-itll-cost-you/)
- - [Indonesia&#39;s enforcement of social media restrictions for under-16s has been patchy, with tech companies ignoring the rules and youth still accessing platforms &lpar;Marcel Thee/Nikkei Asia&rpar;](https://www.techmeme.com/260704/p11#a260704p11)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #1120](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-1120/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 5 #854](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-854/)<!-- TECH:END -->
+ - [NY-based LinqAlpha, which provides AI-powered market research tools for hedge funds, raised a $22M Series A co-led by AVP, Atinum Investment, and GFT Ventures &lpar;Sofia Chesnokova/Tech Funding News&rpar;](https://www.techmeme.com/260705/p3#a260705p3)
+ - [Sources: Uber halts plans to launch food delivery in five of the seven European countries it had targeted for expansion as it pursues a Delivery Hero takeover &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260705/p2#a260705p2)
+ - [India issues a notice to Telegram, asking it to curb the spread of pirated films and other copyrighted content, and seeks an action-taken report within 15 days &lpar;Sejal Sharma/Hindustan Times&rpar;](https://www.techmeme.com/260705/p1#a260705p1)
+ - [AWS says Mechanical Turk will no longer accept new customers and that it is placing the crowdsourcing service in maintenance, signaling its future retirement &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/260704/p13#a260704p13)
+ - [Source calls UK- and OpenAI-touted plans in 2025 for Stargate&#39;s ~£20B Cobalt site a PR stunt; OpenAI and Nscale failed to visit Cobalt or lodge planning forms &lpar;Aisha Down/The Guardian&rpar;](https://www.techmeme.com/260704/p12#a260704p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

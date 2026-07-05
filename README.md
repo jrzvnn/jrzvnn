@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know china&#39;s economy is bad when:](http://9gag.com/gag/a5Q4g3r)
+ - 😝 [Sneak peak of the new movie odysseus](http://9gag.com/gag/ae9LzLj)
  - 😝 [Would](http://9gag.com/gag/ajPpv3x)
  - 💣 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
  - 😝 [Ah yes, the top 1%](http://9gag.com/gag/aoyXw0m)
- - 👉 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)<!-- MEMES:END -->
+ - 👉 [Californyssey trailer](http://9gag.com/gag/axy5KYp)<!-- MEMES:END -->
 
 ---
 

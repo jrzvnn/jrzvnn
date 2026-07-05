@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 😝 [90&#39;s themed party](http://9gag.com/gag/ae9L8Gq)
- - 💣 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
  - 😝 [Dear God that looks like a surgical suite](http://9gag.com/gag/a34mO27)
- - 👉 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)<!-- MEMES:END -->
+ - 😝 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)
+ - 💣 [90&#39;s themed party](http://9gag.com/gag/ae9L8Gq)
+ - 😝 [Kid: \u201cwhere do babies come from?\u201d me: check this shit out](http://9gag.com/gag/aKGRMBg)
+ - 👉 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Needs a Steam Machine? I Converted My PC for Free and It Was Simple](https://www.cnet.com/tech/gaming/who-needs-a-steam-machine-when-you-can-just-install-steamos-on-your-computer/)
- - [Prediction Markets Let You Bet on Whether a Wildfire Will Burn Down Your Town](https://www.wired.com/story/prediction-markets-let-you-bet-wildfire/)
- - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 40+](https://www.wired.com/gallery/best-wifi-routers/)
- - [Review: TCL RM9L RGB-Mini LED &lpar;2026&rpar;](https://www.wired.com/review/tcl-rm9l/)
- - [Eight Sleep Pod 5 Review: The Smartest, Nosiest Bed You Can Buy](https://www.wired.com/review/eight-sleep-pod-5/)<!-- TECH:END -->
+ - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)
+ - [NotebookLM Alternatives: Which Similar AI Tools Are Worth Your Time?](https://www.cnet.com/tech/services-and-software/notebooklm-alternatives-what-similar-ai-tools-are-worth-your-time/)
+ - [How I Cleaned Up the Thousands of Photos and Videos I Had Scattered Across the Internet](https://www.cnet.com/tech/computing/how-to-organize-your-photos-and-videos/)
+ - [I&#39;ve Tested Hundreds of Phones in 15 Years. These Are the Weirdest I&#39;ve Seen](https://www.cnet.com/tech/mobile/the-weirdest-phones-ive-tested-in-14-years/)
+ - [New Dental Robot Attaches to Patient&#39;s Teeth for Drilling](https://www.cnet.com/tech/computing/new-dental-robot-attaches-to-patients-teeth-for-drilling/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

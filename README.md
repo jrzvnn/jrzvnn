@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder Grand Theft Auto VI](https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy)
+ - [Chainalysis: addresses linked to Iran, Russia, North Korea, and other US-sanctioned entities received $100B+ in crypto last year, almost 8x the amount in 2024 &lpar;Patricia Kowsmann/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p7#a260705p7)
  - [Folding iPhone may launch in September, good luck getting it before 2027](https://appleinsider.com/articles/26/07/05/folding-iphone-may-launch-in-september-good-luck-getting-it-before-2027?utm_source=rss)
  - [Infuriating Google commercial imagines the founding fathers embracing AI](https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence)
- - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)
- - [How Keurig saved — and ruined — your coffee](https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history)
- - [Vizio accidentally made the best dumb TV on the market](https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review)<!-- TECH:END -->
+ - [The Sourdough Sidekick automates the boring bit of baking](https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

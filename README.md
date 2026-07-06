@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Banana](http://9gag.com/gag/aLnx78A)
- - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 💣 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)
- - 😝 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
- - 👉 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
+ - 😝 [Happiness is about perspective](http://9gag.com/gag/a1m9yzv)
+ - 😝 [How to get people to take the stairs &lpar;1:47&rpar;](http://9gag.com/gag/aGyXXyG)
+ - 💣 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 😝 [Age was but a number for Momo](http://9gag.com/gag/a2veeWe)
+ - 👉 [My Ribs](http://9gag.com/gag/aqy004P)<!-- MEMES:END -->
 
 ---
 

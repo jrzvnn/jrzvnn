@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
  - 😝 [Haters will say it&#39;s A.I.](http://9gag.com/gag/aMVgMmM)
+ - 💣 [Row row row your boat](http://9gag.com/gag/ajPpzLq)
  - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
- - 😝 [`They&#39;re eating the dogs. The people that came in they&#39;re eating the cats. They&#39;re eating the pets of the people that live there.`](http://9gag.com/gag/aO8wLVr)
- - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 👉 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)<!-- MEMES:END -->
 
 ---
 

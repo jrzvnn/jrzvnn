@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Opus 4.8 and Sonnet 5 seem worse at tool calls than older models, likely due to post-training that assumes Claude Code-like harnesses as targets &lpar;Armin Ronacher/Armin Ronacher&#39;s Thoughts and Writings&rpar;](https://www.techmeme.com/260706/p4#a260706p4)
- - [SemiAnalysis: Nvidia delays its next-gen AI rack system Kyber NVL144 by 12+ months to 2028 due to PCB manufacturing issues, and cancels its NVL72x2 architecture &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/260706/p3#a260706p3)
- - [Shanghai-based AI chipmaker Biren raises ~$892.5M in a new share sale to boost GPU production; Biren&#39;s stock is up 150%+ since its January Hong Kong IPO &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260706/p2#a260706p2)
- - [Researchers document JadePuffer, the first known &quot;agentic ransomware&quot;, which adapts in real time and retries steps to execute an end-to-end extortion operation &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260706/p1#a260706p1)
- - [A US federal judge ordered the DOD to shield Alibaba from a law that led lobbyists to drop it as a client while she weighs the measure&#39;s constitutionality &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260705/p14#a260705p14)<!-- TECH:END -->
+ - [Anthropic signs a 20-year, $19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity, with the first power delivery in H2 2027 &lpar;CNBC&rpar;](https://www.techmeme.com/260706/p16#a260706p16)
+ - [AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260706/p15#a260706p15)
+ - [Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260706/p14#a260706p14)
+ - [How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question the strategy &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260706/p13#a260706p13)
+ - [Bentley Torcal EV: Price, Specs, Availability](https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

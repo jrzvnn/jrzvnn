@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)
- - [Some of the nation’s rich are letting AI teach their kids](https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep)
- - [Tesla rolls out its Robotaxi service without a safety monitor in Miami, its fifth city, as it aims to expand to a dozen US states by the end of 2026 &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260705/p10#a260705p10)
- - [ByteDance&#39;s Doubao and Alibaba&#39;s Qwen will disable humanlike and user-created agents before July 15, as China&#39;s anthropomorphic AI interaction rules take effect &lpar;Wency Chen/South China Morning Post&rpar;](https://www.techmeme.com/260705/p9#a260705p9)
- - [Sunday Reboot: Stats, iPhones, and AI devices are still a threat](https://appleinsider.com/articles/26/07/05/sunday-reboot-stats-iphones-and-ai-devices-are-still-a-threat?utm_source=rss)<!-- TECH:END -->
+ - [Researchers document JadePuffer, the first known &quot;agentic ransomware&quot;, which adapts in real time and retries steps to execute an end-to-end extortion operation &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260706/p1#a260706p1)
+ - [A US federal judge ordered the DOD to shield Alibaba from a law that led lobbyists to drop it as a client while she weighs the measure&#39;s constitutionality &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260705/p14#a260705p14)
+ - [How companies like Nvidia and Neura Robotics are building safety systems for humanoid robots to minimize risks like a bipedal robot losing stability &lpar;John Keilman/Wall Street Journal&rpar;](https://www.techmeme.com/260705/p13#a260705p13)
+ - [A look at Threads and Q&amp;A with its head Connor Hayes, as the platform passes 500M MAUs and increasingly resembles Reddit with its focus on community features &lpar;Eli Tan/New York Times&rpar;](https://www.techmeme.com/260705/p12#a260705p12)
+ - [Kuo: suppliers plan to ship less than 1M iPhone fold units in 3Q26, which may push the start of device pre-orders and sales to Q4, with weeks of delivery delays &lpar;Ming-Chi Kuo&rpar;](https://www.techmeme.com/260705/p11#a260705p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

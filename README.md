@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 😝 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
- - 💣 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
- - 😝 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
- - 👉 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)<!-- MEMES:END -->
+ - 😝 [Asking the wrong questions](http://9gag.com/gag/a34m6qm)
+ - 💣 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
+ - 😝 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
+ - 👉 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)<!-- MEMES:END -->
 
 ---
 

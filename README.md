@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
- - [Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill &lpar;Adam Harrington/CBS News&rpar;](https://www.techmeme.com/260706/p23#a260706p23)
- - [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale)
- - [The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks](https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/)
- - [Apple Watch Ultra 3 drops to $699 with $100 Amazon discount](https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss)<!-- TECH:END -->
+ - [Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft &lpar;Sam Smith/GamesBeat&rpar;](https://www.techmeme.com/260706/p28#a260706p28)
+ - [Apple rolls out the third iOS 27, macOS 27 developer betas](https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss)
+ - [Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year &lpar;Ben Fritz/Wall Street Journal&rpar;](https://www.techmeme.com/260706/p27#a260706p27)
+ - [Fourth developer betas of iOS 26.6, macOS 26.6 land for testing](https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss)
+ - [A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260706/p26#a260706p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

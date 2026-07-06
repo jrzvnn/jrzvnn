@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
  - 😝 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
- - 💣 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
- - 😝 [Safety is number one priority](http://9gag.com/gag/aBypB1D)
- - 👉 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)<!-- MEMES:END -->
+ - 💣 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
+ - 👉 [Safety is number one priority](http://9gag.com/gag/aBypB1D)<!-- MEMES:END -->
 
 ---
 

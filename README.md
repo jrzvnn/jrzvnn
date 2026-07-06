@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
- - 😝 [Little dude just bailed on everything](http://9gag.com/gag/a9yoG6W)
- - 💣 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
- - 😝 [Police in the UK attack the victim of a crime and then arrest him. Police asked the public to stop sharing the video](http://9gag.com/gag/agmWwRv)
- - 👉 [Safety is number one priority](http://9gag.com/gag/aBypB1D)<!-- MEMES:END -->
+ - 😝 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)
+ - 😝 [That\u2019s Lance! &lpar;Pulp Fiction&rpar;](http://9gag.com/gag/aRBnqnB)
+ - 💣 [No Ticket needed???](http://9gag.com/gag/axy5r9p)
+ - 😝 [Indian yeet kid 2026 meme](http://9gag.com/gag/aQzGWnW)
+ - 👉 [You&#39;ve gotta pump them up!](http://9gag.com/gag/aD2yvZd)<!-- MEMES:END -->
 
 ---
 

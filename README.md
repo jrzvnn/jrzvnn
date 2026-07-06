@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox appoints Helen Chiang as its first COO; Chiang was previously corporate vice president for the Minecraft Franchise and the studio head of Minecraft &lpar;Sam Smith/GamesBeat&rpar;](https://www.techmeme.com/260706/p28#a260706p28)
- - [Apple rolls out the third iOS 27, macOS 27 developer betas](https://appleinsider.com/articles/26/07/06/apple-rolls-out-the-third-ios-27-macos-27-developer-betas?utm_source=rss)
- - [Source: Xbox Game Pass currently has about 30M subscriptions; document: Microsoft had projected Game Pass subscriptions would reach around 77M this year &lpar;Ben Fritz/Wall Street Journal&rpar;](https://www.techmeme.com/260706/p27#a260706p27)
- - [Fourth developer betas of iOS 26.6, macOS 26.6 land for testing](https://appleinsider.com/articles/26/07/06/fourth-developer-betas-of-ios-266-macos-266-land-for-testing?utm_source=rss)
- - [A term sheet shows Tencent is seeking to raise as much as $1.55B in a selldown of part of its stake in short-video app operator Kuaishou through a block trade &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260706/p26#a260706p26)<!-- TECH:END -->
+ - [SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent &lpar;Andrew Chung/Reuters&rpar;](https://www.techmeme.com/260706/p30#a260706p30)
+ - [watchOS 27 beta 3 brings Siri AI to the Apple Watch](https://appleinsider.com/articles/26/07/06/watchos-27-beta-3-brings-siri-ai-to-the-apple-watch?utm_source=rss)
+ - [Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury&#39;s legal authority to manage it &lpar;Bloomberg&rpar;](https://www.techmeme.com/260706/p29#a260706p29)
+ - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
+ - [AI &#39;Actor&#39; Tilly Norwood Lands Big Break With Feature Film &#39;Misaligned&#39;](https://www.cnet.com/tech/services-and-software/ai-actor-tilly-norwood-gets-big-break-with-feature-film-misaligned/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

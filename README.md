@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to block a Texas law requiring app stores and developers to verify the age of mobile device users, and for minors to obtain parental consent &lpar;Andrew Chung/Reuters&rpar;](https://www.techmeme.com/260706/p30#a260706p30)
- - [watchOS 27 beta 3 brings Siri AI to the Apple Watch](https://appleinsider.com/articles/26/07/06/watchos-27-beta-3-brings-siri-ai-to-the-apple-watch?utm_source=rss)
- - [Sources: the US considers housing the Strategic Bitcoin Reserve at Commerce instead of Treasury amid concerns over Treasury&#39;s legal authority to manage it &lpar;Bloomberg&rpar;](https://www.techmeme.com/260706/p29#a260706p29)
- - [B&amp;H is blowing out M4 Pro MacBook Pro inventory at $1,799](https://appleinsider.com/articles/26/07/06/bh-is-blowing-out-m4-pro-macbook-pro-inventory-at-1799?utm_source=rss)
- - [AI &#39;Actor&#39; Tilly Norwood Lands Big Break With Feature Film &#39;Misaligned&#39;](https://www.cnet.com/tech/services-and-software/ai-actor-tilly-norwood-gets-big-break-with-feature-film-misaligned/)<!-- TECH:END -->
+ - [Apple Home AI features locked behind 2TB iCloud+ plan](https://appleinsider.com/articles/26/07/06/apple-home-ai-features-locked-behind-2tb-icloud-plan?utm_source=rss)
+ - [Apple is warning when your AI prompts go to Google&#39;s servers, just like with ChatGPT](https://appleinsider.com/articles/26/07/06/apple-is-warning-when-your-ai-prompts-go-to-googles-servers-just-like-with-chatgpt?utm_source=rss)
+ - [Sources: Vista Equity and Quinti made a takeover bid for Criteo that values the French ad tech company at a 50%+ premium to its stock price in recent weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260706/p33#a260706p33)
+ - [Source: Thrive Capital spinoff Thrive Holdings seeks to raise around $2B from SoftBank, Altimeter, D1, and others, after previously raising $1B &lpar;Julia Hornstein/The Information&rpar;](https://www.techmeme.com/260706/p32#a260706p32)
+ - [Sources: CISA&#39;s Attack Surface Evaluation team is using Mythos to audit government code repositories and has already uncovered a large number of vulnerabilities &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260706/p31#a260706p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

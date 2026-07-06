@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you date a farmer girl](http://9gag.com/gag/avyNjqM)
- - 😝 [Asking the wrong questions](http://9gag.com/gag/a34m6qm)
- - 💣 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
+ - 😝 [Banana](http://9gag.com/gag/aLnx78A)
+ - 😝 [Wow.](http://9gag.com/gag/a34m65v)
+ - 💣 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)
  - 😝 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
- - 👉 [This dog was not fcuking around](http://9gag.com/gag/aAyjzzE)<!-- MEMES:END -->
+ - 👉 [Row row row your boat](http://9gag.com/gag/ajPpzLq)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
- - 😝 [Haters will say it&#39;s A.I.](http://9gag.com/gag/aMVgMmM)
- - 💣 [Row row row your boat](http://9gag.com/gag/ajPpzLq)
- - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 👉 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)<!-- MEMES:END -->
+ - 😝 [Noice](http://9gag.com/gag/aByppZN)
+ - 😝 [As Norway moves forward, the Viking row evolves into something increasingly powerful and beautiful.](http://9gag.com/gag/azxnWdz)
+ - 💣 [World class + Norway never lost to Brazil](http://9gag.com/gag/aGyXXVX)
+ - 😝 [Screw Sony](http://9gag.com/gag/aqy00RZ)
+ - 👉 [Kevin failed math class.](http://9gag.com/gag/aPA558g)<!-- MEMES:END -->
 
 ---
 

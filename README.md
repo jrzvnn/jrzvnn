@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic signs a 20-year, $19B lease to use a TeraWulf data center in Kentucky, set to have a ~400MW capacity, with the first power delivery in H2 2027 &lpar;CNBC&rpar;](https://www.techmeme.com/260706/p16#a260706p16)
- - [AI agent training platform Bespoke Labs raised $40M across a seed led by 8VC and a Series A led by Wing, saying the funding gives it almost two years of runway &lpar;Natalie Breymeyer/Axios&rpar;](https://www.techmeme.com/260706/p15#a260706p15)
- - [Filing: Brookfield-backed data center company Csquare seeks to raise up to $1.35B in an IPO, selling 50M shares at $23 to $27 each for an up to $4.18B valuation &lpar;Ryan Vlastelica/Bloomberg&rpar;](https://www.techmeme.com/260706/p14#a260706p14)
- - [How Masayoshi Son is remaking SoftBank in his own image, betting on AI; SoftBank trades at a ~50% discount to its net asset value, as some question the strategy &lpar;David Keohane/Financial Times&rpar;](https://www.techmeme.com/260706/p13#a260706p13)
- - [Bentley Torcal EV: Price, Specs, Availability](https://www.wired.com/story/bentley-reveals-its-first-electric-car-amid-the-wreckage-of-the-luxury-ev-market/)<!-- TECH:END -->
+ - [I spy](https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy)
+ - [Illinois Governor JB Pritzker signs SB 315, a bill requiring annual third-party safety audits of leading AI companies; OpenAI and Anthropic backed the bill &lpar;Adam Harrington/CBS News&rpar;](https://www.techmeme.com/260706/p23#a260706p23)
+ - [The DJI Osmo Pocket 3 lookalike is down to $329](https://www.theverge.com/gadgets/961612/xtra-muse-dji-osmo-pocket-3-ipad-air-magic-mouse-deal-sale)
+ - [The Science Behind Why Soccer Players at the 2026 World Cup Are Cutting Their Socks](https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/)
+ - [Apple Watch Ultra 3 drops to $699 with $100 Amazon discount](https://appleinsider.com/articles/26/07/06/apple-watch-ultra-3-drops-to-699-with-100-amazon-discount?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

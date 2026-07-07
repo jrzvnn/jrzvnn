@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
- - 😝 [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
- - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
+ - 😝 [Italian Hogwarts from your favorite Italian girl...](http://9gag.com/gag/a6ZPP4R)
+ - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 💣 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [This was cool admit it](http://9gag.com/gag/aryYjqK)<!-- MEMES:END -->
+ - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
 
 ---
 

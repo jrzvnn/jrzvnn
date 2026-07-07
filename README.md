@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 😝 [True love](http://9gag.com/gag/aZZee3W)
- - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
+ - 😝 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
+ - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)<!-- MEMES:END -->
+ - 👉 [True love](http://9gag.com/gag/aZZee3W)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260707/p5#a260707p5)
- - [Counterpoint: China smartphone sales fell 13% YoY during the 618 shopping festival as brands raised prices to offset memory costs; Honor fell 33% and Xiaomi 24% &lpar;Reuters&rpar;](https://www.techmeme.com/260707/p4#a260707p4)
- - [Alibaba&#39;s Qwen models have made it an AI powerhouse, but the company has struggled to turn their global popularity into a profitable business &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p3#a260707p3)
- - [Texas Can Keep Enforcing Its Age Verification Law for Mobile Apps, Supreme Court Says](https://www.cnet.com/news/social-media/supreme-court-texas-enforce-age-verification-law-mobile-apps/)
- - [How Boston Dynamics Got Its Atlas Humanoid Robot Fit for the World Cup](https://www.cnet.com/tech/computing/boston-dynamics-atlas-humanoid-robot-world-cup-soccer-skills/)<!-- TECH:END -->
+ - [The Best iPhone 17 Cases &lpar;2026&rpar;: Our Picks After Testing 100+](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
+ - [Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260707/p13#a260707p13)
+ - [iPhone Air 2 battery expected to hit 30 hours of use from a single charge](https://appleinsider.com/articles/26/07/07/iphone-air-2-battery-expected-to-hit-30-hours-of-use-from-a-single-charge?utm_source=rss)
+ - [Sources: Beijing recently held meetings with Alibaba, ByteDance, Z.ai, and others to discuss restricting overseas access to advanced open and closed AI models &lpar;Fanny Potkin/Reuters&rpar;](https://www.techmeme.com/260707/p12#a260707p12)
+ - [Netflix: 30 of the Best Sci-Fi TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

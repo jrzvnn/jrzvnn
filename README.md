@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WiseTech co-founder Richard White steps down as chair amid a police probe over claims he exploited a woman&#39;s immigration status for sex; WTC jumps 7%+ &lpar;Peter Vercoe/Bloomberg&rpar;](https://www.techmeme.com/260706/p40#a260706p40)
- - [A profile of Bernadette Meehan, a US diplomat who became Wikimedia Foundation CEO in January, as Wikipedia faces threats from MAGA, AI, and foreign autocrats &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260706/p39#a260706p39)
- - [Terramaster F4-425 Pro review: Excellent set-and-forget networking hardware](https://appleinsider.com/articles/26/07/07/terramaster-f4-425-pro-review-excellent-set-and-forget-networking-hardware?utm_source=rss)
- - [Apple iPhone Buried for 250 Years Probably Won&#39;t Work, Report Says](https://www.cnet.com/tech/mobile/apple-iphone-time-capsule-america-250-years-wont-work/)
- - [Syntiant, which develops low-power AI processors, files for a US IPO, reporting a $20.9M net loss on $64.5M in revenue for the three months ended March 31 &lpar;Pragyan Kalita/Reuters&rpar;](https://www.techmeme.com/260706/p38#a260706p38)<!-- TECH:END -->
+ - [Instacart Promo Code: $15 Off | July 2026](https://www.wired.com/story/instacart-promo/code/)
+ - [Office Depot Coupons: Save With Promo Codes in July 2026](https://www.wired.com/story/office-depot-promo-codes/)
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [20% Off Sephora Promo Code | July 2026](https://www.wired.com/story/sephora-promo-code/)
+ - [Nomad Goods Promo Codes: Get 25% Off in July 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

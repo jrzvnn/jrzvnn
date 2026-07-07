@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix signs deals with Penske Media, Condé Nast, Hearst, People, and other publishers to carry a range of programming from 2 to 20+ minutes, starting August 3 &lpar;William Earl/Variety&rpar;](https://www.techmeme.com/260707/p27#a260707p27)
- - [Anthropic expands Claude Cowork to web and mobile in beta for Max plan subscribers, and says 90%+ of Cowork usage is unrelated to software development &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260707/p26#a260707p26)
- - [Doom developer id reportedly cut in half as part of Xbox layoffs](https://www.theverge.com/games/962223/doom-id-software-xbox-layoffs)
- - [Tangos, which uses AI to conduct financial crime investigations at scale, raised a $20M seed led by Red Dot &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260707/p25#a260707p25)
- - [Enter to Win an Apple Watch in Five Different CNET Group Contests](https://www.cnet.com/tech/enter-to-win-an-apple-watch-in-five-different-cnet-group-contests/)<!-- TECH:END -->
+ - [Meta rolls out Muse Image, the first image generation model from its Superintelligence Labs, in Meta AI; it will also power new tools in Instagram and WhatsApp &lpar;Meta Newsroom&rpar;](https://www.techmeme.com/260707/p30#a260707p30)
+ - [Apple&#39;s 15-inch MacBook Air M5 dips to $1,349 in today&#39;s price war](https://appleinsider.com/articles/26/07/07/apples-15-inch-macbook-air-m5-dips-to-1349-in-todays-price-war?utm_source=rss)
+ - [Mysterious Compound Detected on Pluto and Titan](https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/)
+ - [The ‘G-Wagen of golf carts’ could be the ideal second car](https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs)
+ - [ABC tells the government to get out of its newsrooms](https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

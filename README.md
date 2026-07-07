@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was cool admit it](http://9gag.com/gag/aryYjqK)
- - 😝 [True love](http://9gag.com/gag/aZZee3W)
- - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
+ - 😝 [The Tom scream took me out](http://9gag.com/gag/a5Q4Ozg)
+ - 😝 [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
+ - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)<!-- MEMES:END -->
+ - 👉 [This was cool admit it](http://9gag.com/gag/aryYjqK)<!-- MEMES:END -->
 
 ---
 

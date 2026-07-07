@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uncontrollable monsters](http://9gag.com/gag/aVvAy9y)
- - 😝 [True love](http://9gag.com/gag/aZZee3W)
+ - 😝 [Wow.](http://9gag.com/gag/a34m65v)
+ - 😝 [Row row row your boat](http://9gag.com/gag/ajPpzLq)
  - 💣 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
  - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 👉 [\u200e \u200e](http://9gag.com/gag/awywEWy)<!-- MEMES:END -->
+ - 👉 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)<!-- MEMES:END -->
 
 ---
 

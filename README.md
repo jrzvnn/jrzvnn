@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPhone 17 Cases &lpar;2026&rpar;: Our Picks After Testing 100+](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [Paris-based UMA, founded by ex-Tesla Optimus scientist Rémi Cadene and ex-Google DeepMind researcher Pierre Sermanet, demos its Northstar AI humanoid robot &lpar;Benoit Berthelot/Bloomberg&rpar;](https://www.techmeme.com/260707/p13#a260707p13)
- - [iPhone Air 2 battery expected to hit 30 hours of use from a single charge](https://appleinsider.com/articles/26/07/07/iphone-air-2-battery-expected-to-hit-30-hours-of-use-from-a-single-charge?utm_source=rss)
- - [Sources: Beijing recently held meetings with Alibaba, ByteDance, Z.ai, and others to discuss restricting overseas access to advanced open and closed AI models &lpar;Fanny Potkin/Reuters&rpar;](https://www.techmeme.com/260707/p12#a260707p12)
- - [Netflix: 30 of the Best Sci-Fi TV Shows You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/netflix-best-sci-fi-tv-shows/)<!-- TECH:END -->
+ - [Microsoft fixes storage-hogging Windows 11 folder](https://www.theverge.com/tech/962084/microsoft-storage-hogging-windows-11-folder)
+ - [Everyone should have a trustworthy VPN &amp; at $2.99 per month, Proton is a great choice](https://appleinsider.com/articles/26/07/07/everyone-should-have-a-trustworthy-vpn-at-299-per-month-proton-is-a-great-choice?utm_source=rss)
+ - [Apple supplier Luxshare raised ~$3.1B in its Hong Kong IPO, selling 383.5M shares at ~$8 each, the top of its marketed range, and will start trading on Thursday &lpar;Bloomberg&rpar;](https://www.techmeme.com/260707/p20#a260707p20)
+ - [Solos unveils the AirGo A6 camera-less smart glasses, cutting the weight to 19g from the AirGo A5&#39;s 36g to 40g, and V2 privacy accessories like a clip-on shield &lpar;Andrew Liszewski/The Verge&rpar;](https://www.techmeme.com/260707/p19#a260707p19)
+ - [Study: 50 test accounts created in Australia on nine platforms were never prompted for age verification despite the Australian law mandating a ban on under-16s &lpar;Byron Kaye/Reuters&rpar;](https://www.techmeme.com/260707/p18#a260707p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

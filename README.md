@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
+ - 😝 [Its 1450 downvotes by now](http://9gag.com/gag/aLnxyWA)
  - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
  - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)

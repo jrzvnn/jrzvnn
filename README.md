@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out Muse Image, the first image generation model from its Superintelligence Labs, in Meta AI; it will also power new tools in Instagram and WhatsApp &lpar;Meta Newsroom&rpar;](https://www.techmeme.com/260707/p30#a260707p30)
- - [Apple&#39;s 15-inch MacBook Air M5 dips to $1,349 in today&#39;s price war](https://appleinsider.com/articles/26/07/07/apples-15-inch-macbook-air-m5-dips-to-1349-in-todays-price-war?utm_source=rss)
- - [Mysterious Compound Detected on Pluto and Titan](https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/)
- - [The ‘G-Wagen of golf carts’ could be the ideal second car](https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs)
- - [ABC tells the government to get out of its newsrooms](https://www.theverge.com/policy/962342/abc-fcc-the-view-free-speech)<!-- TECH:END -->
+ - [Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it &lpar;Ian Allison/CoinDesk&rpar;](https://www.techmeme.com/260707/p32#a260707p32)
+ - [AirPods firmware beta lets developers use new iOS 27 features](https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss)
+ - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)
+ - [Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260707/p31#a260707p31)
+ - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

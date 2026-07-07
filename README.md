@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart Promo Code: $15 Off | July 2026](https://www.wired.com/story/instacart-promo/code/)
- - [Office Depot Coupons: Save With Promo Codes in July 2026](https://www.wired.com/story/office-depot-promo-codes/)
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [20% Off Sephora Promo Code | July 2026](https://www.wired.com/story/sephora-promo-code/)
- - [Nomad Goods Promo Codes: Get 25% Off in July 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [OpenRouter: Chinese AI models have drawn 30%+ of token use by US companies each week since February 8, peaking at 46%, up from 11% over the previous 12 months &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260707/p5#a260707p5)
+ - [Counterpoint: China smartphone sales fell 13% YoY during the 618 shopping festival as brands raised prices to offset memory costs; Honor fell 33% and Xiaomi 24% &lpar;Reuters&rpar;](https://www.techmeme.com/260707/p4#a260707p4)
+ - [Alibaba&#39;s Qwen models have made it an AI powerhouse, but the company has struggled to turn their global popularity into a profitable business &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p3#a260707p3)
+ - [Texas Can Keep Enforcing Its Age Verification Law for Mobile Apps, Supreme Court Says](https://www.cnet.com/news/social-media/supreme-court-texas-enforce-age-verification-law-mobile-apps/)
+ - [How Boston Dynamics Got Its Atlas Humanoid Robot Fit for the World Cup](https://www.cnet.com/tech/computing/boston-dynamics-atlas-humanoid-robot-world-cup-soccer-skills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

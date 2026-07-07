@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wow.](http://9gag.com/gag/a34m65v)
- - 😝 [Row row row your boat](http://9gag.com/gag/ajPpzLq)
- - 💣 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)
- - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 👉 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/aZZee3W)
+ - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
+ - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
+ - 👉 [Scammers are everywhere](http://9gag.com/gag/aD2yKZB)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
- - 😝 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
- - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
+ - 😝 [This was cool admit it](http://9gag.com/gag/aryYjqK)
+ - 😝 [True love](http://9gag.com/gag/aZZee3W)
+ - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
+ - 👉 [Thicc thighs save lives](http://9gag.com/gag/aD2yKP9)<!-- MEMES:END -->
 
 ---
 

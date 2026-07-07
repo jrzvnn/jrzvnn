@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Kraken is pursuing a full banking license in Europe, with a focus on Lithuania as the jurisdiction to secure it &lpar;Ian Allison/CoinDesk&rpar;](https://www.techmeme.com/260707/p32#a260707p32)
- - [AirPods firmware beta lets developers use new iOS 27 features](https://appleinsider.com/articles/26/07/07/airpods-firmware-beta-lets-developers-use-new-ios-27-features?utm_source=rss)
- - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)
- - [Anthropic extends Claude Fable 5 access to all paid plans through July 12; access to the model was set to shift to token-based usage on July 7 &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260707/p31#a260707p31)
- - [X says top accounts steal videos from other users as it announces new video tools](https://www.theverge.com/tech/962415/x-video-editor-recycled-content)<!-- TECH:END -->
+ - [OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260707/p35#a260707p35)
+ - [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming)
+ - [OpenAI’s Chief Futurist Is Leaving the Company](https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/)
+ - [Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260707/p34#a260707p34)
+ - [Best Printer for Your Home or Office in 2026: Tested by Our Experts](https://www.cnet.com/tech/computing/best-printer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

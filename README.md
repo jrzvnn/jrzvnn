@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Chief Futurist Joshua Achiam is leaving the company later this month after nearly nine years &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260707/p35#a260707p35)
- - [Netflix is about to host videos from BuzzFeed, Condé Nast, and other publishers](https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming)
- - [OpenAI’s Chief Futurist Is Leaving the Company](https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/)
- - [Memo: SpaceXAI and Cursor plan to launch their first jointly developed AI model as soon as Wednesday, after pushing back the launch to improve model efficiency &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260707/p34#a260707p34)
- - [Best Printer for Your Home or Office in 2026: Tested by Our Experts](https://www.cnet.com/tech/computing/best-printer/)<!-- TECH:END -->
+ - [As part of Meta&#39;s Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260707/p37#a260707p37)
+ - [Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend&#39;s Instagram](https://www.cnet.com/tech/services-and-software/meta-muse-ai-image-content-reuse-deepfake-news/)
+ - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)
+ - [Best Laptops of 2026: Top Picks Tested by CNET](https://www.cnet.com/tech/computing/best-laptop/)
+ - [Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

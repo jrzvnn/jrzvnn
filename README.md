@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its 1450 downvotes by now](http://9gag.com/gag/aLnxyWA)
- - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 😝 [Grand daddy was ALL business. Rich folk problems](http://9gag.com/gag/avyNMmb)
+ - 😝 [British police again. Man gets kicked off his bike, let the guy who did it go about like it&#39;s normal.](http://9gag.com/gag/abA7NWv)
  - 💣 [\u200e \u200e](http://9gag.com/gag/awywEWy)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [True love](http://9gag.com/gag/aZZee3W)<!-- MEMES:END -->
+ - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
 
 ---
 

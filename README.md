@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian Hogwarts from your favorite Italian girl...](http://9gag.com/gag/a6ZPP4R)
- - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 💣 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
+ - 😝 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - 😝 [\u200e \u200e](http://9gag.com/gag/awywEWy)
+ - 💣 [True love](http://9gag.com/gag/aZZee3W)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
 
 ---
 

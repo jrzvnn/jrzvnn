@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260707/p38#a260707p38)
+ - [Samsung&#39;s Galaxy Unpacked Event: We Expect Weird Foldables, Funky AI Glasses and More](https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-event-what-to-expect-how-to-watch/)
  - [As part of Meta&#39;s Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260707/p37#a260707p37)
  - [Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend&#39;s Instagram](https://www.cnet.com/tech/services-and-software/meta-muse-ai-image-content-reuse-deepfake-news/)
- - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)
- - [Best Laptops of 2026: Top Picks Tested by CNET](https://www.cnet.com/tech/computing/best-laptop/)
- - [Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/)<!-- TECH:END -->
+ - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

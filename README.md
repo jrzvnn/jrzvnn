@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p41#a260708p41)
+ - [Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game](https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/)
  - [The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement](https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/)
- - [I Built a Self-Improving AI, and So Can You](https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/)
- - [48 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 9, #1124](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-9-1124/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 9 #858](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-858/)<!-- TECH:END -->
+ - [You Can Now Remix Your Google Photos Into Stylized Videos With Gemini Omni](https://www.cnet.com/tech/services-and-software/google-adds-ai-video-remixer-to-google-photos/)
+ - [I Built a Self-Improving AI, and So Can You](https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

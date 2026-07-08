@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260708/p35#a260708p35)
- - [Apple testing banned vendor RAM is a Band-Aid, not a cure](https://appleinsider.com/articles/26/07/08/apple-testing-banned-vendor-ram-is-a-band-aid-not-a-cure?utm_source=rss)
- - [Apple the only bright spot in a declining PC market, savaged by RAM price hikes](https://appleinsider.com/articles/26/07/08/apple-the-only-bright-spot-in-a-declining-pc-market-savaged-by-ram-price-hikes?utm_source=rss)
- - [&#39;Love Island USA&#39; Season 8: When Does Episode 32 Come Out?](https://www.cnet.com/culture/entertainment/love-island-usa-season-8-new-episodes-watch-peacock/)
- - [HP OmniBook 3 16 Review: Big-Screen Budget Laptop With Unbeatable Battery Life](https://www.cnet.com/tech/computing/hp-omnibook-3-16-laptop-review/)<!-- TECH:END -->
+ - [Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens &lpar;Axios&rpar;](https://www.techmeme.com/260708/p39#a260708p39)
+ - [Dimming the Sun Would Help Lower the Risks of El Niño](https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/)
+ - [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty)
+ - [SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to &quot;handle difficult, long-running&quot; legal, finance, and coding tasks &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260708/p38#a260708p38)
+ - [Final lap for &#39;Mario Kart Tour&#39; badly closes another Nintendo mobile gaming chapter](https://appleinsider.com/articles/26/07/08/final-lap-for-mario-kart-tour-badly-closes-another-nintendo-mobile-gaming-chapter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
- - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
- - 💣 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 😝 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
- - 👉 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)<!-- MEMES:END -->
+ - 😝 [A gif&lpar;t&rpar; for you](http://9gag.com/gag/agmWRng)
+ - 💣 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 👉 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)<!-- MEMES:END -->
 
 ---
 

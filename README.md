@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
- - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)
- - [Boox Go 6 Gen II review: Delightful, just not that impressive](https://appleinsider.com/articles/26/07/08/boox-go-6-gen-ii-review-delightful-just-not-that-impressive?utm_source=rss)
- - [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update)
- - [Sources detail Xbox&#39;s big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260707/p39#a260707p39)<!-- TECH:END -->
+ - [OpenAI says GPT-5.6 Sol, along with Terra and Luna, will launch publicly on Thursday; a source says the US Department of Commerce cleared a broad rollout &lpar;Axios&rpar;](https://www.techmeme.com/260707/p45#a260707p45)
+ - [Lisbon-based Bizay, a customized products marketplace for SMBs, raised a $55M Series D led by Indico, as it aims to accelerate its US expansion &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260707/p44#a260707p44)
+ - [Apple&#39;s interest in buying CXMT chips has thrust the Chinese memory chip maker and its relationship with Beijing into the AI supply chain spotlight &lpar;Financial Times&rpar;](https://www.techmeme.com/260707/p43#a260707p43)
+ - [Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 &lpar;Puyaan Singh/Reuters&rpar;](https://www.techmeme.com/260707/p42#a260707p42)
+ - [Google and the FBI Target Massive Botnet That Quietly Used Home Devices to Mask Cybercrime](https://www.cnet.com/tech/services-and-software/google-fbi-target-netnut-botnet-smart-home-devices-mask-cybercrime-hackers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
- - 😝 [No stereotypes were harmed, making this video](http://9gag.com/gag/a9yoQYj)
- - 💣 [...](http://9gag.com/gag/a2ve3BE)
+ - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
+ - 😝 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
+ - 💣 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [It do be like that tho...](http://9gag.com/gag/aKGR013)<!-- MEMES:END -->
+ - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 ---
 

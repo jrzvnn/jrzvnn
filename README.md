@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces a Galaxy Unpacked event on July 22 in London, where it is expected to debut new foldables, including a Fold 8 with a shorter and wider design &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260707/p38#a260707p38)
- - [Samsung&#39;s Galaxy Unpacked Event: We Expect Weird Foldables, Funky AI Glasses and More](https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-event-what-to-expect-how-to-watch/)
- - [As part of Meta&#39;s Muse Image rollout, Instagram users with public accounts need to opt out to block AI generations of their content by other users &lpar;Reece Rogers/Wired&rpar;](https://www.techmeme.com/260707/p37#a260707p37)
- - [Meta Has a New AI Image Tool, and I Already Used It to Deepfake My Friend&#39;s Instagram](https://www.cnet.com/tech/services-and-software/meta-muse-ai-image-content-reuse-deepfake-news/)
- - [Anthropic plans to lease a 16-story building in Lower Manhattan and double its NYC workforce to 1,000 people this year, as AI companies expand in the city &lpar;New York Times&rpar;](https://www.techmeme.com/260707/p36#a260707p36)<!-- TECH:END -->
+ - [Meta announces that it will be updating its glasses with a new feature that disables the camera if someone tampers with the glasses&#39; privacy LED light &lpar;Victoria Song/The Verge&rpar;](https://www.techmeme.com/260707/p41#a260707p41)
+ - [Meta says Muse Image includes an invisible watermarking system called Content Seal and previews a web tool to check whether an image was generated with Meta AI &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260707/p40#a260707p40)
+ - [Boox Go 6 Gen II review: Delightful, just not that impressive](https://appleinsider.com/articles/26/07/08/boox-go-6-gen-ii-review-delightful-just-not-that-impressive?utm_source=rss)
+ - [Meta’s glasses will turn off the camera if you tamper with the privacy light](https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update)
+ - [Sources detail Xbox&#39;s big reset after its Game Pass strategy failed; Xbox spent nearly $80B on content deals, but gamers prefer to stick with a handful of games &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/260707/p39#a260707p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

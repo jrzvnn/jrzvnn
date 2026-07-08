@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it found widespread task issues in SWE-Bench Pro, estimates ~30% of tasks are broken, and retracts its earlier recommendation to adopt the benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260708/p41#a260708p41)
- - [Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game](https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/)
- - [The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement](https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/)
- - [You Can Now Remix Your Google Photos Into Stylized Videos With Gemini Omni](https://www.cnet.com/tech/services-and-software/google-adds-ai-video-remixer-to-google-photos/)
- - [I Built a Self-Improving AI, and So Can You](https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/)<!-- TECH:END -->
+ - [Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p43#a260708p43)
+ - [Waymo Plans to Expand Driverless Cars to 4 More Major Cities This Year](https://www.cnet.com/roadshow/news/waymo-plans-to-expand-driverless-cars-to-four-more-major-cities-this-year/)
+ - [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
+ - [The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260708/p42#a260708p42)
+ - [NASA&#39;s New Horizons Spacecraft Just Woke Up From a Long Nap Ahead of Exploring Beyond Pluto](https://www.cnet.com/science/space/nasa-new-horizons-spacecraft-woke-up/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

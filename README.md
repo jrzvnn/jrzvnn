@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly](https://www.wired.com/review/lg-micro-rgb-evo/)
- - [Pickup Artist Mystery Has an AI Girlfriend](https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/)
- - [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla)
- - [Omdia expects a 22% YoY drop in global smartphone shipments priced below $400 for 2026 amid soaring DRAM and NAND costs; Q1 memory costs were ~60% of materials &lpar;Zaker Li/Omdia&rpar;](https://www.techmeme.com/260708/p17#a260708p17)
- - [OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear](https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/)<!-- TECH:END -->
+ - [SK Hynix&#39;s IPO prospectus analysis, as it seeks to raise ~$28B on the Nasdaq: highly leveraged to HBM, extensive ties to China, and health and safety issues &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/260708/p23#a260708p23)
+ - [Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026 &lpar;Eugene Kim/Business Insider&rpar;](https://www.techmeme.com/260708/p22#a260708p22)
+ - [John Ternus takes his place at the Sun Valley billionaire camp](https://appleinsider.com/articles/26/07/08/john-ternus-takes-his-place-at-the-sun-valley-billionaire-camp?utm_source=rss)
+ - [DuckDuckGo updates its browser for iOS, Windows, and macOS to block video ads by default, particularly those on YouTube, based on uBlockOrigin&#39;s filter lists &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260708/p21#a260708p21)
+ - [The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now](https://www.wired.com/story/the-best-pickleball-paddles-in-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix&#39;s IPO prospectus analysis, as it seeks to raise ~$28B on the Nasdaq: highly leveraged to HBM, extensive ties to China, and health and safety issues &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/260708/p23#a260708p23)
- - [Internal documents: Amazon is working on an Alexa project, codenamed Moonraker, to handle more complex, multistep tasks, projecting $100M+ in GPU costs in 2026 &lpar;Eugene Kim/Business Insider&rpar;](https://www.techmeme.com/260708/p22#a260708p22)
- - [John Ternus takes his place at the Sun Valley billionaire camp](https://appleinsider.com/articles/26/07/08/john-ternus-takes-his-place-at-the-sun-valley-billionaire-camp?utm_source=rss)
- - [DuckDuckGo updates its browser for iOS, Windows, and macOS to block video ads by default, particularly those on YouTube, based on uBlockOrigin&#39;s filter lists &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/260708/p21#a260708p21)
- - [The Foam Era Has Changed Pickleball—Here Are the Top 2 Pickleball Paddles Right Now](https://www.wired.com/story/the-best-pickleball-paddles-in-2026/)<!-- TECH:END -->
+ - [Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, valuing the company at ~$9B, after raising $751M &lpar;Jiahui Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260708/p31#a260708p31)
+ - [Amazon knocks $110 off Apple&#39;s MacBook Neo today](https://appleinsider.com/articles/26/07/08/amazon-knocks-110-off-apples-macbook-neo-today?utm_source=rss)
+ - [Sources: China plans to let some of the country&#39;s major AI companies buy a small number of Nvidia&#39;s H200 chips to alleviate a domestic computing shortage &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260708/p30#a260708p30)
+ - [Republicans Gleefully Celebrate Midterms Chaos in Maine](https://www.wired.com/story/republicans-gleefully-celebrate-midterms-chaos-in-maine/)
+ - [Apple&#39;s M5 Pro 16-inch MacBook Pro with 48GB RAM plunges to $3,049](https://appleinsider.com/articles/26/07/08/apples-m5-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-3049?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

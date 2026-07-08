@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Be doesn&#39;t even know the moon is bigger than earth](http://9gag.com/gag/aD2ypNK)
  - 😝 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
- - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
- - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 👉 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)<!-- MEMES:END -->
+ - 💣 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
+ - 😝 [This was cool admit it](http://9gag.com/gag/aryYjqK)
+ - 👉 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 ---
 

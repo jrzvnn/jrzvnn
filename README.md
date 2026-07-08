@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell Tower Plus &lpar;EBT2250&rpar; Desktop Review: Modern Performance in a Classic Tower PC](https://www.cnet.com/tech/computing/dell-tower-plus-ebt2250-desktop-review/)
- - [Stop Buying Fans Based on Airflow Specs: My Testing Data Reveals What to Actually Look For](https://www.cnet.com/home/kitchen-and-household/stop-buying-fans-based-on-airflow-specs/)
- - [Free Waymo Rides in California? You Can Thank a Regulatory Quirk](https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/)
- - [The EU General Court dismisses Apple&#39;s legal challenges against its designation as a DMA &quot;gatekeeper&quot; for its App Store and iOS; Apple filed the case in 2024 &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260708/p11#a260708p11)
- - [Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation and signs JPMorgan as a customer to deploy its chips for in-house AI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p10#a260708p10)<!-- TECH:END -->
+ - [LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly](https://www.wired.com/review/lg-micro-rgb-evo/)
+ - [Pickup Artist Mystery Has an AI Girlfriend](https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/)
+ - [The robotaxi law that could ban Tesla](https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla)
+ - [Omdia expects a 22% YoY drop in global smartphone shipments priced below $400 for 2026 amid soaring DRAM and NAND costs; Q1 memory costs were ~60% of materials &lpar;Zaker Li/Omdia&rpar;](https://www.techmeme.com/260708/p17#a260708p17)
+ - [OnlyFans Models Are Accidentally Making Hacked Government Websites Disappear](https://www.wired.com/story/onlyfans-creators-dmca-hacked-government-websites/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

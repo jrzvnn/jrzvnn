@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at effective altruism&#39;s fall after SBF&#39;s arrest and how the soon-to-be rich from upcoming AI IPOs give the movement a chance to return larger than ever &lpar;Andrew Fedorov/New York Magazine&rpar;](https://www.techmeme.com/260708/p8#a260708p8)
- - [Palantir insiders and investors fear the company&#39;s enthusiastic embrace of President Trump&#39;s policies could drive away corporate clients and engineering talent &lpar;Financial Times&rpar;](https://www.techmeme.com/260708/p7#a260708p7)
- - [The global AI boom has thrust CPUs back into the spotlight as Nvidia, Qualcomm, MediaTek, and others challenge Intel and AMD in the AI data center CPU market &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260708/p6#a260708p6)
- - [Oratomic, which is developing quantum computing hardware and software, raised a $300M Series A led by ARCH Venture Partners, Spark Capital, and Khosla Ventures &lpar;Matt Swayne/The Quantum Insider&rpar;](https://www.techmeme.com/260708/p5#a260708p5)
- - [A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market &lpar;CNBC&rpar;](https://www.techmeme.com/260708/p4#a260708p4)<!-- TECH:END -->
+ - [Dell Tower Plus &lpar;EBT2250&rpar; Desktop Review: Modern Performance in a Classic Tower PC](https://www.cnet.com/tech/computing/dell-tower-plus-ebt2250-desktop-review/)
+ - [Stop Buying Fans Based on Airflow Specs: My Testing Data Reveals What to Actually Look For](https://www.cnet.com/home/kitchen-and-household/stop-buying-fans-based-on-airflow-specs/)
+ - [Free Waymo Rides in California? You Can Thank a Regulatory Quirk](https://www.wired.com/story/a-california-regulatory-quirk-means-free-waymo-rides/)
+ - [The EU General Court dismisses Apple&#39;s legal challenges against its designation as a DMA &quot;gatekeeper&quot; for its App Store and iOS; Apple filed the case in 2024 &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260708/p11#a260708p11)
+ - [Chip startup SambaNova raised a $1B Series F led by General Atlantic at an $11B valuation and signs JPMorgan as a customer to deploy its chips for in-house AI &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p10#a260708p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

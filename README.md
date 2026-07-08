@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet](https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/)
- - [&#39;Moana&#39; Review: A Disney Live-Action Remake That&#39;s Actually Worth Your Time](https://www.cnet.com/tech/services-and-software/moana-review-disney-live-action-remake-dwayne-johnson/)
- - [Microsoft&amp;#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
- - [Encrypted HFS+ drive support dies in macOS 28](https://appleinsider.com/articles/26/07/08/encrypted-hfs-drive-support-dies-in-macos-28?utm_source=rss)
- - [TV show purchases on Apple TV are finally getting free 4K upgrades](https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades?utm_source=rss)<!-- TECH:END -->
+ - [The FTC Settlement With John Deere Is a Huge Win for the Right-to-Repair Movement](https://www.wired.com/story/the-ftc-settlement-with-john-deere-is-a-huge-win-for-the-right-to-repair-movement/)
+ - [I Built a Self-Improving AI, and So Can You](https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/)
+ - [48 of the Best Movies on Netflix You Should Stream Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 9, #1124](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-9-1124/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 9 #858](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-858/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

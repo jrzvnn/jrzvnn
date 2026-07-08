@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 12 Labours of Hercules](http://9gag.com/gag/a2vee9Y)
- - 😝 [Lmao this guy is something else](http://9gag.com/gag/aYQ92xV)
- - 💣 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
+ - 😝 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
+ - 😝 [Inconvenience overloaded](http://9gag.com/gag/ayNGOE8)
+ - 💣 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
+ - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
 
 ---
 

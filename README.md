@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - 😝 [\u200e \u200e](http://9gag.com/gag/awywEWy)
- - 💣 [True love](http://9gag.com/gag/aZZee3W)
+ - 😝 [The 12 Labours of Hercules](http://9gag.com/gag/a2vee9Y)
+ - 😝 [Lmao this guy is something else](http://9gag.com/gag/aYQ92xV)
+ - 💣 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
  - 👉 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)<!-- MEMES:END -->
 

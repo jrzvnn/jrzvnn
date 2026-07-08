@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
+ - 😝 [True love](http://9gag.com/gag/aZZee3W)
+ - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
  - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
- - 😝 [Spot the legendary Greek Warrior](http://9gag.com/gag/a2veBPd)
- - 💣 [A professional female athlete vs a random dad from the audience](http://9gag.com/gag/a4Pvvzd)
- - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
  - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 ---

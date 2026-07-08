@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - 😝 [True love](http://9gag.com/gag/aZZee3W)
- - 💣 [STRANGELY WELL BEHAVED when white men are out in force?](http://9gag.com/gag/an766yb)
- - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
- - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 😝 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
+ - 😝 [Cry, cheater](http://9gag.com/gag/agmWPL1)
+ - 💣 [Classic toddler logic at its finest](http://9gag.com/gag/aBypqO1)
+ - 😝 [Its 1450 downvotes by now](http://9gag.com/gag/aLnxyWA)
+ - 👉 [The quiver in his voice](http://9gag.com/gag/apROyp8)<!-- MEMES:END -->
 
 ---
 

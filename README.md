@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who even watched that shit?](http://9gag.com/gag/aVvAN8n)
- - 😝 [Inconvenience overloaded](http://9gag.com/gag/ayNGOE8)
- - 💣 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 😝 [Norwegian Heritage](http://9gag.com/gag/ayNGG4q)
+ - 😝 [No stereotypes were harmed, making this video](http://9gag.com/gag/a9yoQYj)
+ - 💣 [...](http://9gag.com/gag/a2ve3BE)
  - 😝 [Toe-tally killing it.](http://9gag.com/gag/axy5Xyb)
- - 👉 [...](http://9gag.com/gag/a2ve3BE)<!-- MEMES:END -->
+ - 👉 [It do be like that tho...](http://9gag.com/gag/aKGR013)<!-- MEMES:END -->
 
 ---
 

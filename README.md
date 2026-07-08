@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be doesn&#39;t even know the moon is bigger than earth](http://9gag.com/gag/aD2ypNK)
- - 😝 [Bro tried to warn him multiple times](http://9gag.com/gag/a4PvDop)
- - 💣 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
- - 😝 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
- - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
+ - 😝 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
+ - 😝 [Dont google it](http://9gag.com/gag/aVvAN9d)
+ - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 👉 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)<!-- MEMES:END -->
 
 ---
 

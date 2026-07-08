@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok 4.5 is available in Grok Build, in Cursor, and from the SpaceXAI console, but not in the EU; it costs $2 per 1M input tokens and $6 per 1M output tokens &lpar;Axios&rpar;](https://www.techmeme.com/260708/p39#a260708p39)
- - [Dimming the Sun Would Help Lower the Risks of El Niño](https://www.wired.com/story/dimming-the-sun-would-lower-risks-of-el-nino/)
- - [America’s cheapest new EV is smaller than a ping-pong table and tops out at 19mph](https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty)
- - [SpaceXAI launches Grok 4.5, its first model built in partnership with Cursor, designed to &quot;handle difficult, long-running&quot; legal, finance, and coding tasks &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260708/p38#a260708p38)
- - [Final lap for &#39;Mario Kart Tour&#39; badly closes another Nintendo mobile gaming chapter](https://appleinsider.com/articles/26/07/08/final-lap-for-mario-kart-tour-badly-closes-another-nintendo-mobile-gaming-chapter?utm_source=rss)<!-- TECH:END -->
+ - [Peter Thiel’s Husband Sued a Flight Attendant Who Says He Assaulted Her on a Private Jet](https://www.wired.com/story/peter-thiels-husband-sued-a-flight-attendant-who-says-he-assaulted-her-on-a-private-jet/)
+ - [&#39;Moana&#39; Review: A Disney Live-Action Remake That&#39;s Actually Worth Your Time](https://www.cnet.com/tech/services-and-software/moana-review-disney-live-action-remake-dwayne-johnson/)
+ - [Microsoft&amp;#8217;s Xbox reset is pivoting Obsidian to make Fallout instead of Avowed](https://www.theverge.com/games/963024/microsoft-xbox-reset-obsidian-fallout-layoffs)
+ - [Encrypted HFS+ drive support dies in macOS 28](https://appleinsider.com/articles/26/07/08/encrypted-hfs-drive-support-dies-in-macos-28?utm_source=rss)
+ - [TV show purchases on Apple TV are finally getting free 4K upgrades](https://appleinsider.com/articles/26/07/08/tv-show-purchases-on-apple-tv-are-finally-getting-free-4k-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

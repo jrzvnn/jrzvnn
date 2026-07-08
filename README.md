@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese autonomous driving company Momenta saw a muted trading debut in its Hong Kong IPO, valuing the company at ~$9B, after raising $751M &lpar;Jiahui Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260708/p31#a260708p31)
- - [Amazon knocks $110 off Apple&#39;s MacBook Neo today](https://appleinsider.com/articles/26/07/08/amazon-knocks-110-off-apples-macbook-neo-today?utm_source=rss)
- - [Sources: China plans to let some of the country&#39;s major AI companies buy a small number of Nvidia&#39;s H200 chips to alleviate a domestic computing shortage &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260708/p30#a260708p30)
- - [Republicans Gleefully Celebrate Midterms Chaos in Maine](https://www.wired.com/story/republicans-gleefully-celebrate-midterms-chaos-in-maine/)
- - [Apple&#39;s M5 Pro 16-inch MacBook Pro with 48GB RAM plunges to $3,049](https://appleinsider.com/articles/26/07/08/apples-m5-pro-16-inch-macbook-pro-with-48gb-ram-plunges-to-3049?utm_source=rss)<!-- TECH:END -->
+ - [Prime Intellect, which helps companies build their own AI agents by offering computing power and specialized tools, raised a $130M Series A at a $1B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260708/p35#a260708p35)
+ - [Apple testing banned vendor RAM is a Band-Aid, not a cure](https://appleinsider.com/articles/26/07/08/apple-testing-banned-vendor-ram-is-a-band-aid-not-a-cure?utm_source=rss)
+ - [Apple the only bright spot in a declining PC market, savaged by RAM price hikes](https://appleinsider.com/articles/26/07/08/apple-the-only-bright-spot-in-a-declining-pc-market-savaged-by-ram-price-hikes?utm_source=rss)
+ - [&#39;Love Island USA&#39; Season 8: When Does Episode 32 Come Out?](https://www.cnet.com/culture/entertainment/love-island-usa-season-8-new-episodes-watch-peacock/)
+ - [HP OmniBook 3 16 Review: Big-Screen Budget Laptop With Unbeatable Battery Life](https://www.cnet.com/tech/computing/hp-omnibook-3-16-laptop-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says GPT-5.6 Sol, along with Terra and Luna, will launch publicly on Thursday; a source says the US Department of Commerce cleared a broad rollout &lpar;Axios&rpar;](https://www.techmeme.com/260707/p45#a260707p45)
- - [Lisbon-based Bizay, a customized products marketplace for SMBs, raised a $55M Series D led by Indico, as it aims to accelerate its US expansion &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260707/p44#a260707p44)
- - [Apple&#39;s interest in buying CXMT chips has thrust the Chinese memory chip maker and its relationship with Beijing into the AI supply chain spotlight &lpar;Financial Times&rpar;](https://www.techmeme.com/260707/p43#a260707p43)
- - [Sleep apnea device maker ResMed agrees to sell its software business MatrixCare to PE firm Frazier for $490M in cash; ResMed bought MatrixCare for $750M in 2018 &lpar;Puyaan Singh/Reuters&rpar;](https://www.techmeme.com/260707/p42#a260707p42)
- - [Google and the FBI Target Massive Botnet That Quietly Used Home Devices to Mask Cybercrime](https://www.cnet.com/tech/services-and-software/google-fbi-target-netnut-botnet-smart-home-devices-mask-cybercrime-hackers/)<!-- TECH:END -->
+ - [A look at effective altruism&#39;s fall after SBF&#39;s arrest and how the soon-to-be rich from upcoming AI IPOs give the movement a chance to return larger than ever &lpar;Andrew Fedorov/New York Magazine&rpar;](https://www.techmeme.com/260708/p8#a260708p8)
+ - [Palantir insiders and investors fear the company&#39;s enthusiastic embrace of President Trump&#39;s policies could drive away corporate clients and engineering talent &lpar;Financial Times&rpar;](https://www.techmeme.com/260708/p7#a260708p7)
+ - [The global AI boom has thrust CPUs back into the spotlight as Nvidia, Qualcomm, MediaTek, and others challenge Intel and AMD in the AI data center CPU market &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260708/p6#a260708p6)
+ - [Oratomic, which is developing quantum computing hardware and software, raised a $300M Series A led by ARCH Venture Partners, Spark Capital, and Khosla Ventures &lpar;Matt Swayne/The Quantum Insider&rpar;](https://www.techmeme.com/260708/p5#a260708p5)
+ - [A look at Chinese lidar maker Hesai, blacklisted by the US DOD in 2024, as it expands in the US; Hesai says it has ~33% of the global automotive lidar market &lpar;CNBC&rpar;](https://www.techmeme.com/260708/p4#a260708p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

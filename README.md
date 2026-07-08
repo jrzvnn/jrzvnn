@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
  - 😝 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
- - 😝 [This was cool admit it](http://9gag.com/gag/aryYjqK)
  - 💣 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
- - 😝 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
- - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 👉 [No she is judge no more](http://9gag.com/gag/a9yo3qm)<!-- MEMES:END -->
 
 ---
 

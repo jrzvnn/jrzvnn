@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase&#39;s chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel &lpar;Hannah Lang/Reuters&rpar;](https://www.techmeme.com/260709/p37#a260709p37)
- - [Meta Introduces a Big New AI Model for the Agentic Age](https://www.cnet.com/tech/services-and-software/meta-muse-spark-new-ai-model-agentic/)
- - [Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI &lpar;Andrew Ackerman/Washington Post&rpar;](https://www.techmeme.com/260709/p36#a260709p36)
- - [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset)
- - [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale)<!-- TECH:END -->
+ - [Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune&#39;s $43M Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260709/p39#a260709p39)
+ - [Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives](https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/)
+ - [US Weighs Removing Steering Wheel Requirement for Driverless Cars](https://www.cnet.com/roadshow/news/driverless-cars-steering-wheel-requirement-us-nhtsa/)
+ - [Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260709/p38#a260709p38)
+ - [Come to Our WIRED@NIGHT02 Film Screening!](https://www.wired.com/story/come-to-wirednight02-film-screening/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

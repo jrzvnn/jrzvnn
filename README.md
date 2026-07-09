@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reno-based AI chip startup Positron is in talks to raise ~$750M in two phases, at valuations of $3.5B in the first tranche and ~$5B in the second &lpar;Bloomberg&rpar;](https://www.techmeme.com/260708/p43#a260708p43)
- - [Waymo Plans to Expand Driverless Cars to 4 More Major Cities This Year](https://www.cnet.com/roadshow/news/waymo-plans-to-expand-driverless-cars-to-four-more-major-cities-this-year/)
- - [Meta is reportedly working on smart glasses that would be recording all the time](https://www.theverge.com/tech/963138/meta-smart-glasses-recording-super-sensing-ai)
- - [The FTC settles with John Deere over a 2025 right-to-repair lawsuit, requiring the company to provide farmers and shops with equipment and software for 10 years &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260708/p42#a260708p42)
- - [NASA&#39;s New Horizons Spacecraft Just Woke Up From a Long Nap Ahead of Exploring Beyond Pluto](https://www.cnet.com/science/space/nasa-new-horizons-spacecraft-woke-up/)<!-- TECH:END -->
+ - [&#39;Widow&#39;s Bay&#39; &amp; &#39;Pluribus&#39; lead Apple&#39;s record-breaking charge for 2026 Emmy Awards](https://appleinsider.com/articles/26/07/08/widows-bay-and-pluribus-nominated-for-the-most-prestigious-emmy-awards?utm_source=rss)
+ - [Block agrees to pay $45M and offer live customer support for Cash App to settle claims by 46 US states that the company failed to protect users from fraud &lpar;Daniel Wiessner/Reuters&rpar;](https://www.techmeme.com/260708/p44#a260708p44)
+ - [One of Meta’s Offices Was Briefly Overtaken by a Rogue Squirrel](https://www.wired.com/story/one-of-metas-offices-was-briefly-overtaken-by-a-rogue-squirrel/)
+ - [Can You Video Chat Alongside 69,000 World Cup Fans? I Stress-Tested Stadium Phone Service at a Match](https://www.cnet.com/tech/mobile/fifa-world-cup-network-phone-reception-tested/)
+ - [Apolosign 32-inch Smart Portable TV review: Very cool, but not great for Apple users](https://appleinsider.com/articles/26/07/08/apolosign-32-inch-smart-portable-tv-review-very-cool-but-not-great-for-apple-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

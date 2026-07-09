@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh. Tf.](http://9gag.com/gag/aE03eVG)
  - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 💣 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 😝 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
- - 👉 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
+ - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 💣 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - 😝 [The Soviet Union is dead, but Soviet-era jokes are back](http://9gag.com/gag/ajPoYrR)
+ - 👉 [Ok, so basically I&#39;m very smol](http://9gag.com/gag/ae9LX3W)<!-- MEMES:END -->
 
 ---
 

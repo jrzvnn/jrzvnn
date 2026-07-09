@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh. Tf.](http://9gag.com/gag/aE03eVG)
  - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 😝 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
  - 💣 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 😝 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
+ - 😝 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
  - 👉 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 ---

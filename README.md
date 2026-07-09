@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bacon](http://9gag.com/gag/a4PvMZA)
+ - 😝 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
+ - 💣 [This was cool admit it](http://9gag.com/gag/aryYjqK)
  - 😝 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 😝 [Street fight at outdoor mall](http://9gag.com/gag/aO8wgOE)
- - 💣 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
- - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 👉 [No she is judge no more](http://9gag.com/gag/a9yo3qm)<!-- MEMES:END -->
+ - 👉 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)<!-- MEMES:END -->
 
 ---
 

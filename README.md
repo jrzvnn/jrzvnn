@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $28 Million Mistake That Inspired Estonia&#39;s AI “Fuckup Finder”](https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/)
- - [Cheaper Phones Will Be Harder to Find This Year and in 2027, Analysts Warn](https://www.cnet.com/tech/mobile/ram-crisis-fewer-cheap-phones-under-400-dollars/)
- - [The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years &lpar;Financial Times&rpar;](https://www.techmeme.com/260709/p4#a260709p4)
- - [A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6% &lpar;Emma Whitford/Inside Higher Ed&rpar;](https://www.techmeme.com/260709/p3#a260709p3)
- - [Companies are mobilizing internal groups of &quot;AI champions&quot; to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260709/p2#a260709p2)<!-- TECH:END -->
+ - [Amseatec Criss Cross Office Chair Review: Just Right](https://www.wired.com/review/amseatec-criss-cross-office-chair/)
+ - [Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic](https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/)
+ - [Internal US DOJ memo: attorneys working on digital currency cases should expect less cooperation from Binance, which is adding requirements for asset freezes &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260709/p9#a260709p9)
+ - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
+ - [US cybersecurity and data resilience company Rubrik plans to invest $500M+ in the UK over the next five years and establish its European headquarters in London &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/260709/p8#a260709p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

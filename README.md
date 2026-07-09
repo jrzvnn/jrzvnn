@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
  - 😝 [He did everything for her, sacrificed his career, even donated his blood, paid for her treatments, but in the end she left him because she wanted to `discover herself`](http://9gag.com/gag/aLnxYKV)
  - 💣 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 😝 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 😝 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
+ - 👉 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)<!-- MEMES:END -->
 
 ---
 

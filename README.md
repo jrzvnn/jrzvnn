@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was cool admit it](http://9gag.com/gag/aryYjqK)
- - 😝 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
- - 💣 [Only the really smart people knows the answer...](http://9gag.com/gag/agmWM3w)
+ - 😝 [She let her intrusive thoughts win lol](http://9gag.com/gag/aNDNyXK)
+ - 😝 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - 💣 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
  - 😝 [So they run out of reasons to put here...](http://9gag.com/gag/aVvAGMw)
- - 👉 [Must be one helluva baker](http://9gag.com/gag/apRWKpE)<!-- MEMES:END -->
+ - 👉 [Bacon](http://9gag.com/gag/a4PvMZA)<!-- MEMES:END -->
 
 ---
 

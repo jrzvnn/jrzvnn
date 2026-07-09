@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 1X Neo Robot Has Freaky Fast Fingers](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
- - [Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260709/p25#a260709p25)
- - [Best Wireless Bluetooth Boom Boxes for 2026](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/)
- - [The Scottish Open 2026: TV Schedule, How to Watch All the Golf Action From Anywhere](https://www.cnet.com/tech/services-and-software/the-scottish-open-2026-tv-schedule-how-to-watch-stream-all-the-golf-action-from-anywhere/)
- - [Schlage’s Sense Pro unlocks the door so I don’t have to](https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock)<!-- TECH:END -->
+ - [Apple going big at Comic Con with a 2-hour panel and show preview](https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss)
+ - [GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 &lpar;OpenAI&rpar;](https://www.techmeme.com/260709/p28#a260709p28)
+ - [Google&amp;#8217;s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale)
+ - [Import duty cuts make India even more attractive for iPhone manufacturing](https://appleinsider.com/articles/26/07/09/import-duty-cuts-make-india-even-more-attractive-for-iphone-manufacturing?utm_source=rss)
+ - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

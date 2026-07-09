@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hoka Coupon Codes: 30% Off in July 2026](https://www.wired.com/story/hoka-coupon-code/)
- - [Layla Sleep Coupon: Save Up to $600 in July 2026](https://www.wired.com/story/layla-sleep-coupon/)
- - [The Motley Fool Promo Code: $200 Off on Stock Advisor July 2026](https://www.wired.com/story/the-motley-fool-promo-code/)
- - [Google Workspace Promo Codes: 14% Off for July](https://www.wired.com/story/google-workspace-promo-code/)
- - [Corsair Discount Code: Up to 50% Off for July 2026](https://www.wired.com/story/corsair-coupon/)<!-- TECH:END -->
+ - [The $28 Million Mistake That Inspired Estonia&#39;s AI “Fuckup Finder”](https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/)
+ - [Cheaper Phones Will Be Harder to Find This Year and in 2027, Analysts Warn](https://www.cnet.com/tech/mobile/ram-crisis-fewer-cheap-phones-under-400-dollars/)
+ - [The AI data center boom has led to surging demand for power transformers, with average lead times for orders, once measured in months, now stretching into years &lpar;Financial Times&rpar;](https://www.techmeme.com/260709/p4#a260709p4)
+ - [A Brown University professor suspected his class used AI to cheat after a take-home midterm averaged 96%, prompting an in-person final, which averaged 48.6% &lpar;Emma Whitford/Inside Higher Ed&rpar;](https://www.techmeme.com/260709/p3#a260709p3)
+ - [Companies are mobilizing internal groups of &quot;AI champions&quot; to drive adoption; BCG says 74% of front-line employees now use AI regularly, up from 51% in 2025 &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260709/p2#a260709p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amseatec Criss Cross Office Chair Review: Just Right](https://www.wired.com/review/amseatec-criss-cross-office-chair/)
- - [Data Centers Are Quietly Taking Over Texas. The Pollution Could Be Catastrophic](https://www.wired.com/story/data-centers-taking-over-texas-pollution-could-be-catastrophic/)
- - [Internal US DOJ memo: attorneys working on digital currency cases should expect less cooperation from Binance, which is adding requirements for asset freezes &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260709/p9#a260709p9)
- - [Best Microsoft Surface Laptop &lpar;2026&rpar;: Which Model to Buy or Avoid](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [US cybersecurity and data resilience company Rubrik plans to invest $500M+ in the UK over the next five years and establish its European headquarters in London &lpar;Paul Sandle/Reuters&rpar;](https://www.techmeme.com/260709/p8#a260709p8)<!-- TECH:END -->
+ - [European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany&#39;s $3.2B, and France&#39;s $2.4B &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260709/p19#a260709p19)
+ - [A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway.](https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/)
+ - [Anthropic launches a &quot;reflection&quot; dashboard in beta for Free, Pro, and Max users to track Claude usage patterns over 1-, 3-, 6-, or 12-month intervals &lpar;Anthropic&rpar;](https://www.techmeme.com/260709/p18#a260709p18)
+ - [Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is &quot;profitable every month&quot; &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260709/p17#a260709p17)
+ - [Micron raises its US capex commitment to $250B through 2035, adding $50B for facilities in NY, ID, VA, and elsewhere, and invests $500M in GlobalWafers &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260709/p16#a260709p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

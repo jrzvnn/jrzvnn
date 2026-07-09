@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She let her intrusive thoughts win lol](http://9gag.com/gag/aNDNyXK)
- - 😝 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - 💣 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 😝 [A gif&lpar;t&rpar; for you](http://9gag.com/gag/agmWRng)
+ - 😝 [Robinhood Bus](http://9gag.com/gag/a9yo39K)
+ - 💣 [Getting sent into orbit](http://9gag.com/gag/avyNYKM)
  - 😝 [So they run out of reasons to put here...](http://9gag.com/gag/aVvAGMw)
- - 👉 [Bacon](http://9gag.com/gag/a4PvMZA)<!-- MEMES:END -->
+ - 👉 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)<!-- MEMES:END -->
 
 ---
 

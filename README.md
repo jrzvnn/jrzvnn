@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European startups raised $24B in Q2, up 66% YoY and the strongest quarter in four years; UK startups raised $10.4B, above Germany&#39;s $3.2B, and France&#39;s $2.4B &lpar;Gené Teare/Crunchbase News&rpar;](https://www.techmeme.com/260709/p19#a260709p19)
- - [A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway.](https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/)
- - [Anthropic launches a &quot;reflection&quot; dashboard in beta for Free, Pro, and Max users to track Claude usage patterns over 1-, 3-, 6-, or 12-month intervals &lpar;Anthropic&rpar;](https://www.techmeme.com/260709/p18#a260709p18)
- - [Databento, which sells financial data feeds, raised a $97M Series B led by NEA, taking its total funding to $127M, and says it is &quot;profitable every month&quot; &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260709/p17#a260709p17)
- - [Micron raises its US capex commitment to $250B through 2035, adding $50B for facilities in NY, ID, VA, and elsewhere, and invests $500M in GlobalWafers &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260709/p16#a260709p16)<!-- TECH:END -->
+ - [The 1X Neo Robot Has Freaky Fast Fingers](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
+ - [Kraken Technology, which designs and builds autonomous maritime platforms, such as uncrewed subsurface vessels, raised a $175M Series B at a $1B valuation &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260709/p25#a260709p25)
+ - [Best Wireless Bluetooth Boom Boxes for 2026](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/)
+ - [The Scottish Open 2026: TV Schedule, How to Watch All the Golf Action From Anywhere](https://www.cnet.com/tech/services-and-software/the-scottish-open-2026-tv-schedule-how-to-watch-stream-all-the-golf-action-from-anywhere/)
+ - [Schlage’s Sense Pro unlocks the door so I don’t have to](https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

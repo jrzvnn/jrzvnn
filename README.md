@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple going big at Comic Con with a 2-hour panel and show preview](https://appleinsider.com/articles/26/07/09/apple-going-big-at-comic-con-with-a-2-hour-panel-and-show-preview?utm_source=rss)
- - [GPT-5.6 Sol costs $5 per 1M input tokens and $30 per 1M output tokens, GPT-5.6 Terra costs $2.50 and $15, and GPT-5.6 Luna costs $1 and $6 &lpar;OpenAI&rpar;](https://www.techmeme.com/260709/p28#a260709p28)
- - [Google&amp;#8217;s Nest Thermostat has hit its best price of the year](https://www.theverge.com/gadgets/963475/google-nest-thermostat-deal-sale)
- - [Import duty cuts make India even more attractive for iPhone manufacturing](https://appleinsider.com/articles/26/07/09/import-duty-cuts-make-india-even-more-attractive-for-iphone-manufacturing?utm_source=rss)
- - [Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/)<!-- TECH:END -->
+ - [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
+ - [PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p34#a260709p34)
+ - [Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude&#39;s subscription plans &quot;when sufficient capacity allows&quot; &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260709/p33#a260709p33)
+ - [The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp &lpar;Sam Clark/Politico&rpar;](https://www.techmeme.com/260709/p32#a260709p32)
+ - [AI agents move deeper into business workflows with ChatGPT Work &amp; GPT-5.6](https://appleinsider.com/articles/26/07/09/ai-agents-move-deeper-into-business-workflows-with-chatgpt-work-gpt-56?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

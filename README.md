@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will now tell you if an ad was made with AI](https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label)
- - [PitchBook: US venture funding hit $412.7B in H1 2026, up 30% on all of 2025, with AI startup funding accounting for 86%, or $355.9B; Q2 saw seven $1B+ rounds &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p34#a260709p34)
- - [Anthropic, set to add usage-based billing for Fable 5 on July 12, aims to return the model to Claude&#39;s subscription plans &quot;when sufficient capacity allows&quot; &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260709/p33#a260709p33)
- - [The EU Parliament advances a bill letting tech companies scan for CSAM, reviving a proposal rejected in March, with an exemption for E2EE services like WhatsApp &lpar;Sam Clark/Politico&rpar;](https://www.techmeme.com/260709/p32#a260709p32)
- - [AI agents move deeper into business workflows with ChatGPT Work &amp; GPT-5.6](https://appleinsider.com/articles/26/07/09/ai-agents-move-deeper-into-business-workflows-with-chatgpt-work-gpt-56?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase&#39;s chief legal officer, Paul Grewal, is stepping down after six years; VP of legal Molly Abraham moves into his role with the title of general counsel &lpar;Hannah Lang/Reuters&rpar;](https://www.techmeme.com/260709/p37#a260709p37)
+ - [Meta Introduces a Big New AI Model for the Agentic Age](https://www.cnet.com/tech/services-and-software/meta-muse-spark-new-ai-model-agentic/)
+ - [Federal Reserve Chair Kevin Warsh names Marc Andreessen and Xbox CEO Asha Sharma to lead a task force on the economic impact of new technologies, including AI &lpar;Andrew Ackerman/Washington Post&rpar;](https://www.techmeme.com/260709/p36#a260709p36)
+ - [The ChatGPT browser is already dead](https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset)
+ - [The floatable, powerful Soundcore Boom 2 speaker is over half off](https://www.theverge.com/gadgets/963537/anker-soundcore-boom-2-bluetooth-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

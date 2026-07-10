@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260709/p42#a260709p42)
- - [Govee 21-inch Smart Ceiling Light Ultra review: blurry motifs &amp; excellent lighting](https://appleinsider.com/articles/26/07/09/govee-21-inch-smart-ceiling-light-ultra-review-blurry-motifs-excellent-lighting?utm_source=rss)
- - [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p41#a260709p41)
- - [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor)
- - [OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down](https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/)<!-- TECH:END -->
+ - [Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a fivefold return for Carlyle &lpar;Financial Times&rpar;](https://www.techmeme.com/260709/p47#a260709p47)
+ - [Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p46#a260709p46)
+ - [MiniMax is looking to raise as much as $1.9B by selling 35.6M shares at ~$34 each and offering ~$830M in convertible bonds due 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p45#a260709p45)
+ - [1X says its humanoid robot Neo&#39;s five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260709/p44#a260709p44)
+ - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

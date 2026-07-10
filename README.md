@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing](https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/)
- - [Anker&amp;#8217;s 3-in-1 Qi2.2 charging station is $95 off](https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale)
- - [Meta’s Pursuit of the &#39;Careless People&#39; Author Is Relentless and Self-Defeating](https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/)
- - [Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p17#a260710p17)
- - [Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised €91M, including €76M under the European Chips Act &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260710/p16#a260710p16)<!-- TECH:END -->
+ - [Co-op Game Orbitals Is a Split Fiction-Like Delight, an &#39;Anime You Can Play&#39;](https://www.cnet.com/tech/gaming/orbitals-game-anime-split-fiction-sgf-2026/)
+ - [Spotify will let you fine-tune your weekly Release Radar playlist](https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls)
+ - [The Best Deals Worth Shopping This Week, According to CNET&#39;s Experts](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)
+ - [Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p19#a260710p19)
+ - [Netflix is turning into YouTube](https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

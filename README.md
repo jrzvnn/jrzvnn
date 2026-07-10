@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The hunger games?](http://9gag.com/gag/aoyXB00)
- - 😝 [Robinhood Bus](http://9gag.com/gag/a9yo39K)
- - 💣 [Challenging wank](http://9gag.com/gag/aNDNyDA)
- - 😝 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
- - 👉 [The culture](http://9gag.com/gag/axy5pWD)<!-- MEMES:END -->
+ - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 😝 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
+ - 💣 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
+ - 😝 [Bacon](http://9gag.com/gag/a4PvMZA)
+ - 👉 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)<!-- MEMES:END -->
 
 ---
 

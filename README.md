@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky interim CEO Toni Schneider becomes the company&#39;s permanent CEO, four months after succeeding Jay Graber &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260710/p32#a260710p32)
+ - [A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation &lpar;Noam Scheiber/New York Times&rpar;](https://www.techmeme.com/260710/p31#a260710p31)
+ - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
  - [Apple sues OpenAI &amp; previous VP of product design over mass IP theft](https://appleinsider.com/articles/26/07/10/apple-sues-openai-previous-vp-of-product-design-over-mass-ip-theft?utm_source=rss)
- - [In its lawsuit, Apple chronicles in vivid detail how its former employees that went to work for OpenAI allegedly violated their confidentiality agreements &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260710/p29#a260710p29)
- - [Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple&#39;s cloud file storage while employed by OpenAI &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260710/p28#a260710p28)
- - [Former Apple Employees Stole Trade Secrets for OpenAI, Lawsuit Alleges](https://www.cnet.com/tech/mobile/former-apple-employees-stole-trade-secrets-for-openai-lawsuit-alleges/)
- - [Apple claims OpenAI recruited 400+ ex-Apple employees, including an iPhone engineer who allegedly downloaded confidential hardware files before joining OpenAI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260710/p27#a260710p27)<!-- TECH:END -->
+ - [Apple says OpenAI leadership &quot;normalized&quot; misconduct and OpenAI&#39;s hardware business is &quot;rotten to its core by its illegal reliance&quot; on stolen trade secrets &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260710/p30#a260710p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

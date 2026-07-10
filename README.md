@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Greg Brockman will continue to oversee OpenAI&#39;s products as the company doesn&#39;t plan to hire anyone to replace Fidji Simo after she stepped down &lpar;CNBC&rpar;](https://www.techmeme.com/260710/p24#a260710p24)
- - [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)
- - [The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260710/p23#a260710p23)
- - [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo)
- - [China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p22#a260710p22)<!-- TECH:END -->
+ - [Apple sues OpenAI &amp; previous VP of product design over mass IP theft](https://appleinsider.com/articles/26/07/10/apple-sues-openai-previous-vp-of-product-design-over-mass-ip-theft?utm_source=rss)
+ - [In its lawsuit, Apple chronicles in vivid detail how its former employees that went to work for OpenAI allegedly violated their confidentiality agreements &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260710/p29#a260710p29)
+ - [Apple alleges that a former Apple engineer kept a work-issued Apple laptop and exploited a bug to access Apple&#39;s cloud file storage while employed by OpenAI &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260710/p28#a260710p28)
+ - [Former Apple Employees Stole Trade Secrets for OpenAI, Lawsuit Alleges](https://www.cnet.com/tech/mobile/former-apple-employees-stole-trade-secrets-for-openai-lawsuit-alleges/)
+ - [Apple claims OpenAI recruited 400+ ex-Apple employees, including an iPhone engineer who allegedly downloaded confidential hardware files before joining OpenAI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260710/p27#a260710p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

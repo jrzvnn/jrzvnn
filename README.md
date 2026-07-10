@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: college social app Fizz accuses Maveron&#39;s Jerry Lu of giving confidential info to rival Sidechat after he met with Fizz as a potential investor in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260710/p21#a260710p21)
- - [MIT Study Lights Way for Bright, Efficient Quantum Dot LED TV Screens](https://www.cnet.com/tech/home-entertainment/qd-led-displays-study/)
- - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
- - [Privacy advocates, CAA, and SAG-AFTRA slam Meta&#39;s Muse Image, which lets users create AI images using the likenesses of people with public Instagram accounts &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260710/p20#a260710p20)
- - [Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)<!-- TECH:END -->
+ - [Source: Greg Brockman will continue to oversee OpenAI&#39;s products as the company doesn&#39;t plan to hire anyone to replace Fidji Simo after she stepped down &lpar;CNBC&rpar;](https://www.techmeme.com/260710/p24#a260710p24)
+ - [A decade later, Pokémon Go finally made good on its original promise](https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026)
+ - [The Department of Commerce loosens export controls to the UAE, letting G42 and US companies like Apple, Meta, and xAI export AI chips to UAE without a license &lpar;Karen Freifeld/Reuters&rpar;](https://www.techmeme.com/260710/p23#a260710p23)
+ - [ICE is threatening to deport witnesses of its latest shooting](https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo)
+ - [China drops a numerical target for urban job creation in its five-year plan, the first such omission since the 1990s, amid volatility fueled by AI displacement &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p22#a260710p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

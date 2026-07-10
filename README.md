@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Meta Superintelligence Labs&#39; growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260710/p2#a260710p2)
- - [Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot](https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/)
- - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
- - [Chewy Promo Codes: $20 Off July 2026](https://www.wired.com/story/chewy-promo-code/)
- - [50% Off DoorDash Promo Code | July 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
+ - [A New Experiential Gallery Just Might Change Your Mind About AI Art](https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/)
+ - [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p7#a260710p7)
+ - [Taiwan&#39;s leading DRAM maker Nanya Technology expects its capex to hit ~$6.2B in 2027, up 4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260710/p6#a260710p6)
+ - [Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260710/p5#a260710p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

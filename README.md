@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold battery now rumored to have less capacity than expected](https://appleinsider.com/articles/26/07/10/iphone-fold-battery-now-rumored-to-have-less-capacity-than-expected?utm_source=rss)
- - [From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old](https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss)
- - [No, EU iPhones won&#39;t have a removable battery door in 2027](https://appleinsider.com/articles/26/07/10/no-eu-iphones-wont-have-a-removable-battery-door-in-2027?utm_source=rss)
- - [Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself in the coming days, which aims to help the public use government services &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260710/p11#a260710p11)
- - [Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services &lpar;Vildana Hajric/Bloomberg&rpar;](https://www.techmeme.com/260710/p10#a260710p10)<!-- TECH:END -->
+ - [Hiboy P6 Fat Tire Electric Bike Review: Smooth Sailing](https://www.wired.com/review/hiboy-p6-fat-tire-electric-bike/)
+ - [Anker&amp;#8217;s 3-in-1 Qi2.2 charging station is $95 off](https://www.theverge.com/gadgets/963665/anker-prime-wireless-charging-station-lg-oled-c6-tv-deal-sale)
+ - [Meta’s Pursuit of the &#39;Careless People&#39; Author Is Relentless and Self-Defeating](https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/)
+ - [Phia, a shopping app co-founded by Phoebe Gates that has raised $43.5M, appears to be using fake clicks or &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p17#a260710p17)
+ - [Munich-based QuantumDiamonds, which uses quantum sensors to detect chip defects, raised €91M, including €76M under the European Chips Act &lpar;Cristian Dina/The Next Web&rpar;](https://www.techmeme.com/260710/p16#a260710p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

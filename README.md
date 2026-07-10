@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/best-pool-accessories/)
- - [A New Experiential Gallery Just Might Change Your Mind About AI Art](https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/)
- - [Filing: Polymarket is seeking CFTC approval to offer margin trading in the US, a move that would let users bet on events with less capital upfront &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p7#a260710p7)
- - [Taiwan&#39;s leading DRAM maker Nanya Technology expects its capex to hit ~$6.2B in 2027, up 4x YoY, and reports unaudited Q2 revenue of ~$2.6B, up 684% YoY &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260710/p6#a260710p6)
- - [Memo: MiniMax CEO Junjie Yan tells employees he will forgo his salary until MiniMax achieves AGI and promises to allocate personal shares to employee incentives &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260710/p5#a260710p5)<!-- TECH:END -->
+ - [iPhone Fold battery now rumored to have less capacity than expected](https://appleinsider.com/articles/26/07/10/iphone-fold-battery-now-rumored-to-have-less-capacity-than-expected?utm_source=rss)
+ - [From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old](https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss)
+ - [No, EU iPhones won&#39;t have a removable battery door in 2027](https://appleinsider.com/articles/26/07/10/no-eu-iphones-wont-have-a-removable-battery-door-in-2027?utm_source=rss)
+ - [Malaysia Prime Minister Anwar Ibrahim plans to debut an agentic AI avatar of himself in the coming days, which aims to help the public use government services &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260710/p11#a260710p11)
+ - [Circle says it received US regulator approval to start a national digital-currency trust bank, allowing it to offer institutional custody services &lpar;Vildana Hajric/Bloomberg&rpar;](https://www.techmeme.com/260710/p10#a260710p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

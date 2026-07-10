@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
- - 😝 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
+ - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 😝 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
  - 💣 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
- - 😝 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)
- - 👉 [Never trust them.](http://9gag.com/gag/aGyXP45)<!-- MEMES:END -->
+ - 😝 [Wait a minute...](http://9gag.com/gag/aE0Ldqe)
+ - 👉 [Ok, so basically I&#39;m very smol](http://9gag.com/gag/ae9LX3W)<!-- MEMES:END -->
 
 ---
 

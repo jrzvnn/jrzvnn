@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
  - 😝 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
- - 💣 [No she is judge no more](http://9gag.com/gag/a9yo3qm)
- - 😝 [Bacon](http://9gag.com/gag/a4PvMZA)
- - 👉 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)<!-- MEMES:END -->
+ - 😝 [She let her intrusive thoughts win lol](http://9gag.com/gag/aNDNyXK)
+ - 💣 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
+ - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 👉 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Co-op Game Orbitals Is a Split Fiction-Like Delight, an &#39;Anime You Can Play&#39;](https://www.cnet.com/tech/gaming/orbitals-game-anime-split-fiction-sgf-2026/)
- - [Spotify will let you fine-tune your weekly Release Radar playlist](https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls)
- - [The Best Deals Worth Shopping This Week, According to CNET&#39;s Experts](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)
- - [Analysis: Alphabet, Amazon, Meta, Microsoft, and Oracle, the top spenders on new US data centers, collectively added ~$350B in debt over the past five years &lpar;Bloomberg&rpar;](https://www.techmeme.com/260710/p19#a260710p19)
- - [Netflix is turning into YouTube](https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast)<!-- TECH:END -->
+ - [Filing: college social app Fizz accuses Maveron&#39;s Jerry Lu of giving confidential info to rival Sidechat after he met with Fizz as a potential investor in 2022 &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260710/p21#a260710p21)
+ - [MIT Study Lights Way for Bright, Efficient Quantum Dot LED TV Screens](https://www.cnet.com/tech/home-entertainment/qd-led-displays-study/)
+ - [Meet the Battery Startup Taking on China’s Giants](https://www.wired.com/story/prologium-battery-startup-betting-against-china/)
+ - [Privacy advocates, CAA, and SAG-AFTRA slam Meta&#39;s Muse Image, which lets users create AI images using the likenesses of people with public Instagram accounts &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260710/p20#a260710p20)
+ - [Nvidia&amp;#8217;s biggest RAM supplier just had a trillion-dollar debut on Wall Street](https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

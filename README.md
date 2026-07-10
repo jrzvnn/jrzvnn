@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluesky interim CEO Toni Schneider becomes the company&#39;s permanent CEO, four months after succeeding Jay Graber &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260710/p32#a260710p32)
- - [A US NLRB judge rules that Atlassian had illegally fired an employee in 2023 for pushing back against manager layoffs, and orders reinstatement and compensation &lpar;Noam Scheiber/New York Times&rpar;](https://www.techmeme.com/260710/p31#a260710p31)
- - [Apple sues OpenAI for allegedly stealing hardware secrets](https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets)
- - [Apple sues OpenAI &amp; previous VP of product design over mass IP theft](https://appleinsider.com/articles/26/07/10/apple-sues-openai-previous-vp-of-product-design-over-mass-ip-theft?utm_source=rss)
- - [Apple says OpenAI leadership &quot;normalized&quot; misconduct and OpenAI&#39;s hardware business is &quot;rotten to its core by its illegal reliance&quot; on stolen trade secrets &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260710/p30#a260710p30)<!-- TECH:END -->
+ - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)
+ - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
+ - [In response to Apple&#39;s trade secret theft lawsuit, OpenAI says &quot;we have no interest in other companies&#39; trade secrets&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260710/p34#a260710p34)
+ - [CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials &lpar;Eric Geller/Cybersecurity Dive&rpar;](https://www.techmeme.com/260710/p33#a260710p33)
+ - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

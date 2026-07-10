@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 😝 [She let her intrusive thoughts win lol](http://9gag.com/gag/aNDNyXK)
- - 💣 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
- - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 💣 [The guys probably already guess what the bang is, but they didn&#39;t have the heart to tell her.](http://9gag.com/gag/aYQ2NDN)
+ - 😝 [Impossibru](http://9gag.com/gag/aMV319A)
  - 👉 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)<!-- MEMES:END -->
 
 ---

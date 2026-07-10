@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carlyle agrees to sell US data center power and infrastructure platform Copia to EQT; sources: the deal values Copia at $2.6B, a fivefold return for Carlyle &lpar;Financial Times&rpar;](https://www.techmeme.com/260709/p47#a260709p47)
- - [Oxylabs, which develops web data scraping infrastructure, received a $130M investment at a $3.6B valuation from Warburg Pincus, its first outside investment &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260709/p46#a260709p46)
- - [MiniMax is looking to raise as much as $1.9B by selling 35.6M shares at ~$34 each and offering ~$830M in convertible bonds due 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p45#a260709p45)
- - [1X says its humanoid robot Neo&#39;s five-fingered hands have tendon-style actuators that give it 25 degrees of freedom of movement, nearly the same as a human hand &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260709/p44#a260709p44)
- - [Thousands of ‘Pokémon Go’ Players Descend on Times Square to Defeat Mewtwo](https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/)<!-- TECH:END -->
+ - [A look at Meta Superintelligence Labs&#39; growth in the past year, including a top-tier RL environment and compute ramp that could catch up to Anthropic and OpenAI &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260710/p2#a260710p2)
+ - [Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot](https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/)
+ - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Chewy Promo Codes: $20 Off July 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [50% Off DoorDash Promo Code | July 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
- - 😝 [Daily Cat Picture](http://9gag.com/gag/a6ZPvGA)
- - 💣 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
- - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - 👉 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)<!-- MEMES:END -->
+ - 😝 [Why African and European in Easterners countries?](http://9gag.com/gag/a9yo3r6)
+ - 😝 [What does it feel like being bitten by a rabbit?](http://9gag.com/gag/a6ZPvze)
+ - 💣 [Never trust them.](http://9gag.com/gag/aGyXP45)
+ - 😝 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)
+ - 👉 [Who was your first kiss](http://9gag.com/gag/aqy0vpQ)<!-- MEMES:END -->
 
 ---
 

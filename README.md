@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercor acquires Deeptune, which builds reinforcement learning environments for AI agents, three months after CEO Brendan Foody backed Deeptune&#39;s $43M Series A &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260709/p39#a260709p39)
- - [Maine’s Senate Race Implodes, Meta’s Threads Rivals Musk’s X, and the Trump Phone Arrives](https://www.wired.com/story/uncanny-valley-podcast-maine-senate-race-implodes-meta-threads-trump-phone-arrives/)
- - [US Weighs Removing Steering Wheel Requirement for Driverless Cars](https://www.cnet.com/roadshow/news/driverless-cars-steering-wheel-requirement-us-nhtsa/)
- - [Sources: Netflix executives are increasingly worried about declining engagement and are exploring adding live TV and bundling streaming services like Peacock &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260709/p38#a260709p38)
- - [Come to Our WIRED@NIGHT02 Film Screening!](https://www.wired.com/story/come-to-wirednight02-film-screening/)<!-- TECH:END -->
+ - [SAP will make it easier for customers to switch to rival service providers or end contracts, averting a possible EU antitrust fine after a September 2025 probe &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260709/p42#a260709p42)
+ - [Govee 21-inch Smart Ceiling Light Ultra review: blurry motifs &amp; excellent lighting](https://appleinsider.com/articles/26/07/09/govee-21-inch-smart-ceiling-light-ultra-review-blurry-motifs-excellent-lighting?utm_source=rss)
+ - [SK Hynix raises $26.5B in the largest ever US market debut by a foreign company, selling 177.9M ADRs for $149 each; the sale was more than 7x oversubscribed &lpar;Bloomberg&rpar;](https://www.techmeme.com/260709/p41#a260709p41)
+ - [Fidji Simo steps down from leading OpenAI’s AGI work due to illness](https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor)
+ - [OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down](https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

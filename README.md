@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch)
+ - [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer)
  - [Beatbot AquaSense X Review: A Pool Robot That Cleans Itself](https://www.wired.com/review/beatbot-aquasense-x/)
  - [Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page](https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/)
- - [Samsung Micro RGB R95H Review &lpar;2026&rpar;: Not the Brightest](https://www.wired.com/review/samsung-micro-rgb-r95h/)
- - [AI Found a Root Bug in Linux That Everyone Missed for 15 Years](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)
- - [We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?](https://www.wired.com/story/gourmet-dog-food/)<!-- TECH:END -->
+ - [Samsung Micro RGB R95H Review &lpar;2026&rpar;: Not the Brightest](https://www.wired.com/review/samsung-micro-rgb-r95h/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

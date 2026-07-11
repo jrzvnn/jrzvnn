@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
- - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 💣 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)
+ - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - 💣 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
  - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)<!-- MEMES:END -->
+ - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
 
 ---
 

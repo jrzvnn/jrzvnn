@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 💣 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)<!-- MEMES:END -->
+ - 😝 [Impossibru](http://9gag.com/gag/aMV319A)
+ - 😝 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
+ - 💣 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
+ - 😝 [Classic long game setup](http://9gag.com/gag/aAyoYAd)
+ - 👉 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
 
 ---
 

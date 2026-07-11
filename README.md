@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
- - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 💣 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
  - 😝 [Never trust them.](http://9gag.com/gag/aGyXP45)
- - 👉 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)<!-- MEMES:END -->
+ - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - 💣 [Heimlich Maneuver](http://9gag.com/gag/aAyoB3p)
+ - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 👉 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)<!-- MEMES:END -->
 
 ---
 

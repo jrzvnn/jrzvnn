@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A tasty RPG that will make you very hungry](https://www.theverge.com/entertainment/964061/dosa-divas-review-ps5-steam-switch)
- - [The perfect kit for all your tiny repairs](https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer)
- - [Beatbot AquaSense X Review: A Pool Robot That Cleans Itself](https://www.wired.com/review/beatbot-aquasense-x/)
- - [Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page](https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/)
- - [Samsung Micro RGB R95H Review &lpar;2026&rpar;: Not the Brightest](https://www.wired.com/review/samsung-micro-rgb-r95h/)<!-- TECH:END -->
+ - [US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% &lpar;Guillermo Gallacher/Indeed Hiring Lab&rpar;](https://www.techmeme.com/260711/p6#a260711p6)
+ - [I Tested Baseus&#39; Incredibly Thin New Wireless Portable Charger. Is It the One to Get?](https://www.cnet.com/tech/mobile/baseus-picogo-air-am71-power-bank-review/)
+ - [Still Need a Blu-Ray Player in 2026? Here&#39;s the One I Heartily Recommend](https://www.cnet.com/tech/home-entertainment/best-blu-ray-player/)
+ - [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings)
+ - [Apple&#39;s 100% tariff exemption may have been helped by Intel supply deal](https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

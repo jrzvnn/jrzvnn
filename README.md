@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)
- - [Microsoft Reports a Massive 25 Percent Jump in Emissions](https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/)
- - [In response to Apple&#39;s trade secret theft lawsuit, OpenAI says &quot;we have no interest in other companies&#39; trade secrets&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260710/p34#a260710p34)
- - [CISA says weak security controls around the use of public GitHub repos allowed a contractor to accidentally leak private cloud access keys and other credentials &lpar;Eric Geller/Cybersecurity Dive&rpar;](https://www.techmeme.com/260710/p33#a260710p33)
- - [The FCC is cracking down on DJI tech that dodged the foreign drone ban](https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab)<!-- TECH:END -->
+ - [Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &quot;extends human will and judgment&quot; &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260710/p37#a260710p37)
+ - [No, Flock isn&amp;#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
+ - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
+ - [SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030 &lpar;Reuters&rpar;](https://www.techmeme.com/260710/p36#a260710p36)
+ - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

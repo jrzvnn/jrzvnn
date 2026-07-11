@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
- - 😝 [Impossibru](http://9gag.com/gag/aMV319A)
- - 💣 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
- - 😝 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
- - 👉 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
+ - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
+ - 💣 [Doing my part](http://9gag.com/gag/a87BLrY)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)<!-- MEMES:END -->
 
 ---
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
  - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 💣 [Let&#39;s play a game I call .....next](http://9gag.com/gag/aAyoR4Z)
- - 😝 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)
- - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
+ - 💣 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
  - [Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt&#39;s thesis &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](https://www.techmeme.com/260711/p10#a260711p10)
- - [Netflix&#39;s Riveting True Crime Series Explores the Horrors That Lurk Next Door](https://www.cnet.com/tech/services-and-software/netflix-worst-neighbor-ever-true-crime-horror-blumhouse/)
- - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
- - [Apple&#39;s lawsuit could sidetrack OpenAI&#39;s hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260711/p9#a260711p9)
- - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #861](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-861/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #1127](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-1127/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 12, #1849](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-12-1849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

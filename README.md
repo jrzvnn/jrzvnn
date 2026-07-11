@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave move](http://9gag.com/gag/aND6odK)
- - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 💣 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 👉 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)<!-- MEMES:END -->
+ - 😝 [And I already landed a job so it was worth it](http://9gag.com/gag/a4PD46m)
+ - 😝 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
+ - 💣 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
+ - 😝 [Erling Haaland Decorations](https://www.reddit.com/r/funny/comments/1uto0ve/erling_haaland_decorations/)
+ - 👉 [I wish I knew magic](http://9gag.com/gag/an7LY8o)<!-- MEMES:END -->
 
 ---
 

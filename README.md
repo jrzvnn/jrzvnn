@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 😝 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
- - 💣 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 👉 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)<!-- MEMES:END -->
+ - 😝 [Happens](http://9gag.com/gag/aND6rdv)
+ - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
+ - 💣 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1682](http://9gag.com/gag/ae9vNnB)
+ - 👉 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)<!-- MEMES:END -->
 
 ---
 

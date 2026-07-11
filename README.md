@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Here\u2019s 1 post 4 U](http://9gag.com/gag/aD2ERqZ)
  - 😝 [Impossibru](http://9gag.com/gag/aMV319A)
- - 😝 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
- - 💣 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
- - 😝 [Classic long game setup](http://9gag.com/gag/aAyoYAd)
+ - 💣 [Efficiency at its finest](http://9gag.com/gag/ajPoYGq)
+ - 😝 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
  - 👉 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)<!-- MEMES:END -->
 
 ---

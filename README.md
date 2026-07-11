@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you filthy enough for a $700 portable shower?](https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review)
- - [SK Hynix&#39;s historic US stock market listing is a bet that the AI boom is breaking the memory chip industry&#39;s decades-long boom-and-bust cycle &lpar;Bloomberg&rpar;](https://www.techmeme.com/260711/p4#a260711p4)
- - [An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% &lpar;Max Spero/Pangram Labs&rpar;](https://www.techmeme.com/260711/p3#a260711p3)
- - [Sources detail the Trump admin&#39;s heavy-handed intervention to aid Intel, including pushing it to expand local capacity and pressuring Apple to use Intel&#39;s fabs &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p2#a260711p2)
- - [Sources: activist investor Elliott has built a large stake in car insurance software maker CCC, which is exploring a potential sale and has a ~$3.5B market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260711/p1#a260711p1)<!-- TECH:END -->
+ - [How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas &lpar;New York Times&rpar;](https://www.techmeme.com/260711/p5#a260711p5)
+ - [Best Hiking Boots &lpar;2026&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
+ - [China’s Tianwen-2 Space Probe Has Rendezvoused With Earth’s Quasi-Moon](https://www.wired.com/story/chinas-tianwen-2-space-probe-earth-quasi-moon/)
+ - [El Niño Is Already Wreaking Havoc on Pacific Fisheries](https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/)
+ - [Best Weekend Ever? Playing Pokemon Go With 717,000 Fans of the Game](https://www.cnet.com/tech/gaming/chicago-pokemon-go-fest-2026-weekend-adventure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

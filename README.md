@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Looks like the perfect spot to take a nap](http://9gag.com/gag/aO8XqND)
  - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 💣 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
- - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 💣 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
+ - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
  - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
 
 ---

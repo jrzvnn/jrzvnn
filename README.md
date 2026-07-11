@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)
  - [Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260711/p7#a260711p7)
  - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)
  - [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale)
- - [The Next Solar Eclipse Is Delivering a Rare Sight: Totality at Sunset](https://www.cnet.com/science/totality-at-sunset-august-solar-eclipse/)
- - [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council)<!-- TECH:END -->
+ - [The Next Solar Eclipse Is Delivering a Rare Sight: Totality at Sunset](https://www.cnet.com/science/totality-at-sunset-august-solar-eclipse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

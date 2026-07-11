@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
  - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 😝 [Islamic Regime supporters pulling out Ayatollah Khamanei\u2019s\u2019 coffin from a portable Freezer. This looks like something from the Walking Dead.](http://9gag.com/gag/an7LqyL)
- - 💣 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)
- - 😝 [2 of my college professors also said Newton as their number 1 scientist.](http://9gag.com/gag/adBm6NB)
- - 👉 [Himalayan salt](http://9gag.com/gag/agmP3Mx)<!-- MEMES:END -->
+ - 💣 [Let&#39;s play a game I call .....next](http://9gag.com/gag/aAyoR4Z)
+ - 😝 [Roman dodecahedron](http://9gag.com/gag/ayNOpx8)
+ - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
 
 ---
 

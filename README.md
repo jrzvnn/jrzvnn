@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260711/p7#a260711p7)
  - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)
  - [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale)
- - [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council)
- - [US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% &lpar;Guillermo Gallacher/Indeed Hiring Lab&rpar;](https://www.techmeme.com/260711/p6#a260711p6)
- - [I Tested Baseus&#39; Incredibly Thin New Wireless Portable Charger. Is It the One to Get?](https://www.cnet.com/tech/mobile/baseus-picogo-air-am71-power-bank-review/)<!-- TECH:END -->
+ - [The Next Solar Eclipse Is Delivering a Rare Sight: Totality at Sunset](https://www.cnet.com/science/totality-at-sunset-august-solar-eclipse/)
+ - [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

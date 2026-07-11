@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beatbot AquaSense X Review: A Pool Robot That Cleans Itself](https://www.wired.com/review/beatbot-aquasense-x/)
+ - [Skylight’s Touchscreen Calendar Got my Whole Family on the Same Page](https://www.wired.com/story/skylight-digital-calendar-for-kids-who-are-touchscreen-natives/)
  - [Samsung Micro RGB R95H Review &lpar;2026&rpar;: Not the Brightest](https://www.wired.com/review/samsung-micro-rgb-r95h/)
  - [AI Found a Root Bug in Linux That Everyone Missed for 15 Years](https://www.wired.com/story/security-news-this-week-ai-found-a-root-bug-in-linux-that-everyone-missed-for-15-years/)
- - [We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?](https://www.wired.com/story/gourmet-dog-food/)
- - [How members of the extremist group Boko Haram are using AI chatbots to design explosives, fix or upgrade weapons, and brainstorm attack ideas &lpar;New York Times&rpar;](https://www.techmeme.com/260711/p5#a260711p5)
- - [Best Hiking Boots &lpar;2026&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)<!-- TECH:END -->
+ - [We Make Lovely Home-Cooked Meals for Ourselves. Why Not Do the Same for Our Dogs?](https://www.wired.com/story/gourmet-dog-food/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

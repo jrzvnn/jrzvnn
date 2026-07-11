@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
- - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
- - [Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &quot;extends human will and judgment&quot; &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260710/p37#a260710p37)
- - [No, Flock isn&amp;#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
- - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)<!-- TECH:END -->
+ - [An analysis of 1M+ social media posts from April 24 to June 30: ~25% of longform posts with 250+ words were fully AI-generated; on LinkedIn, the figure was 41% &lpar;Max Spero/Pangram Labs&rpar;](https://www.techmeme.com/260711/p3#a260711p3)
+ - [Sources detail the Trump admin&#39;s heavy-handed intervention to aid Intel, including pushing it to expand local capacity and pressuring Apple to use Intel&#39;s fabs &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p2#a260711p2)
+ - [Sources: activist investor Elliott has built a large stake in car insurance software maker CCC, which is exploring a potential sale and has a ~$3.5B market cap &lpar;Bloomberg&rpar;](https://www.techmeme.com/260711/p1#a260711p1)
+ - [Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer](https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/)
+ - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

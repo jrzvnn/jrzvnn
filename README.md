@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)
+ - [Nintendo’s Talking Flower got a small price cut](https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale)
+ - [White House taps the guy who keeps crying ‘aliens’ to run UFO group](https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council)
  - [US software development job postings on Indeed have grown by ~15% since the launch of Claude Code in February 2025, while overall job postings fell by 7% &lpar;Guillermo Gallacher/Indeed Hiring Lab&rpar;](https://www.techmeme.com/260711/p6#a260711p6)
- - [I Tested Baseus&#39; Incredibly Thin New Wireless Portable Charger. Is It the One to Get?](https://www.cnet.com/tech/mobile/baseus-picogo-air-am71-power-bank-review/)
- - [Still Need a Blu-Ray Player in 2026? Here&#39;s the One I Heartily Recommend](https://www.cnet.com/tech/home-entertainment/best-blu-ray-player/)
- - [ICE are heavily armed killers. They’re also huge losers](https://www.theverge.com/policy/964302/ice-donald-trump-killings)
- - [Apple&#39;s 100% tariff exemption may have been helped by Intel supply deal](https://appleinsider.com/articles/26/07/11/apples-100-tariff-exemption-may-have-been-helped-by-intel-supply-deal?utm_source=rss)<!-- TECH:END -->
+ - [I Tested Baseus&#39; Incredibly Thin New Wireless Portable Charger. Is It the One to Get?](https://www.cnet.com/tech/mobile/baseus-picogo-air-am71-power-bank-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

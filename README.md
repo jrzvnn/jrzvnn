@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s head of safety, Johannes Heidecke, is leaving as OpenAI integrates its research and safety teams; Mia Glaese will become VP of research and safety &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260710/p38#a260710p38)
+ - [OpenAI’s Head of Safety Is Leaving the Company](https://www.wired.com/story/openai-head-of-safety-leaving/)
  - [Thinking Machines says its mission is to build AI that people and organizations can shape and make their own, and that &quot;extends human will and judgment&quot; &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260710/p37#a260710p37)
  - [No, Flock isn&amp;#8217;t threatening people for debating surveillance](https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter)
- - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)
- - [SK Hynix CEO Kwak Noh-Jung says the memory industry is heading for its worst-ever supply shortage in 2027 and demand will outstrip supply beyond 2030 &lpar;Reuters&rpar;](https://www.techmeme.com/260710/p36#a260710p36)
- - [Meta says it will discontinue a feature that allowed users to generate images in Meta AI using public Instagram accounts, following days of criticism &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260710/p35#a260710p35)<!-- TECH:END -->
+ - [Meta turns off the Instagram feature that let users make AI deepfakes of public accounts](https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And I already landed a job so it was worth it](http://9gag.com/gag/a4PD46m)
- - 😝 [Leadership summed in a facial expression](http://9gag.com/gag/amoEX54)
- - 💣 [Ba ba ba banana](http://9gag.com/gag/axyXdL1)
  - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 👉 [According to ancient Greek sculptors, this is the peak female body shape](http://9gag.com/gag/a5Q8eOE)<!-- MEMES:END -->
+ - 😝 [Himalayan salt](http://9gag.com/gag/agmP3Mx)
+ - 💣 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [This clip was saved from here years ago, so enjoy](http://9gag.com/gag/a87BLKp)<!-- MEMES:END -->
 
 ---
 

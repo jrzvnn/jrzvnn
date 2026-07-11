@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt&#39;s thesis &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](https://www.techmeme.com/260711/p10#a260711p10)
+ - [Netflix&#39;s Riveting True Crime Series Explores the Horrors That Lurk Next Door](https://www.cnet.com/tech/services-and-software/netflix-worst-neighbor-ever-true-crime-horror-blumhouse/)
  - [Oregon’s Attorney General withdraws effort to delay Paramount and Warner Bros. merger](https://www.theverge.com/policy/964493/oregons-ag-delay-paramount-warner-bros-merger)
  - [Apple&#39;s lawsuit could sidetrack OpenAI&#39;s hardware aspirations for years, or possibly forever, as the startup gets into yet another controversy and messy divorce &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260711/p9#a260711p9)
- - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)
- - [Filing: Google urged the European Commission not to target DNS resolvers, VPNs, or IPs to fight piracy, calling the measures ineffective and easily circumvented &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](https://www.techmeme.com/260711/p7#a260711p7)
- - [FL Studio head Constantin Koehncke turns to Reddit for feedback and fun](https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview)<!-- TECH:END -->
+ - [Apple&#39;s OpenAI lawsuit follows months of simmering tensions and highlights OpenAI&#39;s hardware chief Tang Tan&#39;s strained relationship with former boss John Ternus &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260711/p8#a260711p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 😝 [Weird night](http://9gag.com/gag/aO8XK9r)
- - 💣 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)<!-- MEMES:END -->
+ - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
+ - 😝 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)
+ - 💣 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 😝 [Self defence in the UK](http://9gag.com/gag/azx0Loj)
+ - 👉 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)<!-- MEMES:END -->
 
 ---
 

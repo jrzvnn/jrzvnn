@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
+ - [Crime blotter: Stolen iPad leads to arrest of accused bank robber](https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss)
  - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
- - [Users of AI coding tools are flooding open-source projects with low-quality contributions, overwhelming maintainers and potentially eroding community engagement &lpar;Sam Learner/Financial Times&rpar;](https://www.techmeme.com/260712/p5#a260712p5)
- - [Here’s How Apple Is Updating Its Child Safety Features in iOS 27](https://www.wired.com/story/apple-child-safety-ios-27/)
- - [28 Best STEM Toys for Kids &lpar;2026&rpar;: Learning Made Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
- - [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)<!-- TECH:END -->
+ - [The Apple Watch&#39;s Biggest Weakness Makes the Best Case for an Apple Ring](https://www.cnet.com/tech/mobile/apple-smart-ring-fixes-apple-watch-biggest-weakness/)
+ - [Users of AI coding tools are flooding open-source projects with low-quality contributions, overwhelming maintainers and potentially eroding community engagement &lpar;Sam Learner/Financial Times&rpar;](https://www.techmeme.com/260712/p5#a260712p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

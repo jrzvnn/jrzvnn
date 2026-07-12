@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The fight against AI data centers is just beginning](https://www.theverge.com/column/963346/ai-data-centers-fight)
- - [Crime blotter: Stolen iPad leads to arrest of accused bank robber](https://appleinsider.com/articles/26/07/12/crime-blotter-stolen-ipad-leads-to-arrest-of-accused-bank-robber?utm_source=rss)
- - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
- - [The Apple Watch&#39;s Biggest Weakness Makes the Best Case for an Apple Ring](https://www.cnet.com/tech/mobile/apple-smart-ring-fixes-apple-watch-biggest-weakness/)
- - [Users of AI coding tools are flooding open-source projects with low-quality contributions, overwhelming maintainers and potentially eroding community engagement &lpar;Sam Learner/Financial Times&rpar;](https://www.techmeme.com/260712/p5#a260712p5)<!-- TECH:END -->
+ - [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables)
+ - [You Could Be Eligible for Part of Apple&#39;s $250M AI iPhone Settlement. How to Find Out](https://www.cnet.com/tech/mobile/how-to-claim-apple-250-million-ai-iphone-settlement/)
+ - [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding)
+ - [Darren Aronofsky&#39;s &#39;1776&#39; AI Video Series Is Unhinged, and I Can&#39;t Look Away](https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/)
+ - [Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

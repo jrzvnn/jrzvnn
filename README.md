@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
- - 💣 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)<!-- MEMES:END -->
+ - 😝 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 😝 [The best dog ever](http://9gag.com/gag/a5Q8N6G)
+ - 💣 [I wish I knew magic](http://9gag.com/gag/an7LY8o)
+ - 😝 [2 of my college professors also said Newton as their number 1 scientist.](http://9gag.com/gag/adBm6NB)
+ - 👉 [Million](http://9gag.com/gag/aVvNQmM)<!-- MEMES:END -->
 
 ---
 

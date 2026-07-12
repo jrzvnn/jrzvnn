@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is already taping out M7 with major NPU upgrades, and plans M7 Ultra with 1.5TB RAM, and M8, for 2028; new Pencils are coming with a new iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260712/p6#a260712p6)
  - [M6 era will last just six months as Apple pushes for AI-focused M7](https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss)
  - [One of SteelSeries&amp;#8217; best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale)
  - [Power of Apple&#39;s M7 &amp; M8 chips was born from Apple Car research](https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research?utm_source=rss)
- - [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history)
- - [EU regulations could force an Apple Pencil upgrade in early 2027](https://appleinsider.com/articles/26/07/12/eu-regulations-could-force-an-apple-pencil-upgrade-in-early-2027?utm_source=rss)<!-- TECH:END -->
+ - [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
- - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 💣 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)
- - 😝 [You may be dumb but at least you dont dive when you already got yellow card in a quarterfinal in a world where VAR exists like this guy.](http://9gag.com/gag/axyX2LL)
- - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
+ - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 😝 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)
+ - 💣 [When she had enough](http://9gag.com/gag/aVvNWjd)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)<!-- MEMES:END -->
 
 ---
 

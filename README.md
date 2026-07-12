@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman logic](http://9gag.com/gag/a4PD4vZ)
+ - 😝 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
  - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 💣 [Tattoo removal](http://9gag.com/gag/a87BbOZ)
- - 😝 [London&#39;s finest:](http://9gag.com/gag/amoE02j)
- - 👉 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)<!-- MEMES:END -->
+ - 💣 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [Make this out of context](http://9gag.com/gag/a9y9MdD)<!-- MEMES:END -->
 
 ---
 

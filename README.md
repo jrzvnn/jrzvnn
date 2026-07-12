@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
- - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - 💣 [I wish I knew magic](http://9gag.com/gag/an7LY8o)
- - 😝 [Pretty neat!](http://9gag.com/gag/avy3gZn)
- - 👉 [Efficiency levels hitting different](http://9gag.com/gag/aRBYgq2)<!-- MEMES:END -->
+ - 😝 [Woman logic](http://9gag.com/gag/a4PD4vZ)
+ - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 💣 [Tattoo removal](http://9gag.com/gag/a87BbOZ)
+ - 😝 [London&#39;s finest:](http://9gag.com/gag/amoE02j)
+ - 👉 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An actual thing a reporter wrote and a news outlet published](http://9gag.com/gag/azx0EBm)
- - 😝 [The best dog ever](http://9gag.com/gag/a5Q8N6G)
- - 💣 [I wish I knew magic](http://9gag.com/gag/an7LY8o)
- - 😝 [2 of my college professors also said Newton as their number 1 scientist.](http://9gag.com/gag/adBm6NB)
- - 👉 [Million](http://9gag.com/gag/aVvNQmM)<!-- MEMES:END -->
+ - 😝 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
+ - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
+ - 👉 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)<!-- MEMES:END -->
 
 ---
 

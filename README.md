@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best dog ever](http://9gag.com/gag/a5Q8N6G)
- - 😝 [An actual thing a reporter wrote and a news outlet published](http://9gag.com/gag/azx0EBm)
- - 💣 [I wish I knew magic](http://9gag.com/gag/an7LY8o)
- - 😝 [2 of my college professors also said Newton as their number 1 scientist.](http://9gag.com/gag/adBm6NB)
- - 👉 [Million](http://9gag.com/gag/aVvNQmM)<!-- MEMES:END -->
+ - 😝 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
+ - 👉 [Jared Leto&#39;s last 4 films have lost an estimated $970 million. He has no upcoming film roles](http://9gag.com/gag/aMV3bWV)<!-- MEMES:END -->
 
 ---
 

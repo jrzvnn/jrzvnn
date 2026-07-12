@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
+ - 😝 [An actual thing a reporter wrote and a news outlet published](http://9gag.com/gag/azx0EBm)
  - 😝 [The best dog ever](http://9gag.com/gag/a5Q8N6G)
  - 💣 [I wish I knew magic](http://9gag.com/gag/an7LY8o)
  - 😝 [2 of my college professors also said Newton as their number 1 scientist.](http://9gag.com/gag/adBm6NB)

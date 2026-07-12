@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who the f**k is Dan Bilzerian? Anyways Pewdiepie won in life 100 percent](http://9gag.com/gag/a6ZAwyb)
- - 😝 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)
- - 💣 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 😝 [Self defence in the UK](http://9gag.com/gag/azx0Loj)
- - 👉 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)<!-- MEMES:END -->
+ - 😝 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
+ - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
+ - 💣 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)
+ - 😝 [You may be dumb but at least you dont dive when you already got yellow card in a quarterfinal in a world where VAR exists like this guy.](http://9gag.com/gag/axyX2LL)
+ - 👉 [Doing my part](http://9gag.com/gag/a87BLrY)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)
+ - [Best External Hard Drives &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
  - [A look at the growing anti-AI movement in the Bay Area, as the disappearance of Sam Kirchner, co-founder of a hard-line activist group, has the movement on edge &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260712/p4#a260712p4)
- - [AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p3#a260712p3)
- - [NYC-based Vendelux, a live B2B event information platform for CMOs and marketing and sales teams, raised a $50M Series B led by Tribeca Venture Partners &lpar;Lucia Moses/Business Insider&rpar;](https://www.techmeme.com/260712/p2#a260712p2)
- - [EU Justice Commissioner Michael McGrath says the EC is set to propose new digital rules by year-end aimed at protecting consumers from online spending traps &lpar;Laura Dubois/Financial Times&rpar;](https://www.techmeme.com/260712/p1#a260712p1)
- - [A look at Bending Spoons&#39; hiring process: the company, which owns Vimeo, AOL, and Evernote, received 800,000 job applications last year and made only 286 hires &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260711/p12#a260711p12)<!-- TECH:END -->
+ - [AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p3#a260712p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

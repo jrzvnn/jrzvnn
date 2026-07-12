@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p8#a260712p8)
+ - [Sunday Reboot: No cell service for 250 years](https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss)
+ - [Back-to-School Shoppers Are Using More Tech Tools but Buying Fewer Tech Goods](https://www.cnet.com/tech/computing/back-to-school-shoppers-buying-less-tech/)
  - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
- - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1850](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1850/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #862](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-862/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 13, #1128](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-13-1128/)
- - [Uber’s Autonomous Vehicle Strategy: Slow Their Adoption](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1850](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1850/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

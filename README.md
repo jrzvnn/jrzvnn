@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Current AI market dynamics point to frontier models becoming commodity infrastructure as the token crunch eases, with value shifting to products built on top &lpar;Benedict Evans&rpar;](https://www.techmeme.com/260711/p11#a260711p11)
+ - [Warframe&#39;s Next Expansion Is the Epic Payoff to 13 Years of Storytelling](https://www.cnet.com/tech/gaming/warframes-next-expansion-is-the-epic-payoff-to-13-years-of-storytelling/)
  - [After years of teasing, the viral Nopia synth is ‘basically finished’](https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo)
  - [Psychologist Peter Gray argues that school stress, not smartphone use, is the main driver of the teen mental health crisis, challenging Jonathan Haidt&#39;s thesis &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](https://www.techmeme.com/260711/p10#a260711p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #861](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-861/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #1127](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-1127/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 12 #861](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-861/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

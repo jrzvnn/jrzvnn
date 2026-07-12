@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 😝 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)
- - 💣 [When she had enough](http://9gag.com/gag/aVvNWjd)
+ - 😝 [Doing my part](http://9gag.com/gag/a87BLrY)
+ - 💣 [Make this out of context](http://9gag.com/gag/a9y9MdD)
  - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [She is allowed to vote](http://9gag.com/gag/ae9vNQp)<!-- MEMES:END -->
+ - 👉 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)<!-- MEMES:END -->
 
 ---
 

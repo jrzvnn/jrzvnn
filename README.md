@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)
  - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)<!-- MEMES:END -->
+ - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 💣 [Jared Leto&#39;s last 4 films have lost an estimated $970 million. He has no upcoming film roles](http://9gag.com/gag/aMV3bWV)
+ - 😝 [The dude chose violence for the day](http://9gag.com/gag/ayNO0zr)
+ - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 ---
 

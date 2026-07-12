@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
- - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
- - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
  - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 👉 [Jared Leto&#39;s last 4 films have lost an estimated $970 million. He has no upcoming film roles](http://9gag.com/gag/aMV3bWV)<!-- MEMES:END -->
+ - 💣 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 😝 [Pretty neat!](http://9gag.com/gag/avy3gZn)
+ - 👉 [Make this out of context](http://9gag.com/gag/a9y9MdD)<!-- MEMES:END -->
 
 ---
 

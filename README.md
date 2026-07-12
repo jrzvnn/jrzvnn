@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)
- - [Best External Hard Drives &lpar;2026&rpar;: SSD to Store Data, Video, and More](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [The 10 Best Pet Cameras of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
- - [A look at the growing anti-AI movement in the Bay Area, as the disappearance of Sam Kirchner, co-founder of a hard-line activist group, has the movement on edge &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260712/p4#a260712p4)
- - [AirDNA: during the FIFA World Cup group stage, platforms such as Airbnb saw 52K+ new listings in US host cities, while hotel bookings fell short of expectations &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p3#a260712p3)<!-- TECH:END -->
+ - [The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
+ - [Users of AI coding tools are flooding open-source projects with low-quality contributions, overwhelming maintainers and potentially eroding community engagement &lpar;Sam Learner/Financial Times&rpar;](https://www.techmeme.com/260712/p5#a260712p5)
+ - [Here’s How Apple Is Updating Its Child Safety Features in iOS 27](https://www.wired.com/story/apple-child-safety-ios-27/)
+ - [28 Best STEM Toys for Kids &lpar;2026&rpar;: Learning Made Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
+ - [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

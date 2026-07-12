@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
- - 😝 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
- - 💣 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
+ - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 💣 [The man who almost conquered them all](http://9gag.com/gag/aBy7KE1)
  - 😝 [Turbo-jet engine](http://9gag.com/gag/aBy7K4Z)
- - 👉 [Make this out of context](http://9gag.com/gag/a9y9MdD)<!-- MEMES:END -->
+ - 👉 [Anne Hathaway](http://9gag.com/gag/aYQ2bLq)<!-- MEMES:END -->
 
 ---
 

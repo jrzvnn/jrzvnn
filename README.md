@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Less is more with the Oura Ring 5](https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables)
- - [You Could Be Eligible for Part of Apple&#39;s $250M AI iPhone Settlement. How to Find Out](https://www.cnet.com/tech/mobile/how-to-claim-apple-250-million-ai-iphone-settlement/)
- - [Blue Prince became a bonding — and learning — experience for my family](https://www.theverge.com/games/964262/blue-prince-family-bonding)
- - [Darren Aronofsky&#39;s &#39;1776&#39; AI Video Series Is Unhinged, and I Can&#39;t Look Away](https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/)
- - [Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction](https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/)<!-- TECH:END -->
+ - [M6 era will last just six months as Apple pushes for AI-focused M7](https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss)
+ - [One of SteelSeries&amp;#8217; best gaming headsets is over $100 off](https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale)
+ - [Power of Apple&#39;s M7 &amp; M8 chips was born from Apple Car research](https://appleinsider.com/articles/26/07/12/power-of-apples-m7-m8-chips-was-born-from-apple-car-research?utm_source=rss)
+ - [How Philips Hue got the smart home right](https://www.theverge.com/podcast/964515/philips-hue-smart-lights-version-history)
+ - [EU regulations could force an Apple Pencil upgrade in early 2027](https://appleinsider.com/articles/26/07/12/eu-regulations-could-force-an-apple-pencil-upgrade-in-early-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it is extending Claude Fable 5 access on all paid plans, as well as keeping Claude Code&#39;s weekly rate limits 50% higher, through July 19 &lpar;The Economic Times&rpar;](https://www.techmeme.com/260712/p7#a260712p7)
- - [It Took 90 Seconds for This $100 Portable Photo Printer to Totally Change My July 4th Party](https://www.cnet.com/tech/lienen200-pro-photo-printer-review/)
- - [Apple’s failed self-driving car program left a legacy of powerful AI chips](https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra)
- - [Sources: Apple is already taping out M7 with major NPU upgrades, and plans M7 Ultra with 1.5TB RAM, and M8, for 2028; new Pencils are coming with a new iPad Pro &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260712/p6#a260712p6)
- - [M6 era will last just six months as Apple pushes for AI-focused M7](https://appleinsider.com/articles/26/07/12/m6-era-will-last-just-six-months-as-apple-pushes-for-ai-focused-m7?utm_source=rss)<!-- TECH:END -->
+ - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
+ - [Uber’s Autonomous Vehicle Strategy: Slow Their Adoption](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)
+ - [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review)
+ - [Apple Watch Series 11 drops to $299 with Amazon deal, save $100](https://appleinsider.com/articles/26/07/12/apple-watch-series-11-drops-to-299-with-amazon-deal-save-100?utm_source=rss)
+ - [&#39;Love Island USA&#39; Season 8 Finale: When to Watch on Peacock](https://www.cnet.com/culture/entertainment/love-island-usa-season-8-finale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

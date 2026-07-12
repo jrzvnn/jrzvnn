@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)
- - [Uber’s Autonomous Vehicle Strategy: Slow Their Adoption](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)
- - [Shall We Go On Sinning So That Grace May Increase? is hypnotic, healing, and hopeful](https://www.theverge.com/entertainment/964532/the-soft-pink-truth-shall-we-go-on-sinning-so-that-grace-may-increase-review)
- - [Apple Watch Series 11 drops to $299 with Amazon deal, save $100](https://appleinsider.com/articles/26/07/12/apple-watch-series-11-drops-to-299-with-amazon-deal-save-100?utm_source=rss)
- - [&#39;Love Island USA&#39; Season 8 Finale: When to Watch on Peacock](https://www.cnet.com/culture/entertainment/love-island-usa-season-8-finale/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 13, #1850](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-13-1850/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 13 #862](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-13-862/)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 13, #1128](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-13-1128/)
+ - [Uber’s Autonomous Vehicle Strategy: Slow Their Adoption](https://www.wired.com/story/ubers-autonomous-vehicle-strategy-slow-their-adoption/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

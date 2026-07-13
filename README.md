@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
- - 💣 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)
- - 😝 [Dog paradox](http://9gag.com/gag/aGyWxy0)
- - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
+ - 😝 [Lifejackets](http://9gag.com/gag/avy3gvM)
+ - 😝 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)
+ - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 👉 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
 
 ---
 

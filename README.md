@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave move](http://9gag.com/gag/aND6odK)
- - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 😝 [A multipurpose ladder](http://9gag.com/gag/azx0EQm)
  - 😝 [This F*vking duck](http://9gag.com/gag/aQz0noq)
- - 👉 [Go Latina dancing](http://9gag.com/gag/aBy7Qyz)<!-- MEMES:END -->
+ - 💣 [Priorities are clearly in order](http://9gag.com/gag/axyX25L)
+ - 😝 [Cultural tragedy unfolding in real time](http://9gag.com/gag/aE0LzAe)
+ - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
 
 ---
 

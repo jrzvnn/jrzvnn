@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft tests Windows Search without all the ads and fluff](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads)
+ - [OnePlus is reportedly bailing on the US](https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe)
+ - [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/)
  - [iPadOS 27 &amp; macOS 27 beta 3 get a version 2 update as public betas drop](https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss)
- - [A two-pack of DJI&amp;#8217;s most capable wireless mics just got its first price cut](https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale)
- - [The Shokz OpenRun Pro are the cheapest they’ve been since January](https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale)
- - [First iOS 27, macOS 27 public betas are out, but you should still be careful](https://appleinsider.com/articles/26/07/13/first-ios-27-macos-27-public-betas-are-out-but-you-should-still-be-careful?utm_source=rss)
- - [The Pixel colors might rule this year](https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor)<!-- TECH:END -->
+ - [Apple Is Reportedly Accelerating Chip Releases Due to AI Pressure](https://www.cnet.com/tech/computing/apple-chip-releases-m6-m7-m8-ai-timeline/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

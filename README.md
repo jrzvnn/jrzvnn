@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel plans to invest €5B to expand chip manufacturing at its Leixlip facility in Ireland; in 2025, Intel canceled a planned €30B factory in Magdeburg, Germany &lpar;Financial Times&rpar;](https://www.techmeme.com/260713/p18#a260713p18)
- - [Time for change: 50 Apple Watch updates coming in watchOS 27](https://appleinsider.com/articles/26/07/13/time-for-change-50-apple-watch-updates-coming-in-watchos-27?utm_source=rss)
- - [SigLens acquired by Apple for debugging massive apps and services](https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss)
- - [6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom](https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/)
- - [From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old](https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss)<!-- TECH:END -->
+ - [Gauntlet, which helps institutions and crypto companies allocate their digital assets, raised a $125M Series C from Japanese financial conglomerate SBI Holdings &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260713/p24#a260713p24)
+ - [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla)
+ - [Channel Master Floodlight Pro review &amp; listener question roundup on the Smart Home Insider podcast](https://appleinsider.com/articles/26/07/13/channel-master-floodlight-pro-review-listener-question-roundup-on-the-smart-home-insider-podcast?utm_source=rss)
+ - [Facebook demands AirPods-like pairing for its glasses and headsets](https://appleinsider.com/articles/26/07/13/facebook-demands-airpods-like-pairing-for-its-glasses-and-headsets?utm_source=rss)
+ - [Global smartphone shipments fell 11% YoY in Q2 to the lowest Q2 levels since 2013 amid the DRAM and NAND shortage; Samsung returns to #1 with a 24% market share &lpar;Shilpi Jain/Counterpoint Research&rpar;](https://www.techmeme.com/260713/p23#a260713p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

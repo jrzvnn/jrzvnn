@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It](https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/)
- - [Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260713/p30#a260713p30)
- - [Temporary Tattoos May One Day Power Your Wearable Medical Devices](https://www.cnet.com/health/medical/temporary-tattoos-may-one-day-power-your-wearable-medical-devices/)
- - [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit)
- - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)<!-- TECH:END -->
+ - [iPadOS 27 &amp; macOS 27 beta 3 get a version 2 update as public betas drop](https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss)
+ - [A two-pack of DJI&amp;#8217;s most capable wireless mics just got its first price cut](https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale)
+ - [The Shokz OpenRun Pro are the cheapest they’ve been since January](https://www.theverge.com/gadgets/964982/shokz-openrun-pro-bone-conduction-headphones-summer-deal-sale)
+ - [First iOS 27, macOS 27 public betas are out, but you should still be careful](https://appleinsider.com/articles/26/07/13/first-ios-27-macos-27-public-betas-are-out-but-you-should-still-be-careful?utm_source=rss)
+ - [The Pixel colors might rule this year](https://www.theverge.com/tech/964972/google-pixel-11-colors-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

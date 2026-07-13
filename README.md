@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gauntlet, which helps institutions and crypto companies allocate their digital assets, raised a $125M Series C from Japanese financial conglomerate SBI Holdings &lpar;Ben Weiss/Fortune&rpar;](https://www.techmeme.com/260713/p24#a260713p24)
- - [Even Nvidia’s head of automotive fights with Nvidia for compute](https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla)
- - [Channel Master Floodlight Pro review &amp; listener question roundup on the Smart Home Insider podcast](https://appleinsider.com/articles/26/07/13/channel-master-floodlight-pro-review-listener-question-roundup-on-the-smart-home-insider-podcast?utm_source=rss)
- - [Facebook demands AirPods-like pairing for its glasses and headsets](https://appleinsider.com/articles/26/07/13/facebook-demands-airpods-like-pairing-for-its-glasses-and-headsets?utm_source=rss)
- - [Global smartphone shipments fell 11% YoY in Q2 to the lowest Q2 levels since 2013 amid the DRAM and NAND shortage; Samsung returns to #1 with a 24% market share &lpar;Shilpi Jain/Counterpoint Research&rpar;](https://www.techmeme.com/260713/p23#a260713p23)<!-- TECH:END -->
+ - [Tesla Says It’s Building a Wheelchair-Accessible Robotaxi](https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/)
+ - [Doc: DHS analysts twice dismissed signs of intruders inside the DHS&#39; network, first detected in May, as harmless activity before confirming a breach in June &lpar;David DiMolfetta/Nextgov/FCW&rpar;](https://www.techmeme.com/260713/p28#a260713p28)
+ - [The 6 wildest claims in Apple&amp;#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims)
+ - [The Week&#39;s Best Deals Are Here, and These Are the Ones CNET Experts Would Actually Buy](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)
+ - [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount&#39;s WBD merger, alleging it lessens competition in three markets &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260713/p27#a260713p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

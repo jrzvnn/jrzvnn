@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon revives $199 AirPods Pro 3 deal after Prime Day](https://appleinsider.com/articles/26/07/13/amazon-revives-199-airpods-pro-3-deal-after-prime-day?utm_source=rss)
- - [A look at ADI Predictstreet&#39;s troubled launch, marked by tiny trading volumes, withdrawal bugs, and other issues, as it tried to challenge Kalshi and Polymarket &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260713/p3#a260713p3)
- - [A Taiwanese minister says TSMC plans two more advanced chip packaging plants in Chiayi Science Park, with all four expected to generate $9.35B+ in annual output &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260713/p2#a260713p2)
- - [Open weight AI models are facing an existential policy test in the US, with Anthropic leading a campaign against Chinese models over distillation concerns &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260713/p1#a260713p1)
- - [How museums are using AI chatbots to reach new audiences, as some museum staff worry AI-generated inaccuracies and bias could undermine them as trusted sources &lpar;Naomi Rea/Financial Times&rpar;](https://www.techmeme.com/260712/p12#a260712p12)<!-- TECH:END -->
+ - [Sources: Shein is targeting a $40B+ valuation after winning Beijing&#39;s approval for a Hong Kong IPO, set for as early as Q3; Shein canceled its US IPO in 2024 &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260713/p9#a260713p9)
+ - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
+ - [How a Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech &lpar;Isabella Ward/Wired&rpar;](https://www.techmeme.com/260713/p8#a260713p8)
+ - [Social media limits are coming for teens across Europe](https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules)
+ - [A look back at the 2007 heist of a Verizon data center in London, highlighting the role of physical data security as cyber defenses grow more sophisticated &lpar;Nathaniel Rich/New York Times&rpar;](https://www.techmeme.com/260713/p7#a260713p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

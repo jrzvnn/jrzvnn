@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifejackets](http://9gag.com/gag/avy3gvM)
- - 😝 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)
+ - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
  - 💣 [The Tiger](http://9gag.com/gag/aW4wWNK)
  - 😝 [Fair enough.](http://9gag.com/gag/aLnyBVP)
- - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 👉 [Need unbend it](http://9gag.com/gag/aoyb0Aw)<!-- MEMES:END -->
 
 ---
 

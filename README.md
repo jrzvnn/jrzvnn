@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not walk dogs in New York &lpar;it is haram!&rpar;](http://9gag.com/gag/abA95dX)
+ - 😝 [360 no scope](http://9gag.com/gag/abA9yBb)
  - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 💣 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 😝 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 💣 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
  - 👉 [Make this out of context](http://9gag.com/gag/a9y9MdD)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How museums are using AI chatbots to reach new audiences, as some museum staff worry AI-generated inaccuracies and bias could undermine them as trusted sources &lpar;Naomi Rea/Financial Times&rpar;](https://www.techmeme.com/260712/p12#a260712p12)
- - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
- - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
- - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)
- - [OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p8#a260712p8)<!-- TECH:END -->
+ - [Amazon revives $199 AirPods Pro 3 deal after Prime Day](https://appleinsider.com/articles/26/07/13/amazon-revives-199-airpods-pro-3-deal-after-prime-day?utm_source=rss)
+ - [A look at ADI Predictstreet&#39;s troubled launch, marked by tiny trading volumes, withdrawal bugs, and other issues, as it tried to challenge Kalshi and Polymarket &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260713/p3#a260713p3)
+ - [A Taiwanese minister says TSMC plans two more advanced chip packaging plants in Chiayi Science Park, with all four expected to generate $9.35B+ in annual output &lpar;Wen-Yee Lee/Reuters&rpar;](https://www.techmeme.com/260713/p2#a260713p2)
+ - [Open weight AI models are facing an existential policy test in the US, with Anthropic leading a campaign against Chinese models over distillation concerns &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260713/p1#a260713p1)
+ - [How museums are using AI chatbots to reach new audiences, as some museum staff worry AI-generated inaccuracies and bias could undermine them as trusted sources &lpar;Naomi Rea/Financial Times&rpar;](https://www.techmeme.com/260712/p12#a260712p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

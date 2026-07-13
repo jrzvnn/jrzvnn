@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifejackets](http://9gag.com/gag/avy3gvM)
- - 😝 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)
- - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
- - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 👉 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
+ - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 😝 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 💣 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 😝 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)
+ - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
 
 ---
 

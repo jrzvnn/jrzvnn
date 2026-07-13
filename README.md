@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 😝 [When local politicians made stealing legal](http://9gag.com/gag/aoybZRe)
  - 😝 [Know the 30/30 rule](http://9gag.com/gag/aPAKy9q)
- - 💣 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
- - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 👉 [Make this out of context](http://9gag.com/gag/a9y9MdD)<!-- MEMES:END -->
+ - 💣 [360 no scope](http://9gag.com/gag/abA9yBb)
+ - 😝 [Been a while since you seen this angel](http://9gag.com/gag/avy3LZd)
+ - 👉 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)<!-- MEMES:END -->
 
 ---
 

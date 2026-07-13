@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
- - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 💣 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
  - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
+ - 💣 [Where is the stepbro when you need one?](http://9gag.com/gag/aGyWwdZ)
+ - 😝 [Dog paradox](http://9gag.com/gag/aGyWxy0)
  - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A multipurpose ladder](http://9gag.com/gag/azx0EQm)
+ - 😝 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 💣 [Even the dog knew.](http://9gag.com/gag/aBy7Qnx)
  - 😝 [This F*vking duck](http://9gag.com/gag/aQz0noq)
- - 💣 [Priorities are clearly in order](http://9gag.com/gag/axyX25L)
- - 😝 [Cultural tragedy unfolding in real time](http://9gag.com/gag/aE0LzAe)
- - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
+ - 👉 [Tattoo removal](http://9gag.com/gag/a87BbOZ)<!-- MEMES:END -->
 
 ---
 

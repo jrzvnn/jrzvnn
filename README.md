@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Need unbend it](http://9gag.com/gag/aoyb0Aw)
  - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 💣 [Even the dog knew.](http://9gag.com/gag/aBy7Qnx)
+ - 😝 [Lifejackets](http://9gag.com/gag/avy3gvM)
+ - 💣 [The Tiger](http://9gag.com/gag/aW4wWNK)
  - 😝 [This F*vking duck](http://9gag.com/gag/aQz0noq)
- - 👉 [Tattoo removal](http://9gag.com/gag/a87BbOZ)<!-- MEMES:END -->
+ - 👉 [360 no scope](http://9gag.com/gag/abA9yBb)<!-- MEMES:END -->
 
 ---
 

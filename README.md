@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Says It’s Building a Wheelchair-Accessible Robotaxi](https://www.wired.com/story/tesla-says-its-building-a-wheelchair-accessible-robotaxi/)
- - [Doc: DHS analysts twice dismissed signs of intruders inside the DHS&#39; network, first detected in May, as harmless activity before confirming a breach in June &lpar;David DiMolfetta/Nextgov/FCW&rpar;](https://www.techmeme.com/260713/p28#a260713p28)
- - [The 6 wildest claims in Apple&amp;#8217;s lawsuit against OpenAI](https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims)
- - [The Week&#39;s Best Deals Are Here, and These Are the Ones CNET Experts Would Actually Buy](https://www.cnet.com/deals/cnet-top-deals-of-the-week/)
- - [A coalition of 12 states led by California files an antitrust lawsuit to block Paramount&#39;s WBD merger, alleging it lessens competition in three markets &lpar;Gene Maddaus/Variety&rpar;](https://www.techmeme.com/260713/p27#a260713p27)<!-- TECH:END -->
+ - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)
+ - [Q&amp;A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia&#39;s chips and AI models for autonomous driving, lidar&#39;s usefulness for Level 4 autonomy, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260713/p29#a260713p29)
+ - [Best VPN for Android for 2026: Protect Your Privacy on the Go](https://www.cnet.com/tech/services-and-software/best-android-vpn/)
+ - [Fifth developer betas of iOS 26.6, macOS 26.6 are out now](https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss)
+ - [12 States Sue Paramount to Block Warner Bros. Discovery Deal](https://www.cnet.com/tech/services-and-software/12-states-sue-paramount-to-block-warner-bros-discovery-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

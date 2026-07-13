@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)
- - [Q&amp;A with Xinzhou Wu, head of automotive at Nvidia, on Nvidia&#39;s chips and AI models for autonomous driving, lidar&#39;s usefulness for Level 4 autonomy, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260713/p29#a260713p29)
- - [Best VPN for Android for 2026: Protect Your Privacy on the Go](https://www.cnet.com/tech/services-and-software/best-android-vpn/)
- - [Fifth developer betas of iOS 26.6, macOS 26.6 are out now](https://appleinsider.com/articles/26/07/13/fifth-developer-betas-of-ios-266-macos-266-are-out-now?utm_source=rss)
- - [12 States Sue Paramount to Block Warner Bros. Discovery Deal](https://www.cnet.com/tech/services-and-software/12-states-sue-paramount-to-block-warner-bros-discovery-deal/)<!-- TECH:END -->
+ - [The Problem With VAR at the 2026 World Cup Isn’t the Technology—It’s Who Interprets It](https://www.wired.com/story/the-problem-with-var-at-the-2026-world-cup-isnt-the-technology-its-who-interprets-it/)
+ - [Microsoft announces a Windows 11 search overhaul that prioritizes local results, removes promotional web content, and more, rolling out to Windows Insiders &lpar;Zac Bowden/Windows Central&rpar;](https://www.techmeme.com/260713/p30#a260713p30)
+ - [Temporary Tattoos May One Day Power Your Wearable Medical Devices](https://www.cnet.com/health/medical/temporary-tattoos-may-one-day-power-your-wearable-medical-devices/)
+ - [States make last-ditch effort to stop the Paramount ‘media behemoth’](https://www.theverge.com/policy/964916/paramount-warner-bros-discovery-states-lawsuit)
+ - [Wi-Fi 8 Explained: Features, Release Date, and More](https://www.wired.com/story/what-is-wi-fi-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

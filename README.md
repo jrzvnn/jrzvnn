@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein is targeting a $40B+ valuation after winning Beijing&#39;s approval for a Hong Kong IPO, set for as early as Q3; Shein canceled its US IPO in 2024 &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260713/p9#a260713p9)
- - [Best Kitchen Composters and Food Recyclers &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
- - [How a Denmark-based research team is using quantum computers to accelerate AI protein discovery, showing a near-term commercial application for the quantum tech &lpar;Isabella Ward/Wired&rpar;](https://www.techmeme.com/260713/p8#a260713p8)
- - [Social media limits are coming for teens across Europe](https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules)
- - [A look back at the 2007 heist of a Verizon data center in London, highlighting the role of physical data security as cyber defenses grow more sophisticated &lpar;Nathaniel Rich/New York Times&rpar;](https://www.techmeme.com/260713/p7#a260713p7)<!-- TECH:END -->
+ - [Intel plans to invest €5B to expand chip manufacturing at its Leixlip facility in Ireland; in 2025, Intel canceled a planned €30B factory in Magdeburg, Germany &lpar;Financial Times&rpar;](https://www.techmeme.com/260713/p18#a260713p18)
+ - [Time for change: 50 Apple Watch updates coming in watchOS 27](https://appleinsider.com/articles/26/07/13/time-for-change-50-apple-watch-updates-coming-in-watchos-27?utm_source=rss)
+ - [SigLens acquired by Apple for debugging massive apps and services](https://appleinsider.com/articles/26/07/13/siglens-acquired-by-apple-for-debugging-massive-apps-and-services?utm_source=rss)
+ - [6 Best Bidets of 2026: Toto, Brondell, More, All Tested in My Bathroom](https://www.wired.com/story/the-best-bidets-for-every-bathroom-and-budget/)
+ - [From rumors to titanium, bad debts and a new backer -- Apple Card is seven years old](https://appleinsider.com/articles/26/07/10/from-rumors-to-titanium-bad-debts-and-a-new-backer----apple-card-is-seven-years-old?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

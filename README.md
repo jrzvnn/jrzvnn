@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How museums are using AI chatbots to reach new audiences, as some museum staff worry AI-generated inaccuracies and bias could undermine them as trusted sources &lpar;Naomi Rea/Financial Times&rpar;](https://www.techmeme.com/260712/p12#a260712p12)
+ - [A profile of Asha Sharma, an outsider elevated by Satya Nadella to lead Xbox, where she made sweeping job cuts and shed game studios within her first few months &lpar;Financial Times&rpar;](https://www.techmeme.com/260712/p11#a260712p11)
+ - [Memo: Tang Jie, founder of Z.ai, the Chinese lab behind the GLM models, argues frontier AI capabilities should stay &quot;as open and widely accessible as possible&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p10#a260712p10)
  - [Sources: Cursor is building a general-purpose AI agent codenamed Sand, aimed at non-developers, that handles emails, texts, and documents to rival Claude Cowork &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260712/p9#a260712p9)
- - [OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p8#a260712p8)
- - [Sunday Reboot: No cell service for 250 years](https://appleinsider.com/articles/26/07/12/sunday-reboot-no-cell-service-for-250-years?utm_source=rss)
- - [Back-to-School Shoppers Are Using More Tech Tools but Buying Fewer Tech Goods](https://www.cnet.com/tech/computing/back-to-school-shoppers-buying-less-tech/)
- - [Lorde says Ray-Ban Meta AI glasses are ‘not sexy’](https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy)<!-- TECH:END -->
+ - [OpenAI, Meta, and SpaceXAI may be able to put pressure on Anthropic by emphasizing cost efficiency, as business customers increasingly scrutinize AI spending &lpar;Bloomberg&rpar;](https://www.techmeme.com/260712/p8#a260712p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

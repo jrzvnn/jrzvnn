@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tests Windows Search without all the ads and fluff](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads)
- - [OnePlus is reportedly bailing on the US](https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe)
- - [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/)
- - [iPadOS 27 &amp; macOS 27 beta 3 get a version 2 update as public betas drop](https://appleinsider.com/articles/26/07/13/ipados-27-macos-27-beta-3-get-a-version-2-update-as-public-betas-drop?utm_source=rss)
- - [Apple Is Reportedly Accelerating Chip Releases Due to AI Pressure](https://www.cnet.com/tech/computing/apple-chip-releases-m6-m7-m8-ai-timeline/)<!-- TECH:END -->
+ - [Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI &lpar;Will Shanklin/Engadget&rpar;](https://www.techmeme.com/260713/p31#a260713p31)
+ - [Sam Neill Inspired a Generation of Scientists](https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/)
+ - [T-Mobile Customers on Old Plans Are Being Pushed to New Ones Starting This Week](https://www.cnet.com/tech/mobile/t-mobile-customers-on-old-plans-are-being-pushed-to-new-ones-starting-this-week/)
+ - [Waze Gets a &#39;Less Chatty&#39; Update, Personalized Routes](https://www.cnet.com/roadshow/news/new-less-chatty-waze-update-personalized-routes-roll-out-globally/)
+ - [Microsoft tests Windows Search without all the ads and fluff](https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

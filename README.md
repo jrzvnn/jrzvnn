@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York Governor Kathy Hochul signs a moratorium blocking new permits for hyperscale data centers exceeding 50MW for up to one year, the first state to do so &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260714/p11#a260714p11)
- - [This German Man Is on a Quest to Cut the Perfect Slice of Bread](https://www.wired.com/story/this-german-man-is-on-a-mad-quest-to-cut-the-perfect-slice-of-bread/)
- - [Let’s build a children’s public internet](https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal)
- - [Survey: 57% of US women and 47% of men ages 18 to 29 say they get health and wellness information from influencers; women say they see such content more often &lpar;Aaron Smith/Pew Research Center&rpar;](https://www.techmeme.com/260714/p10#a260714p10)
- - [Nikita Bier says X made a &quot;tweak to boost visibility of your posts to your mutuals&quot;, or those who users follow back, to avoid replies becoming a &quot;battleground&quot; &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260714/p9#a260714p9)<!-- TECH:END -->
+ - [Owning an Apple Home: The broken promise of Matter](https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss)
+ - [AI drug design startup Chai Discovery raised $400M led by Index at a $3.8B valuation, as it positions its Chai models as AI infrastructure for pharmaceuticals &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260714/p14#a260714p14)
+ - [Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?](https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/)
+ - [The European Commission approves €659M in German state aid to support four first-of-a-kind chip facilities in Germany, saying they will strengthen EU autonomy &lpar;Kirsti Knolle/Reuters&rpar;](https://www.techmeme.com/260714/p13#a260714p13)
+ - [Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PrismML confirms it is in talks with Apple about AI model-shrinking tech](https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss)
- - [TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p37#a260714p37)
- - [Philips Hue&amp;#8217;s budget-friendly Essential starter kit has hit a new low price](https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale)
- - [Plex is down](https://www.theverge.com/tech/965518/plex-tv-down-outage-issues)
- - [Nintendo’s Switch 2 bundle that includes a game is $50 off](https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale)<!-- TECH:END -->
+ - [PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260714/p39#a260714p39)
+ - [iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws](https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss)
+ - [SpaceXAI&amp;#8217;s Grok programming tool was uploading its users&amp;#8217; entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload)
+ - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
+ - [A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product &lpar;Washington Post&rpar;](https://www.techmeme.com/260714/p38#a260714p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

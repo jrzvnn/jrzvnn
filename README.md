@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nous Research, the startup behind Hermes, an open-source agent and OpenClaw rival, is raising $75M+ at a $1.5B valuation led by Robot Ventures &lpar;TechCrunch&rpar;](https://www.techmeme.com/260713/p33#a260713p33)
- - [Sources: Trump admin and industry groups have discussed streamlining releases of US open models of equal or lesser capability than leading Chinese open models &lpar;Benjamin Guggenheim/Washington Post&rpar;](https://www.techmeme.com/260713/p32#a260713p32)
- - [The Best Movies to Stream This Month &lpar;July 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
- - [Apple releases the first public betas of iOS 27, iPadOS 27, macOS 27 Golden Gate, watchOS 27, and tvOS 27, marking the public debut of the new Siri AI &lpar;Will Shanklin/Engadget&rpar;](https://www.techmeme.com/260713/p31#a260713p31)
- - [Sam Neill Inspired a Generation of Scientists](https://www.wired.com/story/sam-neill-inspired-a-generation-of-scientists/)<!-- TECH:END -->
+ - [In the wake of China&#39;s &quot;embodied AI&quot; push, there&#39;s an urgency among China&#39;s 100+ humanoid startups to launch IPOs; LimX Dynamics raises $200M in a pre-IPO round &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260713/p36#a260713p36)
+ - [How to use Playlist Playground to build Apple Music playlists in seconds](https://appleinsider.com/inside/apple-music/tips/how-to-use-playlist-playground-to-build-apple-music-playlists-in-seconds?utm_source=rss)
+ - [I&#39;m a Big E Ink Fan, So This New Detachable-Screen Phone From Hisense Intrigues Me](https://www.cnet.com/tech/mobile/e-ink-new-phone-hisense-a10-detachable-screen/)
+ - [Singapore-based and Alibaba-backed video generation startup PixVerse says it closed a Series C extension to raise $439M total for the round, valuing it at $2B+ &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260713/p35#a260713p35)
+ - [Space Mirror: The FCC Just Approved a Sun-Reflecting Satellite, and Astronomers Are Unimpressed](https://www.cnet.com/science/space/the-fcc-just-approved-a-sun-reflecting-satellite-and-astronomers-already-hate-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

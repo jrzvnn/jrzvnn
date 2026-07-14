@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers detail &quot;context bombing&quot;, where defenders use prompt injections to trigger guardrails of attackers&#39; LLMs, cutting AI hacking success rates by ~90% &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260714/p2#a260714p2)
- - [Hotels.com Coupon Codes for July 2026](https://www.wired.com/story/hotels-com-coupon/)
- - [Bose Promo Code: 40% Off for July 2026](https://www.wired.com/story/bose-coupon-code/)
- - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)
- - [OnePlus Promo Codes: 30% Off July 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [DOGE Used AI for Housing Policy. The Government Won’t Say How](https://www.wired.com/story/doge-deployed-ai-housing-policy/)
+ - [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium)
+ - [The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night](https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/)
+ - [eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue this year &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260714/p4#a260714p4)
+ - [England vs. India: How to Watch ODI Cricket Series Live From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-india-how-to-watch-odi-cricket-series-live-from-anywhere/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

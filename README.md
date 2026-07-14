@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is now an AI chatbot, too](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts)
- - [Velocity, a stablecoin treasury and settlement platform, raised a $38M Series A led by Dragonfly and FirstMark, bringing its total funding to around $50M &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260714/p27#a260714p27)
- - [OpenAI strikes a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260714/p26#a260714p26)
- - [Apple&#39;s 1TB M5 MacBook Pro falls to $1,849 in today&#39;s price war](https://appleinsider.com/articles/26/07/14/apples-1tb-m5-macbook-pro-falls-to-1849-in-todays-price-war?utm_source=rss)
- - [X admits its broken algorithm made the site feel like a &amp;#8216;battleground&amp;#8217;](https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community)<!-- TECH:END -->
+ - [Boston Dynamics tries using &amp;#8216;robot dogs&amp;#8217; for deliveries](https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant)
+ - [Sony delays its new PS5 fight stick](https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay)
+ - [Nomad&amp;#8217;s high-end phone accessories are up to 30 percent off](https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale)
+ - [Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260714/p35#a260714p35)
+ - [The European Commission proposes exempting wearable tech from rules requiring removable batteries, clearing a hurdle for Meta&#39;s smart glasses, after US pressure &lpar;Politico&rpar;](https://www.techmeme.com/260714/p34#a260714p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

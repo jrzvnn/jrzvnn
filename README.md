@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [RIP King!](http://9gag.com/gag/aYQ2wMq)
- - 😝 [They did!](http://9gag.com/gag/aXP5X5P)
+ - 😝 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
  - 💣 [You know you&#39;re getting old... When people you didn&#39;t consider THAT old are now dying!](http://9gag.com/gag/a2vnq8d)
- - 😝 [Peak home entertainment engineering](http://9gag.com/gag/aYQ2eZ0)
+ - 😝 [They did!](http://9gag.com/gag/aXP5X5P)
  - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
 
 ---

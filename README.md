@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PrismML launches Bonsai 27B, a model based on Qwen3.6 27B that it says runs natively on Apple devices via MLX; its CEO says Apple is evaluating the tech &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260714/p39#a260714p39)
- - [iCloud $32.8B CSAM lawsuit dismissed, Apple protected under Section 230 laws](https://appleinsider.com/articles/26/07/14/icloud-328b-csam-lawsuit-dismissed-apple-protected-under-section-230-laws?utm_source=rss)
- - [SpaceXAI&amp;#8217;s Grok programming tool was uploading its users&amp;#8217; entire codebase to cloud storage](https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload)
- - [Apple Watch, Meta Glasses, AirPods get reprieve from EU replaceable battery law](https://appleinsider.com/articles/26/07/14/apple-watch-meta-glasses-airpods-get-reprieve-from-eu-replaceable-battery-law?utm_source=rss)
- - [A look at Founders Fund-backed State Affairs, which raised $70M and uses AI trained on reporting by its 76 staffers to power a Bloomberg Terminal-like product &lpar;Washington Post&rpar;](https://www.techmeme.com/260714/p38#a260714p38)<!-- TECH:END -->
+ - [Anthropic faces ridicule and criticism for an ad titled &quot;There&#39;s hope in hard questions&quot; that unsettled viewers with weird graveyard imagery and doomer-ist tone &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260714/p44#a260714p44)
+ - [OpenAI says it is &quot;not aware of any evidence&quot; that Apple&#39;s lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260714/p43#a260714p43)
+ - [Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260714/p42#a260714p42)
+ - [Overtone, a &quot;voice- and audio-forward&quot; dating service founded by Hinge creator Justin McLeod that uses AI to make &quot;highly curated introductions&quot;, raised $18M &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260714/p41#a260714p41)
+ - [A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260714/p40#a260714p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

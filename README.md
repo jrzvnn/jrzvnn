@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know what i mean](http://9gag.com/gag/axyXGL1)
- - 😝 [Whole](http://9gag.com/gag/aPAKG5w)
- - 💣 [The whole Fu*king Credit Score is a Scam made by the rich to keep the people poor and in debt FOH](http://9gag.com/gag/an7LBjb)
- - 😝 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
+ - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
+ - 😝 [A thousand venomous snakes escaped from a farm in China due to flooding.](http://9gag.com/gag/aoyb0Dx)
+ - 💣 [Asking the real questions today](http://9gag.com/gag/a6ZA7P2)
+ - 😝 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)
  - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
 
 ---

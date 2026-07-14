@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic faces ridicule and criticism for an ad titled &quot;There&#39;s hope in hard questions&quot; that unsettled viewers with weird graveyard imagery and doomer-ist tone &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260714/p44#a260714p44)
- - [OpenAI says it is &quot;not aware of any evidence&quot; that Apple&#39;s lawsuit alleging trade-secret theft has merit, adding that it believes in fair competition &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260714/p43#a260714p43)
- - [Adapter, which offers an infrastructure layer to help users leverage and control data for use by AI agents and apps, emerges from stealth with $17.8M in funding &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260714/p42#a260714p42)
- - [Overtone, a &quot;voice- and audio-forward&quot; dating service founded by Hinge creator Justin McLeod that uses AI to make &quot;highly curated introductions&quot;, raised $18M &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260714/p41#a260714p41)
- - [A US judge dismisses a proposed class action accusing Apple of failing to stop the dissemination of CSAM through iCloud, saying Section 230 shields the company &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260714/p40#a260714p40)<!-- TECH:END -->
+ - [Windows 11&amp;#8217;s big patch Tuesday allows you to hold off on updates for longer](https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates)
+ - [OpenAI may announce a ChatGPT smart speaker this year](https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device)
+ - [OpenAI shrugs, denies responsibility for trade secret theft with vague statements](https://appleinsider.com/articles/26/07/14/openai-shrugs-denies-responsibility-for-trade-secret-theft-with-vague-statements?utm_source=rss)
+ - [Sources: OpenAI&#39;s first device will be a moveable, screen-free smart speaker with a camera and sensors, meant to serve as a humanlike AI companion &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260714/p46#a260714p46)
+ - [Sources: DeepSeek has started planning for an IPO in China and may file as soon as this year, allowing it to debut in 2027 &lpar;Lulu Yilun Chen/Bloomberg&rpar;](https://www.techmeme.com/260714/p45#a260714p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful indeed](http://9gag.com/gag/aXP5X0z)
- - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
- - 😝 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)
- - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
+ - 😝 [Peak home entertainment engineering](http://9gag.com/gag/aYQ2eZ0)
+ - 😝 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
+ - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 😝 [Well well well](http://9gag.com/gag/ayNO84W)
+ - 👉 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)<!-- MEMES:END -->
 
 ---
 

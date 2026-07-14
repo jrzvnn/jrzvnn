@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)
  - [The Trump administration launches the &quot;Gold Eagle&quot; federal clearinghouse for sharing AI cyber threat information between the government and private sector &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260714/p50#a260714p50)
  - [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale)
  - [Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p49#a260714p49)
- - [The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds](https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/)
- - [The UK government proposes a default overnight social media curfew for 16- and 17-year-olds and disabling features like auto-play and infinite scroll by default &lpar;Muvija M/Reuters&rpar;](https://www.techmeme.com/260714/p48#a260714p48)<!-- TECH:END -->
+ - [The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds](https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

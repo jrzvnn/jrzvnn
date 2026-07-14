@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [360 no scope](http://9gag.com/gag/abA9yBb)
- - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
- - 💣 [Mbappe Hydration Break](https://www.reddit.com/r/funny/comments/1uvsmnd/mbappe_hydration_break/)
- - 😝 [When she had enough](http://9gag.com/gag/aVvNWjd)
- - 👉 [Fair enough.](http://9gag.com/gag/aLnyBVP)<!-- MEMES:END -->
+ - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
+ - 😝 [RIP King!](http://9gag.com/gag/aYQ2wMq)
+ - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
+ - 😝 [They did!](http://9gag.com/gag/aXP5X5P)
+ - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
 
 ---
 

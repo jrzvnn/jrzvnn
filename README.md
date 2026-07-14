@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
- - 😝 [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
- - 💣 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)
- - 😝 [Vilify the rich](http://9gag.com/gag/aGyWDNZ)
- - 👉 [That&#39;s one of a good prank](http://9gag.com/gag/aD2EmGB)<!-- MEMES:END -->
+ - 😝 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
+ - 😝 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
+ - 💣 [Women](http://9gag.com/gag/awy6VzQ)
+ - 😝 [Engine Sounds](http://9gag.com/gag/ayNO8Kq)
+ - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 ---
 

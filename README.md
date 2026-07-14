@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
  - 😝 [360 no scope](http://9gag.com/gag/abA9yBb)
- - 💣 [Breathtaking](http://9gag.com/gag/aMV3rgR)
- - 😝 [This selfish player refused to pass the ball to Haaland costing Norway the World Cup.](http://9gag.com/gag/axyX2qY)
- - 👉 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)<!-- MEMES:END -->
+ - 😝 [They Rarely Pass The Ball To Him .hhhmmm](http://9gag.com/gag/aLnyPRP)
+ - 💣 [Mbappe Hydration Break](https://www.reddit.com/r/funny/comments/1uvsmnd/mbappe_hydration_break/)
+ - 😝 [When she had enough](http://9gag.com/gag/aVvNWjd)
+ - 👉 [Fair enough.](http://9gag.com/gag/aLnyBVP)<!-- MEMES:END -->
 
 ---
 

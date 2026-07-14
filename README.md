@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owning an Apple Home: The broken promise of Matter](https://appleinsider.com/articles/26/07/14/owning-an-apple-home-the-broken-promise-of-matter?utm_source=rss)
- - [AI drug design startup Chai Discovery raised $400M led by Index at a $3.8B valuation, as it positions its Chai models as AI infrastructure for pharmaceuticals &lpar;Michael J. de la Merced/New York Times&rpar;](https://www.techmeme.com/260714/p14#a260714p14)
- - [Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?](https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/)
- - [The European Commission approves €659M in German state aid to support four first-of-a-kind chip facilities in Germany, saying they will strengthen EU autonomy &lpar;Kirsti Knolle/Reuters&rpar;](https://www.techmeme.com/260714/p13#a260714p13)
- - [Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US](https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog)<!-- TECH:END -->
+ - [OLED iPad mini may still launch before the end of 2026](https://appleinsider.com/articles/26/07/14/oled-ipad-mini-may-still-launch-before-the-end-of-2026?utm_source=rss)
+ - [Sam Altman didn’t need another lawsuit](https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo)
+ - [Glass production plans give the iPhone 20 redesign new credibility](https://appleinsider.com/articles/26/07/14/glass-production-plans-give-the-iphone-20-redesign-new-credibility?utm_source=rss)
+ - [Pixel Watch 5 leak shows off four different finishes](https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes)
+ - [Flex, which offers AI-based payment tools, credit, and more to mid-sized companies, raised a $70M Series B1 led by Halo Fund, a source says at a $1.2B valuation &lpar;Aditya Soni/Reuters&rpar;](https://www.techmeme.com/260714/p19#a260714p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

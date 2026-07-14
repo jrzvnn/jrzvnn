@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [RIP King!](http://9gag.com/gag/aYQ2wMq)
- - 😝 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
- - 💣 [You know you&#39;re getting old... When people you didn&#39;t consider THAT old are now dying!](http://9gag.com/gag/a2vnq8d)
- - 😝 [They did!](http://9gag.com/gag/aXP5X5P)
- - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
+ - 😝 [If you know what i mean](http://9gag.com/gag/axyXGL1)
+ - 😝 [Whole](http://9gag.com/gag/aPAKG5w)
+ - 💣 [The whole Fu*king Credit Score is a Scam made by the rich to keep the people poor and in debt FOH](http://9gag.com/gag/an7LBjb)
+ - 😝 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
+ - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
 
 ---
 

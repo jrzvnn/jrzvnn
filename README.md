@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - 😝 [Fair enough.](http://9gag.com/gag/aLnyBVP)
- - 💣 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)
- - 😝 [Where green screen?](http://9gag.com/gag/ae9v6VQ)
- - 👉 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)<!-- MEMES:END -->
+ - 😝 [That&#39;s one of a good prank](http://9gag.com/gag/aD2EmGB)
+ - 😝 [When your plumber is from India and you redeem](http://9gag.com/gag/ajPoAjp)
+ - 💣 [HR woes](http://9gag.com/gag/ayNO88b)
+ - 😝 [If you know what i mean](http://9gag.com/gag/axyXGL1)
+ - 👉 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)<!-- MEMES:END -->
 
 ---
 

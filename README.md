@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - 😝 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)
- - 💣 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - 😝 [This F*vking duck](http://9gag.com/gag/aQz0noq)
- - 👉 [Women](http://9gag.com/gag/awy6VzQ)<!-- MEMES:END -->
+ - 😝 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
+ - 😝 [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
+ - 💣 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)
+ - 😝 [Vilify the rich](http://9gag.com/gag/aGyWDNZ)
+ - 👉 [That&#39;s one of a good prank](http://9gag.com/gag/aD2EmGB)<!-- MEMES:END -->
 
 ---
 

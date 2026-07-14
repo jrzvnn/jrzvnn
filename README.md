@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Tiger](http://9gag.com/gag/aW4wWNK)
- - 😝 [A thousand venomous snakes escaped from a farm in China due to flooding.](http://9gag.com/gag/aoyb0Dx)
- - 💣 [Asking the real questions today](http://9gag.com/gag/a6ZA7P2)
- - 😝 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)
- - 👉 [I hate mondays](http://9gag.com/gag/adBmpwj)<!-- MEMES:END -->
+ - 😝 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)
+ - 😝 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
+ - 💣 [They did!](http://9gag.com/gag/aXP5X5P)
+ - 😝 [Women](http://9gag.com/gag/awy6VzQ)
+ - 👉 [Dats raycis&#39;!](http://9gag.com/gag/a7ozbjq)<!-- MEMES:END -->
 
 ---
 

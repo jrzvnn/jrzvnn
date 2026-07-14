@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED iPad mini may still launch before the end of 2026](https://appleinsider.com/articles/26/07/14/oled-ipad-mini-may-still-launch-before-the-end-of-2026?utm_source=rss)
- - [Sam Altman didn’t need another lawsuit](https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo)
- - [Glass production plans give the iPhone 20 redesign new credibility](https://appleinsider.com/articles/26/07/14/glass-production-plans-give-the-iphone-20-redesign-new-credibility?utm_source=rss)
- - [Pixel Watch 5 leak shows off four different finishes](https://www.theverge.com/tech/965293/google-pixel-watch-5-leak-finishes)
- - [Flex, which offers AI-based payment tools, credit, and more to mid-sized companies, raised a $70M Series B1 led by Halo Fund, a source says at a $1.2B valuation &lpar;Aditya Soni/Reuters&rpar;](https://www.techmeme.com/260714/p19#a260714p19)<!-- TECH:END -->
+ - [Spotify is now an AI chatbot, too](https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts)
+ - [Velocity, a stablecoin treasury and settlement platform, raised a $38M Series A led by Dragonfly and FirstMark, bringing its total funding to around $50M &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260714/p27#a260714p27)
+ - [OpenAI strikes a partnership with Kalshi to show FIFA World Cup prediction market data in ChatGPT search results, its first deal with a prediction market &lpar;Mike Isaac/New York Times&rpar;](https://www.techmeme.com/260714/p26#a260714p26)
+ - [Apple&#39;s 1TB M5 MacBook Pro falls to $1,849 in today&#39;s price war](https://appleinsider.com/articles/26/07/14/apples-1tb-m5-macbook-pro-falls-to-1849-in-todays-price-war?utm_source=rss)
+ - [X admits its broken algorithm made the site feel like a &amp;#8216;battleground&amp;#8217;](https://www.theverge.com/tech/965360/x-algorithm-tweak-mutuals-strangers-community)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

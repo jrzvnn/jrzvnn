@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOGE Used AI for Housing Policy. The Government Won’t Say How](https://www.wired.com/story/doge-deployed-ai-housing-policy/)
- - [New York becomes the first state to enact a data center moratorium](https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium)
- - [The US Approves the Launch of a Mirror Satellite That Can Reflect Sunlight and Illuminate the Earth at Night](https://www.wired.com/story/reflect-orbital-earendil-mirror-satellite-fcc/)
- - [eMarketer: chatbots like ChatGPT and Google AI Mode will generate less than $1B in ad revenue in 2026; OpenAI projected $2.5B in ChatGPT ad revenue this year &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260714/p4#a260714p4)
- - [England vs. India: How to Watch ODI Cricket Series Live From Anywhere](https://www.cnet.com/tech/services-and-software/england-vs-india-how-to-watch-odi-cricket-series-live-from-anywhere/)<!-- TECH:END -->
+ - [New York Governor Kathy Hochul signs a moratorium blocking new permits for hyperscale data centers exceeding 50MW for up to one year, the first state to do so &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260714/p11#a260714p11)
+ - [This German Man Is on a Quest to Cut the Perfect Slice of Bread](https://www.wired.com/story/this-german-man-is-on-a-mad-quest-to-cut-the-perfect-slice-of-bread/)
+ - [Let’s build a children’s public internet](https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal)
+ - [Survey: 57% of US women and 47% of men ages 18 to 29 say they get health and wellness information from influencers; women say they see such content more often &lpar;Aaron Smith/Pew Research Center&rpar;](https://www.techmeme.com/260714/p10#a260714p10)
+ - [Nikita Bier says X made a &quot;tweak to boost visibility of your posts to your mutuals&quot;, or those who users follow back, to avoid replies becoming a &quot;battleground&quot; &lpar;Lucas Ropek/TechCrunch&rpar;](https://www.techmeme.com/260714/p9#a260714p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

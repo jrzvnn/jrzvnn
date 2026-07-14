@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak home entertainment engineering](http://9gag.com/gag/aYQ2eZ0)
- - 😝 [I have always wondered how they are able to stay so accurate. Is there a slender frame they are following that can&#39;t be seen?](http://9gag.com/gag/aND6nv4)
- - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
- - 😝 [Well well well](http://9gag.com/gag/ayNO84W)
- - 👉 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)<!-- MEMES:END -->
+ - 😝 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 😝 [Fair enough.](http://9gag.com/gag/aLnyBVP)
+ - 💣 [Keep track isn&#39;t easy](http://9gag.com/gag/avy3P1X)
+ - 😝 [Where green screen?](http://9gag.com/gag/ae9v6VQ)
+ - 👉 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)<!-- MEMES:END -->
 
 ---
 

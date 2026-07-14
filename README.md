@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Breathtaking](http://9gag.com/gag/aMV3rgR)
  - 😝 [RIP King!](http://9gag.com/gag/aYQ2wMq)
- - 💣 [That jump was pure magic](http://9gag.com/gag/a34VLw3)
  - 😝 [They did!](http://9gag.com/gag/aXP5X5P)
+ - 💣 [You know you&#39;re getting old... When people you didn&#39;t consider THAT old are now dying!](http://9gag.com/gag/a2vnq8d)
+ - 😝 [Peak home entertainment engineering](http://9gag.com/gag/aYQ2eZ0)
  - 👉 [Si. Ma Noooo. [Repost]](http://9gag.com/gag/aND6KvK)<!-- MEMES:END -->
 
 ---

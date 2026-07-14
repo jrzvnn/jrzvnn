@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston Dynamics tries using &amp;#8216;robot dogs&amp;#8217; for deliveries](https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant)
- - [Sony delays its new PS5 fight stick](https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay)
- - [Nomad&amp;#8217;s high-end phone accessories are up to 30 percent off](https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale)
- - [Google Images launches a Pinterest-like redesign with a browsable, dynamic gallery of images, and adds a way for users to create AI images in Search &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260714/p35#a260714p35)
- - [The European Commission proposes exempting wearable tech from rules requiring removable batteries, clearing a hurdle for Meta&#39;s smart glasses, after US pressure &lpar;Politico&rpar;](https://www.techmeme.com/260714/p34#a260714p34)<!-- TECH:END -->
+ - [PrismML confirms it is in talks with Apple about AI model-shrinking tech](https://appleinsider.com/articles/26/07/14/prismml-confirms-it-is-in-talks-with-apple-about-ai-model-shrinking-tech?utm_source=rss)
+ - [TerraFirma, a construction tech company founded by two former SpaceX engineers to build remote-controlled construction equipment, raised $115M &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p37#a260714p37)
+ - [Philips Hue&amp;#8217;s budget-friendly Essential starter kit has hit a new low price](https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale)
+ - [Plex is down](https://www.theverge.com/tech/965518/plex-tv-down-outage-issues)
+ - [Nintendo’s Switch 2 bundle that includes a game is $50 off](https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

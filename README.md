@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail &quot;context bombing&quot;, where defenders use prompt injections to trigger guardrails of attackers&#39; LLMs, cutting AI hacking success rates by ~90% &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260714/p2#a260714p2)
  - [Hotels.com Coupon Codes for July 2026](https://www.wired.com/story/hotels-com-coupon/)
  - [Bose Promo Code: 40% Off for July 2026](https://www.wired.com/story/bose-coupon-code/)
  - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)
- - [OnePlus Promo Codes: 30% Off July 2026](https://www.wired.com/story/oneplus-promo-code/)
- - [Peacock Promo Codes: 40% Off July 2026](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [OnePlus Promo Codes: 30% Off July 2026](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

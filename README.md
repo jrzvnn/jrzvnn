@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new foldable display is harder to crease and damage](https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables)
- - [India pledges $13.3B to boost domestic chipmaking, building on a $10B incentive program from 2021, which attracted investments from companies like Micron &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260715/p15#a260715p15)
- - [Spotify’s Daniel Ek is bringing his body-scanning clinics to the US](https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push)
- - [IBM stock fell 25%+ on Tuesday, sinking further than its previous worst day of October 19, 1987, after reporting preliminary Q2 results below estimates &lpar;CNBC&rpar;](https://www.techmeme.com/260715/p14#a260715p14)
- - [My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell](https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/)<!-- TECH:END -->
+ - [Apple Intelligence finally on the road to release in China](https://appleinsider.com/articles/26/07/15/apple-intelligence-finally-on-the-road-to-release-in-china?utm_source=rss)
+ - [China enacts rules forbidding companionship chatbots from encouraging emotional reliance, banning virtual relationships with minors, and more &lpar;Stu Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260715/p19#a260715p19)
+ - [Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260715/p18#a260715p18)
+ - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
+ - [MSI Claw 8 EX AI+ Review: Great Power, Shocking Price](https://www.wired.com/review/msi-claw-8-ex-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

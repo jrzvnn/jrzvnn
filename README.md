@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play)
- - [Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260714/p58#a260714p58)
- - [Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260714/p57#a260714p57)
- - [Sources: multiple GOP governors and large utilities are expected to join Trump&#39;s pledge for data center developers to cover their energy use and infrastructure &lpar;Politico&rpar;](https://www.techmeme.com/260714/p56#a260714p56)
- - [Monitoring Analytics: PJM&#39;s recent electricity auction is expected to add $6.3B to customers&#39; bills in 13 states and DC through 2029 due to data center demands &lpar;Ivan Penn/New York Times&rpar;](https://www.techmeme.com/260714/p55#a260714p55)<!-- TECH:END -->
+ - [Sources: DeepSeek&#39;s annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May &lpar;The Information&rpar;](https://www.techmeme.com/260715/p6#a260715p6)
+ - [Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260715/p5#a260715p5)
+ - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for July 2026](https://www.wired.com/story/noom-promo-code/)
+ - [Hydrow Discount Code: Save Up to $150 | July 2026](https://www.wired.com/story/hydrow-discount-code/)
+ - [Chegg Coupon Codes July 2026: Save on Study, Textbooks, &amp; More](https://www.wired.com/story/chegg-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

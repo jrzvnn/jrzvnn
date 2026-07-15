@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase&#39;s Jesse Pollak says Jordan Fish, aka &quot;Cobie&quot;, will now lead the Base app team after acknowledging some of Base&#39;s bets on social features fell short &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260715/p48#a260715p48)
- - [SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260715/p47#a260715p47)
- - [Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be &quot;evaluated on a case-by-case basis&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260715/p46#a260715p46)
- - [Roblox is shutting down its video chat service](https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down)
- - [AI slop movies are the new direct-to-video cash grabs](https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood)<!-- TECH:END -->
+ - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/)
+ - [xAI sues a man for using Grok to generate CSAM &amp;#8216;deepfakes&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)
+ - [Brendan Carr plans to let broadcast giants dominate the airwaves](https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr)
+ - [Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025&#39;s $34.6B funding &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260715/p49#a260715p49)
+ - [Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion](https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

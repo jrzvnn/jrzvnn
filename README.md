@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)
- - 😝 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
- - 💣 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)
- - 😝 [I dont like ads, but sometimes it can be hilarious](http://9gag.com/gag/aRBYKNj)
- - 👉 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)<!-- MEMES:END -->
+ - 😝 [Just try it](http://9gag.com/gag/awy6V9x)
+ - 😝 [HR woes](http://9gag.com/gag/ayNO88b)
+ - 💣 [Dafne keen](http://9gag.com/gag/aE0LnEM)
+ - 😝 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
+ - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
 
 ---
 

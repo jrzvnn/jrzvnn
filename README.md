@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suno snatched millions of songs from YouTube, Genius, and Deezer](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack)
- - [Lucid’s bankruptcy rumor is a bad sign for the EV future](https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future)
- - [Netflix tries to recapture Stranger Things magic with nostalgic re-release](https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix)
- - [Lionel Messi’s Final World Cup—and the Death of Early Retirement](https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/)
- - [Don&#39;t Call It Book 4, but the Next Fourth Wing Book Has a Name and Release Date](https://www.cnet.com/culture/fourth-wing-new-book-threshing-day/)<!-- TECH:END -->
+ - [Apple&#39;s new 36-month cellular iPad financing plan is good, but you can save money elsewhere](https://appleinsider.com/articles/26/07/15/apples-new-36-month-cellular-ipad-financing-plan-is-good-but-you-can-save-money-elsewhere?utm_source=rss)
+ - [Our ‘explosive diarrhea parasite’ future](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)
+ - [Apple raises AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260715/p42#a260715p42)
+ - [AI Isn’t Smarter Than a Baby—Yet](https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/)
+ - [Something&amp;#8217;s glowing on the Pixel 11&amp;#8217;s camera bar](https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

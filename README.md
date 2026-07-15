@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says Apple&#39;s claim that OpenAI never responded to its concerns is false; emails: an Apple lawyer mixed up two OpenAI staffers in Apple&#39;s initial outreach &lpar;David Ingram/NBC News&rpar;](https://www.techmeme.com/260714/p51#a260714p51)
- - [The Trump administration launches the &quot;Gold Eagle&quot; federal clearinghouse for sharing AI cyber threat information between the government and private sector &lpar;Derek B. Johnson/CyberScoop&rpar;](https://www.techmeme.com/260714/p50#a260714p50)
- - [Nothing’s good-looking Watch 3 Pro smartwatch is just $69](https://www.theverge.com/gadgets/965565/cmf-nothing-watch-3-pro-smartwatch-ios-android-deal-sale)
- - [Cybersecurity stocks rallied on Tuesday after IBM CEO Arvind Krishna flagged cyber fears as a top priority for customers; CrowdStrike jumped 12%, Okta rose 11% &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260714/p49#a260714p49)
- - [The UK Is Planning a Social Media Curfew for 16- and 17-Year-Olds](https://www.wired.com/story/the-uk-is-planning-a-social-media-curfew-for-16-and-17-year-olds/)<!-- TECH:END -->
+ - [Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260714/p53#a260714p53)
+ - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
+ - [OpenAI&#39;s First Device Will Reportedly Be a Portable Smart Speaker](https://www.cnet.com/tech/openais-first-device-will-reportedly-be-a-portable-smart-speaker/)
+ - [Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &lpar;Ej Dickson/Wired&rpar;](https://www.techmeme.com/260714/p52#a260714p52)
+ - [From Extreme Heat to Half a Million Folds: A Rare Look Inside Samsung&#39;s Display Lab](https://www.cnet.com/tech/mobile/inside-samsungs-secret-lab-foldable-displays/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

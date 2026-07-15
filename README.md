@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dafne keen](http://9gag.com/gag/aE0LnEM)
- - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 💣 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - 😝 [What is he putting in the sewer?](http://9gag.com/gag/ayNO8Wr)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 😝 [If you know what i mean](http://9gag.com/gag/axyXGL1)
+ - 😝 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
+ - 💣 [Found on my Phone](http://9gag.com/gag/a2vndNp)
+ - 😝 [The Daisy Chain Method: The Easiest Way to Store Cables Without Tangles](http://9gag.com/gag/aE0LnZn)
+ - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
 
 ---
 

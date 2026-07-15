@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: CoreWeave is exploring the use of financial derivatives as a potential hedge against a future drop in memory and storage chip prices &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260714/p53#a260714p53)
- - [LaserPecker LX2 review: Leveling up your laser game, for a price](https://appleinsider.com/articles/26/07/15/laserpecker-lx2-review-leveling-up-your-laser-game-for-a-price?utm_source=rss)
- - [OpenAI&#39;s First Device Will Reportedly Be a Portable Smart Speaker](https://www.cnet.com/tech/openais-first-device-will-reportedly-be-a-portable-smart-speaker/)
- - [Study: social networks drove 5.7M+ visits to nudify sites between December 2025 and March 2026, with YouTube accounting for 1.82M and X for 1.3M visits &lpar;Ej Dickson/Wired&rpar;](https://www.techmeme.com/260714/p52#a260714p52)
- - [From Extreme Heat to Half a Million Folds: A Rare Look Inside Samsung&#39;s Display Lab](https://www.cnet.com/tech/mobile/inside-samsungs-secret-lab-foldable-displays/)<!-- TECH:END -->
+ - [Google and Epic give up fighting — third-party Android app stores are coming next week](https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play)
+ - [Sources: OpenAI researcher Miles Wang is leaving the company to launch an AI drug discovery startup, and is in talks to raise $200M at a $2B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260714/p58#a260714p58)
+ - [Meta is sued by 26 current and former employees, who allege its use of AI in May layoffs unfairly targeted workers with disabilities or on protected leave &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260714/p57#a260714p57)
+ - [Sources: multiple GOP governors and large utilities are expected to join Trump&#39;s pledge for data center developers to cover their energy use and infrastructure &lpar;Politico&rpar;](https://www.techmeme.com/260714/p56#a260714p56)
+ - [Monitoring Analytics: PJM&#39;s recent electricity auction is expected to add $6.3B to customers&#39; bills in 13 states and DC through 2029 due to data center demands &lpar;Ivan Penn/New York Times&rpar;](https://www.techmeme.com/260714/p55#a260714p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

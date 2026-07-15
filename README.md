@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new 36-month cellular iPad financing plan is good, but you can save money elsewhere](https://appleinsider.com/articles/26/07/15/apples-new-36-month-cellular-ipad-financing-plan-is-good-but-you-can-save-money-elsewhere?utm_source=rss)
- - [Our ‘explosive diarrhea parasite’ future](https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell)
- - [Apple raises AppleCare+ prices for Macs and iPads by $0.50 per month and $5 per year; the increases are exclusively for new sign-ups &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260715/p42#a260715p42)
- - [AI Isn’t Smarter Than a Baby—Yet](https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/)
- - [Something&amp;#8217;s glowing on the Pixel 11&amp;#8217;s camera bar](https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser)<!-- TECH:END -->
+ - [OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment &lpar;OpenAI&rpar;](https://www.techmeme.com/260715/p45#a260715p45)
+ - [Apple Maps ads exclude home services, political ads, and more](https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more?utm_source=rss)
+ - [Apple bumps monthly AppleCare+ for iPad, Mac by 50 cents](https://appleinsider.com/articles/26/07/15/apple-bumps-monthly-applecare-for-ipad-mac-by-50-cents?utm_source=rss)
+ - [Uber and Waymo are engaged in a DC lobbying battle over AV legislation, with Uber supporting a hybrid human-robotaxi model and Waymo pushing for pure robotaxis &lpar;Liam Denning/Bloomberg&rpar;](https://www.techmeme.com/260715/p44#a260715p44)
+ - [Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/260715/p43#a260715p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

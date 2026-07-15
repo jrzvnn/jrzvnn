@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wealth!](http://9gag.com/gag/a87B4qQ)
- - 😝 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
- - 💣 [Vilify the rich](http://9gag.com/gag/aGyWDNZ)
- - 😝 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
- - 👉 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)<!-- MEMES:END -->
+ - 😝 [Well well well](http://9gag.com/gag/ayNO84W)
+ - 😝 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
+ - 💣 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
+ - 😝 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 👉 [Dafne keen](http://9gag.com/gag/aE0LnEM)<!-- MEMES:END -->
 
 ---
 

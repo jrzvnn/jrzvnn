@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well](http://9gag.com/gag/ayNO84W)
- - 😝 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
- - 💣 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)
- - 😝 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 👉 [Dafne keen](http://9gag.com/gag/aE0LnEM)<!-- MEMES:END -->
+ - 😝 [Technology before the 2000s](http://9gag.com/gag/a5Q8rbV)
+ - 😝 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
+ - 💣 [I still like cakes and puddings](http://9gag.com/gag/adBmjo9)
+ - 😝 [I dont like ads, but sometimes it can be hilarious](http://9gag.com/gag/aRBYKNj)
+ - 👉 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)<!-- MEMES:END -->
 
 ---
 

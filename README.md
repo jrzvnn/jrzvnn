@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Suno snatched millions of songs from YouTube, Genius, and Deezer](https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack)
+ - [Lucid’s bankruptcy rumor is a bad sign for the EV future](https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future)
+ - [Netflix tries to recapture Stranger Things magic with nostalgic re-release](https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix)
  - [Lionel Messi’s Final World Cup—and the Death of Early Retirement](https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/)
- - [OpenAI launches Codex Micro, a $230 desktop keypad built in collaboration with keyboard maker Work Louder, with backlit keys, a rotary knob, and a tiny joystick &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260715/p37#a260715p37)
- - [Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser](https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser)
- - [Sources: ASML has discussed raising prices for its EUV systems with TSMC and plans to charge 10% more for its DUV systems; TSMC is resisting ASML&#39;s plans &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260715/p36#a260715p36)
- - [OpenAI finally launches hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch)<!-- TECH:END -->
+ - [Don&#39;t Call It Book 4, but the Next Fourth Wing Book Has a Name and Release Date](https://www.cnet.com/culture/fourth-wing-new-book-threshing-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

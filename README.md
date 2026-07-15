@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence finally on the road to release in China](https://appleinsider.com/articles/26/07/15/apple-intelligence-finally-on-the-road-to-release-in-china?utm_source=rss)
- - [China enacts rules forbidding companionship chatbots from encouraging emotional reliance, banning virtual relationships with minors, and more &lpar;Stu Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260715/p19#a260715p19)
- - [Neo Security, a cybersecurity startup founded by ex-SentinelOne execs and currently in stealth, raised $50M+, after a $25M seed in 2025 led by a16z and Merlin &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260715/p18#a260715p18)
- - [The Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2026: Air, Pro, Mini](https://www.wired.com/gallery/the-best-ipad/)
- - [MSI Claw 8 EX AI+ Review: Great Power, Shocking Price](https://www.wired.com/review/msi-claw-8-ex-ai/)<!-- TECH:END -->
+ - [How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI&#39;s &quot;reverse federalism&quot; strategy for common state rules &lpar;Politico&rpar;](https://www.techmeme.com/260715/p26#a260715p26)
+ - [Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260715/p25#a260715p25)
+ - [The tiniest MMO](https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest)
+ - [American Growth Insurance, which aims to acquire struggling independent insurance firms and transform them using AI, raised almost $70M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260715/p24#a260715p24)
+ - [Gavin Newsom is tempering his pro-tech instincts with economic populism ahead of a likely presidential bid, proposing giving Americans equity in AI companies &lpar;Jeremy B. White/Politico&rpar;](https://www.techmeme.com/260715/p23#a260715p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

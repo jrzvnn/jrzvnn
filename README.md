@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
- - 😝 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
- - 💣 [4 genre 1 place](http://9gag.com/gag/aKGr341)
- - 😝 [Engine Sounds](http://9gag.com/gag/ayNO8Kq)
- - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
+ - 😝 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
+ - 😝 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
+ - 💣 [Women](http://9gag.com/gag/awy6VzQ)
+ - 😝 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
+ - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
 
 ---
 

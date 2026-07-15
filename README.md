@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML says Intel has decided to use ASML&#39;s next-gen High NA EUV machines to make some of its flagship Panther Lake laptop chips; a High NA machine costs ~$400M &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260715/p10#a260715p10)
- - [ASML reports Q2 net sales of €9.3B, above €8.8B est., a €2.9B net profit, above €2.6B est., and raises its 2026 net sales forecast from €36B-€40B to €43B-€45B &lpar;April Roach/CNBC&rpar;](https://www.techmeme.com/260715/p9#a260715p9)
- - [Starlink’s V5 dish is now available — here’s how it compares](https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison)
- - [A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](https://www.techmeme.com/260715/p8#a260715p8)
- - [As China&#39;s rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms &lpar;Bloomberg&rpar;](https://www.techmeme.com/260715/p7#a260715p7)<!-- TECH:END -->
+ - [Samsung’s new foldable display is harder to crease and damage](https://www.theverge.com/tech/965850/samsung-display-flex-titanium-galaxy-foldables)
+ - [India pledges $13.3B to boost domestic chipmaking, building on a $10B incentive program from 2021, which attracted investments from companies like Micron &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/260715/p15#a260715p15)
+ - [Spotify’s Daniel Ek is bringing his body-scanning clinics to the US](https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push)
+ - [IBM stock fell 25%+ on Tuesday, sinking further than its previous worst day of October 19, 1987, after reporting preliminary Q2 results below estimates &lpar;CNBC&rpar;](https://www.techmeme.com/260715/p14#a260715p14)
+ - [My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell](https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

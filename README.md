@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/)
- - [xAI sues a man for using Grok to generate CSAM &amp;#8216;deepfakes&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam)
- - [Brendan Carr plans to let broadcast giants dominate the airwaves](https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr)
- - [Venture funding of fintech startups grew 22.7% YoY in H1 2026 to $28.6B globally, but deal count fell 25.7% and funding fell 17.3% vs. H2 2025&#39;s $34.6B funding &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260715/p49#a260715p49)
- - [Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion](https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/)<!-- TECH:END -->
+ - [HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)
+ - [Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more &lpar;The Information&rpar;](https://www.techmeme.com/260715/p50#a260715p50)
+ - [Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads](https://www.theverge.com/tech/966219/apple-care-plus-price-increase)
+ - [Valve says iFixit will keep selling Steam Deck batteries after all](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery)
+ - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

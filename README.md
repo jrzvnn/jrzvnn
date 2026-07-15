@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
- - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
- - 💣 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)
+ - 😝 [`Roadhouse!!`](http://9gag.com/gag/a1mGXPR)
+ - 😝 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)
+ - 💣 [4 genre 1 place](http://9gag.com/gag/aKGr341)
  - 😝 [Engine Sounds](http://9gag.com/gag/ayNO8Kq)
- - 👉 [Women: Men have no feelings\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800\u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 \u2800 Men:](http://9gag.com/gag/adBmj8D)<!-- MEMES:END -->
+ - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy](https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability)
- - [Save $150 on Apple&#39;s 1TB M5 MacBook Air at Amazon](https://appleinsider.com/articles/26/07/15/save-150-on-apples-1tb-m5-macbook-air-at-amazon?utm_source=rss)
- - [Sources: Apple is looking for chip companies to buy to boost its AI server chip efforts as it struggles with the performance of its servers running on M2 Ultra &lpar;The Information&rpar;](https://www.techmeme.com/260715/p33#a260715p33)
- - [Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024 &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260715/p32#a260715p32)
- - [How TikTok Shop sellers are using AI creators and AI twins to boost sales; eMarketer: US sales on TikTok Shop are expected to hit $23.4B in 2026, up 48% YoY &lpar;Patrick Coffee/Wall Street Journal&rpar;](https://www.techmeme.com/260715/p31#a260715p31)<!-- TECH:END -->
+ - [Lionel Messi’s Final World Cup—and the Death of Early Retirement](https://www.wired.com/story/lionel-messis-final-world-cup-and-the-death-of-early-retirement/)
+ - [OpenAI launches Codex Micro, a $230 desktop keypad built in collaboration with keyboard maker Work Louder, with backlit keys, a rotary knob, and a tiny joystick &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260715/p37#a260715p37)
+ - [Samsung shows off ‘brand new shape’ for Z Fold 8 in Spider-Man teaser](https://www.theverge.com/tech/965997/samsung-spider-man-galaxy-z-fold-8-teaser)
+ - [Sources: ASML has discussed raising prices for its EUV systems with TSMC and plans to charge 10% more for its DUV systems; TSMC is resisting ASML&#39;s plans &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260715/p36#a260715p36)
+ - [OpenAI finally launches hardware… for Codex](https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

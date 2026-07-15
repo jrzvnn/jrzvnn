@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI details GPT-Red, an internal automated red-teaming model that helps it find and fix prompt injection vulnerabilities at scale before wider deployment &lpar;OpenAI&rpar;](https://www.techmeme.com/260715/p45#a260715p45)
- - [Apple Maps ads exclude home services, political ads, and more](https://appleinsider.com/articles/26/07/15/apple-maps-ads-exclude-home-services-political-ads-and-more?utm_source=rss)
- - [Apple bumps monthly AppleCare+ for iPad, Mac by 50 cents](https://appleinsider.com/articles/26/07/15/apple-bumps-monthly-applecare-for-ipad-mac-by-50-cents?utm_source=rss)
- - [Uber and Waymo are engaged in a DC lobbying battle over AV legislation, with Uber supporting a hybrid human-robotaxi model and Waymo pushing for pure robotaxis &lpar;Liam Denning/Bloomberg&rpar;](https://www.techmeme.com/260715/p44#a260715p44)
- - [Dave Brown, AWS SVP of Compute, AI, and Platform, is leaving the company after 19 years for a new job; he is a member of the S-team that advises CEO Andy Jassy &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/260715/p43#a260715p43)<!-- TECH:END -->
+ - [Coinbase&#39;s Jesse Pollak says Jordan Fish, aka &quot;Cobie&quot;, will now lead the Base app team after acknowledging some of Base&#39;s bets on social features fell short &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260715/p48#a260715p48)
+ - [SpaceX shares fell for a fourth-straight session on Wednesday, briefly dropping below their $135 IPO price for the first time before closing at $135.27 &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260715/p47#a260715p47)
+ - [Apple publishes a policy for upcoming Maps ads, says home services ads are banned, medical services ads will be &quot;evaluated on a case-by-case basis&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260715/p46#a260715p46)
+ - [Roblox is shutting down its video chat service](https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down)
+ - [AI slop movies are the new direct-to-video cash grabs](https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

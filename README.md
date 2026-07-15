@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just try it](http://9gag.com/gag/awy6V9x)
+ - 😝 [Normal day at office](http://9gag.com/gag/a9y97Zj)
  - 😝 [HR woes](http://9gag.com/gag/ayNO88b)
- - 💣 [Dafne keen](http://9gag.com/gag/aE0LnEM)
- - 😝 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
- - 👉 [Man stalked by a mountain lion saved by a Glock 27](http://9gag.com/gag/an7LNPV)<!-- MEMES:END -->
+ - 💣 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 😝 [Wednesday My Dudes](http://9gag.com/gag/aQz0Mj2)
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 ---
 

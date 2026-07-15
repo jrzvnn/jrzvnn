@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO &lpar;Kurwa! Version&rpar;](http://9gag.com/gag/aryjNW5)
- - 😝 [I Hope you guys win the battles no one knows you&#39;re fighting](http://9gag.com/gag/a2vn5NO)
- - 💣 [Women](http://9gag.com/gag/awy6VzQ)
- - 😝 [Definition of `take me for a ride`](http://9gag.com/gag/aO8Xvxy)
- - 👉 [At least no one destroyed anything.](http://9gag.com/gag/aXP59B2)<!-- MEMES:END -->
+ - 😝 [Dafne keen](http://9gag.com/gag/aE0LnEM)
+ - 😝 [I hate mondays](http://9gag.com/gag/adBmpwj)
+ - 💣 [Today is my 69th birthday. Send me TT\u00b4s!](http://9gag.com/gag/aRBYVbj)
+ - 😝 [What is he putting in the sewer?](http://9gag.com/gag/ayNO8Wr)
+ - 👉 [HR woes](http://9gag.com/gag/ayNO88b)<!-- MEMES:END -->
 
 ---
 

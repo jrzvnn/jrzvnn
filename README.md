@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 😝 [Dafne keen](http://9gag.com/gag/aE0LnEM)
  - 😝 [HR woes](http://9gag.com/gag/ayNO88b)
- - 💣 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 😝 [Wednesday My Dudes](http://9gag.com/gag/aQz0Mj2)
- - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
+ - 💣 [Normal day at office](http://9gag.com/gag/a9y97Zj)
+ - 😝 [Human devolution](http://9gag.com/gag/aVvNDgP)
+ - 👉 [Found on my Phone](http://9gag.com/gag/a2vndNp)<!-- MEMES:END -->
 
 ---
 

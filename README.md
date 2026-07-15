@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Anthropic is pursuing a state-by-state push for ever-tougher AI safety laws, in contrast with OpenAI&#39;s &quot;reverse federalism&quot; strategy for common state rules &lpar;Politico&rpar;](https://www.techmeme.com/260715/p26#a260715p26)
- - [Sources: the EU is set to fine Google hundreds of millions of euros over alleged self-preferencing of its services in Search and restrictions on app developers &lpar;Barbara Moens/Financial Times&rpar;](https://www.techmeme.com/260715/p25#a260715p25)
- - [The tiniest MMO](https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest)
- - [American Growth Insurance, which aims to acquire struggling independent insurance firms and transform them using AI, raised almost $70M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260715/p24#a260715p24)
- - [Gavin Newsom is tempering his pro-tech instincts with economic populism ahead of a likely presidential bid, proposing giving Americans equity in AI companies &lpar;Jeremy B. White/Politico&rpar;](https://www.techmeme.com/260715/p23#a260715p23)<!-- TECH:END -->
+ - [8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy](https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability)
+ - [Save $150 on Apple&#39;s 1TB M5 MacBook Air at Amazon](https://appleinsider.com/articles/26/07/15/save-150-on-apples-1tb-m5-macbook-air-at-amazon?utm_source=rss)
+ - [Sources: Apple is looking for chip companies to buy to boost its AI server chip efforts as it struggles with the performance of its servers running on M2 Ultra &lpar;The Information&rpar;](https://www.techmeme.com/260715/p33#a260715p33)
+ - [Spectro Cloud, an AI infrastucture company helping manage token costs, raised a $100M Series D from AMD, LG, others at a $1B+ valuation, up from $750M in 2024 &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260715/p32#a260715p32)
+ - [How TikTok Shop sellers are using AI creators and AI twins to boost sales; eMarketer: US sales on TikTok Shop are expected to hit $23.4B in 2026, up 48% YoY &lpar;Patrick Coffee/Wall Street Journal&rpar;](https://www.techmeme.com/260715/p31#a260715p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

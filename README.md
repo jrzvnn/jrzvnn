@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: DeepSeek&#39;s annualized revenue recently reached $400M to $500M as it seeks to raise ~$7.4B at a ~$74B valuation, up from ~$50B after raising ~$7B in May &lpar;The Information&rpar;](https://www.techmeme.com/260715/p6#a260715p6)
- - [Court filing: Google says it is ready to add third-party app stores in Google Play in the US on July 22, as Google and Epic withdraw their joint motion &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260715/p5#a260715p5)
- - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for July 2026](https://www.wired.com/story/noom-promo-code/)
- - [Hydrow Discount Code: Save Up to $150 | July 2026](https://www.wired.com/story/hydrow-discount-code/)
- - [Chegg Coupon Codes July 2026: Save on Study, Textbooks, &amp; More](https://www.wired.com/story/chegg-coupon-code/)<!-- TECH:END -->
+ - [ASML says Intel has decided to use ASML&#39;s next-gen High NA EUV machines to make some of its flagship Panther Lake laptop chips; a High NA machine costs ~$400M &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260715/p10#a260715p10)
+ - [ASML reports Q2 net sales of €9.3B, above €8.8B est., a €2.9B net profit, above €2.6B est., and raises its 2026 net sales forecast from €36B-€40B to €43B-€45B &lpar;April Roach/CNBC&rpar;](https://www.techmeme.com/260715/p9#a260715p9)
+ - [Starlink’s V5 dish is now available — here’s how it compares](https://www.theverge.com/science/965824/starlink-v5-vs-v4-dish-comparison)
+ - [A profile of PsiQuantum, which raised $1B in 2025, is building a quantum computer with photonic chips made by GlobalFoundries and is closely monitored by DARPA &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](https://www.techmeme.com/260715/p8#a260715p8)
+ - [As China&#39;s rules for humanlike AI interaction take effect, many users are bemoaning the loss of the virtual companions they had created on Chinese AI platforms &lpar;Bloomberg&rpar;](https://www.techmeme.com/260715/p7#a260715p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

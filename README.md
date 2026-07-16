@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
- - 😝 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
- - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
- - 😝 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
+ - 😝 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
+ - 😝 [Human devolution](http://9gag.com/gag/aVvNDgP)
+ - 💣 [Dynamic movement](http://9gag.com/gag/aVvNq9n)
+ - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
 
 ---
 

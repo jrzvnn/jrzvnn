@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
- - 💣 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 😝 [Just saying...](http://9gag.com/gag/a4PDZgQ)
+ - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
  - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
  - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
 

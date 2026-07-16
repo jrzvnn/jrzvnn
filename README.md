@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p3#a260716p3)
- - [Lenovo Coupon Codes and Deals in July 2026](https://www.wired.com/story/lenovo-coupon-code/)
- - [Surfshark Promo Codes: 87% Off | July 2026](https://www.wired.com/story/surfshark-coupon/)
- - [Priceline Promo Codes &amp; Coupons: 10% Off July](https://www.wired.com/story/priceline-promo-code/)
- - [HostGator Coupon Codes: 76% Off Hosting in July 2026](https://www.wired.com/story/hostgator-coupon/)<!-- TECH:END -->
+ - [5 Reasons to Buy the New Pink Floyd Cassette Deck, Ranked Best to Worst](https://www.cnet.com/tech/home-entertainment/5-reasons-to-buy-the-new-pink-floyd-cassette-deck-ranked-best-to-worst/)
+ - [A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260716/p6#a260716p6)
+ - [xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260716/p5#a260716p5)
+ - [TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260716/p4#a260716p4)
+ - [Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p3#a260716p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casper definitely deserves a lifetime supply of treats](http://9gag.com/gag/adBmq59)
- - 😝 [Human devolution](http://9gag.com/gag/aVvNDgP)
- - 💣 [Dynamic movement](http://9gag.com/gag/aVvNq9n)
- - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 👉 [Painfully accurate](http://9gag.com/gag/a34VqpQ)<!-- MEMES:END -->
+ - 😝 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)
+ - 😝 [Unexpected guest appearing from the fridge](http://9gag.com/gag/awy6n2r)
+ - 💣 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
+ - 😝 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
+ - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
 
 ---
 

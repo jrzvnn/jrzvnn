@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Moonshot plans to launch Kimi K3, China&#39;s largest model to date with 2T-3T parameters, in the coming days; it&#39;s expected to outperform Claude Opus 4.8 &lpar;Financial Times&rpar;](https://www.techmeme.com/260716/p33#a260716p33)
- - [Sources: Apple is prepping an iPad overhaul, including an iPad mini with an OLED screen by October and refreshed versions of entry-level iPad and Airs in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260716/p32#a260716p32)
- - [Sable, which is building an AI agent named Aiden that lives on a company&#39;s website to run live product demos and more, raised $45M from Sequoia and 8VC &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260716/p31#a260716p31)
- - [Ninja’s microwave air fryer could be the fix for soggy reheated pizza](https://www.theverge.com/tech/966175/ninja-crispi-microwave-air-fryer-kitchen-appliance)
- - [Grubhub parent Wonder raised a $650M+ Series D at a $9B valuation, bringing its total raised to $3B+ since its founding in 2018, and plans to go public in 2027 &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260716/p30#a260716p30)<!-- TECH:END -->
+ - [Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260716/p39#a260716p39)
+ - [Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260716/p38#a260716p38)
+ - [OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China &lpar;CNET&rpar;](https://www.techmeme.com/260716/p37#a260716p37)
+ - [China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p36#a260716p36)
+ - [Apple&amp;#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

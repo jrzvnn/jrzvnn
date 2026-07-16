@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)
- - 😝 [Unexpected guest appearing from the fridge](http://9gag.com/gag/awy6n2r)
- - 💣 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
+ - 😝 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
  - 😝 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)
- - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
+ - 💣 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)
+ - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 ---
 

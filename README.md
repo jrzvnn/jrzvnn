@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: a Chinese company says a fund in which its unit invested paid ~$420M for an indirect 0.8265% stake in DeepSeek, implying DeepSeek is valued at ~$52B &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260716/p39#a260716p39)
- - [Visa launches the Visa Stablecoin Platform, an internal system for its network of about 15,000 financial institutions and 200M+ merchants to use stablecoins &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260716/p38#a260716p38)
- - [OnePlus confirms it will no longer operate in North America or Europe but will continue in China, while Realme, another Oppo sub-brand, will exit China &lpar;CNET&rpar;](https://www.techmeme.com/260716/p37#a260716p37)
- - [China, Russia, Brazil, and 26 other countries sign an agreement to establish the World AI Cooperation Organization in Shanghai &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p36#a260716p36)
- - [Apple&amp;#8217;s OLED iPad Mini upgrade is on the way as prices continue to rise](https://www.theverge.com/tech/966535/apple-oled-ipad-mini-rumor)<!-- TECH:END -->
+ - [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)
+ - [Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260716/p42#a260716p42)
+ - [Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively &lpar;Josh Woodward/Google&rpar;](https://www.techmeme.com/260716/p41#a260716p41)
+ - [&#39;Power: Origins&#39;: See Young Ghost, Tommy and Kanan in First-Look Trailer](https://www.cnet.com/culture/entertainment/power-origins-see-young-ghost-tommy-and-kanan-in-first-look-teaser/)
+ - [Google Renames NotebookLM to Gemini Notebook](https://www.cnet.com/tech/services-and-software/google-renames-notebooklm-to-gemini-notebook/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

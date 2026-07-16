@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT 5.5, and plans to release model weights by July 27 &lpar;Kimi&rpar;](https://www.techmeme.com/260716/p50#a260716p50)
- - [After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk &lpar;Tibo/@thsottiaux&rpar;](https://www.techmeme.com/260716/p49#a260716p49)
- - [Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
- - [Everyone Thinks They Have the Diarrhea Parasite](https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/)
- - [Here’s Why Anthropic Is Pushing States to Regulate AI Faster](https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/)<!-- TECH:END -->
+ - [Save $400 on Apple&#39;s M5 Max MacBook Pro 16-inch with spacious 2TB SSD](https://appleinsider.com/articles/26/07/16/save-400-on-apples-m5-max-macbook-pro-16-inch-with-spacious-2tb-ssd?utm_source=rss)
+ - [Why are CD sales suddenly growing again?](https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate)
+ - [Review: Xgimi Titan Noir Max Home Projector &lpar;2026&rpar;](https://www.wired.com/story/xgimi-titan-noir-max-projector/)
+ - [DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260716/p52#a260716p52)
+ - [AI-generated Roblox games are about to get much easier to make on iPhone](https://appleinsider.com/articles/26/07/16/ai-generated-roblox-games-are-about-to-get-much-easier-to-make-on-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

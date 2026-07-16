@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $400 on Apple&#39;s M5 Max MacBook Pro 16-inch with spacious 2TB SSD](https://appleinsider.com/articles/26/07/16/save-400-on-apples-m5-max-macbook-pro-16-inch-with-spacious-2tb-ssd?utm_source=rss)
- - [Why are CD sales suddenly growing again?](https://www.theverge.com/entertainment/966726/cd-sales-vinyl-physical-media-luminate)
- - [Review: Xgimi Titan Noir Max Home Projector &lpar;2026&rpar;](https://www.wired.com/story/xgimi-titan-noir-max-projector/)
- - [DoorDash launches a limited beta of DoorDash CLI, which lets users place orders via an AI agent, available by waitlist to macOS developers in the US and Canada &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260716/p52#a260716p52)
- - [AI-generated Roblox games are about to get much easier to make on iPhone](https://appleinsider.com/articles/26/07/16/ai-generated-roblox-games-are-about-to-get-much-easier-to-make-on-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Netflix says roughly 300 titles used generative AI this year, mostly in post-production, &quot;to deliver higher quality output more quickly and at a lower cost&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260716/p56#a260716p56)
+ - [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)
+ - [Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed](https://www.wired.com/story/wildfire-smoke-safety-guide/)
+ - [Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
+ - [An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive &quot;authors&quot; proliferate &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/260716/p55#a260716p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

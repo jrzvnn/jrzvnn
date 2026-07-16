@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)
+ - [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)
+ - [Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears](https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/)
  - [Netflix says roughly 300 titles used generative AI this year, mostly in post-production, &quot;to deliver higher quality output more quickly and at a lower cost&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260716/p56#a260716p56)
- - [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)
- - [Do Face Masks Help With Wildfire Smoke? Yes, But More Is Needed](https://www.wired.com/story/wildfire-smoke-safety-guide/)
- - [Netflix says around 300 titles used generative AI](https://www.theverge.com/streaming/966633/netflix-ai-titles-q2-2026-earnings)
- - [An NYT reporter finds AI-generated, unauthorized biographies of herself and other journalists on Amazon, where AI-made books with elusive &quot;authors&quot; proliferate &lpar;Kashmir Hill/New York Times&rpar;](https://www.techmeme.com/260716/p55#a260716p55)<!-- TECH:END -->
+ - [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

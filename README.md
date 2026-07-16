@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?](https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/)
- - [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones)
- - [Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users &lpar;Marco Chiappetta/Forbes&rpar;](https://www.techmeme.com/260715/p51#a260715p51)
- - [The Northeast Is Being Blanketed in Canadian Wildfire Smoke](https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/)
- - [HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)<!-- TECH:END -->
+ - [AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260715/p54#a260715p54)
+ - [Filing: Elon Musk quietly bought Jacksonville, FL-based APR Energy, which operates mobile gas and diesel turbines similar to those used in Colossus 2, for ~$1B &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260715/p53#a260715p53)
+ - [Google Play Opens the Door to Third-Party App Stores, Starting Next Week](https://www.cnet.com/tech/google-play-third-party-app-stores-android/)
+ - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
+ - [Rumored Galaxy Watch Ultra 2 Might Fix Samsung&#39;s Biggest Smartwatch Problem](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

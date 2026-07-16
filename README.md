@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)
- - [Fortnite is getting a bunch of AI-powered ‘personas’](https://www.theverge.com/games/966815/epic-games-fortnite-ai-powered-personas)
- - [Salad Chains Are Seeing Foot Traffic Drop Over Cyclosporiasis Fears](https://www.wired.com/story/explosive-diarrhea-outbreak-new-victims-salad-chains/)
- - [Netflix says roughly 300 titles used generative AI this year, mostly in post-production, &quot;to deliver higher quality output more quickly and at a lower cost&quot; &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260716/p56#a260716p56)
- - [Samsung’s 55-inch Frame art TV is $200 cheaper than usual](https://www.theverge.com/gadgets/966613/samsung-the-frame-art-tv-deal-sale)<!-- TECH:END -->
+ - [Source: PayPal&#39;s board sees Stripe and PE firm Advent International&#39;s $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p59#a260716p59)
+ - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)
+ - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)
+ - [OpenAI&#39;s Hardware Plans Have a Bigger Problem Than Apple&#39;s Lawsuit](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-hardware-plans-commentary/)
+ - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

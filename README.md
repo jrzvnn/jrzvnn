@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260716/p45#a260716p45)
- - [Samsung Galaxy Z Flip 8 Rumor Roundup: What We Know About The New Compact Flip](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-8-rumor-roundup-what-weve-heard-ahead-of-the-july-22-unpacked/)
- - [Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260716/p44#a260716p44)
- - [Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox&#39;s models and open-source models &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260716/p43#a260716p43)
- - [How to Opt Out of AI Chatbots Collecting Your Data for Training Purposes](https://www.cnet.com/tech/services-and-software/how-to-opt-out-of-ai-chatbots-collecting-your-data-for-training-purposes/)<!-- TECH:END -->
+ - [Moonshot AI releases Kimi K3, a 2.8T-parameter AI model that it says rivals Opus 4.8 and GPT 5.5, and plans to release model weights by July 27 &lpar;Kimi&rpar;](https://www.techmeme.com/260716/p50#a260716p50)
+ - [After reports of GPT-5.6 deleting files, OpenAI says the issue most often occurs in full-access mode without sandboxing and it is working to mitigate the risk &lpar;Tibo/@thsottiaux&rpar;](https://www.techmeme.com/260716/p49#a260716p49)
+ - [Kalshi says it caught Trump&amp;#8217;s teleprompter operator insider trading](https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation)
+ - [Everyone Thinks They Have the Diarrhea Parasite](https://www.wired.com/story/everyone-thinks-they-have-diarrhea-parasite/)
+ - [Here’s Why Anthropic Is Pushing States to Regulate AI Faster](https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

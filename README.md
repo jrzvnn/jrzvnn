@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ofcom launches a probe into TikTok over Online Safety Act compliance, citing doubts about the effectiveness of using age inference to determine users&#39; ages &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/260716/p10#a260716p10)
- - [Best Air Purifiers &lpar;2026&rpar;: Coway, AirDoctor, IQAir, and More](https://www.wired.com/gallery/best-air-purifiers/)
- - [Please Stop Making Me Opt Out of AI](https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/)
- - [Apple&#39;s Back to School offers have started, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
- - [A US official says TSMC plans to spend an additional $100B to build four new US chip fabs, bringing total pledge to $265B as part of a broader US-Taiwan deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260716/p9#a260716p9)<!-- TECH:END -->
+ - [Nvidia unveils Cosmos 3 Edge, a world model designed for robots and vision AI agents to perceive and navigate physical environments in real time &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260716/p19#a260716p19)
+ - [Mass production of folding iPhone vapor cooling system has begun](https://appleinsider.com/articles/26/07/16/mass-production-of-folding-iphone-vapor-cooling-system-has-begun?utm_source=rss)
+ - [Beacon Security, which offers an agentic security platform, raised a $13M seed and says it has &quot;tens&quot; of large enterprise customers including Cerebras &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260716/p18#a260716p18)
+ - [Four more chip plants promised as TSMC plans a further $100 billion to the US](https://appleinsider.com/articles/26/07/16/four-more-chip-plants-promised-as-tsmc-plans-a-further-100-billion-to-the-us?utm_source=rss)
+ - [Meta will now notify parents if teens discuss suicide or self-harm with Meta AI and is working on alerts to emergency services for users at risk of self-harm &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260716/p17#a260716p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

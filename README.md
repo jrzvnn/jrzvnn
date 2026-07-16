@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just saying...](http://9gag.com/gag/a4PDZgQ)
- - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
+ - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
  - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Peaks](http://9gag.com/gag/aVvNqZy)<!-- MEMES:END -->
+ - 👉 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)<!-- MEMES:END -->
 
 ---
 

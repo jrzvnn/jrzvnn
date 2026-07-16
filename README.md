@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)
- - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 💣 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
- - 😝 [I finally got a job. It\u2019s been a long, hard road. Thanks everyone, F U and see you tomorrow](http://9gag.com/gag/a6ZAMAb)
- - 👉 [The Daisy Chain Method: The Easiest Way to Store Cables Without Tangles](http://9gag.com/gag/aE0LnZn)<!-- MEMES:END -->
+ - 😝 [Just try it](http://9gag.com/gag/awy6V9x)
+ - 😝 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
+ - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 😝 [Helen?](http://9gag.com/gag/a6ZAbgR)
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
- - 😝 [Well well well](http://9gag.com/gag/ayNO84W)
- - 💣 [Just try it](http://9gag.com/gag/awy6V9x)
- - 😝 [Incoming...](http://9gag.com/gag/a34VqMr)
- - 👉 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)<!-- MEMES:END -->
+ - 😝 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
+ - 😝 [Great](http://9gag.com/gag/a1mGM32)
+ - 💣 [HR woes](http://9gag.com/gag/ayNO88b)
+ - 😝 [Pepsi Soda](http://9gag.com/gag/ajPoq4w)
+ - 👉 [Impressive!](http://9gag.com/gag/aW4w8yn)<!-- MEMES:END -->
 
 ---
 

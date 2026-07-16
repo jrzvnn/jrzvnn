@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox will let people use AI to make games on their phone](https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games)
- - [Fora, which connects travel agents with travelers and offers agents AI tools, raised a $60M Series D at a $1B valuation led by Forerunner and Tactile Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260716/p42#a260716p42)
- - [Google renames NotebookLM to Gemini Notebook and rolls out an update giving every notebook a secure cloud computer, letting it write and execute code natively &lpar;Josh Woodward/Google&rpar;](https://www.techmeme.com/260716/p41#a260716p41)
- - [&#39;Power: Origins&#39;: See Young Ghost, Tommy and Kanan in First-Look Trailer](https://www.cnet.com/culture/entertainment/power-origins-see-young-ghost-tommy-and-kanan-in-first-look-teaser/)
- - [Google Renames NotebookLM to Gemini Notebook](https://www.cnet.com/tech/services-and-software/google-renames-notebooklm-to-gemini-notebook/)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board says top AI models may be restricting free expression in its first evaluation of LLMs, as it seeks to expand its influence beyond Meta &lpar;Karissa Bell/Engadget&rpar;](https://www.techmeme.com/260716/p45#a260716p45)
+ - [Samsung Galaxy Z Flip 8 Rumor Roundup: What We Know About The New Compact Flip](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-8-rumor-roundup-what-weve-heard-ahead-of-the-july-22-unpacked/)
+ - [Google says users in the US can now link to and interact with some apps in AI Mode, including Instacart, Canva, and YouTube Music &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260716/p44#a260716p44)
+ - [Roblox unveils Build, which lets users create basic games through text prompts directly within its mobile app, powered by Roblox&#39;s models and open-source models &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260716/p43#a260716p43)
+ - [How to Opt Out of AI Chatbots Collecting Your Data for Training Purposes](https://www.cnet.com/tech/services-and-software/how-to-opt-out-of-ai-chatbots-collecting-your-data-for-training-purposes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

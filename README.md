@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool job](http://9gag.com/gag/aQz0M2e)
- - 😝 [Just try it](http://9gag.com/gag/awy6V9x)
- - 💣 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - 😝 [Incoming...](http://9gag.com/gag/a34VqMr)
+ - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - 💣 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)
  - 😝 [I finally got a job. It\u2019s been a long, hard road. Thanks everyone, F U and see you tomorrow](http://9gag.com/gag/a6ZAMAb)
- - 👉 [Classic Beluga.](http://9gag.com/gag/awy6Vp8)<!-- MEMES:END -->
+ - 👉 [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)<!-- MEMES:END -->
 
 ---
 

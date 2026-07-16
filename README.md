@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just try it](http://9gag.com/gag/awy6V9x)
- - 😝 [F**k cancer!](http://9gag.com/gag/a1mGd9D)
- - 💣 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 😝 [Helen?](http://9gag.com/gag/a6ZAbgR)
- - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
+ - 😝 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)
+ - 😝 [Dropped his smoke](http://9gag.com/gag/ayNO8PY)
+ - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
+ - 😝 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
+ - 👉 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)<!-- MEMES:END -->
 
 ---
 

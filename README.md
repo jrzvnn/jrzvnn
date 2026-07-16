@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI execs are bolstering personal security amid rising AI opposition; Liferaft: digital threats against execs and data centers grew 7x from late February to May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260715/p54#a260715p54)
- - [Filing: Elon Musk quietly bought Jacksonville, FL-based APR Energy, which operates mobile gas and diesel turbines similar to those used in Colossus 2, for ~$1B &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260715/p53#a260715p53)
- - [Google Play Opens the Door to Third-Party App Stores, Starting Next Week](https://www.cnet.com/tech/google-play-third-party-app-stores-android/)
- - [SpaceXAI open-sources Grok Build under an Apache 2.0 license after the tool had uploaded user repositories to a Google Cloud bucket, causing a severe backlash &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260715/p52#a260715p52)
- - [Rumored Galaxy Watch Ultra 2 Might Fix Samsung&#39;s Biggest Smartwatch Problem](https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-ultra-2-rumors-everything-we-know/)<!-- TECH:END -->
+ - [Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p3#a260716p3)
+ - [Lenovo Coupon Codes and Deals in July 2026](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Surfshark Promo Codes: 87% Off | July 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [Priceline Promo Codes &amp; Coupons: 10% Off July](https://www.wired.com/story/priceline-promo-code/)
+ - [HostGator Coupon Codes: 76% Off Hosting in July 2026](https://www.wired.com/story/hostgator-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

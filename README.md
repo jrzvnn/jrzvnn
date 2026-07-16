@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)
- - [Sources: Microsoft security chief Hayete Gallot, who took over in February, has prioritized AI tools, cut several hundred roles, replaced senior execs, and more &lpar;The Information&rpar;](https://www.techmeme.com/260715/p50#a260715p50)
- - [Apple’s reportedly raising the price for AppleCare Plus on Macs and iPads](https://www.theverge.com/tech/966219/apple-care-plus-price-increase)
- - [Valve says iFixit will keep selling Steam Deck batteries after all](https://www.theverge.com/games/966106/valve-ifixit-will-keep-selling-steam-deck-lcd-battery)
- - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/)<!-- TECH:END -->
+ - [Can Bose Help Skullcandy Shake Its Bargain-Bin Reputation?](https://www.wired.com/story/can-bose-help-skullcandy-shake-its-bargain-bin-reputation/)
+ - [Skullcandy’s bass-boosting Crusher headphones now come with Bose’s ANC](https://www.theverge.com/tech/966022/skullcandy-cruser-1080-anc-bose-tuning-noise-cancelling-wireless-headphones)
+ - [Cadence unveils AuraStack AI Super Agent, an AI platform for PCB and advanced chip packaging design, with Nvidia, TSMC, and Schneider Electric among early users &lpar;Marco Chiappetta/Forbes&rpar;](https://www.techmeme.com/260715/p51#a260715p51)
+ - [The Northeast Is Being Blanketed in Canadian Wildfire Smoke](https://www.wired.com/story/northeast-us-blanketed-in-canadian-wildfire-smoke/)
+ - [HP&amp;#8217;s OLED-equipped 2-in-1 laptop is a solid back-to-school deal](https://www.theverge.com/gadgets/966209/hp-omnibook-x-flip-oled-laptop-windows-11-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

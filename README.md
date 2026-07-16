@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Reasons to Buy the New Pink Floyd Cassette Deck, Ranked Best to Worst](https://www.cnet.com/tech/home-entertainment/5-reasons-to-buy-the-new-pink-floyd-cassette-deck-ranked-best-to-worst/)
- - [A US federal judge rules the State Department engaged in unconstitutional viewpoint discrimination by denying visas to researchers studying misinfo and disinfo &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260716/p6#a260716p6)
- - [xAI sues a South Carolina man for allegedly using Grok to generate CSAM, in one of the first cases of its kind brought by an AI company against one of its users &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260716/p5#a260716p5)
- - [TSMC reports Q2 revenue up 36% YoY to ~$39.45B, net income up 77.4% YoY to ~$21.9B, both above est., and says chips 7nm or smaller were 77% of its wafer revenue &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260716/p4#a260716p4)
- - [Data center company Csquare raises $1.05B in its US IPO, selling 50M shares at $21 each, below its marketed range of $23 to $27, valuing the company at ~$3.25B &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p3#a260716p3)<!-- TECH:END -->
+ - [Ofcom launches a probe into TikTok over Online Safety Act compliance, citing doubts about the effectiveness of using age inference to determine users&#39; ages &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/260716/p10#a260716p10)
+ - [Best Air Purifiers &lpar;2026&rpar;: Coway, AirDoctor, IQAir, and More](https://www.wired.com/gallery/best-air-purifiers/)
+ - [Please Stop Making Me Opt Out of AI](https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/)
+ - [Apple&#39;s Back to School offers have started, but you can do much better](https://appleinsider.com/articles/26/07/16/apples-back-to-school-offers-have-started-but-you-can-do-much-better?utm_source=rss)
+ - [A US official says TSMC plans to spend an additional $100B to build four new US chip fabs, bringing total pledge to $265B as part of a broader US-Taiwan deal &lpar;Bloomberg&rpar;](https://www.techmeme.com/260716/p9#a260716p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

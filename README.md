@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No, I Stay](https://www.reddit.com/r/funny/comments/1uyto1b/no_i_stay/)
- - 😝 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
- - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 😝 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)
- - 👉 [No tacos for you](http://9gag.com/gag/a34VMY7)<!-- MEMES:END -->
+ - 😝 [Just saying...](http://9gag.com/gag/a4PDZgQ)
+ - 😝 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
+ - 💣 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
+ - 👉 [Ghost in the shell](http://9gag.com/gag/abA9zGv)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
- - 💣 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 😝 [Let&#39;s see](http://9gag.com/gag/an7LjGo)
+ - 💣 [I\u2019d marry her.](http://9gag.com/gag/apRWpVW)
  - 😝 [Fact](http://9gag.com/gag/aVvN3bd)
- - 👉 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)<!-- MEMES:END -->
+ - 👉 [A tiktoker right after my own heart](http://9gag.com/gag/aryj5rd)<!-- MEMES:END -->
 
 ---
 

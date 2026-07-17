@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over half a million power tool batteries have been recalled due to a USB-C charging fire risk](https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall)
- - [Bethesda teases Fallout 5 soon after Xbox’s mass layoffs](https://www.theverge.com/entertainment/966724/fallout-5-bethesda)
- - [The manosphere&amp;#8217;s testosterone fever is coming for the troops](https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops)
- - [AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal using inference-specific chips as collateral &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260717/p11#a260717p11)
- - [Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act](https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/)<!-- TECH:END -->
+ - [Apple ordered to remove 8 &#39;nudify&#39; AI apps from the iPhone&#39;s App Store](https://appleinsider.com/articles/26/07/17/apple-ordered-to-remove-8-nudify-ai-apps-from-the-iphones-app-store?utm_source=rss)
+ - [Amazon slashes $200 off 512GB M4 iPad Air 13-inch with weekend deal](https://appleinsider.com/articles/26/07/17/amazon-slashes-200-off-512gb-m4-ipad-air-13-inch-with-weekend-deal?utm_source=rss)
+ - [Kimi K3 hype shouldn&#39;t alarm the US about &quot;losing the AI race&quot; to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities &lpar;Transformer&rpar;](https://www.techmeme.com/260717/p13#a260717p13)
+ - [Lyft’s CEO Says, ‘We’re the Good Uber’](https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/)
+ - [The Best New Camping Gear at REI &lpar;2026&rpar;: Tents, Coolers, Bikes, More](https://www.wired.com/story/the-best-new-camping-gear-at-rei-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

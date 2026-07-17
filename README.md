@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tata plans India&#39;s first large-scale chip fab in Dholera, Gujarat, mostly using 90nm nodes, a far humbler start than the 28nm node it touted earlier &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p3#a260717p3)
  - [During an internal meeting, Satya Nadella criticized Claude Fable 5 for being &quot;editorially controlled&quot;, saying its refusal to do &quot;random things&quot; makes no sense &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260717/p2#a260717p2)
  - [Home Depot Promo Codes: 50% Off in July 2026](https://www.wired.com/story/home-depot-promo-code/)
  - [Paramount+ Coupon Codes and Deals for July 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [LG Promo Codes and Coupons for July 2026](https://www.wired.com/story/lg-promo-code/)
- - [Walmart Promo Codes: Up to 65% Off for July 2026](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [LG Promo Codes and Coupons for July 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

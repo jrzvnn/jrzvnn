@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
+ - 😝 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
+ - 😝 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)
  - 💣 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
  - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)<!-- MEMES:END -->
+ - 👉 [No tacos for you](http://9gag.com/gag/a34VMY7)<!-- MEMES:END -->
 
 ---
 

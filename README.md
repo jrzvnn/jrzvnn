@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU accepts X&#39;s plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260716/p61#a260716p61)
- - [Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260716/p60#a260716p60)
- - [Source: PayPal&#39;s board sees Stripe and PE firm Advent International&#39;s $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p59#a260716p59)
- - [New Lawsuit Filed Against Apple for &#39;Hide My Email&#39; Privacy Vulnerability](https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/)
- - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)<!-- TECH:END -->
+ - [Source: Microsoft plans to release an AI security tool this month using models from Anthropic, OpenAI, and itself, as a cost-effective Mythos alternative &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260716/p68#a260716p68)
+ - [Kalshi is offering wagers on the outcomes of late-stage clinical drug trials and regulatory decisions, launching a pilot of 13 new biotech contracts &lpar;Madison Muller/Bloomberg&rpar;](https://www.techmeme.com/260716/p67#a260716p67)
+ - [Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software company at $188B, a 40% increase from its December valuation &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260716/p66#a260716p66)
+ - [US chip, memory, and storage stocks fell sharply on Thursday, with Sandisk down 13%, Seagate 10%, Western Digital 9%, and Intel and Micron 6% each &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260716/p65#a260716p65)
+ - [Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage&#39;s offices in connection with potential competition law violations &lpar;Nikita Maria Jino/Reuters&rpar;](https://www.techmeme.com/260716/p63#a260716p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

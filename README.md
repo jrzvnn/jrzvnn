@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
- - [Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years &lpar;New York Times&rpar;](https://www.techmeme.com/260717/p15#a260717p15)
- - [Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers &lpar;Gavin Baker/@gavinsbaker&rpar;](https://www.techmeme.com/260717/p14#a260717p14)
- - [Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
- - [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)<!-- TECH:END -->
+ - [ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’](https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/)
+ - [Apple&#39;s long-running DOJ antitrust case may not make it to trial](https://appleinsider.com/articles/26/07/17/apples-long-running-doj-antitrust-case-may-not-make-it-to-trial?utm_source=rss)
+ - [Apple’s plot to crush OpenAI](https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast)
+ - [Sources: Apple and the DOJ are in early discussions about settling a 2024 antitrust lawsuit alleging that Apple violated antitrust laws &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p16#a260717p16)
+ - [‘The Odyssey’ Backlash Failed Tremendously](https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

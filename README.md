@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, asking them to preserve documents and meet with its lawyers &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260717/p8#a260717p8)
- - [Valve Steam Machine Review: A Compromised Console](https://www.wired.com/review/valve-steam-machine/)
- - [The war on ‘woke science’ comes for space research](https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society)
- - [At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an &quot;injustice&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p7#a260717p7)
- - [Panasonic Japanese Microwave Review &lpar;2026&rpar;: True 1-Button Cooking](https://www.wired.com/review/panasonic-japanese-microwave/)<!-- TECH:END -->
+ - [San Francisco sends legal notices to Apple and Google demanding they take down 13 AI apps used to make deepfake nude images; Google says it has deleted the apps &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260717/p9#a260717p9)
+ - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
+ - [How to make Apple Journal part of a mindful daily routine](https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss)
+ - [5 Best Smart Speakers &lpar;2026&rpar;: Alexa, Google, Apple](https://www.wired.com/story/best-smart-speakers/)
+ - [OpenAI and Apple legal battle escalates, poached employees warned about data deletion](https://appleinsider.com/articles/26/07/17/openai-and-apple-legal-battle-escalates-poached-employees-warned-about-data-deletion?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

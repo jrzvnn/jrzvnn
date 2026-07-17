@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Microsoft plans to release an AI security tool this month using models from Anthropic, OpenAI, and itself, as a cost-effective Mythos alternative &lpar;Aaron Holmes/The Information&rpar;](https://www.techmeme.com/260716/p68#a260716p68)
- - [Kalshi is offering wagers on the outcomes of late-stage clinical drug trials and regulatory decisions, launching a pilot of 13 new biotech contracts &lpar;Madison Muller/Bloomberg&rpar;](https://www.techmeme.com/260716/p67#a260716p67)
- - [Sources: Coatue is leading a $3B investment in Databricks that values the data analytics software company at $188B, a 40% increase from its December valuation &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260716/p66#a260716p66)
- - [US chip, memory, and storage stocks fell sharply on Thursday, with Sandisk down 13%, Seagate 10%, Western Digital 9%, and Intel and Micron 6% each &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/260716/p65#a260716p65)
- - [Filing: South Korean authorities conducted an on-site search of Chinese chipmaker Montage&#39;s offices in connection with potential competition law violations &lpar;Nikita Maria Jino/Reuters&rpar;](https://www.techmeme.com/260716/p63#a260716p63)<!-- TECH:END -->
+ - [During an internal meeting, Satya Nadella criticized Claude Fable 5 for being &quot;editorially controlled&quot;, saying its refusal to do &quot;random things&quot; makes no sense &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260717/p2#a260717p2)
+ - [Home Depot Promo Codes: 50% Off in July 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [Paramount+ Coupon Codes and Deals for July 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [LG Promo Codes and Coupons for July 2026](https://www.wired.com/story/lg-promo-code/)
+ - [Walmart Promo Codes: Up to 65% Off for July 2026](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

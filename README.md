@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [God Of War TV series is recasting Kratos](https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast)
- - [The Alphabet Workers Union sends a layoff protection petition with 4,500+ signatures to Sundar Pichai, calling for guaranteed severance and buyout options &lpar;Sanya Mansoor/The Guardian&rpar;](https://www.techmeme.com/260717/p6#a260717p6)
- - [San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/)
- - [Sources: Z.ai is on track to achieve an annual recurring revenue of $1B, a first for a Chinese AI company, after achieving its full-year sales target in July &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p5#a260717p5)
- - [The Group Behind ‘2000 Mules’ Is Back With Another Election Conspiracy Film](https://www.wired.com/story/the-group-behind-2000-mules-is-back-with-another-election-conspiracy-film/)<!-- TECH:END -->
+ - [Sources: Apple has sent personal legal warnings to ~40 former employees who now work at OpenAI, asking them to preserve documents and meet with its lawyers &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260717/p8#a260717p8)
+ - [Valve Steam Machine Review: A Compromised Console](https://www.wired.com/review/valve-steam-machine/)
+ - [The war on ‘woke science’ comes for space research](https://www.theverge.com/science/966711/omb-grant-science-space-nasa-planetary-society)
+ - [At the World AI Conference, Xi Jinping touts open-source AI, pledges to help the Global South build AI capabilities, and calls unequal AI access an &quot;injustice&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p7#a260717p7)
+ - [Panasonic Japanese Microwave Review &lpar;2026&rpar;: True 1-Button Cooking](https://www.wired.com/review/panasonic-japanese-microwave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

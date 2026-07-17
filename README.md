@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
- - 💣 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 😝 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)
+ - 💣 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
  - 😝 [Fact](http://9gag.com/gag/aVvN3bd)
- - 👉 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)<!-- MEMES:END -->
+ - 👉 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)<!-- MEMES:END -->
 
 ---
 

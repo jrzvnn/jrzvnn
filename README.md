@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260717/p22#a260717p22)
+ - [Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen&#39;s depreciation against the US dollar over the past year &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260717/p21#a260717p21)
  - [Amazon apologizes after some AWS users received bills as high as $1.5T due to &quot;an issue with unit pricing within the estimated billing computation subsystem&quot; &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260717/p20#a260717p20)
  - [Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
- - [AAPL capitalization squeaks past NVDA, Apple becomes world&#39;s most valuable company](https://appleinsider.com/articles/26/07/17/aapl-capitalization-squeaks-past-nvda-apple-becomes-worlds-most-valuable-company?utm_source=rss)
- - [AWS Billing Glitch Hits Customers With Billion-Dollar Fees](https://www.wired.com/story/amazon-web-services-glitch-oh-no/)
- - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)<!-- TECH:END -->
+ - [AAPL capitalization squeaks past NVDA, Apple becomes world&#39;s most valuable company](https://appleinsider.com/articles/26/07/17/aapl-capitalization-squeaks-past-nvda-apple-becomes-worlds-most-valuable-company?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

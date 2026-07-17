@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 💣 [Fact](http://9gag.com/gag/ae9vbXO)
  - 😝 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
- - 👉 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)<!-- MEMES:END -->
+ - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 💣 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
+ - 😝 [Purest form of love](http://9gag.com/gag/ae9vMej)
+ - 👉 [Well played](http://9gag.com/gag/adBmKYZ)<!-- MEMES:END -->
 
 ---
 

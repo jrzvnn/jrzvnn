@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)
- - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 💣 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
- - 😝 [Purest form of love](http://9gag.com/gag/ae9vMej)
- - 👉 [Well played](http://9gag.com/gag/adBmKYZ)<!-- MEMES:END -->
+ - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
+ - 💣 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 😝 [Fact](http://9gag.com/gag/aVvN3bd)
+ - 👉 [Is skydiving a sport?](http://9gag.com/gag/aGyW1Vz)<!-- MEMES:END -->
 
 ---
 

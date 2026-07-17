@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)
- - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)
- - [What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke](https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/)
- - [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview)
- - [Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p18#a260717p18)<!-- TECH:END -->
+ - [Amazon apologizes after some AWS users received bills as high as $1.5T due to &quot;an issue with unit pricing within the estimated billing computation subsystem&quot; &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260717/p20#a260717p20)
+ - [Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
+ - [AAPL capitalization squeaks past NVDA, Apple becomes world&#39;s most valuable company](https://appleinsider.com/articles/26/07/17/aapl-capitalization-squeaks-past-nvda-apple-becomes-worlds-most-valuable-company?utm_source=rss)
+ - [AWS Billing Glitch Hits Customers With Billion-Dollar Fees](https://www.wired.com/story/amazon-web-services-glitch-oh-no/)
+ - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

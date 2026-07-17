@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260717/p22#a260717p22)
- - [Apple raises iPhone prices in Japan by up to 11%, likely due to the Japanese yen&#39;s depreciation against the US dollar over the past year &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260717/p21#a260717p21)
- - [Amazon apologizes after some AWS users received bills as high as $1.5T due to &quot;an issue with unit pricing within the estimated billing computation subsystem&quot; &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260717/p20#a260717p20)
- - [Shark&amp;#8217;s versatile ChillPill cooling system is back to its best price](https://www.theverge.com/gadgets/967512/shark-chillpill-personal-fan-and-cooling-system-deal-sale)
- - [AAPL capitalization squeaks past NVDA, Apple becomes world&#39;s most valuable company](https://appleinsider.com/articles/26/07/17/aapl-capitalization-squeaks-past-nvda-apple-becomes-worlds-most-valuable-company?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)
+ - [Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260717/p24#a260717p24)
+ - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
+ - [The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p23#a260717p23)
+ - [Sources: Valar Atomics, which makes small nuclear reactors intended to power data centers, is in talks to raise $1B at a ~$5B pre-money valuation &lpar;The Information&rpar;](https://www.techmeme.com/260717/p22#a260717p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

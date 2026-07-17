@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ordered to remove 8 &#39;nudify&#39; AI apps from the iPhone&#39;s App Store](https://appleinsider.com/articles/26/07/17/apple-ordered-to-remove-8-nudify-ai-apps-from-the-iphones-app-store?utm_source=rss)
- - [Amazon slashes $200 off 512GB M4 iPad Air 13-inch with weekend deal](https://appleinsider.com/articles/26/07/17/amazon-slashes-200-off-512gb-m4-ipad-air-13-inch-with-weekend-deal?utm_source=rss)
- - [Kimi K3 hype shouldn&#39;t alarm the US about &quot;losing the AI race&quot; to China; K3 is a good model but not frontier-level and likely lacks dangerous cyber capabilities &lpar;Transformer&rpar;](https://www.techmeme.com/260717/p13#a260717p13)
- - [Lyft’s CEO Says, ‘We’re the Good Uber’](https://www.wired.com/story/lyfts-ceo-says-were-the-good-uber/)
- - [The Best New Camping Gear at REI &lpar;2026&rpar;: Tents, Coolers, Bikes, More](https://www.wired.com/story/the-best-new-camping-gear-at-rei-2026/)<!-- TECH:END -->
+ - [Asus’ top-end 4K QD-OLED gaming monitor is $400 off](https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale)
+ - [Sources: Meta is in talks to rent computing power from its data centers to Anthropic in a deal that could be worth ~$10B over two years &lpar;New York Times&rpar;](https://www.techmeme.com/260717/p15#a260717p15)
+ - [Models like Kimi K3, Grok 4.5, and Muse 1.1 may prevent the dominance of 2-3 frontier labs with 90% inference margins from hurting other AI ecosystem layers &lpar;Gavin Baker/@gavinsbaker&rpar;](https://www.techmeme.com/260717/p14#a260717p14)
+ - [Samsung&amp;#8217;s redesigned Z Fold 8 with a wide display just leaked](https://www.theverge.com/tech/967198/samsung-galaxy-z-fold-8-images-specs-leak)
+ - [Is America ready for this quirky Jeep-looking EV that can park itself?](https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

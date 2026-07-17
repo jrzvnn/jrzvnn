@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco sends legal notices to Apple and Google demanding they take down 13 AI apps used to make deepfake nude images; Google says it has deleted the apps &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260717/p9#a260717p9)
- - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
- - [How to make Apple Journal part of a mindful daily routine](https://appleinsider.com/articles/26/07/17/how-to-make-apple-journal-part-of-a-mindful-daily-routine?utm_source=rss)
- - [5 Best Smart Speakers &lpar;2026&rpar;: Alexa, Google, Apple](https://www.wired.com/story/best-smart-speakers/)
- - [OpenAI and Apple legal battle escalates, poached employees warned about data deletion](https://appleinsider.com/articles/26/07/17/openai-and-apple-legal-battle-escalates-poached-employees-warned-about-data-deletion?utm_source=rss)<!-- TECH:END -->
+ - [Over half a million power tool batteries have been recalled due to a USB-C charging fire risk](https://www.theverge.com/tech/967049/greenworks-kobalt-power-tools-lithium-ion-battery-recall)
+ - [Bethesda teases Fallout 5 soon after Xbox’s mass layoffs](https://www.theverge.com/entertainment/966724/fallout-5-bethesda)
+ - [The manosphere&amp;#8217;s testosterone fever is coming for the troops](https://www.theverge.com/column/966770/optimizer-manosphere-testosterone-troops)
+ - [AI inference startup General Compute gets a $400M loan from tech investment firm Upper90, seemingly the first deal using inference-specific chips as collateral &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260717/p11#a260717p11)
+ - [Conspiracy Theorists Think Trump’s Speech Paves the Path to the Insurrection Act](https://www.wired.com/story/conspiracy-theorists-think-trumps-speech-paves-the-path-to-the-insurrection-act/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact](http://9gag.com/gag/ae9vbXO)
+ - 😝 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
+ - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
  - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 💣 [Painfully accurate](http://9gag.com/gag/a34VqpQ)
- - 😝 [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
- - 👉 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)<!-- MEMES:END -->
+ - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
 
 ---
 

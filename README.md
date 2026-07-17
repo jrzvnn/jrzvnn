@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
- - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Indian Glass Master](http://9gag.com/gag/ajPoq6G)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/aQz0eqW)
+ - 😝 [Fact](http://9gag.com/gag/ae9vbXO)
+ - 💣 [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
+ - 😝 [Painfully accurate](http://9gag.com/gag/a34VqpQ)
+ - 👉 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)<!-- MEMES:END -->
 
 ---
 

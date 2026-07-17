@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU accepts X&#39;s plan to meet DSA transparency obligations and give researchers access to data, giving X six months to implement it, following a €120M fine &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260716/p61#a260716p61)
+ - [Source: UK robotics startup Humanoid raised $150M in the first tranche of a Series A at a $1.2B pre-money valuation and seeks another $80M-$100M by September &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260716/p60#a260716p60)
  - [Source: PayPal&#39;s board sees Stripe and PE firm Advent International&#39;s $53B takeover bid as undervaluing the company and facing regulatory and financing hurdles &lpar;Reuters&rpar;](https://www.techmeme.com/260716/p59#a260716p59)
- - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)
- - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/)
- - [OpenAI&#39;s Hardware Plans Have a Bigger Problem Than Apple&#39;s Lawsuit](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-hardware-plans-commentary/)
- - [US Homeland Security says it seized 30k+ SIM cards in June and July in a nationwide operation it claims dismantled infrastructure used in telephone fraud &lpar;Lorelei Smillie/Bloomberg&rpar;](https://www.techmeme.com/260716/p57#a260716p57)<!-- TECH:END -->
+ - [New Lawsuit Filed Against Apple for &#39;Hide My Email&#39; Privacy Vulnerability](https://www.cnet.com/tech/services-and-software/new-lawsuit-filed-against-apple-hide-my-email-privacy-flaw/)
+ - [A New York State school district is piloting a humanoid robot teacher by the company Realbotix to help students with summer school classes &lpar;Chase DiBenedetto/Mashable&rpar;](https://www.techmeme.com/260716/p58#a260716p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

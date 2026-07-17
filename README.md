@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
- - 😝 [Let&#39;s see](http://9gag.com/gag/an7LjGo)
- - 💣 [I\u2019d marry her.](http://9gag.com/gag/apRWpVW)
- - 😝 [Fact](http://9gag.com/gag/aVvN3bd)
- - 👉 [A tiktoker right after my own heart](http://9gag.com/gag/aryj5rd)<!-- MEMES:END -->
+ - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
+ - 💣 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
+ - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
+ - 👉 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)<!-- MEMES:END -->
 
 ---
 

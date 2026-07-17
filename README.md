@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/aQz0eqW)
  - 😝 [Fact](http://9gag.com/gag/ae9vbXO)
- - 💣 [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
- - 😝 [Painfully accurate](http://9gag.com/gag/a34VqpQ)
+ - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 💣 [Painfully accurate](http://9gag.com/gag/a34VqpQ)
+ - 😝 [See? Americans Do Use Concrete Blocks.](http://9gag.com/gag/ajPoXO0)
  - 👉 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)<!-- MEMES:END -->
 
 ---

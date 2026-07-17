@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just saying...](http://9gag.com/gag/a4PDZgQ)
+ - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
+ - 😝 [People mention their favorite Scottish moments. Simply gold](http://9gag.com/gag/a0e25ZB)
+ - 💣 [Fact](http://9gag.com/gag/ae9vbXO)
  - 😝 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
- - 💣 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)
- - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Ghost in the shell](http://9gag.com/gag/abA9zGv)<!-- MEMES:END -->
+ - 👉 [Stay out of my workspace](http://9gag.com/gag/aVvNqK2)<!-- MEMES:END -->
 
 ---
 

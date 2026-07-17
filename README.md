@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple raises the price of Apple Music, with the individual plan up by $1 to $11.99, and some Apple One bundles, the first price hike for Apple Music since 2022 &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260717/p17#a260717p17)
- - [Polymarket’s Corporate Structure Is a Mystery—Even to Some of Its Former Employees](https://www.wired.com/story/whats-up-with-polymarkets-panama-entity/)
- - [Apple Music gets first U.S. price hike in four years](https://appleinsider.com/articles/26/07/17/apple-music-gets-first-us-price-hike-in-four-years?utm_source=rss)
- - [Apple Music is getting a price hike](https://www.theverge.com/tech/967379/apple-music-price-increase)
- - [ICE Is Using Data Broker Tools to ‘Identify Unaccompanied Minors’ and ‘Fraud’](https://www.wired.com/story/ice-unaccompanied-minors-fraud-suspects-trss-contract/)<!-- TECH:END -->
+ - [Sources: OpenRouter has discussed a potential sale to a bigger tech company that could value it at billions of dollars, a premium to its $1.3B valuation in May &lpar;The Information&rpar;](https://www.techmeme.com/260717/p19#a260717p19)
+ - [TikTok is testing an AI likeness detection tool](https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool)
+ - [What Cities From Chicago to Washington, DC, Look Like Under a Blanket of Wildfire Smoke](https://www.wired.com/story/cities-from-chicago-to-washington-dc-look-like-wildfire-smoke/)
+ - [Pebble founder Eric Migicovsky says his 30-day warranty is all about trust](https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview)
+ - [Sources: SpaceX is in talks with the DOD about providing the agency with access to data-center capacity worth billions of dollars for running AI models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p18#a260717p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

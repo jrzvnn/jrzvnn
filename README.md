@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
- - 😝 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [No, I Stay](https://www.reddit.com/r/funny/comments/1uyto1b/no_i_stay/)
+ - 😝 [She perfectly captured why his sense of entitlement is so INFURIATING!](http://9gag.com/gag/adBm9qN)
  - 💣 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 😝 [Impressive!](http://9gag.com/gag/aW4w8yn)
- - 👉 [2 Goth girls steal a sword from a statue](http://9gag.com/gag/an7Lyvz)<!-- MEMES:END -->
+ - 😝 [You&#39;re the black car on the other lane, what&#39;s your move?](http://9gag.com/gag/aZZGmv9)
+ - 👉 [No tacos for you](http://9gag.com/gag/a34VMY7)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
+ - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
  - 😝 [This is why I do not give tips, ever](http://9gag.com/gag/aZZGmG0)
- - 💣 [Bad parenting. Teach your f**king kids.](http://9gag.com/gag/aW4w15x)
- - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
+ - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Citation of a responsible boi...](http://9gag.com/gag/aD2E1dO)
+ - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---
 

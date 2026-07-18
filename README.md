@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
- - 😝 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
+ - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
+ - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
  - 💣 [Go away](http://9gag.com/gag/a4PDGom)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 👉 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)<!-- MEMES:END -->
+ - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---
 

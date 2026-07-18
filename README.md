@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
  - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 👉 [It works guys](http://9gag.com/gag/ae9ve4W)<!-- MEMES:END -->
+ - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 💣 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 😝 [How time changes !](http://9gag.com/gag/avy3op5)
+ - 👉 [When the kitten misbehaves](http://9gag.com/gag/adBmLx2)<!-- MEMES:END -->
 
 ---
 

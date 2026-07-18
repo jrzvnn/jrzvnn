@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple bumps up the cost of iCloud+ in 8 countries](https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss)
+ - [More games should be on rails &lpar;literally&rpar;](https://www.theverge.com/games/961152/denshattack-review)
+ - [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer)
  - [4 Best Walking Pads for Small Spaces and Standing Desks &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)
- - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)
- - [My Top College Dorm Device Picks I&#39;ve Tried Out at Home](https://www.cnet.com/home/smart-home/my-favorite-college-dorm-smart-devices-ive-personally-tested/)
- - [Your Smart Home Is Raising Your Electric Bill. Here’s How to Stop It](https://www.cnet.com/news/your-smart-home-raising-electric-bill-how-to-stop-it/)
- - [A review of Microsoft&#39;s 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops &lpar;Antonio G. Di Benedetto/The Verge&rpar;](https://www.techmeme.com/260718/p10#a260718p10)<!-- TECH:END -->
+ - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

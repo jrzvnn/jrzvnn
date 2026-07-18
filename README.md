@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
+ - [The Top Continuous Glucose Monitors That Doctors Recommend](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/)
  - [GoPro&amp;#8217;s discounted Max 2 bundle includes $100 worth of accessories](https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale)
  - [The grassroots group HumansFirst is organizing protests against the &quot;unaccountable&quot; buildout of data centers across 125 US locations on July 18 &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p11#a260718p11)
- - [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview)
- - [Apple ordered to remove 8 &#39;nudify&#39; AI apps from the iPhone&#39;s App Store](https://appleinsider.com/articles/26/07/17/apple-ordered-to-remove-8-nudify-ai-apps-from-the-iphones-app-store?utm_source=rss)
- - [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review)<!-- TECH:END -->
+ - [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

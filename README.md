@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
  - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
- - 💣 [Go away](http://9gag.com/gag/a4PDGom)
  - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
+ - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Do the cat](http://9gag.com/gag/aD2E1Lw)
+ - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
 
 ---
 

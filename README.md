@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me thinking my Wife genuinely understands my perspective until\u2026.](http://9gag.com/gag/aAyoDmo)
- - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
+ - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
  - 💣 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
- - 😝 [Cool AF](http://9gag.com/gag/aRBY3xB)
- - 👉 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)<!-- MEMES:END -->
+ - 😝 [Dinner airdrop.](http://9gag.com/gag/apRW2ep)
+ - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
 
 ---
 

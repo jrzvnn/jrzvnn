@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users &lpar;Claude/@claudeai&rpar;](https://www.techmeme.com/260717/p30#a260717p30)
+ - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
  - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
  - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)
- - [Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump&#39;s posts, for banks, algorithmic traders, and others &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p26#a260717p26)
- - [Astronomers Found the First Atmosphere on a Planet in Another Star&#39;s Habitable Zone](https://www.cnet.com/science/space/science-has-found-the-first-atmosphere-on-a-planet-in-another-stars-habitable-zone/)
- - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)<!-- TECH:END -->
+ - [Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump&#39;s posts, for banks, algorithmic traders, and others &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p26#a260717p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

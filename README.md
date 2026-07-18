@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
- - 😝 [Still would?](http://9gag.com/gag/a0e2b0Q)
- - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
- - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 😝 [Bottoms up](http://9gag.com/gag/a2vnoPe)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1693](http://9gag.com/gag/a34VKZQ)
+ - 😝 [A tiktoker right after my own heart](http://9gag.com/gag/aryj5rd)
+ - 👉 [Well played](http://9gag.com/gag/adBmKYZ)<!-- MEMES:END -->
 
 ---
 

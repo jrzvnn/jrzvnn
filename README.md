@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
  - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 😝 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
  - 💣 [Women](http://9gag.com/gag/aRBY3YA)
- - 😝 [I can save her, from her own stupidity](http://9gag.com/gag/avy3o0d)
+ - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
  - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---

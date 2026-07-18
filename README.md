@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 😝 [Citation of a responsible boi...](http://9gag.com/gag/aD2E1dO)
- - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
+ - 😝 [Hang this in the Louvre](http://9gag.com/gag/a5Q8nPy)
+ - 😝 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
+ - 💣 [Go away](http://9gag.com/gag/a4PDGom)
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 👉 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)<!-- MEMES:END -->
 
 ---
 

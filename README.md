@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260718/p4#a260718p4)
- - [Sources: China&#39;s National AI Industry Investment Fund gained voting rights in DeepSeek by joining its $7.4B round; other investors like Tencent and JD got none &lpar;Bloomberg&rpar;](https://www.techmeme.com/260718/p3#a260718p3)
- - [Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260718/p2#a260718p2)
- - [SteelSeries Coupon Codes: 15% Off in July 2026](https://www.wired.com/story/steelseries-coupon-code/)
- - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/)<!-- TECH:END -->
+ - [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
+ - [Analysis: recent open weight models lag frontier closed models&#39; cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025 &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260718/p9#a260718p9)
+ - [SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p8#a260718p8)
+ - [Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A &lpar;FinTech Global&rpar;](https://www.techmeme.com/260718/p7#a260718p7)
+ - [China&#39;s National Data Administration says the country&#39;s daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 2024 &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260718/p6#a260718p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

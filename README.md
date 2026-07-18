@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 💣 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
  - 😝 [When the kitten misbehaves](http://9gag.com/gag/adBmLx2)
  - 👉 [I guess I&#39;ll get double the money](http://9gag.com/gag/axyXzxY)<!-- MEMES:END -->
 

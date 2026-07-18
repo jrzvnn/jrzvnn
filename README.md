@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says Claude Fable 5 will be included in Max and Team Premium plans at 50% of limits from July 20 and via usage credits for Pro and Team Standard users &lpar;Claude/@claudeai&rpar;](https://www.techmeme.com/260717/p30#a260717p30)
- - [China&#39;s BrainCo unveils what it says is the world&#39;s first integrated &quot;brain-to-robot&quot; platform that lets users control robots using an EEG headset &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260717/p29#a260717p29)
- - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
- - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)
- - [Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump&#39;s posts, for banks, algorithmic traders, and others &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p26#a260717p26)<!-- TECH:END -->
+ - [Data infrastructure startup Cribl acquires CardinalOps, which offers AI-powered threat detection tools and had raised $40M, sources say for around $100M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260718/p4#a260718p4)
+ - [Sources: China&#39;s National AI Industry Investment Fund gained voting rights in DeepSeek by joining its $7.4B round; other investors like Tencent and JD got none &lpar;Bloomberg&rpar;](https://www.techmeme.com/260718/p3#a260718p3)
+ - [Thira, an AI startup founded by Apptio co-founders to develop AI agents that handle back-office tasks such as IT support, raised a $21M seed led by Madrona &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260718/p2#a260718p2)
+ - [SteelSeries Coupon Codes: 15% Off in July 2026](https://www.wired.com/story/steelseries-coupon-code/)
+ - [Best Standing Desks of 2026](https://www.cnet.com/news/best-standing-desk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
  - [Apple bumps up the cost of iCloud+ in 8 countries](https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss)
- - [More games should be on rails &lpar;literally&rpar;](https://www.theverge.com/games/961152/denshattack-review)
- - [The apps, gadgets, and tools every reader needs](https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer)
- - [4 Best Walking Pads for Small Spaces and Standing Desks &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)
- - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)<!-- TECH:END -->
+ - [YouTube TV Review: Even at This Price, Still the Best Channel Selection You&#39;ll Find](https://www.cnet.com/tech/services-and-software/youtube-tv-review/)
+ - [The Same 5G Network Your Phone Uses Can Identify and Track Rogue Drones](https://www.cnet.com/tech/mobile/the-same-5g-network-your-phone-uses-can-identify-and-track-rogue-drones/)
+ - [This Adorable BlackBerry-Inspired Phone Keeps Me Focused in Ways I Didn&#39;t Expect](https://www.cnet.com/tech/mobile/this-adorable-blackberry-inspired-phone-keeps-me-focused-in-ways-i-didnt-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
- - 💣 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 😝 [Do the gator](http://9gag.com/gag/a87B39Y)
- - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aRBY3YA)
+ - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 👉 [It works guys](http://9gag.com/gag/ae9ve4W)<!-- MEMES:END -->
 
 ---
 

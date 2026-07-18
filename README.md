@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)
- - [Apple bumps up the cost of iCloud+ in 8 countries](https://appleinsider.com/articles/26/07/18/apple-bumps-up-the-cost-of-icloud-in-8-countries?utm_source=rss)
- - [YouTube TV Review: Even at This Price, Still the Best Channel Selection You&#39;ll Find](https://www.cnet.com/tech/services-and-software/youtube-tv-review/)
- - [The Same 5G Network Your Phone Uses Can Identify and Track Rogue Drones](https://www.cnet.com/tech/mobile/the-same-5g-network-your-phone-uses-can-identify-and-track-rogue-drones/)
- - [This Adorable BlackBerry-Inspired Phone Keeps Me Focused in Ways I Didn&#39;t Expect](https://www.cnet.com/tech/mobile/this-adorable-blackberry-inspired-phone-keeps-me-focused-in-ways-i-didnt-expect/)<!-- TECH:END -->
+ - [The grassroots group HumansFirst is organizing protests against the &quot;unaccountable&quot; buildout of data centers across 125 US locations on July 18 &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p11#a260718p11)
+ - [The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time](https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview)
+ - [Apple ordered to remove 8 &#39;nudify&#39; AI apps from the iPhone&#39;s App Store](https://appleinsider.com/articles/26/07/17/apple-ordered-to-remove-8-nudify-ai-apps-from-the-iphones-app-store?utm_source=rss)
+ - [Surprise! Facial recognition smart locks are actually good](https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review)
+ - [Sony’s flagship RGB LED TV is incredible](https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

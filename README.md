@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is why I do not give tips, ever](http://9gag.com/gag/aZZGmG0)
+ - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
  - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [Bottoms up](http://9gag.com/gag/a2vnoPe)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1693](http://9gag.com/gag/a34VKZQ)
- - 😝 [A tiktoker right after my own heart](http://9gag.com/gag/aryj5rd)
- - 👉 [Well played](http://9gag.com/gag/adBmKYZ)<!-- MEMES:END -->
+ - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
 
 ---
 

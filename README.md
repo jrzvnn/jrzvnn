@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
  - 😝 [This is why I do not give tips, ever](http://9gag.com/gag/aZZGmG0)
- - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
+ - 💣 [Bad parenting. Teach your f**king kids.](http://9gag.com/gag/aW4w15x)
+ - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
+ - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
 
 ---
 

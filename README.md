@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: the DOJ says federal employees can now download TikTok on government devices, citing ByteDance&#39;s transfer of control of US operations to TikTok USDS &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/260717/p28#a260717p28)
+ - [Sources: AI inference chip startup Etched is raising funds at a ~$20B valuation and is raising capital at a $10B valuation in a separate round led by Sequoia &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260717/p27#a260717p27)
  - [Sources: Trump Media pitched a monthly fee of as much as $100K for the Truth API, with fast access to Trump&#39;s posts, for banks, algorithmic traders, and others &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p26#a260717p26)
- - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)
- - [Filings: a group of major music publishers has agreed to end a copyright infringement dispute with X over the use of their music on the social media platform &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260717/p24#a260717p24)
- - [Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak](https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce)
- - [The Philadelphia Semiconductor Index sank ~10% for the week, its largest weekly fall in over a year, and is now down ~20% from its late-June all-time high &lpar;Reuters&rpar;](https://www.techmeme.com/260717/p23#a260717p23)<!-- TECH:END -->
+ - [Astronomers Found the First Atmosphere on a Planet in Another Star&#39;s Habitable Zone](https://www.cnet.com/science/space/science-has-found-the-first-atmosphere-on-a-planet-in-another-stars-habitable-zone/)
+ - [Sources: the Trump administration is considering plans for an independent regulator to vet the safety of AI models; the regulator would report to the SEC &lpar;Bloomberg&rpar;](https://www.techmeme.com/260717/p25#a260717p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

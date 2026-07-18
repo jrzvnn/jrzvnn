@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
- - 😝 [This is why I do not give tips, ever](http://9gag.com/gag/aZZGmG0)
+ - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 😝 [Women](http://9gag.com/gag/aRBY3YA)
  - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
  - 😝 [Citation of a responsible boi...](http://9gag.com/gag/aD2E1dO)
  - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->

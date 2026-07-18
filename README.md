@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fine, electric mountain bikes don’t suck](https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters)
- - [Analysis: recent open weight models lag frontier closed models&#39; cyber capabilities by 4 to 7 months, a narrower gap than the 6 to 10 months through most of 2025 &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260718/p9#a260718p9)
- - [SEC filing: GameStop says it owns 9.8% of eBay, signaling its intent to press ahead with a bid for the company after its unsolicited $56B offer was rejected &lpar;Reuters&rpar;](https://www.techmeme.com/260718/p8#a260718p8)
- - [Feathery, which develops an AI operating and decisioning system for financial services, raised $30M in total funding, including a recently completed Series A &lpar;FinTech Global&rpar;](https://www.techmeme.com/260718/p7#a260718p7)
- - [China&#39;s National Data Administration says the country&#39;s daily AI token consumption hit 140T in March 2026, up from 100T in December 2025 and 100B in early 2024 &lpar;Minxiao Chang/South China Morning Post&rpar;](https://www.techmeme.com/260718/p6#a260718p6)<!-- TECH:END -->
+ - [The Best Motion Sensors and Home Security Gadgets Without Cameras](https://www.wired.com/story/best-motion-sensors-private-alternatives-security/)
+ - [Your Period Tracker Is &lpar;Probably&rpar; Spying on You](https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/)
+ - [How Google’s New Gemini Rates Work and How to Track Your Usage](https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/)
+ - [FIFA Doesn’t Have a Plan to Deal With Climate Change](https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/)
+ - [Balmuda NatureWind Studio Review: A Better Breeze](https://www.wired.com/review/balmuda-naturewind-studio-fan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

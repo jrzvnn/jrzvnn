@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260718/p13#a260718p13)
  - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
  - [People&#39;s Picks TV Winners: Upgrading Your TV Soon? CNET Readers Have a Favorite Brand](https://www.cnet.com/tech/home-entertainment/peoples-picks-2026-tvs/)
  - [How the Trump administration shifted from a &quot;light-touch&quot; approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260718/p12#a260718p12)
- - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)
- - [The Top Continuous Glucose Monitors That Doctors Recommend](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/)<!-- TECH:END -->
+ - [Google is open-sourcing its 3D emoji](https://www.theverge.com/design/967606/google-open-source-3d-emoji)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

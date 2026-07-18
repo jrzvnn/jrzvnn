@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 💣 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [How time changes !](http://9gag.com/gag/avy3op5)
- - 👉 [When the kitten misbehaves](http://9gag.com/gag/adBmLx2)<!-- MEMES:END -->
+ - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
+ - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [I guess I&#39;ll get double the money](http://9gag.com/gag/axyXzxY)
+ - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---
 

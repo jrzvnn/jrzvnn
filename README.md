@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peaks](http://9gag.com/gag/aVvNqZy)
- - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
- - 💣 [Had enough it&#39;s time to](http://9gag.com/gag/a1mGobD)
- - 😝 [Dinner airdrop.](http://9gag.com/gag/apRW2ep)
- - 👉 [I don&#39;t get it. If I post something that has a swimsuit in it, my post gets auto blocked; but daily I see posts that have girls giving mouth hugs to meat whistles.](http://9gag.com/gag/a9y9AMZ)<!-- MEMES:END -->
+ - 😝 [Ghost in the shell](http://9gag.com/gag/abA9zGv)
+ - 😝 [Still would?](http://9gag.com/gag/a0e2b0Q)
+ - 💣 [No tacos for you](http://9gag.com/gag/a34VMY7)
+ - 😝 [It works guys](http://9gag.com/gag/ae9ve4W)
+ - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
 
 ---
 

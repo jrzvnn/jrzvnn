@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s incoming PM Andy Burnham is expected to scrap Keir Starmer&#39;s plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures &lpar;Geraldine McKelvie/The Guardian&rpar;](https://www.techmeme.com/260718/p15#a260718p15)
+ - [Permit hurdles push up costs for AI data centers; Oracle pivoted from gas turbines to costlier fuel cells for its Project Jupiter in NM, costing billions more &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260718/p14#a260718p14)
  - [Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’](https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation)
- - [Prediction market political betting on insider info spreads in DC; sources: WH lawyers raised alarms over anonymous Polymarket bets on the Iran ceasefire timing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260718/p13#a260718p13)
- - [Google might not kneecap the Pixel 11a with an old processor](https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak)
- - [People&#39;s Picks TV Winners: Upgrading Your TV Soon? CNET Readers Have a Favorite Brand](https://www.cnet.com/tech/home-entertainment/peoples-picks-2026-tvs/)
- - [How the Trump administration shifted from a &quot;light-touch&quot; approach to AI policy to an interventionist stance that led to restrictions on top AI models in the US &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260718/p12#a260718p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 19, #1134](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-19-1134/)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 19, #1856](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-19-1856/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

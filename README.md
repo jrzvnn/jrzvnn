@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to argue with that logic](http://9gag.com/gag/a6ZAorL)
- - 😝 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
- - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 😝 [Do the cat](http://9gag.com/gag/aD2E1Lw)
+ - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [No wonder it gets smaller nowadays](http://9gag.com/gag/aGyWeQ7)
+ - 💣 [The worst nightmare a man can experience.](http://9gag.com/gag/aPAKjww)
+ - 😝 [Do the gator](http://9gag.com/gag/a87B39Y)
  - 👉 [Go away](http://9gag.com/gag/a4PDGom)<!-- MEMES:END -->
 
 ---

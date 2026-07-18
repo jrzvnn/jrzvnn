@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Motion Sensors and Home Security Gadgets Without Cameras](https://www.wired.com/story/best-motion-sensors-private-alternatives-security/)
- - [Your Period Tracker Is &lpar;Probably&rpar; Spying on You](https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/)
- - [How Google’s New Gemini Rates Work and How to Track Your Usage](https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/)
- - [FIFA Doesn’t Have a Plan to Deal With Climate Change](https://www.wired.com/story/fifa-doesnt-have-plan-to-deal-with-climate-change/)
- - [Balmuda NatureWind Studio Review: A Better Breeze](https://www.wired.com/review/balmuda-naturewind-studio-fan/)<!-- TECH:END -->
+ - [4 Best Walking Pads for Small Spaces and Standing Desks &lpar;2026&rpar;](https://www.wired.com/story/best-walking-pads/)
+ - [iPhone 18: Everything We Know About Apple&#39;s Upcoming Handsets](https://www.cnet.com/tech/mobile/iphone-18-everything-we-know-about-apples-biggest-updates/)
+ - [My Top College Dorm Device Picks I&#39;ve Tried Out at Home](https://www.cnet.com/home/smart-home/my-favorite-college-dorm-smart-devices-ive-personally-tested/)
+ - [Your Smart Home Is Raising Your Electric Bill. Here’s How to Stop It](https://www.cnet.com/news/your-smart-home-raising-electric-bill-how-to-stop-it/)
+ - [A review of Microsoft&#39;s 13-inch Surface Laptop shows 8GB of RAM is not enough for a good Windows 11 experience; PC makers have unveiled upcoming 8GB laptops &lpar;Antonio G. Di Benedetto/The Verge&rpar;](https://www.techmeme.com/260718/p10#a260718p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

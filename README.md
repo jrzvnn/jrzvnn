@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
- - 😝 [It is different when they do it](http://9gag.com/gag/aryjVpK)
- - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aRBY3YA)
+ - 💣 [Classic](http://9gag.com/gag/aND6004)
+ - 😝 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 👉 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)<!-- MEMES:END -->
 
 ---
 

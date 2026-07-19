@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F**king Pathetic but F**king Hilarious](http://9gag.com/gag/aZZG7x9)
- - 😝 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)
- - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
- - 😝 [Why?](http://9gag.com/gag/aLnyw0v)
- - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
+ - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king Pathetic but F**king Hilarious](http://9gag.com/gag/aZZG7x9)
- - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Classic](http://9gag.com/gag/aND6004)
+ - 💣 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
  - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
  - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 

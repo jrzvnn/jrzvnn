@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The invention of gaslighting](http://9gag.com/gag/ajPo8p0)
+ - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
  - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 💣 [All over, everywhere...](http://9gag.com/gag/aRBY00M)
- - 😝 [It is different when they do it](http://9gag.com/gag/aryjVpK)
- - 👉 [Classic](http://9gag.com/gag/aND6004)<!-- MEMES:END -->
+ - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 👉 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)<!-- MEMES:END -->
 
 ---
 

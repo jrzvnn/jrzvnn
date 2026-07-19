@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 👉 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)<!-- MEMES:END -->
+ - 😝 [F**king Pathetic but F**king Hilarious](http://9gag.com/gag/aZZG7x9)
+ - 😝 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)
+ - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 😝 [Why?](http://9gag.com/gag/aLnyw0v)
+ - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---
 

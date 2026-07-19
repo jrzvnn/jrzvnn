@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Classic](http://9gag.com/gag/aND6004)
  - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
- - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 👉 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
+ - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
 
 ---
 

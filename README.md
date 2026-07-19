@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
  - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 💣 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 👉 [Kanye East ??](http://9gag.com/gag/aGyWZGX)<!-- MEMES:END -->
+ - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 👉 [This kid is a legend](http://9gag.com/gag/abA9Mwr)<!-- MEMES:END -->
 
 ---
 

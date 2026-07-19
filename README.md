@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage](https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/)
- - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/)
- - [B&amp;H launches steep MacBook Pro discounts at up to $400 off](https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss)
- - [Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April &lpar;Bloomberg&rpar;](https://www.techmeme.com/260719/p5#a260719p5)
- - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)<!-- TECH:END -->
+ - [The 10 Best Electrolyte Powders &lpar;We Tested Over 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)
+ - [The Search for Another Earth-Like Planet Just Took a Big Step Forward](https://www.wired.com/story/search-for-earth-like-planet-step-forward/)
+ - [We Don’t Have a Clean Indoor Air Act. Are Air Purifiers the Answer?](https://www.cnet.com/home/kitchen-and-household/features/we-dont-have-clean-indoor-air-act-are-air-purifiers-answer/)
+ - [Sony Is Paying Out $7.85M in PlayStation Store Credit. How to Claim Part of the Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
+ - [ThinkPad X1 Carbon Gen 14 Review: Lenovo&#39;s Flagship Ultraportable Is Now More Repairable](https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FIFA’s World Cup Halftime Show Puts American-Style Spectacle on the World Stage](https://www.wired.com/story/fifa-world-cup-halftime-show-what-to-expect/)
+ - [How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina](https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/)
+ - [B&amp;H launches steep MacBook Pro discounts at up to $400 off](https://appleinsider.com/articles/26/07/19/bh-launches-steep-macbook-pro-discounts-at-up-to-400-off?utm_source=rss)
  - [Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April &lpar;Bloomberg&rpar;](https://www.techmeme.com/260719/p5#a260719p5)
- - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)
- - [A profile of businessman Sebastian Rucci, whose past ventures were subject to legal probes, as he bids to build California&#39;s biggest data center, a $10B project &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260719/p3#a260719p3)
- - [Big US pizza delivery chains are struggling as apps such as DoorDash and Uber Eats give independent pizzerias and other restaurants greater market access &lpar;Haley Zimmerman/Financial Times&rpar;](https://www.techmeme.com/260719/p2#a260719p2)
- - [Sources: CIA operative Jonny Gannon spied on G42 to probe its China ties and helped the UAE gain expanded access to US AI chips by allaying US suspicions &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p1#a260719p1)<!-- TECH:END -->
+ - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

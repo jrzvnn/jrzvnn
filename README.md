@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
  - 😝 [Classic](http://9gag.com/gag/aND6004)
- - 💣 [Pretty cool, but let&#39;s go to the comments to see what the experts have to say...](http://9gag.com/gag/aMV3jnM)
- - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
+ - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
 
 ---
 

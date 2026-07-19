@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
- - 😝 [The diversity of human genes](http://9gag.com/gag/aO8Xrov)
- - 💣 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)
  - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 👉 [Bad parenting. Teach your f**king kids.](http://9gag.com/gag/aW4w15x)<!-- MEMES:END -->
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 👉 [Kanye East ??](http://9gag.com/gag/aGyWZGX)<!-- MEMES:END -->
 
 ---
 

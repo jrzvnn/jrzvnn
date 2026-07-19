@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)
+ - [Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach &lpar;Hugging Face&rpar;](https://www.techmeme.com/260719/p12#a260719p12)
  - [This unpronounceable series of glyphs is an incredible side project from Kieran Hebden &lpar;aka Four Tet&rpar;](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review)
  - [Moonshot AI pauses new subscriptions, saying that over the past two days Kimi K3 demand nearly passed the limit of its capacity, and also reworks its plan tiers &lpar;@kimi_moonshot&rpar;](https://www.techmeme.com/260719/p11#a260719p11)
- - [Sunday Reboot: Shrinking models and an on-device AI future](https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future?utm_source=rss)
- - [As many companies cut AI costs by using cheaper models, some, like Shopify, go all-in on frontier models, barring engineers from using anything else &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260719/p10#a260719p10)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 20, #1135](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-20-1135/)<!-- TECH:END -->
+ - [Sunday Reboot: Shrinking models and an on-device AI future](https://appleinsider.com/articles/26/07/19/sunday-reboot-shrinking-models-and-an-on-device-ai-future?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

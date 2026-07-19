@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Electrolyte Powders &lpar;We Tested Over 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)
- - [The Search for Another Earth-Like Planet Just Took a Big Step Forward](https://www.wired.com/story/search-for-earth-like-planet-step-forward/)
- - [We Don’t Have a Clean Indoor Air Act. Are Air Purifiers the Answer?](https://www.cnet.com/home/kitchen-and-household/features/we-dont-have-clean-indoor-air-act-are-air-purifiers-answer/)
- - [Sony Is Paying Out $7.85M in PlayStation Store Credit. How to Claim Part of the Settlement](https://www.cnet.com/tech/gaming/sony-playstation-store-settlement-what-to-know/)
- - [ThinkPad X1 Carbon Gen 14 Review: Lenovo&#39;s Flagship Ultraportable Is Now More Repairable](https://www.cnet.com/tech/computing/lenovo-thinkpad-x1-carbon-gen-14-review-flagship-ultraportable-repairable/)<!-- TECH:END -->
+ - [AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles &lpar;Andrew Hill/Financial Times&rpar;](https://www.techmeme.com/260719/p6#a260719p6)
+ - [How to Disable Music Videos in Spotify](https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/)
+ - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)
+ - [The 10 Best Electrolyte Powders &lpar;We Tested Over 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

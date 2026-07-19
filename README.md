@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoughts on why Jony Ive, a close friend of Laurene Powell Jobs, isn&#39;t named in Apple&#39;s OpenAI suit; sources: Apple tests AI to record Genius Bar customer chats &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260719/p8#a260719p8)
+ - [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review)
  - [Birdfy&amp;#8217;s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale)
  - [Apple probably won&#39;t add Jony Ive to OpenAI trade secret theft suit](https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss)
- - [Genius Bar AI tools spark concerns over employee monitoring &amp; evaluation](https://appleinsider.com/articles/26/07/19/genius-bar-ai-tools-spark-concerns-over-employee-monitoring-evaluation?utm_source=rss)
- - [Mac Pro could have been vastly more powerful than the Mac Studio](https://appleinsider.com/articles/26/07/19/mac-pro-could-have-been-vastly-more-powerful-than-the-mac-studio?utm_source=rss)
- - [US Marshals arrest the Tate brothers in Miami](https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami)<!-- TECH:END -->
+ - [Genius Bar AI tools spark concerns over employee monitoring &amp; evaluation](https://appleinsider.com/articles/26/07/19/genius-bar-ai-tools-spark-concerns-over-employee-monitoring-evaluation?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

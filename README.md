@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aRBY3YA)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 👉 [Kanye East ??](http://9gag.com/gag/aGyWZGX)<!-- MEMES:END -->
+ - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Classic](http://9gag.com/gag/aND6004)
+ - 💣 [Pretty cool, but let&#39;s go to the comments to see what the experts have to say...](http://9gag.com/gag/aMV3jnM)
+ - 😝 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 👉 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)<!-- MEMES:END -->
 
 ---
 

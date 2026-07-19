@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burger boyz get gains](http://9gag.com/gag/ae9v53B)
  - 😝 [When the kitten misbehaves](http://9gag.com/gag/adBmLx2)
- - 💣 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 😝 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 👉 [Kanye East ??](http://9gag.com/gag/aGyWZGX)<!-- MEMES:END -->
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 😝 [Kanye East ??](http://9gag.com/gag/aGyWZGX)
+ - 👉 [I guess I&#39;ll get double the money](http://9gag.com/gag/axyXzxY)<!-- MEMES:END -->
 
 ---
 

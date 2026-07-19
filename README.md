@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
  - [AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles &lpar;Andrew Hill/Financial Times&rpar;](https://www.techmeme.com/260719/p6#a260719p6)
  - [How to Disable Music Videos in Spotify](https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/)
  - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)
- - [The 10 Best Electrolyte Powders &lpar;We Tested Over 20&rpar;](https://www.wired.com/story/best-electrolyte-powders/)<!-- TECH:END -->
+ - [The grueling, 630-mile road race where the only fuel is sunlight](https://www.theverge.com/transportation/966701/solar-car-challenge-high-school-student-race-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

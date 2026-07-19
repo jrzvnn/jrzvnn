@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kodak EC35 is a dirt-cheap point-and-shoot film camera](https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera)
+ - [Apple probably won&#39;t add Jony Ive to OpenAI trade secret theft suit](https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss)
  - [I hate that I don’t hate this song made with Suno](https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music)
  - [Kalshi and Polymarket bets on the FIFA World Cup final top $5.69B; Dune Analytics says total wagers on the platforms surpassed $50B for the first time in June &lpar;Lauren McCarthy/New York Times&rpar;](https://www.techmeme.com/260719/p9#a260719p9)
- - [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults)
- - [Thoughts on why Jony Ive, a close friend of Laurene Powell Jobs, isn&#39;t named in Apple&#39;s OpenAI suit; sources: Apple tests AI to record Genius Bar customer chats &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260719/p8#a260719p8)
- - [Orchid is a delightfully retro and approachable hipster synth](https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review)<!-- TECH:END -->
+ - [The FBI reportedly won’t investigate ICE anymore](https://www.theverge.com/policy/967674/fbi-wont-investigate-ice-assaults)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

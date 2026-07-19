@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Clapper was a bad smart home gadget — and a viral sensation](https://www.theverge.com/podcast/967642/the-clapper-version-history)
- - [The future of physical games is not looking great](https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games)
- - [AI is reshaping entry-level professional services jobs, as companies redesign hiring, training, and workplace culture rather than simply cut junior roles &lpar;Andrew Hill/Financial Times&rpar;](https://www.techmeme.com/260719/p6#a260719p6)
- - [How to Disable Music Videos in Spotify](https://www.wired.com/story/how-to-disable-all-the-music-videos-in-spotify/)
- - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [Birdfy&amp;#8217;s solar-powered smart feeder is down to one of its best prices](https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale)
+ - [Apple probably won&#39;t add Jony Ive to OpenAI trade secret theft suit](https://appleinsider.com/articles/26/07/19/apple-probably-wont-add-jony-ive-to-openai-trade-secret-theft-suit?utm_source=rss)
+ - [Genius Bar AI tools spark concerns over employee monitoring &amp; evaluation](https://appleinsider.com/articles/26/07/19/genius-bar-ai-tools-spark-concerns-over-employee-monitoring-evaluation?utm_source=rss)
+ - [Mac Pro could have been vastly more powerful than the Mac Studio](https://appleinsider.com/articles/26/07/19/mac-pro-could-have-been-vastly-more-powerful-than-the-mac-studio?utm_source=rss)
+ - [US Marshals arrest the Tate brothers in Miami](https://www.theverge.com/policy/967651/us-marshals-arrest-the-tate-brothers-in-miami)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

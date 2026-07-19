@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba open-sources its chip software, following similar plays from Huawei and Moore Threads, as Chinese GPU makers try to break the dominance of Nvidia&#39;s CUDA &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260718/p18#a260718p18)
- - [Analysis finds 60+ &quot;jacket apps&quot; on the App Store disguised as simple games and utilities that become gambling apps when accessed from Brazilian IP addresses &lpar;9to5Mac&rpar;](https://www.techmeme.com/260718/p17#a260718p17)
- - [A look at AI&#39;s potential impact on insurance-coverage decisions like prior authorization as the Trump admin starts to pilot using AI to evaluate Medicare claims &lpar;Joshua Cohen/Ars Technica&rpar;](https://www.techmeme.com/260718/p16#a260718p16)
- - [Best Smart Speakers for 2026: Big Sound and So Much More](https://www.cnet.com/home/smart-home/best-smart-speaker/)
- - [UK&#39;s incoming PM Andy Burnham is expected to scrap Keir Starmer&#39;s plans for digital ID cards; last year a petition opposing the cards attracted ~3M signatures &lpar;Geraldine McKelvie/The Guardian&rpar;](https://www.techmeme.com/260718/p15#a260718p15)<!-- TECH:END -->
+ - [Sources: Kimi developer Moonshot told investors it is preparing for a Hong Kong IPO in as early as six months; its ARR hit $300M in June, up from $200M in April &lpar;Bloomberg&rpar;](https://www.techmeme.com/260719/p5#a260719p5)
+ - [Analysis: OpenAI and Anthropic employees are donating to campaigns more heavily and cohesively than Google, Meta, and Airbnb employees did post-IPO &lpar;Alexandra Lindsay/The San Francisco ...&rpar;](https://www.techmeme.com/260719/p4#a260719p4)
+ - [A profile of businessman Sebastian Rucci, whose past ventures were subject to legal probes, as he bids to build California&#39;s biggest data center, a $10B project &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260719/p3#a260719p3)
+ - [Big US pizza delivery chains are struggling as apps such as DoorDash and Uber Eats give independent pizzerias and other restaurants greater market access &lpar;Haley Zimmerman/Financial Times&rpar;](https://www.techmeme.com/260719/p2#a260719p2)
+ - [Sources: CIA operative Jonny Gannon spied on G42 to probe its China ties and helped the UAE gain expanded access to US AI chips by allaying US suspicions &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p1#a260719p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic](http://9gag.com/gag/aND6004)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 💣 [This kid is a legend](http://9gag.com/gag/abA9Mwr)
+ - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - 😝 [The invention of gaslighting](http://9gag.com/gag/ajPo8p0)
+ - 💣 [Classic](http://9gag.com/gag/aND6004)
  - 😝 [Another dungeon](http://9gag.com/gag/aVvNYyw)
- - 👉 [Women](http://9gag.com/gag/aRBY3YA)<!-- MEMES:END -->
+ - 👉 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)<!-- MEMES:END -->
 
 ---
 

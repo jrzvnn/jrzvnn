@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
+ - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)
+ - [Today’s NYT Connections Hints and Answers for July 21, #1136](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-21-1136/)
  - [Judge approves Anthropic&#39;s $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260720/p39#a260720p39)
- - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)
- - [PS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia](https://www.cnet.com/tech/gaming/ps-plus-july-2026-games/)
- - [Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p38#a260720p38)
- - [The Galaxy Card Is Samsung’s Answer to the Apple Card](https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/)<!-- TECH:END -->
+ - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

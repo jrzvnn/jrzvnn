@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
- - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
- - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
- - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 👉 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)<!-- MEMES:END -->
+ - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
+ - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
+ - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 
 ---
 

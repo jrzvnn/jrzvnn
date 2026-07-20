@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions](https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/)
- - [iOS 27 beta multiple battery reference may be red herring, not iPhone Fold hints](https://appleinsider.com/articles/26/07/20/plurality-in-ios-27-beta-code-may-be-red-herring-not-iphone-fold-hints?utm_source=rss)
- - [Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260720/p34#a260720p34)
- - [Fourth iOS 27, macOS 27 developer betas arrive](https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss)
- - [Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable)<!-- TECH:END -->
+ - [The Galaxy Card Is Samsung’s Answer to the Apple Card](https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/)
+ - [SpaceX in your index fund, explained](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained)
+ - [The FDA Says It Didn&#39;t Apologize to Supplier Linked to Diarrhea Outbreak, Actually](https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/)
+ - [Snap reaches a deal to settle the second case set for trial over social media harm to minors, following TikTok and YouTube, leaving Meta as the only defendant &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p37#a260720p37)
+ - [X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it &quot;one of the largest engineering projects&quot; in the company&#39;s history &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260720/p36#a260720p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

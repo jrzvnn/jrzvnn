@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cambridge-based CuspAI raised a $450M Series B led by Kleiner Perkins and NEA, and launched a coalition for AI materials discovery for chip and other industries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p8#a260720p8)
- - [Retail traders are shifting from Big Tech to stocks boosted by AI like SK Hynix and Marvell; five of the Magnificent Seven stocks trail the market this year &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](https://www.techmeme.com/260720/p7#a260720p7)
- - [LSEG: Morgan Stanley collected $2.3B in debt and equity capital market fees in H1 2026, up from $1.4B in H1 2025, driven by AI infrastructure financing deals &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p6#a260720p6)
- - [Blackstone agrees to invest an undisclosed sum in South Korea-based Futronic, which makes actuators used in industrial robots, sources say at a ~$675M valuation &lpar;Manuel Baigorri/Bloomberg&rpar;](https://www.techmeme.com/260720/p5#a260720p5)
- - [Sources detail Kalshi&#39;s and Polymarket&#39;s efforts to undermine each other, including lobbying regulators, trying to derail deals, and waging influence campaigns &lpar;New York Times&rpar;](https://www.techmeme.com/260720/p4#a260720p4)<!-- TECH:END -->
+ - [Apps Marketed to US Troops Are Shipping Chinese and Russian Code](https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/)
+ - [A look at Israel&#39;s influence campaign in the US that&#39;s included millions of AI-driven texts and a $45M+ contract with ex-Trump campaign strategist Brad Parscale &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260720/p11#a260720p11)
+ - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
+ - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)
+ - [Cambridge-based CuspAI raised a $450M Series B led by Kleiner Perkins and NEA, and launches a coalition for AI materials discovery for chip and other industries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p8#a260720p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

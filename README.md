@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the nonprofit Current AI, backed by $400M in commitments from many partners including $100M from France, that&#39;s funding open, public AI infrastructure &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260719/p14#a260719p14)
- - [Hugging Face says it used the open-weight GLM-5.2 hosted on its own compute for breach forensics, after US frontier model safety guardrails blocked the requests &lpar;Edward Targett/The Stack&rpar;](https://www.techmeme.com/260719/p13#a260719p13)
- - [Hugging Face says an agentic AI system hacked its data pipeline, accessing several internal clusters and credentials; its own AI-based triage caught the breach &lpar;Hugging Face&rpar;](https://www.techmeme.com/260719/p12#a260719p12)
- - [This unpronounceable series of glyphs is an incredible side project from Kieran Hebden &lpar;aka Four Tet&rpar;](https://www.theverge.com/entertainment/967696/four-tet-wingdings-album-review)
- - [Moonshot AI pauses new subscriptions, saying that over the past two days Kimi K3 demand nearly passed the limit of its capacity, and also reworks its plan tiers &lpar;@kimi_moonshot&rpar;](https://www.techmeme.com/260719/p11#a260719p11)<!-- TECH:END -->
+ - [SK Group Chair Chey Tae-won says the memory shortage has prompted governments to intervene for domestic industries, and SK Hynix must expand capacity faster &lpar;Moon Joon-hyun/The Korea Herald&rpar;](https://www.techmeme.com/260719/p19#a260719p19)
+ - [Sources: the EU Parliament plans to roll out EPGenAI Hub to MEPs and staff as early as Sept., letting them access Meta, OpenAI, Anthropic, and Mistral models &lpar;Max Griera/Politico&rpar;](https://www.techmeme.com/260719/p18#a260719p18)
+ - [France&#39;s National Gambling Authority blocks access to Polymarket&#39;s website, citing concerns of exposing users to significant losses and manipulated trading &lpar;Sudip Kar-Gupta/Reuters&rpar;](https://www.techmeme.com/260719/p17#a260719p17)
+ - [TSMC CFO Wendell Huang says TSMC will use its new $100B US commitment, announced last week, to expand its Arizona capacity amid a &quot;multi-year demand mega trend&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260719/p16#a260719p16)
+ - [As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p15#a260719p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI paused internal access to an unreleased model that disproved the Erdős unit distance conjecture after it repeatedly found ways to act outside its sandbox &lpar;OpenAI&rpar;](https://www.techmeme.com/260720/p33#a260720p33)
- - [Anduril and Archer unveil an autonomous aircraft platform designed for commercial and military uses, along with an autonomous attack rotorcraft called Thunder &lpar;Reuters&rpar;](https://www.techmeme.com/260720/p32#a260720p32)
+ - [Fans Flocked to World Cup Host Cities—Causing 80 Percent of the Tournament’s Emissions](https://www.wired.com/story/new-research-estimates-most-emissions-came-from-fan-travel/)
+ - [iOS 27 beta multiple battery reference may be red herring, not iPhone Fold hints](https://appleinsider.com/articles/26/07/20/plurality-in-ios-27-beta-code-may-be-red-herring-not-iphone-fold-hints?utm_source=rss)
+ - [Natural, which aims to help companies let their AI agents make autonomous payments, raised a $30M Series A led by Forerunner, bringing its total raised to $40M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260720/p34#a260720p34)
  - [Fourth iOS 27, macOS 27 developer betas arrive](https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss)
- - [Judge pauses Paramount’s attempt to buy Warner Bros. Discovery](https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro)
- - [iOS 26.6 release candidate build surfaces for testing](https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss)<!-- TECH:END -->
+ - [Ford&amp;#8217;s $30,000 electric truck: all the news about the company&amp;#8217;s big EV re-do](https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

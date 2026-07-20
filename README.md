@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
- - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
- - 💣 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
+ - 😝 [Feeling ancient right about now](http://9gag.com/gag/apRWGd8)
+ - 😝 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
+ - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 😝 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)
+ - 👉 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
 
 ---
 

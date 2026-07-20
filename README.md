@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apps Marketed to US Troops Are Shipping Chinese and Russian Code](https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/)
- - [A look at Israel&#39;s influence campaign in the US that&#39;s included millions of AI-driven texts and a $45M+ contract with ex-Trump campaign strategist Brad Parscale &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260720/p11#a260720p11)
- - [Trial lawyers, with big liability litigation earnings, are among the most active lobbyists against autonomous vehicles, even as data shows clear safety benefits &lpar;Alex Tabarrok/Marginal Revolution&rpar;](https://www.techmeme.com/260720/p10#a260720p10)
- - [How smart home devices have given abusive partners a new tool to remotely manipulate, intimidate, and disturb their victims, in a form of tech-assisted abuse &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p9#a260720p9)
- - [Cambridge-based CuspAI raised a $450M Series B led by Kleiner Perkins and NEA, and launches a coalition for AI materials discovery for chip and other industries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p8#a260720p8)<!-- TECH:END -->
+ - [How &quot;synthetic insider&quot; attacks raise the stakes for corporate cyber defense; a Verizon analysis of 22K incidents finds 12% were carried out by internal actors &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260720/p18#a260720p18)
+ - [Sources: parts of the Trump administration are reigniting efforts to implement de facto bans on foreign open-source models, as Chinese AI models gain momentum &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p17#a260720p17)
+ - [Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry&#39;s focus back to marginal costs and cost of goods sold, as inference costs scale with revenue &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260720/p16#a260720p16)
+ - [AliExpress fined almost $630 million over illegal product sales](https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products)
+ - [An interview with Expedia CEO Ariane Gorin, who calls AI &quot;a growth opportunity&quot;, as she prepares the online travel company to face potential disruption from AI &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260720/p15#a260720p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

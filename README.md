@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
- - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 💣 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
  - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 👉 [The dutch defeat](http://9gag.com/gag/a7ozWyr)<!-- MEMES:END -->
+ - 👉 [Kind people](http://9gag.com/gag/aAyoeG2)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How &quot;synthetic insider&quot; attacks raise the stakes for corporate cyber defense; a Verizon analysis of 22K incidents finds 12% were carried out by internal actors &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260720/p18#a260720p18)
- - [Sources: parts of the Trump administration are reigniting efforts to implement de facto bans on foreign open-source models, as Chinese AI models gain momentum &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p17#a260720p17)
- - [Chinese open models like Kimi K3 and Qwen3.8 Max shift the industry&#39;s focus back to marginal costs and cost of goods sold, as inference costs scale with revenue &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260720/p16#a260720p16)
- - [AliExpress fined almost $630 million over illegal product sales](https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products)
- - [An interview with Expedia CEO Ariane Gorin, who calls AI &quot;a growth opportunity&quot;, as she prepares the online travel company to face potential disruption from AI &lpar;Stephanie Stacey/Financial Times&rpar;](https://www.techmeme.com/260720/p15#a260720p15)<!-- TECH:END -->
+ - [Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025&#39;s ~600K total, as vibecoded apps flood the store &lpar;Kalley Huang/New York Times&rpar;](https://www.techmeme.com/260720/p22#a260720p22)
+ - [AirPods Max 2 plunge to $449 after Amazon slashes price by $100](https://appleinsider.com/articles/26/07/20/airpods-max-2-plunge-to-449-after-amazon-slashes-price-by-100?utm_source=rss)
+ - [Electric air taxis go to war](https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder)
+ - [Avengers: Doomsday’s first trailer puts everyone on high alert](https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date)
+ - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

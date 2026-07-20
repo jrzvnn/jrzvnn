@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: in H1, the number of new apps released in the App Store doubled to ~560K, on track to pass 2025&#39;s ~600K total, as vibecoded apps flood the store &lpar;Kalley Huang/New York Times&rpar;](https://www.techmeme.com/260720/p22#a260720p22)
- - [AirPods Max 2 plunge to $449 after Amazon slashes price by $100](https://appleinsider.com/articles/26/07/20/airpods-max-2-plunge-to-449-after-amazon-slashes-price-by-100?utm_source=rss)
- - [Electric air taxis go to war](https://www.theverge.com/transportation/967891/archer-evtol-military-anduril-air-taxi-thunder)
- - [Avengers: Doomsday’s first trailer puts everyone on high alert](https://www.theverge.com/entertainment/967887/avengers-doomsday-trailer-marvel-release-date)
- - [UK government data: ~35% of UK businesses with 10+ staff report using AI, up from 12% in September 2023; average number of AI tools is 1.6, up from 1.4 in 2023 &lpar;Delphine Strauss/Financial Times&rpar;](https://www.techmeme.com/260720/p21#a260720p21)<!-- TECH:END -->
+ - [Adobe’s ‘natural look’ camera app embraces generative AI](https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update)
+ - [Fixing ISP-provided routers, public betas, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/07/20/fixing-isp-provided-routers-public-betas-more-on-smart-home-insider?utm_source=rss)
+ - [Infinity, founded by Jeremy Nixon, the creator of hacker network community AGI House, to build an inference library that runs on all chips, raised a $15M seed &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260720/p27#a260720p27)
+ - [CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p26#a260720p26)
+ - [Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M &lpar;Golan Hazani/CTech&rpar;](https://www.techmeme.com/260720/p25#a260720p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy Card Is Samsung’s Answer to the Apple Card](https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/)
- - [SpaceX in your index fund, explained](https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained)
- - [The FDA Says It Didn&#39;t Apologize to Supplier Linked to Diarrhea Outbreak, Actually](https://www.wired.com/story/taylor-farms-fda-explosive-diarrhea-tweets/)
- - [Snap reaches a deal to settle the second case set for trial over social media harm to minors, following TikTok and YouTube, leaving Meta as the only defendant &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p37#a260720p37)
- - [X relaunches its Android app after a year-long rewrite from scratch; Nikita Bier calls it &quot;one of the largest engineering projects&quot; in the company&#39;s history &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260720/p36#a260720p36)<!-- TECH:END -->
+ - [Judge approves Anthropic&#39;s $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260720/p39#a260720p39)
+ - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)
+ - [PS Plus July 2026 Games Are Packed With Zombies, Aliens and Nostalgia](https://www.cnet.com/tech/gaming/ps-plus-july-2026-games/)
+ - [Source: Ancestry.com pitches a risky $1.75B term loan at 4 to 4.25 percentage points above the benchmark to refinance debt from its 2020 Blackstone acquisition &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p38#a260720p38)
+ - [The Galaxy Card Is Samsung’s Answer to the Apple Card](https://www.wired.com/story/galaxy-card-is-samsung-answer-to-the-apple-card/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

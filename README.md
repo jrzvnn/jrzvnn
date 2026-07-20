@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Or laser tampons](http://9gag.com/gag/axyX7mD)
- - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 💣 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
+ - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 😝 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)
+ - 💣 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
  - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)<!-- MEMES:END -->
+ - 👉 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)<!-- MEMES:END -->
 
 ---
 

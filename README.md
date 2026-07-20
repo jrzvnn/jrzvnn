@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - 😝 [What was this? lol](http://9gag.com/gag/aKGr71N)
- - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 😝 [Argentinian insulting a Mexican guy just for wearing a Mexican jersey but he handles him perfectly](http://9gag.com/gag/azx0mpb)
- - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
+ - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
+ - 😝 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)
+ - 💣 [Any decent account?](http://9gag.com/gag/aXP5jRb)
+ - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
+ - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
 
 ---
 

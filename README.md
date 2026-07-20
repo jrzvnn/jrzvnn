@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Group Chair Chey Tae-won says the memory shortage has prompted governments to intervene for domestic industries, and SK Hynix must expand capacity faster &lpar;Moon Joon-hyun/The Korea Herald&rpar;](https://www.techmeme.com/260719/p19#a260719p19)
- - [Sources: the EU Parliament plans to roll out EPGenAI Hub to MEPs and staff as early as Sept., letting them access Meta, OpenAI, Anthropic, and Mistral models &lpar;Max Griera/Politico&rpar;](https://www.techmeme.com/260719/p18#a260719p18)
- - [France&#39;s National Gambling Authority blocks access to Polymarket&#39;s website, citing concerns of exposing users to significant losses and manipulated trading &lpar;Sudip Kar-Gupta/Reuters&rpar;](https://www.techmeme.com/260719/p17#a260719p17)
- - [TSMC CFO Wendell Huang says TSMC will use its new $100B US commitment, announced last week, to expand its Arizona capacity amid a &quot;multi-year demand mega trend&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260719/p16#a260719p16)
- - [As companies stay private longer, VC firms, like Spark, Gigafund, and Greenoaks, are investing in companies later on and buying stakes without seeking influence &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260719/p15#a260719p15)<!-- TECH:END -->
+ - [Cambridge-based CuspAI raised a $450M Series B led by Kleiner Perkins and NEA, and launched a coalition for AI materials discovery for chip and other industries &lpar;Bloomberg&rpar;](https://www.techmeme.com/260720/p8#a260720p8)
+ - [Retail traders are shifting from Big Tech to stocks boosted by AI like SK Hynix and Marvell; five of the Magnificent Seven stocks trail the market this year &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](https://www.techmeme.com/260720/p7#a260720p7)
+ - [LSEG: Morgan Stanley collected $2.3B in debt and equity capital market fees in H1 2026, up from $1.4B in H1 2025, driven by AI infrastructure financing deals &lpar;Financial Times&rpar;](https://www.techmeme.com/260720/p6#a260720p6)
+ - [Blackstone agrees to invest an undisclosed sum in South Korea-based Futronic, which makes actuators used in industrial robots, sources say at a ~$675M valuation &lpar;Manuel Baigorri/Bloomberg&rpar;](https://www.techmeme.com/260720/p5#a260720p5)
+ - [Sources detail Kalshi&#39;s and Polymarket&#39;s efforts to undermine each other, including lobbying regulators, trying to derail deals, and waging influence campaigns &lpar;New York Times&rpar;](https://www.techmeme.com/260720/p4#a260720p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

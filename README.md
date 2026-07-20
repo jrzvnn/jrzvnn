@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
- - 💣 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)
- - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 👉 [Kind people](http://9gag.com/gag/aAyoeG2)<!-- MEMES:END -->
+ - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 😝 [Spain officially edited Trump out of the trophy presentation.](http://9gag.com/gag/ae9vDZb)
+ - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
+ - 👉 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)<!-- MEMES:END -->
 
 ---
 

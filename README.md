@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That one unemployed friend 2a.m on a Tuesday](http://9gag.com/gag/ae9v59O)
- - 😝 [Classic](http://9gag.com/gag/aND6004)
- - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
- - 😝 [Thanks to all the memes that accompanied us during a the toughest year so far. F**k you and see you tomorrow!](http://9gag.com/gag/aXP5go6)
- - 👉 [Just a reminder Epstein didn&#39;t kill himself.](http://9gag.com/gag/a34VRxQ)<!-- MEMES:END -->
+ - 😝 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Dont ask about their wives](http://9gag.com/gag/a0e2QZn)
+ - 💣 [Are you not entertained?](http://9gag.com/gag/aBy70vO)
+ - 😝 [U think u tough bully?](http://9gag.com/gag/aRBY0LQ)
+ - 👉 [Just guys being dude&#39;s for real.](http://9gag.com/gag/aqyqgAL)<!-- MEMES:END -->
 
 ---
 

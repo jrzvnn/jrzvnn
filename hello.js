@@ -10,10 +10,9 @@
 <h1 id="displayMessage">Hello, GitHub!</h1>
 
 <script>
-    // JavaScript code to display a message
-    document.addEventListener("DOMContentLoaded", function() {
-        var displayElement = document.getElementById("displayMessage");
-        displayElement.innerHTML = "Welcome to my GitHub repository!";
+    // Optimize DOMContentLoaded event handling
+    document.addEventListener("DOMContentLoaded", () => {
+        document.getElementById("displayMessage").textContent = "Welcome to my GitHub repository!";
     });
 </script>
 

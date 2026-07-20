@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s ‘natural look’ camera app embraces generative AI](https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update)
- - [Fixing ISP-provided routers, public betas, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/07/20/fixing-isp-provided-routers-public-betas-more-on-smart-home-insider?utm_source=rss)
- - [Infinity, founded by Jeremy Nixon, the creator of hacker network community AGI House, to build an inference library that runs on all chips, raised a $15M seed &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260720/p27#a260720p27)
- - [CAISI Director Chris Fall is resigning after taking over the federal AI testing institute in April; NIST Director Arvind Raman will serve as acting director &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260720/p26#a260720p26)
- - [Source: Tencent is in talks to acquire Israeli game developer SuperPlay in a deal valuing SuperPlay at $1B-$1.5B; Playtika acquired SuperPlay in 2024 for $690M &lpar;Golan Hazani/CTech&rpar;](https://www.techmeme.com/260720/p25#a260720p25)<!-- TECH:END -->
+ - [OpenAI paused internal access to an unreleased model that disproved the Erdős unit distance conjecture after it repeatedly found ways to act outside its sandbox &lpar;OpenAI&rpar;](https://www.techmeme.com/260720/p33#a260720p33)
+ - [Anduril and Archer unveil an autonomous aircraft platform designed for commercial and military uses, along with an autonomous attack rotorcraft called Thunder &lpar;Reuters&rpar;](https://www.techmeme.com/260720/p32#a260720p32)
+ - [Fourth iOS 27, macOS 27 developer betas arrive](https://appleinsider.com/articles/26/07/20/apple-starts-round-four-of-its-ios-27-macos-27-developer-betas?utm_source=rss)
+ - [Judge pauses Paramount’s attempt to buy Warner Bros. Discovery](https://www.theverge.com/business/968055/paramount-wbd-merger-pause-tro)
+ - [iOS 26.6 release candidate build surfaces for testing](https://appleinsider.com/articles/26/07/20/sixth-ios-266-macos-266-developer-betas-surface-for-testing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

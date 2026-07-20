@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The interview lasted 57 seconds](http://9gag.com/gag/aVvN06K)
- - 😝 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
- - 💣 [Another dungeon](http://9gag.com/gag/aVvNYyw)
- - 😝 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)
- - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
+ - 😝 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
+ - 😝 [What was this? lol](http://9gag.com/gag/aKGr71N)
+ - 💣 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 😝 [Argentinian insulting a Mexican guy just for wearing a Mexican jersey but he handles him perfectly](http://9gag.com/gag/azx0mpb)
+ - 👉 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
  - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 😝 [Play stupid games win stupid prizes!](http://9gag.com/gag/aXP5jw2)
- - 💣 [Any decent account?](http://9gag.com/gag/aXP5jRb)
- - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)<!-- MEMES:END -->
+ - 💣 [Bait&#39;n&#39;bite](http://9gag.com/gag/a5Q8RDG)
+ - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 👉 [The dutch defeat](http://9gag.com/gag/a7ozWyr)<!-- MEMES:END -->
 
 ---
 

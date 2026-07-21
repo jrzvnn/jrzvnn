@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 😝 [Any?](http://9gag.com/gag/aryjMV6)
+ - 😝 [Sank bites](http://9gag.com/gag/aMV3xBG)
  - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
- - 😝 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
+ - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
 
 ---
 

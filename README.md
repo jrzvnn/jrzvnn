@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Sarah Guo, Greylock&#39;s youngest GP before founding Conviction in 2022, which has since backed six of the 21 AI-native companies now worth over $10B &lpar;Dom Cooke/Colossus&rpar;](https://www.techmeme.com/260721/p4#a260721p4)
- - [Etsy Is In Its Flop Era, and Sellers Are Fleeing](https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/)
- - [GitHub says individuals and orgs have invested $100M+ in open source maintainers and projects via GitHub Sponsors since 2019, with $10M in the past five months &lpar;Stephanie Lincoln/The GitHub Blog&rpar;](https://www.techmeme.com/260721/p3#a260721p3)
- - [Sony Music files a second copyright suit against Udio, alleging the AI music company copied 30,117 recordings without permission to train its AI models &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260721/p2#a260721p2)
- - [Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba &lpar;Reuters&rpar;](https://www.techmeme.com/260721/p1#a260721p1)<!-- TECH:END -->
+ - [America needs to stop getting shocked by Chinese AI](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)
+ - [Kimi K3 marks the arrival of frontier open-weight models, and the Kimi team has incredible culture and freedom of expression within a GPU-limited environment &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260721/p11#a260721p11)
+ - [The Best Smart Home Accessories to Boost Your Curb Appeal &lpar;2026&rpar;](https://www.wired.com/story/smart-home-curb-appeal-looks/)
+ - [Abdul El-Sayed Is an Epidemiologist Running for Senate. His State Is a Public Health Disaster](https://www.wired.com/story/abdul-el-sayed-michigan-is-public-health-disaster/)
+ - [Sources: the US and China plan to hold AI talks in September when President Xi visits the US, realizing a significant outcome of the Trump-Xi summit in May &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260721/p10#a260721p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

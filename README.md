@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [America needs to stop getting shocked by Chinese AI](https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment)
- - [Kimi K3 marks the arrival of frontier open-weight models, and the Kimi team has incredible culture and freedom of expression within a GPU-limited environment &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/260721/p11#a260721p11)
- - [The Best Smart Home Accessories to Boost Your Curb Appeal &lpar;2026&rpar;](https://www.wired.com/story/smart-home-curb-appeal-looks/)
- - [Abdul El-Sayed Is an Epidemiologist Running for Senate. His State Is a Public Health Disaster](https://www.wired.com/story/abdul-el-sayed-michigan-is-public-health-disaster/)
- - [Sources: the US and China plan to hold AI talks in September when President Xi visits the US, realizing a significant outcome of the Trump-Xi summit in May &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260721/p10#a260721p10)<!-- TECH:END -->
+ - [Iran&#39;s IRGC claims it targeted and &quot;destroyed&quot; Amazon&#39;s central data infrastructure in Bahrain using several cruise missiles; Amazon has not acknowledged it &lpar;Babak Kamiar/Euronews&rpar;](https://www.techmeme.com/260721/p14#a260721p14)
+ - [Expect 2027 iPhones to cost more as TSMC increases chip prices](https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss)
+ - [8 Best Smartwatches &lpar;2026&rpar;: Apple, Google, and Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Gritt, which is developing an AI system that helps build infrastructure like solar panels, emerges from stealth with a $26M Series A and $34M in total funding &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260721/p13#a260721p13)
+ - [UK PM Andy Burnham abolishes the Department for Science, Innovation, and Tech and elevates UK AI Minister Kanishka Narayan, who oversees AISI, to attend cabinet &lpar;Philippa Wain/BBC&rpar;](https://www.techmeme.com/260721/p12#a260721p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

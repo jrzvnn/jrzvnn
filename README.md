@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 💣 [He doesn&#39;t know her](http://9gag.com/gag/ajPo9Bw)
- - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
+ - 😝 [Feeling ancient right about now](http://9gag.com/gag/apRWGd8)
+ - 😝 [Argentinian players attacked the Spanish players after the final whistle](http://9gag.com/gag/a4PD3np)
+ - 💣 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)
+ - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
+ - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
 
 ---
 

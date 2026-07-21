@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellantis taps Mobileye for hands-free driving assist](https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist)
- - [Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic &lpar;The Information&rpar;](https://www.techmeme.com/260721/p22#a260721p22)
- - [A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers](https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on)
- - [US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could &quot;sanction them&quot; &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260721/p21#a260721p21)
- - [The Great Peptide Cash Grab Has Begun](https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/)<!-- TECH:END -->
+ - [Apple Upgrades will let users lease iPhones and Macs with Klarna](https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss)
+ - [OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company&#39;s upcoming generation of models &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260721/p31#a260721p31)
+ - [Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260721/p30#a260721p30)
+ - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its &quot;most ambitious pre-training run yet&quot; for Gemini 4 &lpar;Tulsee Doshi/Google&rpar;](https://www.techmeme.com/260721/p29#a260721p29)
+ - [Nvidia details its Vera CPU for data centers, its first CPU with a custom core design, featuring 88 cores and 176 threads, set for general release in H2 2026 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260721/p28#a260721p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

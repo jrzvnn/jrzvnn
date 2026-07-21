@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran&#39;s IRGC claims it targeted and &quot;destroyed&quot; Amazon&#39;s central data infrastructure in Bahrain using several cruise missiles; Amazon has not acknowledged it &lpar;Babak Kamiar/Euronews&rpar;](https://www.techmeme.com/260721/p14#a260721p14)
- - [Expect 2027 iPhones to cost more as TSMC increases chip prices](https://appleinsider.com/articles/26/07/21/expect-2027-iphones-to-cost-more-as-tsmc-increases-chip-prices?utm_source=rss)
- - [8 Best Smartwatches &lpar;2026&rpar;: Apple, Google, and Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Gritt, which is developing an AI system that helps build infrastructure like solar panels, emerges from stealth with a $26M Series A and $34M in total funding &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260721/p13#a260721p13)
- - [UK PM Andy Burnham abolishes the Department for Science, Innovation, and Tech and elevates UK AI Minister Kanishka Narayan, who oversees AISI, to attend cabinet &lpar;Philippa Wain/BBC&rpar;](https://www.techmeme.com/260721/p12#a260721p12)<!-- TECH:END -->
+ - [Stellantis taps Mobileye for hands-free driving assist](https://www.theverge.com/transportation/968525/stellantis-taps-mobileye-for-hands-free-driving-assist)
+ - [Docs: AI data startup Mercor had $614M in gross revenue in H1 2026, up 70% from all of 2025, with ~91% from foundation model makers like OpenAI and Anthropic &lpar;The Information&rpar;](https://www.techmeme.com/260721/p22#a260721p22)
+ - [A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers](https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on)
+ - [US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could &quot;sanction them&quot; &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260721/p21#a260721p21)
+ - [The Great Peptide Cash Grab Has Begun](https://www.wired.com/story/fda-peptide-decision-telehealth-companies-cashing-in/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

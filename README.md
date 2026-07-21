@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
- - 😝 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
- - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
+ - 😝 [Plans plans plans](http://9gag.com/gag/apRWNyp)
+ - 😝 [How the World sees him](http://9gag.com/gag/a34VEg5)
+ - 💣 [Silvia now has a pirate arc...](http://9gag.com/gag/aD2Edg7)
+ - 😝 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
+ - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 ---
 

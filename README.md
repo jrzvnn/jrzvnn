@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
- - 😝 [Argentinian insulting a Mexican guy just for wearing a Mexican jersey but he handles him perfectly](http://9gag.com/gag/azx0mpb)
- - 💣 [When logic left the chat](http://9gag.com/gag/aAyobwo)
- - 😝 [Make it clap](http://9gag.com/gag/abA9VLX)
- - 👉 [Half Time Show World Cup 2026](http://9gag.com/gag/agmPBqg)<!-- MEMES:END -->
+ - 😝 [The true native American](http://9gag.com/gag/aBy72BP)
+ - 😝 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)
+ - 💣 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 😝 [Booze &amp; golf carts, never a good idea.](http://9gag.com/gag/avy3ArO)
+ - 👉 [Sank bites](http://9gag.com/gag/aMV3xBG)<!-- MEMES:END -->
 
 ---
 

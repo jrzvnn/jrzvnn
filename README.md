@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Upgrades will let users lease iPhones and Macs with Klarna](https://appleinsider.com/articles/26/07/21/apple-upgrades-will-let-users-lease-iphones-and-macs-with-klarna?utm_source=rss)
- - [OpenAI executive Chris Lehane says Sam Altman plans to brief the Trump administration and US lawmakers next week on the company&#39;s upcoming generation of models &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260721/p31#a260721p31)
- - [Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260721/p30#a260721p30)
- - [Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its &quot;most ambitious pre-training run yet&quot; for Gemini 4 &lpar;Tulsee Doshi/Google&rpar;](https://www.techmeme.com/260721/p29#a260721p29)
- - [Nvidia details its Vera CPU for data centers, its first CPU with a custom core design, featuring 88 cores and 176 threads, set for general release in H2 2026 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260721/p28#a260721p28)<!-- TECH:END -->
+ - [Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more &lpar;Block&rpar;](https://www.techmeme.com/260721/p39#a260721p39)
+ - [Apple&#39;s iPhone Upgrade Program was great while it lasted](https://appleinsider.com/articles/26/07/21/apples-iphone-upgrade-program-was-great-while-it-lasted?utm_source=rss)
+ - [NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots &lpar;Tracey Tully/New York Times&rpar;](https://www.techmeme.com/260721/p38#a260721p38)
+ - [Nearly every Kindle is steeply discounted at Best Buy](https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale)
+ - [Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads](https://www.theverge.com/tech/968750/apple-upgrade-program)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

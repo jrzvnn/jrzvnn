@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
  - 😝 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
- - 💣 [Sank bites](http://9gag.com/gag/aMV3xBG)
+ - 😝 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
  - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
+ - 👉 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)<!-- MEMES:END -->
 
 ---
 

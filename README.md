@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
+ - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)
+ - [Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung &lpar;John Velasco/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260720/p40#a260720p40)
  - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
- - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)
- - [Today’s NYT Connections Hints and Answers for July 21, #1136](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-21-1136/)
- - [Judge approves Anthropic&#39;s $1.5B settlement with authors, the first major US case of its kind to settle; some authors opted out and have other ongoing lawsuits &lpar;Blake Brittain/Reuters&rpar;](https://www.techmeme.com/260720/p39#a260720p39)
- - [Judge Orders Temporary Block of Paramount Warner Bros. Merger](https://www.cnet.com/tech/services-and-software/judge-orders-temporary-block-of-paramount-warner-bros-merger/)<!-- TECH:END -->
+ - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

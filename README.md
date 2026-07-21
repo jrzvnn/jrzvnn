@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260721/p50#a260721p50)
- - [OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260721/p49#a260721p49)
- - [OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p48#a260721p48)
- - [OpenAI says its models chained vulnerabilities across its research environment and Hugging Face&#39;s infrastructure to find solutions for the ExploitGym benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260721/p47#a260721p47)
- - [Samsung’s First Credit Card Launches in the US](https://www.cnet.com/tech/samsung-credit-card-us-launch/)<!-- TECH:END -->
+ - [Is the All-New Range Rover GT Stepping on Jaguar’s Tail?](https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/)
+ - [Documents: Meta&#39;s internal AI incubator is developing an AI model router, similar to OpenRouter&#39;s, to cut costs by sending some AI tasks to lower-cost models &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260721/p52#a260721p52)
+ - [OpenAI Models Escaped Containment and Hacked Hugging Face](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/)
+ - [Deezer Is Cracking Down on Fake Music and Fake Streams](https://www.cnet.com/tech/services-and-software/deezer-is-cracking-down-on-fake-music-and-fake-streams/)
+ - [London-based robotics startup Humanoid raised a $152M Series A led by Prime Movers Lab at a $1.35B post-money valuation, bringing its total funding to $270M &lpar;John Koetsier/Forbes&rpar;](https://www.techmeme.com/260721/p51#a260721p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

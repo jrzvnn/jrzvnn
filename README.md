@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Instagram and Facebook users say Meta&#39;s AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans &lpar;New York Times&rpar;](https://www.techmeme.com/260721/p41#a260721p41)
+ - [Hide My Email flaw still worked two weeks after Apple&#39;s claimed fix](https://appleinsider.com/articles/26/07/21/hide-my-email-flaw-still-worked-two-weeks-after-apples-claimed-fix?utm_source=rss)
+ - [Substack partners with AI-detection tool Pangram, allowing users to scan text longer than 100 words for an estimate of how much was written with AI assistance &lpar;Chris Best/The Substack Post&rpar;](https://www.techmeme.com/260721/p40#a260721p40)
  - [Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more &lpar;Block&rpar;](https://www.techmeme.com/260721/p39#a260721p39)
- - [Apple&#39;s iPhone Upgrade Program was great while it lasted](https://appleinsider.com/articles/26/07/21/apples-iphone-upgrade-program-was-great-while-it-lasted?utm_source=rss)
- - [NJ Governor says a software error at DMV led to the improper voter registration of ~6,600 noncitizens between June 2023 and June 2024; 400 of those cast ballots &lpar;Tracey Tully/New York Times&rpar;](https://www.techmeme.com/260721/p38#a260721p38)
- - [Nearly every Kindle is steeply discounted at Best Buy](https://www.theverge.com/gadgets/968356/kindle-paperwhite-colorsoft-scribe-deal-sale)
- - [Apple’s rumored ‘Upgrade’ program brings lease-to-own pricing for iPhones, Macs, and iPads](https://www.theverge.com/tech/968750/apple-upgrade-program)<!-- TECH:END -->
+ - [Samsung’s New AI Health Assistant Aims to Make Health Metrics Actually Useful](https://www.cnet.com/tech/services-and-software/samsungs-new-ai-health-assistant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

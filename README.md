@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 💣 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
+ - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 😝 [No Joy tonight.](http://9gag.com/gag/aqyqnzZ)
+ - 💣 [Sank bites](http://9gag.com/gag/aMV3xBG)
  - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
  - 👉 [The true native American](http://9gag.com/gag/aBy72BP)<!-- MEMES:END -->
 

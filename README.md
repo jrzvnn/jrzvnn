@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s $634M payment to Masimo now set in stone after Judge tosses appeal](https://appleinsider.com/articles/26/07/21/apples-634m-payment-to-masimo-now-set-in-stone-after-judge-tosses-appeal?utm_source=rss)
- - [Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260721/p46#a260721p46)
- - [Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260721/p45#a260721p45)
- - [France becomes the first European country to pass a law banning social media access for users under 15, potentially going into effect as soon as September 1 &lpar;Mark Landler/New York Times&rpar;](https://www.techmeme.com/260721/p44#a260721p44)
- - [Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos](https://www.wired.com/story/best-buy-black-friday-in-july-2026/)<!-- TECH:END -->
+ - [Amazon says its business sales unit, Amazon Business, reached $60B in annualized gross sales in Q2, up ~71% from 2023, and serves 11M+ organizations worldwide &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260721/p50#a260721p50)
+ - [OpenAI renews its investment in the American Journalism Project by committing an additional $5M in funding and $3M in tech credits over the next two years &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260721/p49#a260721p49)
+ - [OpenAI adds Nubank founder and CEO David Vélez and BNY CEO Robin Vince to its board of directors, as the company moves toward a public listing &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p48#a260721p48)
+ - [OpenAI says its models chained vulnerabilities across its research environment and Hugging Face&#39;s infrastructure to find solutions for the ExploitGym benchmark &lpar;OpenAI&rpar;](https://www.techmeme.com/260721/p47#a260721p47)
+ - [Samsung’s First Credit Card Launches in the US](https://www.cnet.com/tech/samsung-credit-card-us-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

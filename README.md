@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
- - 💣 [The dutch defeat](http://9gag.com/gag/a7ozWyr)
- - 😝 [He doesn&#39;t know her](http://9gag.com/gag/ajPo9Bw)
- - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
+ - 😝 [Men: Don&#39;t need much to be happy](http://9gag.com/gag/a9y9Erj)
+ - 😝 [Argentinian insulting a Mexican guy just for wearing a Mexican jersey but he handles him perfectly](http://9gag.com/gag/azx0mpb)
+ - 💣 [When logic left the chat](http://9gag.com/gag/aAyobwo)
+ - 😝 [Make it clap](http://9gag.com/gag/abA9VLX)
+ - 👉 [Half Time Show World Cup 2026](http://9gag.com/gag/agmPBqg)<!-- MEMES:END -->
 
 ---
 

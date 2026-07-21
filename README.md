@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Instagram and Facebook users say Meta&#39;s AI moderation deleted their accounts; Meta says AI makes 13% fewer errors and finds 10% more violations than humans &lpar;New York Times&rpar;](https://www.techmeme.com/260721/p41#a260721p41)
- - [Hide My Email flaw still worked two weeks after Apple&#39;s claimed fix](https://appleinsider.com/articles/26/07/21/hide-my-email-flaw-still-worked-two-weeks-after-apples-claimed-fix?utm_source=rss)
- - [Substack partners with AI-detection tool Pangram, allowing users to scan text longer than 100 words for an estimate of how much was written with AI assistance &lpar;Chris Best/The Substack Post&rpar;](https://www.techmeme.com/260721/p40#a260721p40)
- - [Block launches Buzz, an open source collaboration workspace on Nostr protocol for humans and AI agents to share messages, code repositories, workflows, and more &lpar;Block&rpar;](https://www.techmeme.com/260721/p39#a260721p39)
- - [Samsung’s New AI Health Assistant Aims to Make Health Metrics Actually Useful](https://www.cnet.com/tech/services-and-software/samsungs-new-ai-health-assistant/)<!-- TECH:END -->
+ - [Apple Invites update brings emoji replies and confetti to the party](https://appleinsider.com/articles/26/07/21/apple-invites-update-brings-emoji-replies-and-confetti-to-the-party?utm_source=rss)
+ - [OpenAI says the Hugging Face breach was driven by a combination of its models, including GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260721/p43#a260721p43)
+ - [A fake Hide My Email header can expose the address behind your Apple Account](https://appleinsider.com/articles/26/07/21/a-fake-hide-my-email-header-can-expose-the-address-behind-your-apple-account?utm_source=rss)
+ - [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool)
+ - [Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260721/p42#a260721p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

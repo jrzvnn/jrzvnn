@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Sarah Guo, Greylock&#39;s youngest GP before founding Conviction in 2022, which has since backed six of the 21 AI-native companies now worth over $10B &lpar;Dom Cooke/Colossus&rpar;](https://www.techmeme.com/260721/p4#a260721p4)
+ - [Etsy Is In Its Flop Era, and Sellers Are Fleeing](https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/)
+ - [GitHub says individuals and orgs have invested $100M+ in open source maintainers and projects via GitHub Sponsors since 2019, with $10M in the past five months &lpar;Stephanie Lincoln/The GitHub Blog&rpar;](https://www.techmeme.com/260721/p3#a260721p3)
  - [Sony Music files a second copyright suit against Udio, alleging the AI music company copied 30,117 recordings without permission to train its AI models &lpar;Murray Stassen/Music Business Worldwide&rpar;](https://www.techmeme.com/260721/p2#a260721p2)
- - [Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba &lpar;Reuters&rpar;](https://www.techmeme.com/260721/p1#a260721p1)
- - [Study: off-balance sheet debt at Alphabet, Microsoft, Amazon, Meta, and Oracle grew an est. ~8x since 2022 to ~$1.65T, eclipsing ~$1.35T in balance sheet debt &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/260720/p44#a260720p44)
- - [How to roll back macOS Golden Gate on Apple Silicon](https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss)
- - [Seven years after Apple Card, Samsung leaps into fintech with its own credit card](https://appleinsider.com/articles/26/07/21/seven-years-after-apple-card-samsung-leaps-into-fintech-with-its-own-credit-card?utm_source=rss)<!-- TECH:END -->
+ - [Singapore-based Ant International, a payments company which spun out of Ant Group in 2024, raised $1.2B from investors including Ant Group and Alibaba &lpar;Reuters&rpar;](https://www.techmeme.com/260721/p1#a260721p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

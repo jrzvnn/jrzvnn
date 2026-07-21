@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Invites update brings emoji replies and confetti to the party](https://appleinsider.com/articles/26/07/21/apple-invites-update-brings-emoji-replies-and-confetti-to-the-party?utm_source=rss)
- - [OpenAI says the Hugging Face breach was driven by a combination of its models, including GPT-5.6 Sol and &quot;an even more capable pre-release model&quot; &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260721/p43#a260721p43)
- - [A fake Hide My Email header can expose the address behind your Apple Account](https://appleinsider.com/articles/26/07/21/a-fake-hide-my-email-header-can-expose-the-address-behind-your-apple-account?utm_source=rss)
- - [Substack adds an AI detector to help spot blogs written by no one](https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool)
- - [Poolside launches Laguna S 2.1, an 118B open-weight model built for agentic coding and long-horizon work, that it says competes with larger open models &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260721/p42#a260721p42)<!-- TECH:END -->
+ - [Apple&#39;s $634M payment to Masimo now set in stone after Judge tosses appeal](https://appleinsider.com/articles/26/07/21/apples-634m-payment-to-masimo-now-set-in-stone-after-judge-tosses-appeal?utm_source=rss)
+ - [Cisco releases Antares-350M and Antares-1B, two open-weight AI models to find known vulnerabilities within a codebase, and plans to release Antares-3B soon &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260721/p46#a260721p46)
+ - [Super Micro says Q4 orders have topped $60B and expects gross margins of 15% to 17%, up from its prior forecast of 8.2% to 8.4%; SMCI jumps 13%+ after hours &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260721/p45#a260721p45)
+ - [France becomes the first European country to pass a law banning social media access for users under 15, potentially going into effect as soon as September 1 &lpar;Mark Landler/New York Times&rpar;](https://www.techmeme.com/260721/p44#a260721p44)
+ - [Shop Best Buy’s Black Friday in July Sale 2026 Before Fall Chaos](https://www.wired.com/story/best-buy-black-friday-in-july-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

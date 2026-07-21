@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)
- - [Researchers found sandbox escapes or boundary bypasses in Cursor, Codex, Gemini CLI, and Antigravity by writing files trusted tools later use; most are patched &lpar;Ax Sharma/BleepingComputer&rpar;](https://www.techmeme.com/260720/p41#a260720p41)
- - [Samsung debuts Samsung Galaxy Card, its first-ever US credit card, a Visa from Barclays; it offers 5% rewards for purchases directly from Samsung &lpar;John Velasco/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260720/p40#a260720p40)
- - [Here are the 30,000 songs Sony is suing Udio&amp;#8217;s AI music generator over](https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright)
- - [The FCC is planning to retroactively ban disguised DJI gadgets](https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra)<!-- TECH:END -->
+ - [Study: off-balance sheet debt at Alphabet, Microsoft, Amazon, Meta, and Oracle grew an est. ~8x since 2022 to ~$1.65T, eclipsing ~$1.35T in balance sheet debt &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/260720/p44#a260720p44)
+ - [How to roll back macOS Golden Gate on Apple Silicon](https://appleinsider.com/inside/macos-golden-gate/tips/how-to-roll-back-macos-golden-gate-on-apple-silicon?utm_source=rss)
+ - [Seven years after Apple Card, Samsung leaps into fintech with its own credit card](https://appleinsider.com/articles/26/07/21/seven-years-after-apple-card-samsung-leaps-into-fintech-with-its-own-credit-card?utm_source=rss)
+ - [South Korea reports that, for the first 20 days of July, chip exports climbed 180.6% from the same period in 2025; computer-related product shipments grew ~232% &lpar;Heesu Lee/Bloomberg&rpar;](https://www.techmeme.com/260720/p43#a260720p43)
+ - [Google&#39;s AI Search is endangering the open web; Cloudflare: between June 2025 and April 2026, human traffic to sites of businesses in many industries fell ~40% &lpar;Kate Conger/New York Times&rpar;](https://www.techmeme.com/260720/p42#a260720p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

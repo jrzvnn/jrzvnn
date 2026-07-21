@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
- - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 💣 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 😝 [Blessed by the beach rodent](http://9gag.com/gag/a7ozWnr)
- - 👉 [Welcome to the USA: kids with a gun](http://9gag.com/gag/an7L4bz)<!-- MEMES:END -->
+ - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
+ - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 💣 [He doesn&#39;t know her](http://9gag.com/gag/ajPo9Bw)
+ - 😝 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)
+ - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
 
 ---
 

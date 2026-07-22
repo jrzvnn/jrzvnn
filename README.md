@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
- - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
  - 😝 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
+ - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
+ - 👉 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 😝 [How old is she ??](http://9gag.com/gag/aND6pX3)
- - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 😝 [Doggy Daycare didn&#39;t bother telling owner the dog DROWNED before picking him up.](http://9gag.com/gag/aZZG0Yn)
+ - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
  - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
- - 👉 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
+ - 👉 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)<!-- MEMES:END -->
 
 ---
 

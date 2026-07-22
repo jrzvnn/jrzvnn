@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;ve got this dealer-installed car alarm, patch it today with your iPhone](https://appleinsider.com/articles/26/07/22/if-youve-got-this-dealer-installed-car-alarm-patch-it-today-with-your-iphone?utm_source=rss)
- - [AMD and Anthropic reach $5 billion AI infrastructure deal](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)
- - [Sources: Apple is set to debut new versions of every Mac it sells, including long-awaited iMac updates and a revamped MacBook Pro and Neo, across fall and 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260722/p29#a260722p29)
- - [Apple Park Visitor Center exhibition space closed temporarily](https://appleinsider.com/articles/26/07/22/apple-park-visitor-center-shuts-its-exhibition-space-for-improvements?utm_source=rss)
- - [London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260722/p28#a260722p28)<!-- TECH:END -->
+ - [Jason Sudeikis wants two more seasons of the &#39;Ted Lasso&#39; revival](https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss)
+ - [White House OSTP Director Michael Kratsios says Moonshot AI &quot;acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260722/p35#a260722p35)
+ - [Meta taps Assaf Keren, former chief security officer at Qualtrics and former CISO at PayPal, as its next CISO, succeeding Guy Rosen &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260722/p34#a260722p34)
+ - [Entire MacBook Pro, MacBook Air &amp; MacBook Neo line rumored for refresh in next six months](https://appleinsider.com/articles/26/07/22/entire-macbook-pro-macbook-air-macbook-neo-line-rumored-for-refresh-in-next-six-months?utm_source=rss)
+ - [OpenAI introduces Presence, to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks &lpar;Business Insider&rpar;](https://www.techmeme.com/260722/p33#a260722p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI President Greg Brockman says Kimi K3 is a &quot;pretty good model&quot; but it is &quot;too early&quot; to tell whether Moonshot used distillation on OpenAI&#39;s models &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260722/p45#a260722p45)
- - [Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260722/p44#a260722p44)
- - [‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope](https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/)
- - [Original Xbox Games Are Coming to PC Starting With Four Fan Favorites](https://www.cnet.com/tech/gaming/original-xbox-games-are-coming-to-pc-starting-with-four-fan-favorites/)
- - [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale)<!-- TECH:END -->
+ - [Google says its cloud computing unit had a $514B backlog of contracted work that hasn&#39;t been recorded as revenue yet, up from ~$460B held during Q1 &lpar;Julia Love/Bloomberg&rpar;](https://www.techmeme.com/260722/p53#a260722p53)
+ - [The White House Is Trying to Figure Out What to Do About Chinese AI](https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/)
+ - [ServiceNow reports Q2 subscription revenue up 24.5% YoY to $3.88B, increases full year subscription revenue growth estimate to 23%; NOW jumps 4%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260722/p52#a260722p52)
+ - [Top Red-Light Therapy Deals at Nordstrom’s Anniversary Sale &lpar;2026&rpar;](https://www.wired.com/story/red-light-device-deals-from-nordstroms-anniversary-sale-2026/)
+ - [The SEC agrees to pay $150,000 in legal fees to end Coinbase&#39;s 2024 lawsuit seeking internal docs on the regulator&#39;s Biden-era crackdown on the crypto industry &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260722/p51#a260722p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

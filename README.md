@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Training](http://9gag.com/gag/aD2EDP9)
- - 😝 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
- - 💣 [Snipers in Final](http://9gag.com/gag/a87BEM1)
- - 😝 [How my parents washed me](http://9gag.com/gag/ayNO9WX)
- - 👉 [It should have been me!](http://9gag.com/gag/aPAK3vR)<!-- MEMES:END -->
+ - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 💣 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
+ - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 👉 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
 
 ---
 

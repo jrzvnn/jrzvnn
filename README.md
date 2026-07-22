@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 😝 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
- - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
- - 😝 [How my parents washed me](http://9gag.com/gag/ayNO9WX)
- - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
+ - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 😝 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
+ - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
+ - 😝 [Marijuana vs parkinson](http://9gag.com/gag/amoEAxv)
+ - 👉 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)<!-- MEMES:END -->
 
 ---
 

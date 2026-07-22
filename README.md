@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)
- - [Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation &lpar;David Jeans/Reuters&rpar;](https://www.techmeme.com/260722/p40#a260722p40)
- - [Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/260722/p39#a260722p39)
- - [Dyson V10 Konical Review &lpar;2026&rpar;: Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
- - [Today’s NYT Mini Crossword Answers for Wednesday, July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-22/)<!-- TECH:END -->
+ - [OpenAI President Greg Brockman says Kimi K3 is a &quot;pretty good model&quot; but it is &quot;too early&quot; to tell whether Moonshot used distillation on OpenAI&#39;s models &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260722/p45#a260722p45)
+ - [Source: Stripe revenue jumped by a third to $6.8B in 2025, its fastest revenue growth since 2021, with free cash flow up 52% to $3.2B &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260722/p44#a260722p44)
+ - [‘The Odyssey’ Is Inspiring Unprecedented Levels of Cope](https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/)
+ - [Original Xbox Games Are Coming to PC Starting With Four Fan Favorites](https://www.cnet.com/tech/gaming/original-xbox-games-are-coming-to-pc-starting-with-four-fan-favorites/)
+ - [Price-hiked iPads are a little cheaper right now](https://www.theverge.com/gadgets/969003/apple-ipad-air-pro-airtag-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 😝 [How old is she ??](http://9gag.com/gag/aND6pX3)
+ - 💣 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
  - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
  - 👉 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
 

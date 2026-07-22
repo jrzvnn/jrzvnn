@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the All-New Range Rover GT Stepping on Jaguar’s Tail?](https://www.wired.com/story/range-rover-has-an-entirely-new-electric-car-range-rover-gt/)
- - [Documents: Meta&#39;s internal AI incubator is developing an AI model router, similar to OpenRouter&#39;s, to cut costs by sending some AI tasks to lower-cost models &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260721/p52#a260721p52)
- - [OpenAI Models Escaped Containment and Hacked Hugging Face](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/)
- - [Deezer Is Cracking Down on Fake Music and Fake Streams](https://www.cnet.com/tech/services-and-software/deezer-is-cracking-down-on-fake-music-and-fake-streams/)
- - [London-based robotics startup Humanoid raised a $152M Series A led by Prime Movers Lab at a $1.35B post-money valuation, bringing its total funding to $270M &lpar;John Koetsier/Forbes&rpar;](https://www.techmeme.com/260721/p51#a260721p51)<!-- TECH:END -->
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
+ - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)
+ - [Doc: nearly 200 US utilities, data center developers, and others have signed Trump&#39;s pledge to ensure AI energy use doesn&#39;t push up consumer electric bills &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p55#a260721p55)
+ - [NASA’s Psyche Spacecraft Sent Back Some Awesome Photos of Mars](https://www.cnet.com/science/space/nasas-psyche-spacecraft-sent-back-some-awesome-photos-of-mars/)
+ - [Nintendo Thinks Your Portion of Its Tariff Refund Windfall Should Be $0](https://www.cnet.com/tech/gaming/nintendo-tariff-refund-none-customers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

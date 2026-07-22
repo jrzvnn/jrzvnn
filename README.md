@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)
- - [Sources: Reddit, Politico, and others mull cutting Google&#39;s access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024 &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p56#a260721p56)
- - [How to use iOS 27 Recovery Mode before erasing or restoring your iPhone](https://appleinsider.com/inside/ios-27/tips/how-to-use-ios-27-recovery-mode-before-erasing-or-restoring-your-iphone?utm_source=rss)
- - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)<!-- TECH:END -->
+ - [Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket&#39;s US-banned global platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p4#a260722p4)
+ - [TSMC forecasts &quot;several years&quot; of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260722/p3#a260722p3)
+ - [Chinese AI models account for ~60% of token usage by US companies on OpenRouter, making restrictions harder to impose without disrupting US users and businesses &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260722/p2#a260722p2)
+ - [Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm &lpar;Financial Times&rpar;](https://www.techmeme.com/260722/p1#a260722p1)
+ - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

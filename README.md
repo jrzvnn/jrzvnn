@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 😝 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
- - 💣 [The true native American](http://9gag.com/gag/aBy72BP)
+ - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 😝 [Training](http://9gag.com/gag/aD2EDP9)
+ - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
  - 😝 [Marijuana vs parkinson](http://9gag.com/gag/amoEAxv)
- - 👉 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)<!-- MEMES:END -->
+ - 👉 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)<!-- MEMES:END -->
 
 ---
 

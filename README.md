@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jason Sudeikis wants two more seasons of the &#39;Ted Lasso&#39; revival](https://appleinsider.com/articles/26/07/22/jason-sudeikis-wants-two-more-seasons-of-the-ted-lasso-revival?utm_source=rss)
- - [White House OSTP Director Michael Kratsios says Moonshot AI &quot;acquired GB300-equipped servers and has accessed GB300s in Thailand, likely to train its AI models&quot; &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260722/p35#a260722p35)
- - [Meta taps Assaf Keren, former chief security officer at Qualtrics and former CISO at PayPal, as its next CISO, succeeding Guy Rosen &lpar;Riley Griffin/Bloomberg&rpar;](https://www.techmeme.com/260722/p34#a260722p34)
- - [Entire MacBook Pro, MacBook Air &amp; MacBook Neo line rumored for refresh in next six months](https://appleinsider.com/articles/26/07/22/entire-macbook-pro-macbook-air-macbook-neo-line-rumored-for-refresh-in-next-six-months?utm_source=rss)
- - [OpenAI introduces Presence, to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks &lpar;Business Insider&rpar;](https://www.techmeme.com/260722/p33#a260722p33)<!-- TECH:END -->
+ - [Cashea, Venezuela&#39;s largest fintech startup that offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/260722/p38#a260722p38)
+ - [Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research &lpar;Catherine Perloff/The Information&rpar;](https://www.techmeme.com/260722/p37#a260722p37)
+ - [A US judge dismisses Google&#39;s lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/260722/p36#a260722p36)
+ - [Lawmakers want Trump to investigate EU&#39;s &#39;anti-American&#39; Digital Markets Act](https://appleinsider.com/articles/26/07/22/lawmakers-want-trump-to-investigate-eus-anti-american-digital-markets-act?utm_source=rss)
+ - [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

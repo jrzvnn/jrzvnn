@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plans plans plans](http://9gag.com/gag/apRWNyp)
- - 😝 [How the World sees him](http://9gag.com/gag/a34VEg5)
- - 💣 [Silvia now has a pirate arc...](http://9gag.com/gag/aD2Edg7)
- - 😝 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 😝 [Clever slogan to prevent mispronunciation](https://www.reddit.com/r/funny/comments/1v30zyr/clever_slogan_to_prevent_mispronunciation/)
+ - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 💣 [It should have been me!](http://9gag.com/gag/aPAK3vR)
+ - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
+ - 👉 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
 
 ---
 

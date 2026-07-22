@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever slogan to prevent mispronunciation](https://www.reddit.com/r/funny/comments/1v30zyr/clever_slogan_to_prevent_mispronunciation/)
- - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - 💣 [It should have been me!](http://9gag.com/gag/aPAK3vR)
- - 😝 [One more second and he might have different answer](http://9gag.com/gag/an7L46b)
- - 👉 [Wtf man](http://9gag.com/gag/ajPo9pG)<!-- MEMES:END -->
+ - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
+ - 💣 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - 😝 [Doggy Daycare didn&#39;t bother telling owner the dog DROWNED before picking him up.](http://9gag.com/gag/aZZG0Yn)
+ - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
 
 ---
 

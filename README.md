@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)
- - [Apple Raised Mac Prices. Now It Might Lease You One](https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/)
- - [Doc: nearly 200 US utilities, data center developers, and others have signed Trump&#39;s pledge to ensure AI energy use doesn&#39;t push up consumer electric bills &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260721/p55#a260721p55)
- - [NASA’s Psyche Spacecraft Sent Back Some Awesome Photos of Mars](https://www.cnet.com/science/space/nasas-psyche-spacecraft-sent-back-some-awesome-photos-of-mars/)
- - [Nintendo Thinks Your Portion of Its Tariff Refund Windfall Should Be $0](https://www.cnet.com/tech/gaming/nintendo-tariff-refund-none-customers/)<!-- TECH:END -->
+ - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)
+ - [Sources: Reddit, Politico, and others mull cutting Google&#39;s access to their content for AI as traffic drops; Reddit signed a $60M/year deal with Google in 2024 &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p56#a260721p56)
+ - [How to use iOS 27 Recovery Mode before erasing or restoring your iPhone](https://appleinsider.com/inside/ios-27/tips/how-to-use-ios-27-recovery-mode-before-erasing-or-restoring-your-iphone?utm_source=rss)
+ - [Samsung Galaxy Unpacked July 2026: How to watch](https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch)
+ - [Aqara W200 review: Affordably-priced smart thermostat has firsts for Apple users](https://appleinsider.com/articles/26/04/07/aqara-w200-review-affordably-priced-smart-thermostat-has-firsts-for-apple-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

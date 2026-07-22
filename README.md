@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It should have been me!](http://9gag.com/gag/aPAK3vR)
  - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 💣 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
- - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 👉 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)<!-- MEMES:END -->
+ - 😝 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
+ - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
+ - 😝 [How my parents washed me](http://9gag.com/gag/ayNO9WX)
+ - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
 
 ---
 

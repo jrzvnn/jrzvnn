@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dune: since January 2021, wallets funded via US-regulated exchanges accounted for ~50% of all traceable trading volume on Polymarket&#39;s US-banned global platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p4#a260722p4)
- - [TSMC forecasts &quot;several years&quot; of margin dilution as overseas fab projects ramp up; the company has announced $200B in investment into US manufacturing &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260722/p3#a260722p3)
- - [Chinese AI models account for ~60% of token usage by US companies on OpenRouter, making restrictions harder to impose without disrupting US users and businesses &lpar;Nectar Gan/Bloomberg&rpar;](https://www.techmeme.com/260722/p2#a260722p2)
- - [Sources: Samsung may invest up to €1B in Mistral as part of a broader round valuing it at ~€20B, after previously backing the AI startup through its venture arm &lpar;Financial Times&rpar;](https://www.techmeme.com/260722/p1#a260722p1)
- - [Memo: the White House OSTP plans to redirect federal research funding from universities to individual scientists and AI use, reshaping ~$200B in annual spending &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260721/p57#a260721p57)<!-- TECH:END -->
+ - [Jensen Huang says &quot;these Chinese models are excellent&quot;, &quot;open-source models that are excellent should be used&quot;, and &quot;free AI should be great for hardware&quot; &lpar;Zachary Basu/Axios&rpar;](https://www.techmeme.com/260722/p10#a260722p10)
+ - [Meta made its own AI detection system. It should have just used Google’s](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid)
+ - [The 2026 Honda Prelude is a marvel of hybrid technology](https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price)
+ - [Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260722/p9#a260722p9)
+ - [6 Best Fitbit Models for Beginners, Athletes, and Kids &lpar;2026&rpar;](https://www.wired.com/story/best-fitbit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

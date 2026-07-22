@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It has begun: Foxconn amassing army of workers for iPhone 18 Pro assembly](https://appleinsider.com/articles/26/07/22/it-has-begun-foxconn-amassing-army-of-workers-for-iphone-18-pro-assembly?utm_source=rss)
- - [AMD and Anthropic sign an AI server deal worth tens of billions; Anthropic will buy up to 2GW of MI450 chips from H1 2027, and AMD will invest $5B in Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260722/p12#a260722p12)
- - [Samsung Unpacked 2026: all the news from the July foldable launch](https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news)
- - [Don&#39;t miss a payment with Apple Upgrade or your iPhone will be locked](https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss)
- - [The 13 Best Fans for Getting Through Sweaty Days &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)<!-- TECH:END -->
+ - [If you&#39;ve got this dealer-installed car alarm, patch it today with your iPhone](https://appleinsider.com/articles/26/07/22/if-youve-got-this-dealer-installed-car-alarm-patch-it-today-with-your-iphone?utm_source=rss)
+ - [AMD and Anthropic reach $5 billion AI infrastructure deal](https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal)
+ - [Sources: Apple is set to debut new versions of every Mac it sells, including long-awaited iMac updates and a revamped MacBook Pro and Neo, across fall and 2027 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260722/p29#a260722p29)
+ - [Apple Park Visitor Center exhibition space closed temporarily](https://appleinsider.com/articles/26/07/22/apple-park-visitor-center-shuts-its-exhibition-space-for-improvements?utm_source=rss)
+ - [London-based Arrakis, which makes AI agents for industrial companies, emerges from stealth with a $7.5M seed and a $30M Series A at a $140M post-money valuation &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260722/p28#a260722p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

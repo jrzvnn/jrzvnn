@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cashea, Venezuela&#39;s largest fintech startup that offers a banking and payments app, raised a $40M Series A, including $20M in debt, and a $60M Series B &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/260722/p38#a260722p38)
- - [Arcee, which develops open-weight models in the US, partners with the Department of Energy to build Genesis-Science-1, an open model for scientific research &lpar;Catherine Perloff/The Information&rpar;](https://www.techmeme.com/260722/p37#a260722p37)
- - [A US judge dismisses Google&#39;s lawsuit against web scraping service SerpApi, saying plain and aggregated search results are not protected under copyright law &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/260722/p36#a260722p36)
- - [Lawmakers want Trump to investigate EU&#39;s &#39;anti-American&#39; Digital Markets Act](https://appleinsider.com/articles/26/07/22/lawmakers-want-trump-to-investigate-eus-anti-american-digital-markets-act?utm_source=rss)
- - [Apple is reportedly testing a MacBook Neo with more RAM](https://www.theverge.com/tech/969434/apple-macbook-neo-a19-pro-ram-upgrade)<!-- TECH:END -->
+ - [Yope, a social network that has ~15M registered users for its &quot;micro communities&quot; and no algorithms, ads, or public content, raised $12.3M seed led by Northzone &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260722/p41#a260722p41)
+ - [Sources: Cathedral, launched by ex-DOGE staffers to use AI to expand US military cyber capabilities, raised $160M led by a16z and Sequoia at a $1.4B valuation &lpar;David Jeans/Reuters&rpar;](https://www.techmeme.com/260722/p40#a260722p40)
+ - [Genius AI, formerly GlossGenius, which pivoted from a salon management platform to offer AI tools for service SMBs, raised a $44M Series D at a $1.15B valuation &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/260722/p39#a260722p39)
+ - [Dyson V10 Konical Review &lpar;2026&rpar;: Affordable and Solid](https://www.wired.com/review/dyson-v10-konical-2026/)
+ - [Today’s NYT Mini Crossword Answers for Wednesday, July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-22/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

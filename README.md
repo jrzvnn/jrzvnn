@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jensen Huang says &quot;these Chinese models are excellent&quot;, &quot;open-source models that are excellent should be used&quot;, and &quot;free AI should be great for hardware&quot; &lpar;Zachary Basu/Axios&rpar;](https://www.techmeme.com/260722/p10#a260722p10)
- - [Meta made its own AI detection system. It should have just used Google’s](https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid)
- - [The 2026 Honda Prelude is a marvel of hybrid technology](https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price)
- - [Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260722/p9#a260722p9)
- - [6 Best Fitbit Models for Beginners, Athletes, and Kids &lpar;2026&rpar;](https://www.wired.com/story/best-fitbit/)<!-- TECH:END -->
+ - [It has begun: Foxconn amassing army of workers for iPhone 18 Pro assembly](https://appleinsider.com/articles/26/07/22/it-has-begun-foxconn-amassing-army-of-workers-for-iphone-18-pro-assembly?utm_source=rss)
+ - [AMD and Anthropic sign an AI server deal worth tens of billions; Anthropic will buy up to 2GW of MI450 chips from H1 2027, and AMD will invest $5B in Anthropic &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260722/p12#a260722p12)
+ - [Samsung Unpacked 2026: all the news from the July foldable launch](https://www.theverge.com/tech/967942/samsung-galaxy-unpacked-july-2026-news)
+ - [Don&#39;t miss a payment with Apple Upgrade or your iPhone will be locked](https://appleinsider.com/articles/26/07/22/dont-miss-a-payment-with-apple-upgrade-or-your-iphone-will-be-locked?utm_source=rss)
+ - [The 13 Best Fans for Getting Through Sweaty Days &lpar;2026&rpar;](https://www.wired.com/story/the-best-fans-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Snipers in Final](http://9gag.com/gag/a87BEM1)
  - 😝 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
- - 😝 [Wtf man](http://9gag.com/gag/ajPo9pG)
- - 💣 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
- - 😝 [Doggy Daycare didn&#39;t bother telling owner the dog DROWNED before picking him up.](http://9gag.com/gag/aZZG0Yn)
- - 👉 [Intimidation VS Skills!](http://9gag.com/gag/apRWGj8)<!-- MEMES:END -->
+ - 💣 [Yes, FU &amp; FO](http://9gag.com/gag/awy6zAx)
+ - 😝 [How much weight does each one carry? Do the ones in front carry more weight than the ones in back? Calculate how much hehe](http://9gag.com/gag/an7LQXq)
+ - 👉 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)<!-- MEMES:END -->
 
 ---
 

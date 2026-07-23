@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ServiceNow invests $40M in banking software specialist BusinessNext, valuing the 24-year-old Indian company at $700M and taking a roughly 5% stake &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260723/p8#a260723p8)
- - [‘The Child Is Terrified’: Measles Doctors Speak Out](https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/)
- - [Dassault Systèmes agrees to acquire ArisGlobal, a US supplier of software to the life sciences industry, from Nordic Capital for ~$2B, set to close in H2 2026 &lpar;Adrià Calatayud/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p7#a260723p7)
- - [As the AI industry recruits high-profile academics, research that was once conducted in the open is increasingly getting locked behind closed doors &lpar;The Atlantic&rpar;](https://www.techmeme.com/260723/p6#a260723p6)
- - [A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260723/p5#a260723p5)<!-- TECH:END -->
+ - [EU slaps Google with a $1 billion antitrust fine](https://appleinsider.com/articles/26/07/23/eu-slaps-google-with-a-1-billion-antitrust-fine?utm_source=rss)
+ - [In a leaked four-hour investor talk, DeepSeek&#39;s Liang Wenfeng says the main US-China gap is compute access, Nvidia&#39;s CUDA moat is disintegrating, and more &lpar;Fred Gao/Inside China&rpar;](https://www.techmeme.com/260723/p18#a260723p18)
+ - [The Best MagSafe Wallets for Your Everyday Carry &lpar;2026&rpar;](https://www.wired.com/gallery/best-magsafe-wallets/)
+ - [Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous &lpar;Politico&rpar;](https://www.techmeme.com/260723/p17#a260723p17)
+ - [The Trump Administration Wants to Change Public Engagement Rules for Polluters](https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

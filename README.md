@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - 😝 [Shark electric](http://9gag.com/gag/a9y91RZ)
- - 💣 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
- - 👉 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)<!-- MEMES:END -->
+ - 😝 [Thought people would take her side](http://9gag.com/gag/aLny1ox)
+ - 😝 [Notice the color of her voice](http://9gag.com/gag/aXP5ryv)
+ - 💣 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 👉 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)<!-- MEMES:END -->
 
 ---
 

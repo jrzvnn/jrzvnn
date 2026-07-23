@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor&#39;s chip packaging facility in Arizona; AMKR jumps 16%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p54#a260723p54)
- - [Today’s NYT Connections Hints and Answers for July 24, #1139](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-24-1139/)
- - [Sierra acquires Takeoff, which develops &quot;long-horizon&quot; agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July &lpar;The Information&rpar;](https://www.techmeme.com/260723/p53#a260723p53)
- - [Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260723/p52#a260723p52)
- - [SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p51#a260723p51)<!-- TECH:END -->
+ - [Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p56#a260723p56)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 23, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-23-668/)
+ - [AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260723/p55#a260723p55)
+ - [OpenAI Agent Escaped Testing and Launched an Autonomous Hack](https://www.cnet.com/news/openai-agent-escaped-testing-launched-autonomous-hack-hugging-face/)
+ - [My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything](https://www.cnet.com/uncategorized/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Department of Commerce&#39;s BIS is formally investigating whether Chinese companies like Moonshot are accessing advanced US AI chips to train their models &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260723/p34#a260723p34)
- - [GitHub plans a two-tier bug bounty program that cuts rewards for the public and boosts payouts for invite-only researchers, amid a flood of AI-powered reports &lpar;Carly Page/The Register&rpar;](https://www.techmeme.com/260723/p33#a260723p33)
- - [&#39;The Morning Show&#39; will bring Apple TV&#39;s first prestige drama to an end in 2027](https://appleinsider.com/articles/26/07/23/the-morning-show-will-bring-apple-tvs-first-prestige-drama-to-an-end-in-2027?utm_source=rss)
- - [OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor](https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss)
- - [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale)<!-- TECH:END -->
+ - [Meta’s New Feel-Good AI Ad Uses a Song About the World Ending](https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/)
+ - [AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260723/p38#a260723p38)
+ - [Connecting Apple Health to ChatGPT creates privacy risks Siri AI can avoid](https://appleinsider.com/articles/26/07/23/connecting-apple-health-to-chatgpt-creates-privacy-risks-siri-ai-can-avoid?utm_source=rss)
+ - [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai)
+ - [For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark](https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

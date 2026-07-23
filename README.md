@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p63#a260722p63)
- - [A study of 11,989 Polymarket users finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during that period &lpar;Kaitlyn Radde/Pew Research Center&rpar;](https://www.techmeme.com/260722/p62#a260722p62)
- - [US GAO study: Amazon workers on federal aid tripled from February 2020 to September 2025; ride-hailing and delivery apps topped employers with workers on aid &lpar;Washington Post&rpar;](https://www.techmeme.com/260722/p61#a260722p61)
- - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
- - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)<!-- TECH:END -->
+ - [As the AI industry recruits high-profile academics, research that was once conducted in the open is increasingly getting locked behind closed doors &lpar;The Atlantic&rpar;](https://www.techmeme.com/260723/p6#a260723p6)
+ - [A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260723/p5#a260723p5)
+ - [Sources: OpenAI models breached Hugging Face&#39;s internal systems in a matter of hours, a feat that would typically have taken a talented hacker a couple of weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p4#a260723p4)
+ - [The debate over Moonshot AI founder Yang Zhilin&#39;s departure from the US misses a larger structural reality: China has built a homegrown AI talent pipeline &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260723/p3#a260723p3)
+ - [Sources: Shanghai-listed chip test instruments maker Semight, whose stock is up ~2,200% since its April debut, is considering a secondary listing in Hong Kong &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p2#a260723p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

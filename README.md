@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)
- - [Lego’s Donkey Kong arcade machine lets Mario jump endless barrels — Miyamoto is reportedly happy](https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine)
- - [Google reports Q2 free cash flow at negative $5.9B amid increased AI spending, marking its first cash burn since going public decades ago &lpar;Ryan McMorrow/Financial Times&rpar;](https://www.techmeme.com/260722/p58#a260722p58)
- - [Brydge ProDock Trio review: An elite space-saving MacBook dock](https://appleinsider.com/articles/26/07/23/brydge-prodock-trio-review-an-elite-space-saving-macbook-dock?utm_source=rss)
- - [Tesla Can’t Avoid Recall Fix for Cars With Overly Bright Headlights](https://www.cnet.com/roadshow/tesla-cant-avoid-recall-fix-for-cars-with-overly-bright-headlights/)<!-- TECH:END -->
+ - [Sources detail how Commerce Secretary Howard Lutnick and crypto adviser Bo Hines worked to shape the GENIUS Act and loosen safeguards to benefit Tether &lpar;Bloomberg&rpar;](https://www.techmeme.com/260722/p63#a260722p63)
+ - [A study of 11,989 Polymarket users finds 61% placed fewer than 100 trades over a six-week period, with 58% making or losing less than $100 during that period &lpar;Kaitlyn Radde/Pew Research Center&rpar;](https://www.techmeme.com/260722/p62#a260722p62)
+ - [US GAO study: Amazon workers on federal aid tripled from February 2020 to September 2025; ride-hailing and delivery apps topped employers with workers on aid &lpar;Washington Post&rpar;](https://www.techmeme.com/260722/p61#a260722p61)
+ - [Meta&#39;s infrastructure teams have become bloated, leading to poor decisions like troubled Rivos acquisition, loss of supplier trust due to hardware pivots, more &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260722/p60#a260722p60)
+ - [Tesla reports a negative Q2 free cash flow of $1.1B, its first in over two years, partly due to increased AI and robotic investments, amid diminishing profits &lpar;Reuters&rpar;](https://www.techmeme.com/260722/p59#a260722p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

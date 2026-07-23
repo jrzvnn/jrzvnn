@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ServiceNow invests $40M in banking software specialist BusinessNext, valuing the 24-year-old Indian company at $700M and taking a roughly 5% stake &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260723/p8#a260723p8)
+ - [‘The Child Is Terrified’: Measles Doctors Speak Out](https://www.wired.com/story/the-child-is-terrified-measles-doctors-speak-out/)
+ - [Dassault Systèmes agrees to acquire ArisGlobal, a US supplier of software to the life sciences industry, from Nordic Capital for ~$2B, set to close in H2 2026 &lpar;Adrià Calatayud/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p7#a260723p7)
  - [As the AI industry recruits high-profile academics, research that was once conducted in the open is increasingly getting locked behind closed doors &lpar;The Atlantic&rpar;](https://www.techmeme.com/260723/p6#a260723p6)
- - [A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260723/p5#a260723p5)
- - [Sources: OpenAI models breached Hugging Face&#39;s internal systems in a matter of hours, a feat that would typically have taken a talented hacker a couple of weeks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p4#a260723p4)
- - [The debate over Moonshot AI founder Yang Zhilin&#39;s departure from the US misses a larger structural reality: China has built a homegrown AI talent pipeline &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260723/p3#a260723p3)
- - [Sources: Shanghai-listed chip test instruments maker Semight, whose stock is up ~2,200% since its April debut, is considering a secondary listing in Hong Kong &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p2#a260723p2)<!-- TECH:END -->
+ - [A profile of Peter Beck, the New Zealand billionaire whose Rocket Lab is pushing to compete with the satellite internet ambitions of Elon Musk and Jeff Bezos &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260723/p5#a260723p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

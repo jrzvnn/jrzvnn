@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)
- - [Oracle wins a 10-year software contract with the Pentagon worth up to $7B; the contract covers the use of Oracle software in on-premises data centers &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260723/p49#a260723p49)
- - [Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers &lpar;Josh Boak/Associated Press&rpar;](https://www.techmeme.com/260723/p48#a260723p48)
- - [The Echo Show 21 is a great smart home hub that’s $80 off](https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale)
- - [Filing: the value of Alphabet&#39;s investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p47#a260723p47)<!-- TECH:END -->
+ - [Nvidia signs a $1.5B accord with Amkor, involving a prepayment by Nvidia to help bolster Amkor&#39;s chip packaging facility in Arizona; AMKR jumps 16%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p54#a260723p54)
+ - [Today’s NYT Connections Hints and Answers for July 24, #1139](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-24-1139/)
+ - [Sierra acquires Takeoff, which develops &quot;long-horizon&quot; agents, for an undisclosed sum; founded in 2025, Takeoff neared $10M in annualized revenue in early July &lpar;The Information&rpar;](https://www.techmeme.com/260723/p53#a260723p53)
+ - [Sources: Stripe is in talks to acquire OpenRouter in a deal potentially worth around $10B; PitchBook: OpenRouter was valued at $1.3B in May &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260723/p52#a260723p52)
+ - [SAP reports Q2 cloud revenue up 22% YoY to €6.28B, vs. €6.26B est., total revenue up 9.4% to €9.88B, and lowers its 2026 non-IFRS operating profit guidance &lpar;Grace Yoon/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p51#a260723p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
  - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
+ - 😝 [Shark electric](http://9gag.com/gag/a9y91RZ)
  - 💣 [Majestic planes &lpar;south of france&rpar;](http://9gag.com/gag/aQz0E1q)
- - 😝 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 👉 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)<!-- MEMES:END -->
+ - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
+ - 👉 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)<!-- MEMES:END -->
 
 ---
 

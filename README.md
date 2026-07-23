@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s New Feel-Good AI Ad Uses a Song About the World Ending](https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/)
- - [AMD unveils the Venice-X CPU, with 1152 MB of 3D V-Cache, 96 cores, and up to 5.15 GHz clock speeds, available in H2 2027 &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260723/p38#a260723p38)
- - [Connecting Apple Health to ChatGPT creates privacy risks Siri AI can avoid](https://appleinsider.com/articles/26/07/23/connecting-apple-health-to-chatgpt-creates-privacy-risks-siri-ai-can-avoid?utm_source=rss)
- - [Patreon is laying off 20 percent of workers](https://www.theverge.com/tech/970211/patreon-layoffs-ai)
- - [For Taylor Swift, Madison Square Garden’s Controversial Cameras Briefly Went Dark](https://www.wired.com/story/for-taylor-swift-madison-square-gardens-controversial-cameras-briefly-went-dark/)<!-- TECH:END -->
+ - [Germany&#39;s Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260723/p44#a260723p44)
+ - [Microsoft replaces OpenAI&#39;s image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260723/p43#a260723p43)
+ - [FCC Chairman Brendan Carr’s war on the First Amendment](https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment)
+ - [Patreon lays off 20% of its employees, or 93 people, citing a &quot;painful&quot; restructuring due to &quot;profound&quot; changes in the creator economy &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260723/p42#a260723p42)
+ - [Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260723/p41#a260723p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

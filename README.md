@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany&#39;s Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI &lpar;Yazhou Sun/Bloomberg&rpar;](https://www.techmeme.com/260723/p44#a260723p44)
- - [Microsoft replaces OpenAI&#39;s image-generating models with its MAI models in its products; Mustafa Suleyman says MAI models are ~85% cheaper to run in PowerPoint &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260723/p43#a260723p43)
- - [FCC Chairman Brendan Carr’s war on the First Amendment](https://www.theverge.com/policy/970284/brendan-carr-fcc-chairman-first-amendment)
- - [Patreon lays off 20% of its employees, or 93 people, citing a &quot;painful&quot; restructuring due to &quot;profound&quot; changes in the creator economy &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260723/p42#a260723p42)
- - [Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260723/p41#a260723p41)<!-- TECH:END -->
+ - [Alexa Plus is getting an AI update to handle more complicated instructions](https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices)
+ - [Oracle wins a 10-year software contract with the Pentagon worth up to $7B; the contract covers the use of Oracle software in on-premises data centers &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260723/p49#a260723p49)
+ - [Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers &lpar;Josh Boak/Associated Press&rpar;](https://www.techmeme.com/260723/p48#a260723p48)
+ - [The Echo Show 21 is a great smart home hub that’s $80 off](https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale)
+ - [Filing: the value of Alphabet&#39;s investments in unidentified private companies was ~$124.3B as of June 30, source says driven primarily by its Anthropic stake &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p47#a260723p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

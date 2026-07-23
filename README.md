@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy Daycare didn&#39;t bother telling owner the dog DROWNED before picking him up.](http://9gag.com/gag/aZZG0Yn)
- - 😝 [Don\u2019t Cry for Me, Argentina.](http://9gag.com/gag/aZZGrgz)
- - 💣 [Shark electric](http://9gag.com/gag/a9y91RZ)
- - 😝 [He should also make Dante\u2019s Inferno](http://9gag.com/gag/aqyqepR)
- - 👉 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)<!-- MEMES:END -->
+ - 😝 [Training](http://9gag.com/gag/aD2EDP9)
+ - 😝 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)
+ - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 😝 [Holy Harryhausen!](http://9gag.com/gag/adBmPGZ)
+ - 👉 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Training](http://9gag.com/gag/aD2EDP9)
- - 😝 [Cadaver Lessons For Medical Students: Lesson 1: How to dissect a cadaver. Lesson 2: How to revive the student standing next to you.](http://9gag.com/gag/a6ZAEBL)
- - 💣 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
- - 😝 [Holy Harryhausen!](http://9gag.com/gag/adBmPGZ)
- - 👉 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)<!-- MEMES:END -->
+ - 😝 [Stop misgendering the banshee !](http://9gag.com/gag/a9y91v0)
+ - 😝 [Yes she&#39;s grandma now. But she was really cool.](http://9gag.com/gag/an7LzM0)
+ - 💣 [Anyone see that plane?](http://9gag.com/gag/an7LgzB)
+ - 😝 [Her face at the end was pure gold](http://9gag.com/gag/an7LgBn)
+ - 👉 [Shark electric](http://9gag.com/gag/a9y91RZ)<!-- MEMES:END -->
 
 ---
 

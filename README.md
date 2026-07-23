@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
  - 😝 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 💣 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)
- - 😝 [Women wait at the finish line and f#ck the winner](http://9gag.com/gag/aLnyLQV)
+ - 😝 [Woman&#39;s ovaries were activated](http://9gag.com/gag/a6ZA1e8)
+ - 💣 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 😝 [Peak artism](http://9gag.com/gag/an7L7Wz)
  - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
 
 ---

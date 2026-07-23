@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU slaps Google with a $1 billion antitrust fine](https://appleinsider.com/articles/26/07/23/eu-slaps-google-with-a-1-billion-antitrust-fine?utm_source=rss)
- - [In a leaked four-hour investor talk, DeepSeek&#39;s Liang Wenfeng says the main US-China gap is compute access, Nvidia&#39;s CUDA moat is disintegrating, and more &lpar;Fred Gao/Inside China&rpar;](https://www.techmeme.com/260723/p18#a260723p18)
- - [The Best MagSafe Wallets for Your Everyday Carry &lpar;2026&rpar;](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous &lpar;Politico&rpar;](https://www.techmeme.com/260723/p17#a260723p17)
- - [The Trump Administration Wants to Change Public Engagement Rules for Polluters](https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/)<!-- TECH:END -->
+ - [Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260723/p21#a260723p21)
+ - [22 Back-to-School College Dorm Room Essentials &lpar;2026&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
+ - [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)
+ - [A Google study using millions of de-identified AI interactions finds AI is helping workers, not replacing them, and much AI use is &quot;shallow&quot; for certain tasks &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p20#a260723p20)
+ - [Apple defied a global PC sales slump in Q2 2026 thanks to MacBook Neo](https://appleinsider.com/articles/26/07/23/apple-defied-a-global-pc-sales-slump-in-q2-2026-thanks-to-macbook-neo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

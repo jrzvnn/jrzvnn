@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders, limited to one-hour sessions for the games users already own &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260723/p30#a260723p30)
- - [Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p29#a260723p29)
- - [Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders](https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming)
- - [Apple TV is branching out with a self-help eight-part dating docuseries](https://appleinsider.com/articles/26/07/23/apple-tv-is-branching-out-with-a-self-help-eight-part-dating-docuseries?utm_source=rss)
- - [Yelp signs a deal with OpenAI to provide ChatGPT users real-time local recommendations, and will soon let them contact local businesses for quotes via ChatGPT &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260723/p28#a260723p28)<!-- TECH:END -->
+ - [The US Department of Commerce&#39;s BIS is formally investigating whether Chinese companies like Moonshot are accessing advanced US AI chips to train their models &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260723/p34#a260723p34)
+ - [GitHub plans a two-tier bug bounty program that cuts rewards for the public and boosts payouts for invite-only researchers, amid a flood of AI-powered reports &lpar;Carly Page/The Register&rpar;](https://www.techmeme.com/260723/p33#a260723p33)
+ - [&#39;The Morning Show&#39; will bring Apple TV&#39;s first prestige drama to an end in 2027](https://appleinsider.com/articles/26/07/23/the-morning-show-will-bring-apple-tvs-first-prestige-drama-to-an-end-in-2027?utm_source=rss)
+ - [OpenAI sued after ChatGPT used religious faith to convince a man to not talk to a doctor](https://appleinsider.com/articles/26/07/23/openai-sued-after-chatgpt-used-religious-faith-to-convince-a-man-to-not-talk-to-a-doctor?utm_source=rss)
+ - [Corsair’s PC case with a panoramic glass design is $70 off](https://www.theverge.com/gadgets/960331/corsair-frame-4500x-deal-pc-case-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

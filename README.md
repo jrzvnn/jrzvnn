@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia&#39;s PIF, Silver Lake, and Affinity &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260723/p26#a260723p26)
- - [IBM acquires HRL Laboratories from Boeing and General Motors, seeking to integrate HRL&#39;s electron spin quantum circuits into its quantum computers &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260723/p25#a260723p25)
- - [These College Towns Have the Best &lpar;and Worst&rpar; Drinking Water](https://www.cnet.com/uncategorized/these-college-towns-have-the-best-and-worst-drinking-water/)
- - [Lawmakers prepare bill requiring AI ‘kill switch’](https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal)
- - [Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era](https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive)<!-- TECH:END -->
+ - [Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders, limited to one-hour sessions for the games users already own &lpar;Stevie Bonifield/The Verge&rpar;](https://www.techmeme.com/260723/p30#a260723p30)
+ - [Abstract Security, which offers an in-stream threat detection platform, raised a $25M extension to its $15M Series A, bringing its total funding to $48.5M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p29#a260723p29)
+ - [Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders](https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming)
+ - [Apple TV is branching out with a self-help eight-part dating docuseries](https://appleinsider.com/articles/26/07/23/apple-tv-is-branching-out-with-a-self-help-eight-part-dating-docuseries?utm_source=rss)
+ - [Yelp signs a deal with OpenAI to provide ChatGPT users real-time local recommendations, and will soon let them contact local businesses for quotes via ChatGPT &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260723/p28#a260723p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

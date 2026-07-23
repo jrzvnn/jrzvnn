@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Alphabet holds $94.1B in SpaceX equity post-IPO; $80B are under short-term sale restrictions, while $14.1B remain long-term restricted until Q3 2027 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/260723/p21#a260723p21)
- - [22 Back-to-School College Dorm Room Essentials &lpar;2026&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
- - [The right-wing boomers protesting data centers have a lot in common with the left](https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans)
- - [A Google study using millions of de-identified AI interactions finds AI is helping workers, not replacing them, and much AI use is &quot;shallow&quot; for certain tasks &lpar;Justin Lahart/Wall Street Journal&rpar;](https://www.techmeme.com/260723/p20#a260723p20)
- - [Apple defied a global PC sales slump in Q2 2026 thanks to MacBook Neo](https://appleinsider.com/articles/26/07/23/apple-defied-a-global-pc-sales-slump-in-q2-2026-thanks-to-macbook-neo?utm_source=rss)<!-- TECH:END -->
+ - [The European Commission approves the $55B acquisition of EA by a group of investors including Saudi Arabia&#39;s PIF, Silver Lake, and Affinity &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260723/p26#a260723p26)
+ - [IBM acquires HRL Laboratories from Boeing and General Motors, seeking to integrate HRL&#39;s electron spin quantum circuits into its quantum computers &lpar;Stephen Nellis/Reuters&rpar;](https://www.techmeme.com/260723/p25#a260723p25)
+ - [These College Towns Have the Best &lpar;and Worst&rpar; Drinking Water](https://www.cnet.com/uncategorized/these-college-towns-have-the-best-and-worst-drinking-water/)
+ - [Lawmakers prepare bill requiring AI ‘kill switch’](https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal)
+ - [Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era](https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

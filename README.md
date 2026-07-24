@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges &lpar;Mat Smith/Engadget&rpar;](https://www.techmeme.com/260724/p11#a260724p11)
- - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
- - [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)
- - [Trusted Mac apps could possibly be swapped out for malware](https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss)
- - [India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260724/p10#a260724p10)<!-- TECH:END -->
+ - [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260724/p13#a260724p13)
+ - [What I track in a day](https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day)
+ - [Delhi High Court rules OpenAI&#39;s use of ANI content to train ChatGPT wasn&#39;t copyright infringement as the news agency didn&#39;t show ChatGPT reproduced its reports &lpar;Munsif Vengattil/Reuters&rpar;](https://www.techmeme.com/260724/p12#a260724p12)
+ - [Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss)
+ - [My Life With Looki Is a Harbinger of Always-On Recording Glasses to Come](https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

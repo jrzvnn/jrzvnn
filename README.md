@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros](https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss)
- - [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
- - [The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a &quot;duress&quot; passcode that wiped the contents of his GrapheneOS phone &lpar;Timothy Pratt/The Guardian&rpar;](https://www.techmeme.com/260724/p26#a260724p26)
- - [Nothing confirms layoffs, but calls market exit rumors &amp;#8216;fake news&amp;#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
- - [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)<!-- TECH:END -->
+ - [Trump promises investigation into EU fines on US big tech](https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss)
+ - [Sources: Waymo is exploring exiting its Uber partnership, with their relationship souring amid an intense lobbying battle over the future of robotaxis &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260724/p28#a260724p28)
+ - [Paper, which allows designers to connect directly with production code and the AI agents that create it, raised a $34M Series A led by Accel and ICONIQ &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260724/p27#a260724p27)
+ - [Meta just created a moderation nightmare for its smart glasses](https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban)
+ - [Qualcomm is about to raise prices and that&amp;#8217;s bad news for everyone](https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

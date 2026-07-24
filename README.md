@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - 😝 [Title](http://9gag.com/gag/ajPo7A0)
+ - 💣 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
  - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - 😝 [Why is Denmark being so racist?](http://9gag.com/gag/aPAKmgg)
- - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
+ - 👉 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
 
 ---
 

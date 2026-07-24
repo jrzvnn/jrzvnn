@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - 😝 [Title](http://9gag.com/gag/ajPo7A0)
- - 💣 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
  - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 👉 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)<!-- MEMES:END -->
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 💣 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 😝 [A beware sign](http://9gag.com/gag/aVvNojM)
+ - 👉 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)<!-- MEMES:END -->
 
 ---
 

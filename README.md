@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma doesn&#39;t need pixels](http://9gag.com/gag/azx0d8x)
- - 😝 [Look at the contrast.](http://9gag.com/gag/aGyWnK0)
- - 💣 [That&#39;a right](http://9gag.com/gag/a4PDnG1)
- - 😝 [She think she has the privilege to slap\u2026..](http://9gag.com/gag/aYQ2G60)
- - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
+ - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---
 

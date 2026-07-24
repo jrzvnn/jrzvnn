@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It](https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/)
- - [European researchers want to study social media’s harms but can’t get the data](https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/)
- - [Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack; the models appear to have been active online for days before being stopped &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p4#a260724p4)
- - [A look at China&#39;s push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p3#a260724p3)
- - [Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B &lpar;Financial Times&rpar;](https://www.techmeme.com/260724/p2#a260724p2)<!-- TECH:END -->
+ - [BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers](https://www.wired.com/review/benq-tk705sti-4k-projector/)
+ - [What Is Entropy, Really?](https://www.wired.com/story/what-is-entropy-really/)
+ - [Facebook considers giving up and becoming TikTok](https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates)
+ - [Preliminary findings: the EU Commission says TikTok&#39;s accounts for minors violate the DSA, citing features that could expose children to bullying and predators &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260724/p6#a260724p6)
+ - [Some of Our Favorite Brain-Boosting Toys for Kids of All Ages](https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

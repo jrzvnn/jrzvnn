@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
  - 😝 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 💣 [I think I can unsee it again](http://9gag.com/gag/avy3WrZ)
+ - 💣 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
  - 😝 [Title](http://9gag.com/gag/awy6yD1)
- - 👉 [Peak artism](http://9gag.com/gag/an7L7Wz)<!-- MEMES:END -->
+ - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick a phone in india](http://9gag.com/gag/aAyo0NR)
- - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
- - 💣 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
- - 😝 [Title](http://9gag.com/gag/awy6yD1)
- - 👉 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)<!-- MEMES:END -->
+ - 😝 [How to fight drunky with a knife: tips and tricks](http://9gag.com/gag/a2vnMA9)
+ - 😝 [Engineering is just making air do what you want](http://9gag.com/gag/a4PDPV1)
+ - 💣 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - 😝 [Look at the contrast.](http://9gag.com/gag/aGyWnK0)
+ - 👉 [Reasons to be cheerful &lpar;Pt 4&rpar;](http://9gag.com/gag/aD2E7GK)<!-- MEMES:END -->
 
 ---
 

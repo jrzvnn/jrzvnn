@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
- - 💣 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
+ - 😝 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
+ - 💣 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
  - 😝 [Title](http://9gag.com/gag/awy6yD1)
- - 👉 [Peak artism](http://9gag.com/gag/an7L7Wz)<!-- MEMES:END -->
+ - 👉 [How to fight drunky with a knife: tips and tricks](http://9gag.com/gag/a2vnMA9)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI robotics startup Genesis AI is in talks to raise around $500M in a new funding round at a $3B pre-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p56#a260723p56)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 23, #668](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-23-668/)
- - [AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260723/p55#a260723p55)
- - [OpenAI Agent Escaped Testing and Launched an Autonomous Hack](https://www.cnet.com/news/openai-agent-escaped-testing-launched-autonomous-hack-hugging-face/)
- - [My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything](https://www.cnet.com/uncategorized/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/)<!-- TECH:END -->
+ - [Google says it has $811B in contracted future spending commitments as of June, up ~$500B from March, covering chips, data centers, electricity, and more &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p59#a260723p59)
+ - [Ukraine ratchets up its attacks on warehouses of Russian e-commerce giant Wildberries, signaling a new phase in the war as it seeks to hamper Russia&#39;s economy &lpar;Sam Meredith/CNBC&rpar;](https://www.techmeme.com/260723/p58#a260723p58)
+ - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
+ - [Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/)
+ - [A Study Found Asthma Improves After Switching From a Gas Stove to Electric](https://www.cnet.com/health/a-study-found-asthma-improves-after-switching-from-a-gas-stove-to-electric/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

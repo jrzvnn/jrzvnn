@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
- - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
+ - 😝 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
+ - 😝 [Bold move to challenge corporate jargon in the middle of a meeting](http://9gag.com/gag/a5Q8VqO)
+ - 💣 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---

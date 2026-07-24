@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 😝 [I know what kind of man you are...I believe they can cure cancer](http://9gag.com/gag/ae9v9Nj)
- - 💣 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 😝 [How to pick a phone in india](http://9gag.com/gag/aAyo0NR)
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 💣 [How did bro age 20 years in 2 seconds](http://9gag.com/gag/aW4w4QZ)
  - 😝 [Title](http://9gag.com/gag/awy6yD1)
- - 👉 [How to fight drunky with a knife: tips and tricks](http://9gag.com/gag/a2vnMA9)<!-- MEMES:END -->
+ - 👉 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)<!-- MEMES:END -->
 
 ---
 

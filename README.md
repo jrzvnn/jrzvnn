@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
- - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 💣 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 😝 [Look at the contrast.](http://9gag.com/gag/aGyWnK0)
- - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 😝 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
+ - 💣 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - 😝 [Why is Denmark being so racist?](http://9gag.com/gag/aPAKmgg)
+ - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
 
 ---
 

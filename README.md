@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max &lpar;Anthropic&rpar;](https://www.techmeme.com/260724/p19#a260724p19)
- - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
- - [Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)
- - [iPhone exploit legal fight is really about who owns security research](https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss)
- - [Judge approves Apple&#39;s $250 million settlement offer over Siri lawsuit](https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss)<!-- TECH:END -->
+ - [This Apple-1 auction expected to cost the winner as much as 275 iPhone 17 Pros](https://appleinsider.com/articles/26/07/24/this-apple-1-auction-expected-to-cost-the-winner-as-much-as-275-iphone-17-pros?utm_source=rss)
+ - [DJI camera clone company Xtra is halting and refunding all preorders](https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders)
+ - [The DOJ is prosecuting a Cop City protester for allegedly providing CBP with a &quot;duress&quot; passcode that wiped the contents of his GrapheneOS phone &lpar;Timothy Pratt/The Guardian&rpar;](https://www.techmeme.com/260724/p26#a260724p26)
+ - [Nothing confirms layoffs, but calls market exit rumors &amp;#8216;fake news&amp;#8217;](https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b)
+ - [Roku raises streaming hardware prices by up to $50](https://www.theverge.com/streaming/970814/roku-streaming-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

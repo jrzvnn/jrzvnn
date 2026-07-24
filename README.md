@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it has $811B in contracted future spending commitments as of June, up ~$500B from March, covering chips, data centers, electricity, and more &lpar;Davey Alba/Bloomberg&rpar;](https://www.techmeme.com/260723/p59#a260723p59)
- - [Ukraine ratchets up its attacks on warehouses of Russian e-commerce giant Wildberries, signaling a new phase in the war as it seeks to hamper Russia&#39;s economy &lpar;Sam Meredith/CNBC&rpar;](https://www.techmeme.com/260723/p58#a260723p58)
- - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
- - [Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/)
- - [A Study Found Asthma Improves After Switching From a Gas Stove to Electric](https://www.cnet.com/health/a-study-found-asthma-improves-after-switching-from-a-gas-stove-to-electric/)<!-- TECH:END -->
+ - [Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260724/p1#a260724p1)
+ - [Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p62#a260723p62)
+ - [Sources: SpaceX started turning away satellite operators seeking dedicated Falcon 9 rides beyond 2028, and stopped building some non-reusable Falcon components &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p61#a260723p61)
+ - [This Searchable Tool Is Helping Track Flock Surveillance Cameras in Your City](https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/)
+ - [Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of &quot;synthetic performers&quot; in ads &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260723/p60#a260723p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

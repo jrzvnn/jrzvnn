@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Endorsed the MyPillow Guy as Minnesota Governor. The State GOP Isn’t Buying It](https://www.wired.com/story/trump-endorsed-the-mypillow-guy-as-minnesota-governor-the-state-gop-isnt-buying-it/)
+ - [European researchers want to study social media’s harms but can’t get the data](https://www.wired.com/story/european-researchers-want-to-study-social-medias-harms-but-cant-get-the-data/)
+ - [Sources: OpenAI told Hugging Face only this week its models caused the July 11 hack; the models appear to have been active online for days before being stopped &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p4#a260724p4)
  - [A look at China&#39;s push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p3#a260724p3)
- - [Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B &lpar;Financial Times&rpar;](https://www.techmeme.com/260724/p2#a260724p2)
- - [Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260724/p1#a260724p1)
- - [Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p62#a260723p62)
- - [Sources: SpaceX started turning away satellite operators seeking dedicated Falcon 9 rides beyond 2028, and stopped building some non-reusable Falcon components &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p61#a260723p61)<!-- TECH:END -->
+ - [Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B &lpar;Financial Times&rpar;](https://www.techmeme.com/260724/p2#a260724p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

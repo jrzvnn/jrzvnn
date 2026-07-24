@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge approves Apple&#39;s $250 million settlement offer over Siri lawsuit](https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss)
- - [Facebook Has a New Marketplace App and Verification Checks for Everyone](https://www.cnet.com/news/social-media/facebook-marketplace-app-verification-news/)
- - [Tesla’s car door defect could lead to tougher rules for everyone](https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules)
- - [One of the best 2-in-1 Chromebooks is almost $200 off for today only](https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale)
- - [Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260724/p16#a260724p16)<!-- TECH:END -->
+ - [Anthropic launches Claude Opus 5, which it says comes close to Fable 5 performance at half the price; it is the new default model on Claude Max &lpar;Anthropic&rpar;](https://www.techmeme.com/260724/p19#a260724p19)
+ - [Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release)
+ - [Meta is making its AI chatbot more like an assistant](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update)
+ - [iPhone exploit legal fight is really about who owns security research](https://appleinsider.com/articles/26/07/24/iphone-exploit-legal-fight-is-really-about-who-owns-security-research?utm_source=rss)
+ - [Judge approves Apple&#39;s $250 million settlement offer over Siri lawsuit](https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

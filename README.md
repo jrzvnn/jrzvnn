@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BenQ TK705STi 4K Projector Review: A Midrange Pick for Gamers](https://www.wired.com/review/benq-tk705sti-4k-projector/)
- - [What Is Entropy, Really?](https://www.wired.com/story/what-is-entropy-really/)
- - [Facebook considers giving up and becoming TikTok](https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates)
- - [Preliminary findings: the EU Commission says TikTok&#39;s accounts for minors violate the DSA, citing features that could expose children to bullying and predators &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260724/p6#a260724p6)
- - [Some of Our Favorite Brain-Boosting Toys for Kids of All Ages](https://www.wired.com/story/these-are-some-of-our-favorite-brain-boosting-toys-for-kids-of-all-ages/)<!-- TECH:END -->
+ - [Meta launches Facebook Verified, a free program it says will verify that users are real humans by analyzing a facial recognition selfie and assigning badges &lpar;Mat Smith/Engadget&rpar;](https://www.techmeme.com/260724/p11#a260724p11)
+ - [Keychron Q6 HE 8K Review: A great mechanical keyboard for work and play](https://appleinsider.com/articles/26/07/23/keychron-q6-he-8k-review-a-great-mechanical-keyboard-for-work-and-play?utm_source=rss)
+ - [Whack-a-drone](https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason)
+ - [Trusted Mac apps could possibly be swapped out for malware](https://appleinsider.com/articles/26/07/24/trusted-mac-apps-could-possibly-be-swapped-out-for-malware?utm_source=rss)
+ - [India orders GitHub to remove Bitchat, the offline messaging app built by Jack Dorsey that is used by anti-government protestors amid internet blackouts &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260724/p10#a260724p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

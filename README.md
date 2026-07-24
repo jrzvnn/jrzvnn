@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s push to catch up with US AI chips; sources: its Vice Premier warned AI companies that anyone who resisted using local chips was a traitor &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p3#a260724p3)
+ - [Flush with AI cash, South Korean groups are making their biggest US investment push in years, with their Q1 US foreign direct investment up 100%+ YoY to $10.2B &lpar;Financial Times&rpar;](https://www.techmeme.com/260724/p2#a260724p2)
  - [Mobileye founder and CEO Amnon Shashua plans to step down after nearly three decades, as the company pushes into robotaxis and humanoid robots &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260724/p1#a260724p1)
  - [Singapore-based Ropedia, which captures real-world human experience via video and converts it into model-ready multimodal datasets, raised a $22M pre-Series A &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260723/p62#a260723p62)
- - [Sources: SpaceX started turning away satellite operators seeking dedicated Falcon 9 rides beyond 2028, and stopped building some non-reusable Falcon components &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p61#a260723p61)
- - [This Searchable Tool Is Helping Track Flock Surveillance Cameras in Your City](https://www.cnet.com/news/privacy/this-searchable-tool-is-helping-track-flock-surveillance-cameras-in-your-city/)
- - [Amazon tells third-party sellers to label product ads with AI-generated people to comply with a NY law requiring the disclosure of &quot;synthetic performers&quot; in ads &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260723/p60#a260723p60)<!-- TECH:END -->
+ - [Sources: SpaceX started turning away satellite operators seeking dedicated Falcon 9 rides beyond 2028, and stopped building some non-reusable Falcon components &lpar;Bloomberg&rpar;](https://www.techmeme.com/260723/p61#a260723p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

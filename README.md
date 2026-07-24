@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260724/p13#a260724p13)
- - [What I track in a day](https://www.theverge.com/column/970056/optimizer-health-tracking-fitness-wearables-what-i-track-in-a-day)
- - [Delhi High Court rules OpenAI&#39;s use of ANI content to train ChatGPT wasn&#39;t copyright infringement as the news agency didn&#39;t show ChatGPT reproduced its reports &lpar;Munsif Vengattil/Reuters&rpar;](https://www.techmeme.com/260724/p12#a260724p12)
- - [Hide My Email, Apple Upgrade, and mass iPhone 18 Pro production, on the AppleInsider Podcast](https://appleinsider.com/articles/26/07/24/hide-my-email-apple-upgrade-and-mass-iphone-18-pro-production-on-the-appleinsider-podcast?utm_source=rss)
- - [My Life With Looki Is a Harbinger of Always-On Recording Glasses to Come](https://www.cnet.com/tech/mobile/my-life-with-looki-is-a-harbinger-of-always-on-recording-glasses-to-come/)<!-- TECH:END -->
+ - [Judge approves Apple&#39;s $250 million settlement offer over Siri lawsuit](https://appleinsider.com/articles/26/07/24/judge-approves-apples-250-million-settlement-offer-over-siri-lawsuit?utm_source=rss)
+ - [Facebook Has a New Marketplace App and Verification Checks for Everyone](https://www.cnet.com/news/social-media/facebook-marketplace-app-verification-news/)
+ - [Tesla’s car door defect could lead to tougher rules for everyone](https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules)
+ - [One of the best 2-in-1 Chromebooks is almost $200 off for today only](https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale)
+ - [Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260724/p16#a260724p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

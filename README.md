@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it appreciates the engagement by the Trump administration and US government on the EU&#39;s $1B fine; Trump called the fine &quot;illegal&quot; &lpar;Rocio Fabbro/Bloomberg Law&rpar;](https://www.techmeme.com/260724/p31#a260724p31)
- - [An OpenAI staffer says the Hugging Face breach is &quot;a big warning shot&quot; externally but internally &quot;related incidents have been happening for a while&quot; &lpar;Harry Booth/Time&rpar;](https://www.techmeme.com/260724/p30#a260724p30)
- - [Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine](https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/)
- - [Cognition acquires the makers of Poke, an AI assistant that users can access via messaging services, in a deal valuing Poke&#39;s parent in the &quot;low nine figures&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260724/p29#a260724p29)
- - [Trump promises investigation into EU fines on US big tech](https://appleinsider.com/articles/26/07/24/trump-promises-investigation-into-eu-fines-on-us-big-tech?utm_source=rss)<!-- TECH:END -->
+ - [After backlash, Meta pauses plan to ‘rate limit’ its smart glasses](https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses)
+ - [An appeals court narrowly blocks Texas from enforcing a monitoring and filtering requirement under its children&#39;s online safety law, over Section 230 preemption &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/260724/p32#a260724p32)
+ - [Anne Rice’s Vampire Series Is Renewed as ‘Queen of the Damned’ for Season 4](https://www.cnet.com/tech/services-and-software/anne-rice-queen-of-the-damned-season-4/)
+ - [Roku Hikes Hardware Prices by Up to 60%](https://www.cnet.com/tech/home-entertainment/roku-hardware-prices-rise-ramageddon/)
+ - [OpenAI Is ‘Very Interested’ in Building Out ChatGPT Integrations for Wearables](https://www.cnet.com/tech/services-and-software/openai-is-very-interested-in-building-out-chatgpt-integrations-for-wearables/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

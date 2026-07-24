@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to pick a phone in india](http://9gag.com/gag/aAyo0NR)
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
  - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 💣 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 👉 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)<!-- MEMES:END -->
+ - 💣 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 😝 [Look at the contrast.](http://9gag.com/gag/aGyWnK0)
+ - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
 
 ---
 

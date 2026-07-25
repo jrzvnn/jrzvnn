@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
  - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 💣 [Boxer vs mma fighter leg kick challenge](http://9gag.com/gag/aW4wppd)
- - 😝 [This girl has scientifically perfect face. Let&#39;s see what the experts have to say](http://9gag.com/gag/azx0d7b)
- - 👉 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)<!-- MEMES:END -->
+ - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
+ - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
 
 ---
 

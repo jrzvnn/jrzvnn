@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frogs Cure Cancer with Ribbiting results](http://9gag.com/gag/an7LRpB)
- - 😝 [Emotional damage!](http://9gag.com/gag/a1mGNOP)
- - 💣 [A beware sign](http://9gag.com/gag/aVvNojM)
- - 😝 [Reasons to not go to work on Monday...](http://9gag.com/gag/a0e2VeQ)
- - 👉 [Insert a short and witty title here...](http://9gag.com/gag/ae9vObW)<!-- MEMES:END -->
+ - 😝 [An appreciation post that the aliens in this alien movie is NOT just a human with paint on or just pointy ears](http://9gag.com/gag/aMV3mrx)
+ - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - 💣 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 😝 [Enjoy it!](http://9gag.com/gag/aXP5Ne2)
+ - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---
 

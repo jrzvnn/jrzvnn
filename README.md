@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today’s NYT Strands Hints, Answers and Help for July 26 #875](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-26-875/)
+ - [3 Apple Watch Running Features I Wish I’d Known About Sooner](https://www.cnet.com/tech/mobile/apple-watch-running-features-tips-for-runners-training-marathon/)
  - [Weekend deals deliver $299 Apple Watch Series 11, $89 AirTag 4-pack, $399 iPad](https://appleinsider.com/articles/26/07/25/weekend-deals-deliver-299-apple-watch-series-11-89-airtag-4-pack-399-ipad?utm_source=rss)
  - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
- - [Several universities including Yale, Johns Hopkins, and the University of Waterloo have restricted or disabled their use of AI detectors over accuracy concerns &lpar;Ima Jackson-Obot/Financial Times&rpar;](https://www.techmeme.com/260725/p15#a260725p15)
- - [Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral &lpar;Pei Li/Bloomberg&rpar;](https://www.techmeme.com/260725/p14#a260725p14)
- - [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)<!-- TECH:END -->
+ - [Several universities including Yale, Johns Hopkins, and the University of Waterloo have restricted or disabled their use of AI detectors over accuracy concerns &lpar;Ima Jackson-Obot/Financial Times&rpar;](https://www.techmeme.com/260725/p15#a260725p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

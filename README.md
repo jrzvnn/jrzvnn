@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
+ - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
  - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)
  - [Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260724/p37#a260724p37)
- - [A joint preliminary evaluation by the UK&#39;s AISI and the US&#39; CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260724/p36#a260724p36)
- - [NordVPN’s New HangUp App Screens Calls and Texts for Scams](https://www.cnet.com/tech/services-and-software/nordvpn-hangup-app-scam-call-text-screening/)
- - [The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260724/p35#a260724p35)<!-- TECH:END -->
+ - [A joint preliminary evaluation by the UK&#39;s AISI and the US&#39; CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260724/p36#a260724p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

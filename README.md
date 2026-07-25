@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage!](http://9gag.com/gag/a1mGNOP)
- - 😝 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 💣 [Oh no! anyway](http://9gag.com/gag/a9y9v7L)
+ - 😝 [3D printed basketball](http://9gag.com/gag/a2vn89Y)
+ - 😝 [Oh no! anyway](http://9gag.com/gag/a9y9v7L)
+ - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
  - 😝 [A title of titles](http://9gag.com/gag/a0e2XNn)
  - 👉 [Coincidences](http://9gag.com/gag/a34V5n3)<!-- MEMES:END -->
 

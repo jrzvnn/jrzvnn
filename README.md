@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260724/p35#a260724p35)
- - [Sources: OpenAI&#39;s models breached Hugging Face from July 11 to 13 and OpenAI realized their models were behind the hack several days later &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p34#a260724p34)
- - [New Jersey Bans Surveillance Pricing, Puts the Brakes on Electronic Shelf Labels](https://www.cnet.com/news/privacy/new-jersey-surveillance-pricing-law-grocery-shopping/)
- - [Sources: Prentis, which develops computer use models and is co-founded by Reid Hoffman and Marc Pincus, is in talks to raise $100M at a $1B valuation &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260724/p33#a260724p33)
- - [One of NASA’s Most Important Deep Space Observatories Hit by Spanish Wildfires](https://www.wired.com/story/spanish-wildfires-nasa-deep-space-observatory/)<!-- TECH:END -->
+ - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)
+ - [Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260724/p37#a260724p37)
+ - [A joint preliminary evaluation by the UK&#39;s AISI and the US&#39; CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260724/p36#a260724p36)
+ - [NordVPN’s New HangUp App Screens Calls and Texts for Scams](https://www.cnet.com/tech/services-and-software/nordvpn-hangup-app-scam-call-text-screening/)
+ - [The US, China, and other APEC economies release a statement supporting open models, while emphasizing respect for security, data protection, and IP rights &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260724/p35#a260724p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

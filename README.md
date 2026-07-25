@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 💣 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 😝 [Frogs Cure Cancer with Ribbiting results](http://9gag.com/gag/an7LRpB)
+ - 😝 [Emotional damage!](http://9gag.com/gag/a1mGNOP)
+ - 💣 [A beware sign](http://9gag.com/gag/aVvNojM)
  - 😝 [Reasons to not go to work on Monday...](http://9gag.com/gag/a0e2VeQ)
- - 👉 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)<!-- MEMES:END -->
+ - 👉 [Insert a short and witty title here...](http://9gag.com/gag/ae9vObW)<!-- MEMES:END -->
 
 ---
 

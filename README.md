@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike)
+ - [Several universities including Yale, Johns Hopkins, and the University of Waterloo have restricted or disabled their use of AI detectors over accuracy concerns &lpar;Ima Jackson-Obot/Financial Times&rpar;](https://www.techmeme.com/260725/p15#a260725p15)
  - [Sources: DeepSeek told investors it is suspending its second funding round after remarks attributed to Liang Wenfeng on US-China AI competition went viral &lpar;Pei Li/Bloomberg&rpar;](https://www.techmeme.com/260725/p14#a260725p14)
  - [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview)
- - [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)
- - [Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI &lpar;New York Times&rpar;](https://www.techmeme.com/260725/p13#a260725p13)
- - [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees)<!-- TECH:END -->
+ - [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

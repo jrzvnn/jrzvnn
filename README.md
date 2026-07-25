@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)
- - 😝 [Bold move to challenge corporate jargon in the middle of a meeting](http://9gag.com/gag/a5Q8VqO)
- - 💣 [Throws something, regrets not instantly but after 8 seconds](http://9gag.com/gag/aMV3VyP)
- - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [Clark Kent discovering his heat vision after meeting the new biology teacher](http://9gag.com/gag/axyXWEb)
+ - 😝 [Give your cat a headpat to make her happy](http://9gag.com/gag/aVvNv7K)
+ - 💣 [This girl has scientifically perfect face. Let&#39;s see what the experts have to say](http://9gag.com/gag/azx0d7b)
+ - 😝 [I&#39;m missing gargoyles. What else?](http://9gag.com/gag/awy63py)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---

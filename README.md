@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma doesn&#39;t need pixels](http://9gag.com/gag/azx0d8x)
- - 😝 [Emotional damage!](http://9gag.com/gag/a1mGNOP)
- - 💣 [She think she has the privilege to slap\u2026..](http://9gag.com/gag/aYQ2G60)
- - 😝 [Never did a diy project of this size &lpar;because it was too expensive to let a pro do it&rpar;. Never made a slab of concrete. Never glued a tile myself. Pretty proud to share the results with you guys.](http://9gag.com/gag/adBmvGV)
- - 👉 [A beware sign](http://9gag.com/gag/aVvNojM)<!-- MEMES:END -->
+ - 😝 [Guy was lucky this got filmed](http://9gag.com/gag/aGyWyrz)
+ - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 💣 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)
+ - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
+ - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
 
 ---
 

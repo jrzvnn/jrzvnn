@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
- - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 😝 [Can confidently say that being single is better than being with someone who keeps mistreating you!](http://9gag.com/gag/abA9OL9)
- - 👉 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)<!-- MEMES:END -->
+ - 😝 [Totally unexpected](http://9gag.com/gag/adBmOwd)
+ - 😝 [Emotional damage!](http://9gag.com/gag/a1mGNOP)
+ - 💣 [Oh no! anyway](http://9gag.com/gag/a9y9v7L)
+ - 😝 [A title of titles](http://9gag.com/gag/a0e2XNn)
+ - 👉 [Coincidences](http://9gag.com/gag/a34V5n3)<!-- MEMES:END -->
 
 ---
 

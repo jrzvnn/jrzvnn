@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)
+ - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - 💣 [IMAX for the win!](http://9gag.com/gag/aPAKm8B)
  - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
- - 😝 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
- - 💣 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---

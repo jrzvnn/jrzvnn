@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)
- - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
- - 💣 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
- - 😝 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
- - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
+ - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
+ - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
+ - 😝 [Can confidently say that being single is better than being with someone who keeps mistreating you!](http://9gag.com/gag/abA9OL9)
+ - 👉 [Childhood mystery finally solved](http://9gag.com/gag/an7LOmV)<!-- MEMES:END -->
 
 ---
 

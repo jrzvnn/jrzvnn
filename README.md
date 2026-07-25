@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)
- - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 💣 [IMAX for the win!](http://9gag.com/gag/aPAKm8B)
- - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
+ - 💣 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 😝 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---

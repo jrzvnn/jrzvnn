@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An appreciation post that the aliens in this alien movie is NOT just a human with paint on or just pointy ears](http://9gag.com/gag/aMV3mrx)
- - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
- - 💣 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 😝 [Enjoy it!](http://9gag.com/gag/aXP5Ne2)
+ - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 😝 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 💣 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
+ - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
  - 👉 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)<!-- MEMES:END -->
 
 ---

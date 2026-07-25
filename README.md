@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As student protests spread across India, Narendra Modi turns to Reels, swapping his trademark cinematic videos for self-recorded messages aimed at Gen Z &lpar;Akriti Sharma/Bloomberg&rpar;](https://www.techmeme.com/260725/p11#a260725p11)
- - [Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine &lpar;2026&rpar;](https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/)
- - [3 Clever Things You Can Do With an Old Amazon Kindle](https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/)
- - [A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO &lpar;Charlie Campbell/Time&rpar;](https://www.techmeme.com/260725/p10#a260725p10)
- - [Why Leatherology Makes Some of the Best Totes for Work &lpar;2026&rpar;](https://www.wired.com/story/leatherology-totes-for-carrying-tech/)<!-- TECH:END -->
+ - [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees)
+ - [SK Group Chair Chey Tae Won says Anthropic has asked SK Hynix for supplies to make its own chips, calling it remarkable that an AI developer has chip ambitions &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260725/p12#a260725p12)
+ - [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun)
+ - [Micron urges White House to reject Apple&#39;s blacklist memory plan](https://appleinsider.com/articles/26/07/25/micron-urges-white-house-to-reject-apples-blacklist-memory-plan?utm_source=rss)
+ - [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

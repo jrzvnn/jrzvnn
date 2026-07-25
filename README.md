@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Laptops &lpar;2026&rpar;: My Top Recommendations After Testing Hundreds](https://www.wired.com/story/best-laptops/)
- - [‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way](https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/)
- - [Samsung announces a $200B+ contract to make chips for Broadcom through 2030, focusing on its 2nm and below process technologies for Broadcom&#39;s products &lpar;Hooyeon Kim/Bloomberg&rpar;](https://www.techmeme.com/260725/p9#a260725p9)
- - [GoPro Mission 1 Pro Review: The Best Action Camera You Can Buy](https://www.wired.com/review/gopro-mission-1-pro/)
- - [Contagious Cancer Found in North American Catfish](https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/)<!-- TECH:END -->
+ - [As student protests spread across India, Narendra Modi turns to Reels, swapping his trademark cinematic videos for self-recorded messages aimed at Gen Z &lpar;Akriti Sharma/Bloomberg&rpar;](https://www.techmeme.com/260725/p11#a260725p11)
+ - [Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine &lpar;2026&rpar;](https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/)
+ - [3 Clever Things You Can Do With an Old Amazon Kindle](https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/)
+ - [A profile of Hangzhou-based Unitree, which shipped 5,500 humanoid robots in 2025, accounting for 25%+ of the global market, as it prepares for a Shanghai IPO &lpar;Charlie Campbell/Time&rpar;](https://www.techmeme.com/260725/p10#a260725p10)
+ - [Why Leatherology Makes Some of the Best Totes for Work &lpar;2026&rpar;](https://www.wired.com/story/leatherology-totes-for-carrying-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

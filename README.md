@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead)
+ - [A profile of Yang Zhilin, founder of Moonshot AI, which faced early doubts over revenue and model capabilities before its Kimi K3 delivered a &quot;DeepSeek moment&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260725/p8#a260725p8)
  - [Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260725/p7#a260725p7)
  - [Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google&#39;s data centers in a $1B+ deal, with more such deals in the pipeline &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260725/p6#a260725p6)
- - [Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260725/p5#a260725p5)
- - [Analysis: US tech companies have cut ~140K jobs YTD, or more than 33% of announced US layoffs in 2026, with ~50K cuts from Amazon, Oracle, Meta, and Microsoft &lpar;Financial Times&rpar;](https://www.techmeme.com/260725/p4#a260725p4)
- - [Progress Software agrees to acquire Domo&#39;s AI and data platform business for $400M; Domo will remain publicly listed and change its name after the deal closes &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260725/p3#a260725p3)<!-- TECH:END -->
+ - [Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260725/p5#a260725p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

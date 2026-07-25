@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has pitched Trump on using Chinese memory chips in its products sold outside the US; Micron warned such a plan could destroy the US chip industry &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260724/p40#a260724p40)
- - [After a backlash, Meta pauses its plan to &quot;rate limit&quot; Conversation Focus, an accessibility feature for its glasses that runs on-device &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260724/p39#a260724p39)
- - [Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM &lpar;Reuters&rpar;](https://www.techmeme.com/260724/p38#a260724p38)
- - [Nvidia plans to invest $1B in Naver to help finance an AI data center in South Korea, and partners with SK Group to build more than 2 GW of AI data centers &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/260724/p37#a260724p37)
- - [A joint preliminary evaluation by the UK&#39;s AISI and the US&#39; CAISI finds Kimi K3 trails leading US frontier closed weight models on cyber capability &lpar;AI Security Institute&rpar;](https://www.techmeme.com/260724/p36#a260724p36)<!-- TECH:END -->
+ - [Candid Health, which develops tech and AI agents to automate medical billing and claims processing workflows, raised a $120M Series D led by Sixth Street Growth &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260725/p7#a260725p7)
+ - [Verizon CEO Dan Schulman says Verizon will provide dark-fiber connectivity for Google&#39;s data centers in a $1B+ deal, with more such deals in the pipeline &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260725/p6#a260725p6)
+ - [Meshy, whose AI-powered tech lets users generate 3D assets from text and image prompts, raised a ~$400M Series B at a $1.5B valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260725/p5#a260725p5)
+ - [Analysis: US tech companies have cut ~140K jobs YTD, or more than 33% of announced US layoffs in 2026, with ~50K cuts from Amazon, Oracle, Meta, and Microsoft &lpar;Financial Times&rpar;](https://www.techmeme.com/260725/p4#a260725p4)
+ - [Progress Software agrees to acquire Domo&#39;s AI and data platform business for $400M; Domo will remain publicly listed and change its name after the deal closes &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260725/p3#a260725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

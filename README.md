@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
- - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
- - 😝 [Sharing is caring even with a toy snake](http://9gag.com/gag/a2vn841)
+ - 😝 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [Dancing Queen](http://9gag.com/gag/aRBYLm2)
+ - 💣 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 😝 [Reasons to not go to work on Monday...](http://9gag.com/gag/a0e2VeQ)
  - 👉 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)<!-- MEMES:END -->
 
 ---

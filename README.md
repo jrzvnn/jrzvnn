@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy was lucky this got filmed](http://9gag.com/gag/aGyWyrz)
+ - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
  - 😝 [It&#39;s all Greek](http://9gag.com/gag/a87BA63)
- - 💣 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)
- - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
- - 👉 [Dancing Queen](http://9gag.com/gag/aRBYLm2)<!-- MEMES:END -->
+ - 💣 [Men are not showing up at singles events and women are not happy.](http://9gag.com/gag/agmPQvv)
+ - 😝 [Sharing is caring even with a toy snake](http://9gag.com/gag/a2vn841)
+ - 👉 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)<!-- MEMES:END -->
 
 ---
 

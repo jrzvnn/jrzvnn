@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
- - 💣 [Coincidences](http://9gag.com/gag/a34V5n3)
- - 😝 [And again\u2026](http://9gag.com/gag/aGyWBzn)
- - 👉 [Floor Joists: The Do&#39;s and Don&#39;ts of Proper Framing](http://9gag.com/gag/ae9vOvO)<!-- MEMES:END -->
+ - 😝 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
+ - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
+ - 😝 [This should be every 9Gaggers dream.](http://9gag.com/gag/a7oz09z)
+ - 👉 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)<!-- MEMES:END -->
 
 ---
 

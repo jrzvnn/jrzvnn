@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 😝 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
  - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
  - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
- - 😝 [This should be every 9Gaggers dream.](http://9gag.com/gag/a7oz09z)
- - 👉 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)<!-- MEMES:END -->
+ - 😝 [Can you dance better than this mom?](http://9gag.com/gag/a4PD65Z)
+ - 👉 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)<!-- MEMES:END -->
 
 ---
 

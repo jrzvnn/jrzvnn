@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
- - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
- - 😝 [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
- - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
+ - 😝 [Best customer ever](http://9gag.com/gag/agmP7Gq)
+ - 😝 [How to outsmart a genie](http://9gag.com/gag/aRBYMNA)
+ - 💣 [Pure gold](http://9gag.com/gag/adBmOzd)
+ - 😝 [Vehicle + driver skills](http://9gag.com/gag/aO8XZBR)
+ - 👉 [Insert a short and witty title here...](http://9gag.com/gag/ae9vObW)<!-- MEMES:END -->
 
 ---
 

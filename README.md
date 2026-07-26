@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
+ - [India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260726/p8#a260726p8)
  - [Sunday Reboot: Apple TV dating, Matchbox, and Lasso hope](https://appleinsider.com/articles/26/07/26/sunday-reboot-apple-tv-dating-matchbox-and-lasso-hope?utm_source=rss)
  - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
- - [Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260726/p7#a260726p7)
- - [Game development diary: Launched, but far from finished](https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss)
- - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)<!-- TECH:END -->
+ - [Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260726/p7#a260726p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

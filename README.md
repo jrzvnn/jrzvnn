@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Marble race, Red or Blue?](http://9gag.com/gag/aD2EnqZ)
  - 😝 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)
- - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
- - 😝 [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
- - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
+ - 💣 [Pretty accurate](http://9gag.com/gag/aW4wnR2)
+ - 😝 [When you choose to think differently, live honestly, and protect your mind, some people will hate you simply because your existence exposes their emptiness. Small minds do not hate you because you are wrong. They often hate you because you refuse to become like them.](http://9gag.com/gag/aND6VoK)
+ - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
 
 ---
 

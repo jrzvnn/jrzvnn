@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Upgrade installment program set to go live on Tuesday](https://appleinsider.com/articles/26/07/26/apple-upgrade-installment-program-set-to-go-live-on-tuesday?utm_source=rss)
+ - [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con)
  - [Public distrust in smart glasses will be a challenge for Apple Glass](https://appleinsider.com/articles/26/07/26/public-distrust-in-smart-glasses-will-be-a-a-challenge-for-apple-glass?utm_source=rss)
  - [Sources: Apple may have delayed AI glasses launch partly over privacy concerns that Meta&#39;s glasses created for the category, as it works to address the issues &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260726/p5#a260726p5)
- - [Apple TV shares new trailers for &#39;Matchbox,&#39; &#39;Neuromancer,&#39; &#39;Dark Matter&#39;](https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss)
- - [Apple Watch redesign is coming, but not for years](https://appleinsider.com/articles/26/07/26/apple-watch-redesign-is-coming-but-not-for-years?utm_source=rss)
- - [The Best Backpacking Sleeping Pads, Tested on the Trail &lpar;2026&rpar;](https://www.wired.com/gallery/best-backpacking-sleeping-pad/)<!-- TECH:END -->
+ - [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

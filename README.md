@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [Scary](http://9gag.com/gag/aZZGw4X)
- - 💣 [Pretty accurate](http://9gag.com/gag/aW4wnR2)
+ - 😝 [Best customer ever](http://9gag.com/gag/agmP7Gq)
+ - 😝 [Insert a short and witty title here...](http://9gag.com/gag/ae9vObW)
+ - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
  - 😝 [Peak men entertainment](http://9gag.com/gag/aGyWMD5)
- - 👉 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)<!-- MEMES:END -->
+ - 👉 [Vehicle + driver skills](http://9gag.com/gag/aO8XZBR)<!-- MEMES:END -->
 
 ---
 

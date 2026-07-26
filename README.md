@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Solution to the Power Grid&#39;s Woes Might Just Be Sitting in Your Driveway](https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/)
- - [The Best Motorola Phones, From Razr to Moto G &lpar;2026&rpar;](https://www.wired.com/story/best-motorola-phones/)
- - [The Best Subscription-Free Home Security Cameras I’ve Tried](https://www.wired.com/story/best-subscription-free-security-cameras/)
- - [Best GoPro Camera &lpar;2026&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [After Discovering 6,000 Exoplanets, Researchers May Have Found the First Exomoon](https://www.cnet.com/science/space/researchers-find-first-exomoon/)<!-- TECH:END -->
+ - [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
+ - [The Best Backpacking Sleeping Pads, Tested on the Trail &lpar;2026&rpar;](https://www.wired.com/gallery/best-backpacking-sleeping-pad/)
+ - [Crime blotter: A second arrest in the 2025 FedEx robbery](https://appleinsider.com/articles/26/07/26/crime-blotter-a-second-arrest-in-the-2025-fedex-robbery?utm_source=rss)
+ - [Crypto exchanges like tradeXYZ are giving global investors exposure to Chinese AI-linked stocks like CXMT, bypassing Beijing&#39;s control on foreign capital access &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260726/p4#a260726p4)
+ - [All the Ways You Can Make Reading on Your Phone Easier](https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

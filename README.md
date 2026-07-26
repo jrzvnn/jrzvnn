@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3D printed basketball](http://9gag.com/gag/a2vn89Y)
- - 😝 [Oh no! anyway](http://9gag.com/gag/a9y9v7L)
- - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 😝 [A title of titles](http://9gag.com/gag/a0e2XNn)
- - 👉 [Coincidences](http://9gag.com/gag/a34V5n3)<!-- MEMES:END -->
+ - 😝 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
+ - 😝 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
+ - 💣 [Since 9gag won&#39;t let Willy Wonka or The Simpsons be posted, here is an attractive female](http://9gag.com/gag/aMV3BAW)
+ - 😝 [Enjoy it!](http://9gag.com/gag/aXP5Ne2)
+ - 👉 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)<!-- MEMES:END -->
 
 ---
 

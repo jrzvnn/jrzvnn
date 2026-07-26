@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
+ - 😝 [Totally unexpected](http://9gag.com/gag/adBmOwd)
  - 😝 [I don&#39;t think she&#39;s in the mood for anything.](http://9gag.com/gag/amoE1K2)
- - 💣 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
- - 👉 [Totally unexpected](http://9gag.com/gag/adBmOwd)<!-- MEMES:END -->
+ - 💣 [Coincidences](http://9gag.com/gag/a34V5n3)
+ - 😝 [And again\u2026](http://9gag.com/gag/aGyWBzn)
+ - 👉 [Floor Joists: The Do&#39;s and Don&#39;ts of Proper Framing](http://9gag.com/gag/ae9vOvO)<!-- MEMES:END -->
 
 ---
 

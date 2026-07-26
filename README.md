@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: Apple TV dating, Matchbox, and Lasso hope](https://appleinsider.com/articles/26/07/26/sunday-reboot-apple-tv-dating-matchbox-and-lasso-hope?utm_source=rss)
  - [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy)
  - [Once hailed as an AI visionary, Satya Nadella faces pressure as a compute crunch forces Microsoft to prioritize its own AI products over Azure cloud customers &lpar;Ashley Stewart/Business Insider&rpar;](https://www.techmeme.com/260726/p7#a260726p7)
  - [Game development diary: Launched, but far from finished](https://appleinsider.com/articles/26/07/26/game-development-diary-launched-but-far-from-finished?utm_source=rss)
- - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)
- - [Shein&#39;s IPO prospectus shows Q1 revenue of $9.05B, up 1% YoY, as it swings from $395M profit in Q1 2025 to $99M loss partly due to US&#39; &quot;de minimis&quot; rule removal &lpar;Reuters&rpar;](https://www.techmeme.com/260726/p6#a260726p6)<!-- TECH:END -->
+ - [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

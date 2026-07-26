@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Metalhead on therapy](http://9gag.com/gag/a87B0G3)
+ - 😝 [Fix her. I dare you.](http://9gag.com/gag/an7LReb)
+ - 💣 [Call an Ambulance! But not for me!](http://9gag.com/gag/a87B666)
  - 😝 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)
- - 😝 [In an alternate timeline](http://9gag.com/gag/a5Q8V4G)
- - 💣 [This video surfaced online a couple of years ago, allegedly filmed by a tomb robbers in Egypt to impress a potential buyer.](http://9gag.com/gag/aGyWB95)
- - 😝 [Vehicle + driver skills](http://9gag.com/gag/aO8XZBR)
- - 👉 [Me doging my responsibilities](http://9gag.com/gag/aoyb3eX)<!-- MEMES:END -->
+ - 👉 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)<!-- MEMES:END -->
 
 ---
 

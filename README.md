@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV shares new trailers for &#39;Matchbox,&#39; &#39;Neuromancer,&#39; &#39;Dark Matter&#39;](https://appleinsider.com/articles/26/07/26/apple-tv-teases-new-trailers-for-matchbox-neuromancer-dark-matter?utm_source=rss)
  - [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook)
  - [The Best Backpacking Sleeping Pads, Tested on the Trail &lpar;2026&rpar;](https://www.wired.com/gallery/best-backpacking-sleeping-pad/)
  - [Crime blotter: A second arrest in the 2025 FedEx robbery](https://appleinsider.com/articles/26/07/26/crime-blotter-a-second-arrest-in-the-2025-fedex-robbery?utm_source=rss)
- - [Crypto exchanges like tradeXYZ are giving global investors exposure to Chinese AI-linked stocks like CXMT, bypassing Beijing&#39;s control on foreign capital access &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260726/p4#a260726p4)
- - [All the Ways You Can Make Reading on Your Phone Easier](https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/)<!-- TECH:END -->
+ - [Crypto exchanges like tradeXYZ are giving global investors exposure to Chinese AI-linked stocks like CXMT, bypassing Beijing&#39;s control on foreign capital access &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260726/p4#a260726p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 😝 [How to get a surgery and min 6 months rehabilitation](http://9gag.com/gag/a87Bmzd)
  - 😝 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
  - 💣 [Impressive. Very nice. Now let&#39;s see](http://9gag.com/gag/aBy76AD)
- - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
- - 👉 [Scary](http://9gag.com/gag/aZZGw4X)<!-- MEMES:END -->
+ - 😝 [Scary](http://9gag.com/gag/aZZGw4X)
+ - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
 
 ---
 

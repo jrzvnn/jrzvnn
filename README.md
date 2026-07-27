@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OSH](http://9gag.com/gag/aVvNK5n)
  - 😝 [Naise](http://9gag.com/gag/aAyo4Y0)
- - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
- - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
- - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
+ - 😝 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 💣 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)
+ - 😝 [Hott](http://9gag.com/gag/aD2EVrZ)
+ - 👉 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)<!-- MEMES:END -->
 
 ---
 

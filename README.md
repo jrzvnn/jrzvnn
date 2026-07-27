@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [OSH](http://9gag.com/gag/aVvNK5n)
  - 😝 [Naise](http://9gag.com/gag/aAyo4Y0)
- - 😝 [Scary](http://9gag.com/gag/aZZGw4X)
  - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
  - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
  - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->

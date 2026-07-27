@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 😝 [Naise](http://9gag.com/gag/aAyo4Y0)
  - 😝 [Scary](http://9gag.com/gag/aZZGw4X)
- - 💣 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
- - 😝 [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
- - 👉 [Pretty accurate](http://9gag.com/gag/aW4wnR2)<!-- MEMES:END -->
+ - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
+ - 👉 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)<!-- MEMES:END -->
 
 ---
 

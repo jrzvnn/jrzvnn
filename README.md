@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zeus approves this message](http://9gag.com/gag/an7LvX5)
- - 😝 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 😝 [I&#39;ll have 2](http://9gag.com/gag/a87BmE1)
+ - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
  - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
- - 😝 [Pretty accurate](http://9gag.com/gag/aW4wnR2)
- - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
+ - 😝 [Have a nice sting](http://9gag.com/gag/a5Q8BMq)
+ - 👉 [Pretty accurate](http://9gag.com/gag/aW4wnR2)<!-- MEMES:END -->
 
 ---
 

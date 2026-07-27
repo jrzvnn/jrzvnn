@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
+ - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
+ - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)
  - [How AI companies are targeting the education market, including making free or cut-price tailored learning tools in partnership with schools and edtech startups &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260726/p9#a260726p9)
  - [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review)
- - [India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260726/p8#a260726p8)
- - [Sunday Reboot: Apple TV dating, Matchbox, and Lasso hope](https://appleinsider.com/articles/26/07/26/sunday-reboot-apple-tv-dating-matchbox-and-lasso-hope?utm_source=rss)<!-- TECH:END -->
+ - [India eases foreign investment rules for e-commerce companies, a win for Amazon, which lobbied to buy goods directly from Indian sellers and sell them overseas &lpar;Aditya Kalra/Reuters&rpar;](https://www.techmeme.com/260726/p8#a260726p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

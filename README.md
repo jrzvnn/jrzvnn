@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal)
- - [ASML shares fall 7%+ after a report that a Chinese state-backed company has begun manufacturing DUV machines; Applied Materials fell 6.5%+ and Lam Research 7%+ &lpar;Sarah Jacob/Bloomberg&rpar;](https://www.techmeme.com/260727/p21#a260727p21)
- - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)
- - [Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260727/p20#a260727p20)
- - [Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI&#39;s upcoming family of AI models &lpar;CNBC&rpar;](https://www.techmeme.com/260727/p19#a260727p19)<!-- TECH:END -->
+ - [macOS 26.6 is out, but expect minimal feature changes with macOS 27 looming](https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss)
+ - [Prep for Siri AI on Apple Vision Pro with visionOS 26.6](https://appleinsider.com/articles/26/07/27/prep-for-siri-ai-on-apple-vision-pro-with-visionos-266?utm_source=rss)
+ - [Apple rolls out watchOS 26.6 update for Apple Watch](https://appleinsider.com/articles/26/07/27/apple-rolls-out-watchos-266-update-for-apple-watch?utm_source=rss)
+ - [Apple rolls out another behind-the-scenes update with tvOS 26.6](https://appleinsider.com/articles/26/07/27/apple-rolls-out-another-behind-the-scenes-update-with-tvos-266?utm_source=rss)
+ - [Early Siri indexing gives iPadOS 26.6 a bigger job than it looks](https://appleinsider.com/articles/26/07/27/early-siri-indexing-gives-ipados-266-a-bigger-job-than-it-looks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

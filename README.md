@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude Cowork can escape its sandbox, rummage through all of your files](https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss)
- - [Sources: A Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing&#39;s drive to reduce its reliance on foreign chipmaking tech &lpar;The Information&rpar;](https://www.techmeme.com/260727/p12#a260727p12)
- - [China warns it will take &quot;all necessary measures&quot; if the US sanctions Chinese AI companies over allegations they improperly used US models to train their models &lpar;Bloomberg&rpar;](https://www.techmeme.com/260727/p11#a260727p11)
- - [Way Security, which uses AI-driven automation and agentic workflows to help deploy IAM systems, raised a $20M seed from Insight Partners and Glilot Capital &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260727/p10#a260727p10)
- - [Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260727/p9#a260727p9)<!-- TECH:END -->
+ - [YouTube Premium will include Peacock starting next year](https://www.theverge.com/streaming/971452/youtube-premium-peacock-streaming-deal)
+ - [ASML shares fall 7%+ after a report that a Chinese state-backed company has begun manufacturing DUV machines; Applied Materials fell 6.5%+ and Lam Research 7%+ &lpar;Sarah Jacob/Bloomberg&rpar;](https://www.techmeme.com/260727/p21#a260727p21)
+ - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)
+ - [Antares, which is developing reactors with 1 MW of capacity for US military bases, raised $370M in equity and $100M in debt co-led by Paradigm and Caffeinated &lpar;Will Wade/Bloomberg&rpar;](https://www.techmeme.com/260727/p20#a260727p20)
+ - [Source: Sam Altman will meet with senior US officials, lawmakers, and economists in Washington, DC, this week to preview OpenAI&#39;s upcoming family of AI models &lpar;CNBC&rpar;](https://www.techmeme.com/260727/p19#a260727p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

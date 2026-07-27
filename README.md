@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best customer ever](http://9gag.com/gag/agmP7Gq)
- - 😝 [Insert a short and witty title here...](http://9gag.com/gag/ae9vObW)
- - 💣 [Totally unexpected](http://9gag.com/gag/adBmOwd)
- - 😝 [Peak men entertainment](http://9gag.com/gag/aGyWMD5)
- - 👉 [Vehicle + driver skills](http://9gag.com/gag/aO8XZBR)<!-- MEMES:END -->
+ - 😝 [Zeus approves this message](http://9gag.com/gag/an7LvX5)
+ - 😝 [Protesters demand to know why 7 grocery stores suddenly close in Chicago](http://9gag.com/gag/aBy7LRP)
+ - 💣 [Scary](http://9gag.com/gag/aZZGw4X)
+ - 😝 [Pretty accurate](http://9gag.com/gag/aW4wnR2)
+ - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
 
 ---
 

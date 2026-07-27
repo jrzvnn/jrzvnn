@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AppleCare One expands to four more countries](https://appleinsider.com/articles/26/07/27/applecare-one-expands-to-four-more-countries?utm_source=rss)
+ - [As open-weight models become the next AI ecosystem&#39;s foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds &lpar;Tobi Knaup&rpar;](https://www.techmeme.com/260727/p3#a260727p3)
+ - [A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI&#39;s sandbox and should be treated as critical &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260727/p2#a260727p2)
  - [US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260727/p1#a260727p1)
- - [CXMT shares jumped as much as 470% in its Shanghai debut, giving the memory chipmaker a ~$487B market cap, making it the most valuable China-listed company &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260726/p13#a260726p13)
- - [How US companies flipped from &quot;tokenmaxxing&quot; to &quot;thrift-maxxing&quot;, mixing cheaper Chinese models with OpenAI and Anthropic, threatening the labs&#39; IPO valuations &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p12#a260726p12)
- - [Dealroom: defense giants such as Lockheed Martin have participated in a record $4.1B worth of VC rounds YTD, as drones and autonomous systems transform warfare &lpar;Financial Times&rpar;](https://www.techmeme.com/260726/p11#a260726p11)
- - [Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10 GW data center project that SoftBank is developing in Ohio &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260726/p10#a260726p10)<!-- TECH:END -->
+ - [CXMT shares jumped as much as 470% in its Shanghai debut, giving the memory chipmaker a ~$487B market cap, making it the most valuable China-listed company &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260726/p13#a260726p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

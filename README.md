@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260727/p31#a260727p31)
- - [A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260727/p30#a260727p30)
- - [Razer’s analog Huntsman V3 Pro is over 20 percent off](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale)
- - [New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain](https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/)
- - [Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost](https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/)<!-- TECH:END -->
+ - [France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires](https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/)
+ - [Claude chats showed in Google and Bing search results, despite Anthropic&#39;s robots.txt saying not to crawl them, likely because the pages lacked a &quot;noindex&quot; tag &lpar;Maddy Varner/Wired&rpar;](https://www.techmeme.com/260727/p33#a260727p33)
+ - [Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn&#39;t be sold to China, calls for global model testing, more &lpar;Anthropic&rpar;](https://www.techmeme.com/260727/p32#a260727p32)
+ - [X Money is launching in the US starting today](https://www.theverge.com/tech/971649/x-money-launch-elon-musk)
+ - [Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260727/p31#a260727p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

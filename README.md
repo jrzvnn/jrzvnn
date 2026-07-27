@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daughters overjoyed as Apple Watch gift saves their father&#39;s life](https://appleinsider.com/articles/26/07/27/daughters-overjoyed-as-apple-watch-gift-saves-their-fathers-life?utm_source=rss)
+ - [A look at the secretive process Meta used to get an advantageous deal for its Hyperion data center in Louisiana, including tax breaks and lack of public input &lpar;New York Times&rpar;](https://www.techmeme.com/260727/p8#a260727p8)
  - [AppleCare One expands to four more countries](https://appleinsider.com/articles/26/07/27/applecare-one-expands-to-four-more-countries?utm_source=rss)
- - [As open-weight models become the next AI ecosystem&#39;s foundation, a US ban on Chinese models would risk ceding the neutral substrate where innovation compounds &lpar;Tobi Knaup&rpar;](https://www.techmeme.com/260727/p3#a260727p3)
- - [A detailed recap of the Hugging Face breach by an internal OpenAI model, which repeatedly tried to escape OpenAI&#39;s sandbox and should be treated as critical &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260727/p2#a260727p2)
- - [US tech giants have shifted their stance to publicly backing open AI models, with Anthropic and Amazon remaining notable holdouts alongside the US government &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260727/p1#a260727p1)
- - [CXMT shares jumped as much as 470% in its Shanghai debut, giving the memory chipmaker a ~$487B market cap, making it the most valuable China-listed company &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260726/p13#a260726p13)<!-- TECH:END -->
+ - [Steve Wozniak gave Apple its soul before Steve Jobs made it a hit](https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss)
+ - [The 10 Best WIRED-Tested Handheld Vacuums of 2026](https://www.wired.com/gallery/the-best-handheld-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

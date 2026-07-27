@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
+ - 😝 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
  - 😝 [Scary](http://9gag.com/gag/aZZGw4X)
- - 💣 [Do people really drown in 3 inch deep water?](http://9gag.com/gag/aGyW8pK)
- - 😝 [Side chick is knocking on door too](http://9gag.com/gag/ae9vZ7j)
+ - 💣 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 😝 [Haters will say it&#39;s AI. &lpar;It&#39;s not&rpar;](http://9gag.com/gag/a87B0jp)
  - 👉 [You want this Horcruxe harry ?](http://9gag.com/gag/aXP5NG6)<!-- MEMES:END -->
 
 ---

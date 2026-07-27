@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daughters overjoyed as Apple Watch gift saves their father&#39;s life](https://appleinsider.com/articles/26/07/27/daughters-overjoyed-as-apple-watch-gift-saves-their-fathers-life?utm_source=rss)
- - [A look at the secretive process Meta used to get an advantageous deal for its Hyperion data center in Louisiana, including tax breaks and lack of public input &lpar;New York Times&rpar;](https://www.techmeme.com/260727/p8#a260727p8)
- - [AppleCare One expands to four more countries](https://appleinsider.com/articles/26/07/27/applecare-one-expands-to-four-more-countries?utm_source=rss)
- - [Steve Wozniak gave Apple its soul before Steve Jobs made it a hit](https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss)
- - [The 10 Best WIRED-Tested Handheld Vacuums of 2026](https://www.wired.com/gallery/the-best-handheld-vacuum/)<!-- TECH:END -->
+ - [Claude Cowork can escape its sandbox, rummage through all of your files](https://appleinsider.com/articles/26/07/27/claude-cowork-can-escape-its-sandbox-rummage-through-all-of-your-files?utm_source=rss)
+ - [Sources: A Chinese state-backed company has begun manufacturing DUV machines, a key step in Beijing&#39;s drive to reduce its reliance on foreign chipmaking tech &lpar;The Information&rpar;](https://www.techmeme.com/260727/p12#a260727p12)
+ - [China warns it will take &quot;all necessary measures&quot; if the US sanctions Chinese AI companies over allegations they improperly used US models to train their models &lpar;Bloomberg&rpar;](https://www.techmeme.com/260727/p11#a260727p11)
+ - [Way Security, which uses AI-driven automation and agentic workflows to help deploy IAM systems, raised a $20M seed from Insight Partners and Glilot Capital &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260727/p10#a260727p10)
+ - [Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/260727/p9#a260727p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

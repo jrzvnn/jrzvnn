@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost](https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/)
- - [DHS Official Resigns, Citing ‘War on Immigrants’](https://www.wired.com/story/dhs-official-resigns-citing-war-on-immigrants/)
- - [Don&#39;t wait to update: iOS 26.6 includes more than 75 security fixes](https://appleinsider.com/articles/26/07/27/dont-wait-to-update-ios-266-includes-more-than-75-security-fixes?utm_source=rss)
- - [French carrier Orange and infrastructure investor Morrison agree to create a data center platform in France targeting 400 MW, backed by a €3B investment program &lpar;Molly Schuetz/Bloomberg&rpar;](https://www.techmeme.com/260727/p29#a260727p29)
- - [Private Claude Chats Exposed in Google and Bing Search Results](https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/)<!-- TECH:END -->
+ - [Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260727/p31#a260727p31)
+ - [A federal judge issues a preliminary injunction blocking Minnesota from enforcing a newly enacted law that banned prediction markets like Kalshi and Polymarket &lpar;Nate Raymond/Reuters&rpar;](https://www.techmeme.com/260727/p30#a260727p30)
+ - [Razer’s analog Huntsman V3 Pro is over 20 percent off](https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale)
+ - [New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain](https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/)
+ - [Microsoft Says Its New Cybersecurity AI Beats Industry Leaders at Half the Cost](https://www.cnet.com/tech/services-and-software/microsoft-says-its-new-cybersecurity-ai-beats-industry-leaders-at-half-the-cost/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

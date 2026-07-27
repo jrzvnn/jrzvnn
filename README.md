@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The IRA is back?](http://9gag.com/gag/aQz07oK)
+ - 😝 [So scary!](http://9gag.com/gag/aND6Vpv)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 💣 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
  - 😝 [She&#39;s goated for doing this for bro](http://9gag.com/gag/aAyo2Kd)
- - 💣 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)
- - 😝 [I know this dude... He is me](http://9gag.com/gag/aRBYoXQ)
- - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 👉 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)<!-- MEMES:END -->
 
 ---
 

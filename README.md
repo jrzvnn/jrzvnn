@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS 26.6 is out, but expect minimal feature changes with macOS 27 looming](https://appleinsider.com/articles/26/07/27/macos-266-is-out-but-expect-minimal-feature-changes-with-macos-27-looming?utm_source=rss)
- - [Prep for Siri AI on Apple Vision Pro with visionOS 26.6](https://appleinsider.com/articles/26/07/27/prep-for-siri-ai-on-apple-vision-pro-with-visionos-266?utm_source=rss)
- - [Apple rolls out watchOS 26.6 update for Apple Watch](https://appleinsider.com/articles/26/07/27/apple-rolls-out-watchos-266-update-for-apple-watch?utm_source=rss)
- - [Apple rolls out another behind-the-scenes update with tvOS 26.6](https://appleinsider.com/articles/26/07/27/apple-rolls-out-another-behind-the-scenes-update-with-tvos-266?utm_source=rss)
- - [Early Siri indexing gives iPadOS 26.6 a bigger job than it looks](https://appleinsider.com/articles/26/07/27/early-siri-indexing-gives-ipados-266-a-bigger-job-than-it-looks?utm_source=rss)<!-- TECH:END -->
+ - [X rolls out X Money to US Premium and Premium+ subscribers, combining a deposit account with up to 6% APY, free instant transfers on X, and a Visa debit card &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260727/p28#a260727p28)
+ - [Nanoleaf&amp;#8217;s colorful pegboard and shelf kit is half off](https://www.theverge.com/gadgets/971535/nanoleaf-blocks-combo-xl-deal-sale)
+ - [Older Macs get fresh security fixes with new macOS Sequoia &amp; Sonoma update](https://appleinsider.com/articles/26/07/27/older-macs-get-fresh-security-fixes-with-new-macos-sequoia-sonoma-update?utm_source=rss)
+ - [Xbox Live Is Down Monday: Microsoft Says It’s Working on a Resolution](https://www.cnet.com/tech/gaming/xbox-live-is-down-monday-microsoft-says-its-working-on-a-resolution/)
+ - [The US National Vulnerabilities Database recorded 45,207 software security flaws so far in 2026, on pace to roughly double the tally of flaws recorded in 2025 &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](https://www.techmeme.com/260727/p27#a260727p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260727/p34#a260727p34)
- - [Rivian Sues US Government for Tariff Refund](https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/)
- - [Apple Delays Smart Glasses Launch Over Privacy Issues, Report Says](https://www.cnet.com/tech/services-and-software/apple-delays-smart-glasses-launch-over-privacy-issues-report-says/)
- - [France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires](https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/)
- - [Claude chats showed in Google and Bing search results, despite Anthropic&#39;s robots.txt saying not to crawl them, likely because the pages lacked a &quot;noindex&quot; tag &lpar;Maddy Varner/Wired&rpar;](https://www.techmeme.com/260727/p33#a260727p33)<!-- TECH:END -->
+ - [At market open Korean chipmakers&#39; stocks plunged, with Samsung Electronics dropping 11%+, SK Hynix down 12%+, and the Korea Composite Stock Price Index down 9%+ &lpar;Youkyung Lee/Bloomberg&rpar;](https://www.techmeme.com/260727/p37#a260727p37)
+ - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
+ - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)
+ - [Today’s NYT Strands Hints, Answers and Help for July 28 #877](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-28-877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

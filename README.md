@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life](https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/)
- - [CXMT&#39;s IPO delivers a windfall for Hefei, an eastern China inland industrial city, with the government sitting on 5,000%+ paper gains after an early investment &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260728/p11#a260728p11)
- - [AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260728/p10#a260728p10)
- - [Can the New York Times Save Journalism From Our AI Overlords?](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/)
- - [Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260728/p9#a260728p9)<!-- TECH:END -->
+ - [ESA satellite images show damage to two Amazon data centers in Bahrain, supporting Iran&#39;s claims last week that it struck the sites; Amazon declined to comment &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260728/p16#a260728p16)
+ - [Perplexity’s Personal Computer turns Windows PCs into AI agents](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents)
+ - [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260728/p15#a260728p15)
+ - [Apple launches ‘Upgrade’ program to lease new devices](https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch)
+ - [Apple Upgrade goes live as a new installment plan for iPhone, iPad, Mac, &amp; Apple Watch](https://appleinsider.com/articles/26/07/28/apple-upgrade-goes-live-as-a-new-installment-plan-for-iphone-ipad-mac-apple-watch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

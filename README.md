@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ESA satellite images show damage to two Amazon data centers in Bahrain, supporting Iran&#39;s claims last week that it struck the sites; Amazon declined to comment &lpar;Olivia Solon/Bloomberg&rpar;](https://www.techmeme.com/260728/p16#a260728p16)
- - [Perplexity’s Personal Computer turns Windows PCs into AI agents](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents)
- - [Apple launches Apple Upgrade, a new US leasing program in partnership with Klarna that replaces the iPhone Upgrade Program, starting at $17.99/month for iPhones &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260728/p15#a260728p15)
- - [Apple launches ‘Upgrade’ program to lease new devices](https://www.theverge.com/tech/971220/apple-upgrade-program-iphone-mac-ipad-lease-launch)
- - [Apple Upgrade goes live as a new installment plan for iPhone, iPad, Mac, &amp; Apple Watch](https://appleinsider.com/articles/26/07/28/apple-upgrade-goes-live-as-a-new-installment-plan-for-iphone-ipad-mac-apple-watch?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI and Anthropic have lobbied the Trump administration to make sure lagging competitors also have to comply with government reviews of their models &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260728/p26#a260728p26)
+ - [Galaxy Watch Ultra 2 Trail Running Test: Can It Outrun Your Garmin?](https://www.cnet.com/tech/mobile/galaxy-watch-ultra-2-trail-running-test-can-it-outrun-your-garmin/)
+ - [GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260728/p25#a260728p25)
+ - [Apple&#39;s smart home hardware refresh draws closer with Siri AI smarts](https://appleinsider.com/articles/26/07/28/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts?utm_source=rss)
+ - [Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260728/p24#a260728p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

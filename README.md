@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts&#39; forecast of $5.10; STX jumps 6%+ after hours &lpar;Nate Wolf/Barron&#39;s Online&rpar;](https://www.techmeme.com/260728/p42#a260728p42)
- - [The US FCC bans the import of new Chinese humanoid robots and power inverters, seeking to protect the US AI buildout from national security threats &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p41#a260728p41)
- - [Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign](https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/)
- - [Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260728/p40#a260728p40)
- - [Today’s Wordle Hints, Answer and Help for July 29, #1866](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-29-1866/)<!-- TECH:END -->
+ - [Ariana Grande is suing the hackers who&amp;#8217;ve been leaking her songs and videos for years](https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit)
+ - [Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p45#a260728p45)
+ - [Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B &lpar;Kyle Baird/The Block&rpar;](https://www.techmeme.com/260728/p44#a260728p44)
+ - [The union drive at the Wikimedia Foundation is expanding](https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike)
+ - [eBay&amp;#8217;s bizarre cyberstalking saga ends with a $56 million settlement](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

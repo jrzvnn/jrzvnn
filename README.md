@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI and Anthropic have lobbied the Trump administration to make sure lagging competitors also have to comply with government reviews of their models &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260728/p26#a260728p26)
- - [Galaxy Watch Ultra 2 Trail Running Test: Can It Outrun Your Garmin?](https://www.cnet.com/tech/mobile/galaxy-watch-ultra-2-trail-running-test-can-it-outrun-your-garmin/)
- - [GrubMarket, which connects wholesalers and distributors to grocers and other food buyers, confidentially files for a US IPO; it was valued at $4.5B in February &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/260728/p25#a260728p25)
- - [Apple&#39;s smart home hardware refresh draws closer with Siri AI smarts](https://appleinsider.com/articles/26/07/28/apples-smart-home-hardware-refresh-draws-closer-with-siri-ai-smarts?utm_source=rss)
- - [Memo: Visa is cutting ~2,600 jobs, or ~7% of staff, primarily affecting tech and product teams; source: Visa plans to reinvest in stablecoin and other offerings &lpar;Paige Smith/Bloomberg&rpar;](https://www.techmeme.com/260728/p24#a260728p24)<!-- TECH:END -->
+ - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)
+ - [Ahead of earnings, Goldman Sachs hikes AAPL target to $370](https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss)
+ - [Letter: the US EPA says power plants providing electricity only to data centers and not to the public grid would not be subject to federal pollution laws &lpar;Tim McLaughlin/Reuters&rpar;](https://www.techmeme.com/260728/p32#a260728p32)
+ - [eBay and several ex-executives agree to pay a $56M settlement to resolve a 2021 civil case involving the 2019 stalking and harassment of two e-commerce bloggers &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260728/p31#a260728p31)
+ - [Amazon slashes $500 off 14-inch M5 Pro MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/07/28/amazon-slashes-500-off-14-inch-m5-pro-macbook-pro-with-2tb-ssd?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

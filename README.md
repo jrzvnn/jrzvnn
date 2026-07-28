@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple overtakes Nvidia to become the world&#39;s most valuable publicly traded company, two years after it lost the crown, closing at a $4.9T market cap on Monday &lpar;Kalley Huang/New York Times&rpar;](https://www.techmeme.com/260728/p4#a260728p4)
+ - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)
  - [Hugging Face Has a Deepfake Nudes Problem](https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/)
  - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
- - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)
- - [AirDoctor Coupon Codes: 40% Off | July 2026](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Google Workspace Promo Codes: 14% Off for July](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

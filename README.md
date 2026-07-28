@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple overtakes Nvidia to become the world&#39;s most valuable publicly traded company, two years after it lost the crown, closing at a $4.9T market cap on Monday &lpar;Kalley Huang/New York Times&rpar;](https://www.techmeme.com/260728/p4#a260728p4)
- - [A profile of Justin Sun, who made his fortune in the early phases of crypto, advised for Trump family&#39;s WLF, then sued WLF alleging fraud and breach of contract &lpar;Jen Wieczner/New York Magazine&rpar;](https://www.techmeme.com/260728/p3#a260728p3)
- - [Hugging Face Has a Deepfake Nudes Problem](https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/)
- - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
- - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
+ - [A Two-Person Startup Has Fixed One of the Most Hated Sounds in Modern Life](https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/)
+ - [CXMT&#39;s IPO delivers a windfall for Hefei, an eastern China inland industrial city, with the government sitting on 5,000%+ paper gains after an early investment &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260728/p11#a260728p11)
+ - [AI Forensics: seven out of the nine top AI image models on Hugging Face edited an image of a clothed woman into a topless one using a simple six-word prompt &lpar;Matt Burgess/Wired&rpar;](https://www.techmeme.com/260728/p10#a260728p10)
+ - [Can the New York Times Save Journalism From Our AI Overlords?](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/)
+ - [Sources: Taiwan detained an Nvidia employee as part of a probe into the alleged smuggling of AI chips into China, after searching his home and office on July 24 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260728/p9#a260728p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

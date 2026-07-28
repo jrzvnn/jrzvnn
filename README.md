@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute Cinema](http://9gag.com/gag/aD2EZOw)
- - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 😝 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
+ - 💣 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
  - 👉 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)<!-- MEMES:END -->
 
 ---

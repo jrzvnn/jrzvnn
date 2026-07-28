@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to &quot;build essentially a clone&quot; of Runlayer&#39;s safety and governance product &lpar;Taylor Herzlich/New York Post&rpar;](https://www.techmeme.com/260728/p35#a260728p35)
- - [Tile&amp;#8217;s best Bluetooth tracker is down to its lowest price of the year](https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale)
- - [Save $150 on this smart indoor bike trainer that can keep you riding during the off months](https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale)
- - [Anthropic says Claude Mythos Preview was able to break a weaker version of AES and it orchestrated another improved attack against HAWK cryptographic system &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260728/p34#a260728p34)
- - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)<!-- TECH:END -->
+ - [AI leaders sign statement asking the government to do something about automated AI](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)
+ - [Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to &quot;deliberately pace the frontier of automated AI development&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260728/p39#a260728p39)
+ - [Is it illegal to trick the US government into wiping your phone during a questionably legal search?](https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password)
+ - [AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex)
+ - [Laura Loomer&#39;s Reversal on Ukraine Stirs Up the MAGA Civil War](https://www.wired.com/story/laura-loomer-ukraine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 😝 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
+ - 😝 [Amazingly Strong](http://9gag.com/gag/agmP47W)
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
  - 💣 [So scary!](http://9gag.com/gag/aND6Vpv)
- - 😝 [Jokes](http://9gag.com/gag/aMV3vwM)
+ - 😝 [`Do nothing and win` -gabe](http://9gag.com/gag/aGyWAmK)
  - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazingly Strong](http://9gag.com/gag/agmP47W)
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 💣 [So scary!](http://9gag.com/gag/aND6Vpv)
- - 😝 [`Do nothing and win` -gabe](http://9gag.com/gag/aGyWAmK)
- - 👉 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)<!-- MEMES:END -->
+ - 😝 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
+ - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 💣 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
+ - 😝 [Jokes](http://9gag.com/gag/aMV3vwM)
+ - 👉 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
 
 ---
 

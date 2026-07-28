@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 😝 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)
+ - 💣 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
  - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
- - 💣 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)
- - 😝 [Instant justice served perfectly](http://9gag.com/gag/aYQ21KV)
- - 👉 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)<!-- MEMES:END -->
+ - 👉 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
  - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 💣 [Absolute EPIC !](http://9gag.com/gag/aW4wb7x)
- - 😝 [Jokes](http://9gag.com/gag/aMV3vwM)
- - 👉 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
+ - 😝 [Who&#39;s gonna tell him](http://9gag.com/gag/awy6LzD)
+ - 💣 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)
+ - 😝 [Instant justice served perfectly](http://9gag.com/gag/aYQ21KV)
+ - 👉 [A woman got heat exhaustion after a 2-Mile hike, now her group could face a $70,000 rescue bill](http://9gag.com/gag/a9y98LZ)<!-- MEMES:END -->
 
 ---
 

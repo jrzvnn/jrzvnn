@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
- - 😝 [Thirsty bird just needed a little help](http://9gag.com/gag/aLnyGXz)
- - 💣 [Jokes](http://9gag.com/gag/aMV3vwM)
- - 😝 [True face of Capitalism](http://9gag.com/gag/a9y9XOj)
- - 👉 [It\u2019s not about skin color, it\u2019s about education and culture.](http://9gag.com/gag/aD2EVPx)<!-- MEMES:END -->
+ - 😝 [Unexpected](http://9gag.com/gag/aGyW2nZ)
+ - 😝 [Ultimate rock paper scissors champion](http://9gag.com/gag/a9y98mo)
+ - 💣 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 😝 [Engineers that worked on the braking system](http://9gag.com/gag/avy3vNX)
+ - 👉 [Mass shooting in Seattle](http://9gag.com/gag/aqyqQ8v)<!-- MEMES:END -->
 
 ---
 

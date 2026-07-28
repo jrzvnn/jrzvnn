@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hott](http://9gag.com/gag/aD2EVrZ)
- - 😝 [I know this dude... He is me](http://9gag.com/gag/aRBYoXQ)
- - 💣 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
+ - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
  - 😝 [Thirsty bird just needed a little help](http://9gag.com/gag/aLnyGXz)
- - 👉 [Jokes](http://9gag.com/gag/aMV3vwM)<!-- MEMES:END -->
+ - 💣 [Jokes](http://9gag.com/gag/aMV3vwM)
+ - 😝 [True face of Capitalism](http://9gag.com/gag/a9y9XOj)
+ - 👉 [It\u2019s not about skin color, it\u2019s about education and culture.](http://9gag.com/gag/aD2EVPx)<!-- MEMES:END -->
 
 ---
 

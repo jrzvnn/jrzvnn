@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At market open Korean chipmakers&#39; stocks plunged, with Samsung Electronics dropping 11%+, SK Hynix down 12%+, and the Korea Composite Stock Price Index down 9%+ &lpar;Youkyung Lee/Bloomberg&rpar;](https://www.techmeme.com/260727/p37#a260727p37)
- - [ChatGPT appears to block direct requests to copy an author&#39;s style, instead offering to capture the overall &quot;feeling&quot;, amid its legal battles with book authors &lpar;Kyle Orland/Ars Technica&rpar;](https://www.techmeme.com/260727/p36#a260727p36)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for July 28, #673](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-673/)
- - [Today’s NYT Connections Hints and Answers for July 28, #1143](https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-28-1143/)
- - [Today’s NYT Strands Hints, Answers and Help for July 28 #877](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-28-877/)<!-- TECH:END -->
+ - [Hugging Face Has a Deepfake Nudes Problem](https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/)
+ - [Ulta Promo Codes: Up to 50% Off in July 2026](https://www.wired.com/story/ulta-coupon/)
+ - [B&amp;H Photo Promo Codes and Deals This July 2026](https://www.wired.com/story/bh-photo-coupon/)
+ - [AirDoctor Coupon Codes: 40% Off | July 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Google Workspace Promo Codes: 14% Off for July](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

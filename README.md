@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Hott](http://9gag.com/gag/aD2EVrZ)
  - 😝 [I know this dude... He is me](http://9gag.com/gag/aRBYoXQ)
- - 💣 [It\u2019s not about skin color, it\u2019s about education and culture.](http://9gag.com/gag/aD2EVPx)
- - 😝 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
- - 👉 [Thirsty bird just needed a little help](http://9gag.com/gag/aLnyGXz)<!-- MEMES:END -->
+ - 💣 [Old ideas . . . still relevant today.](http://9gag.com/gag/ae9vVQp)
+ - 😝 [Thirsty bird just needed a little help](http://9gag.com/gag/aLnyGXz)
+ - 👉 [Jokes](http://9gag.com/gag/aMV3vwM)<!-- MEMES:END -->
 
 ---
 

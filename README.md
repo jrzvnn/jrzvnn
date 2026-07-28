@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI leaders sign statement asking the government to do something about automated AI](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta)
- - [Sources: OpenAI, Anthropic, and DeepMind staffers are sharing a letter asking the US government to &quot;deliberately pace the frontier of automated AI development&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260728/p39#a260728p39)
- - [Is it illegal to trick the US government into wiping your phone during a questionably legal search?](https://www.theverge.com/report/972146/cbp-phone-search-airport-duress-password)
- - [AI’s finally expensive enough to make Wall Street nervous](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex)
- - [Laura Loomer&#39;s Reversal on Ukraine Stirs Up the MAGA Civil War](https://www.wired.com/story/laura-loomer-ukraine/)<!-- TECH:END -->
+ - [Seagate reports Q4 revenue up 49% YoY to $3.6B, vs. $3.5B est., adjusted earnings of $5.71 a share, above analysts&#39; forecast of $5.10; STX jumps 6%+ after hours &lpar;Nate Wolf/Barron&#39;s Online&rpar;](https://www.techmeme.com/260728/p42#a260728p42)
+ - [The US FCC bans the import of new Chinese humanoid robots and power inverters, seeking to protect the US AI buildout from national security threats &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p41#a260728p41)
+ - [Ebay Has to Pay $55.7 Million in Settlement for Its Unhinged Harassment Campaign](https://www.wired.com/story/ebay-has-to-pay-dollar557-million-in-settlement-for-its-unhinged-harassment-campaign/)
+ - [Coursera is investing $100M in LearnVector, a new AI education company founded by Andrew Ng that aims to build AI agents that function as personal tutors &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260728/p40#a260728p40)
+ - [Today’s Wordle Hints, Answer and Help for July 29, #1866](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-29-1866/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

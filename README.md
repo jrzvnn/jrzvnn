@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Anthropic release statements in support of the &quot;Pacing the Frontier&quot; initiative; Anthropic says Dario Amodei and several co-founders have signed it &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260728/p47#a260728p47)
+ - [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)
+ - [NXP reports Q2 revenue up 19% YoY to $3.5B, vs. $3.46B est., as it struggled to impress investors with a generally upbeat Q3 forecast; NXPI down 5%+ after hours &lpar;Christina Kyriasoglou/Bloomberg&rpar;](https://www.techmeme.com/260728/p46#a260728p46)
  - [Ariana Grande is suing the hackers who&amp;#8217;ve been leaking her songs and videos for years](https://www.theverge.com/entertainment/972233/ariana-grande-hacking-lawsuit)
- - [Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p45#a260728p45)
- - [Bitcoin miner and AI infrastructure company Ionic Digital surged more than 25% to nearly $63 in its Nasdaq debut, giving it an implied valuation of ~$2.75B &lpar;Kyle Baird/The Block&rpar;](https://www.techmeme.com/260728/p44#a260728p44)
- - [The union drive at the Wikimedia Foundation is expanding](https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike)
- - [eBay&amp;#8217;s bizarre cyberstalking saga ends with a $56 million settlement](https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement)<!-- TECH:END -->
+ - [Sources: the OpenAI agent that breached Hugging Face also compromised a customer at AI infrastructure company Modal Labs &lpar;Reuters&rpar;](https://www.techmeme.com/260728/p45#a260728p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

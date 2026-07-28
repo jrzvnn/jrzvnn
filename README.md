@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases updates for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS with a huge number of security fixes; macOS Tahoe 26.6 alone addresses 155 CVEs &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260727/p34#a260727p34)
+ - [Rivian Sues US Government for Tariff Refund](https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/)
+ - [Apple Delays Smart Glasses Launch Over Privacy Issues, Report Says](https://www.cnet.com/tech/services-and-software/apple-delays-smart-glasses-launch-over-privacy-issues-report-says/)
  - [France Records Its First-Ever Pyrocumulonimbus Cloud Amid Record-Smashing Fires](https://www.wired.com/story/france-records-first-pyrocumulonimbus-cloud-wildfires/)
- - [Claude chats showed in Google and Bing search results, despite Anthropic&#39;s robots.txt saying not to crawl them, likely because the pages lacked a &quot;noindex&quot; tag &lpar;Maddy Varner/Wired&rpar;](https://www.techmeme.com/260727/p33#a260727p33)
- - [Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn&#39;t be sold to China, calls for global model testing, more &lpar;Anthropic&rpar;](https://www.techmeme.com/260727/p32#a260727p32)
- - [X Money is launching in the US starting today](https://www.theverge.com/tech/971649/x-money-launch-elon-musk)
- - [Cadence reports Q2 revenue up 24.2% YoY to $1.58B and raises its annual revenue forecast to between $6.26B and $6.34B vs. $6.21B est.; CDNS up 4%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260727/p31#a260727p31)<!-- TECH:END -->
+ - [Claude chats showed in Google and Bing search results, despite Anthropic&#39;s robots.txt saying not to crawl them, likely because the pages lacked a &quot;noindex&quot; tag &lpar;Maddy Varner/Wired&rpar;](https://www.techmeme.com/260727/p33#a260727p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

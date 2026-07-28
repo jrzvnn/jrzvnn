@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Hush Security, which lets organizations securely control enterprise AI agents, raised a $30M Series A, bringing its total funding to $41M &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260728/p33#a260728p33)
- - [Ahead of earnings, Goldman Sachs hikes AAPL target to $370](https://appleinsider.com/articles/26/07/28/ahead-of-earnings-goldman-sachs-hikes-aapl-target-to-370?utm_source=rss)
- - [Letter: the US EPA says power plants providing electricity only to data centers and not to the public grid would not be subject to federal pollution laws &lpar;Tim McLaughlin/Reuters&rpar;](https://www.techmeme.com/260728/p32#a260728p32)
- - [eBay and several ex-executives agree to pay a $56M settlement to resolve a 2021 civil case involving the 2019 stalking and harassment of two e-commerce bloggers &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260728/p31#a260728p31)
- - [Amazon slashes $500 off 14-inch M5 Pro MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/07/28/amazon-slashes-500-off-14-inch-m5-pro-macbook-pro-with-2tb-ssd?utm_source=rss)<!-- TECH:END -->
+ - [NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to &quot;build essentially a clone&quot; of Runlayer&#39;s safety and governance product &lpar;Taylor Herzlich/New York Post&rpar;](https://www.techmeme.com/260728/p35#a260728p35)
+ - [Tile&amp;#8217;s best Bluetooth tracker is down to its lowest price of the year](https://www.theverge.com/gadgets/971976/tile-pro-bluetooth-tracker-deal-sale)
+ - [Save $150 on this smart indoor bike trainer that can keep you riding during the off months](https://www.theverge.com/gadgets/971634/wahoo-kickr-core-bike-trainer-dell-6k-monitor-deal-sale)
+ - [Anthropic says Claude Mythos Preview was able to break a weaker version of AES and it orchestrated another improved attack against HAWK cryptographic system &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260728/p34#a260728p34)
+ - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

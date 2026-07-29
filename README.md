@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI president says it&amp;#8217;s &amp;#8216;building a family of devices&amp;#8217; for its AI chatbots](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview)
- - [The US government just banned Roombas](https://www.theverge.com/policy/972312/us-robot-ban-sweep-up-chinese-vacuums)
- - [Amazon slashes AirPods Max 2 to $449 with a month-end $100 discount](https://appleinsider.com/articles/26/07/29/amazon-slashes-airpods-max-2-to-449-with-a-month-end-100-discount?utm_source=rss)
- - [OpenAI launches ChatGPT for Academic Researchers, giving 100K scientists, mathematicians, and engineers free access to its frontier models through 2027 &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260729/p31#a260729p31)
- - [UK is asking for &#39;highly intrusive&#39; controls over App Store, says Apple](https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)
+ - [Which of Dyson’s 2026 Vacuum Models Is the Best?](https://www.wired.com/story/dyson-vacuum-comparison-2026/)
+ - [Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control &lpar;Google&rpar;](https://www.techmeme.com/260729/p33#a260729p33)
+ - [Hugging Face Users Easily Created and Shared Abusive AI Images, Study Finds](https://www.cnet.com/tech/services-and-software/hugging-face-ai-nonconsensual-deepfakes-study/)
+ - [Crunchyroll and Starz Bundle Up on Prime Video](https://www.cnet.com/tech/services-and-software/crunchyroll-starz-bundle-prime-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

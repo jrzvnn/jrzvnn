@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s corporate espionage suit against OpenAI: How we got here](https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss)
- - [iPhone sales keep rising in China even as market declines](https://appleinsider.com/articles/26/07/29/iphone-sales-keep-rising-in-china-even-as-market-declines?utm_source=rss)
- - [The 15 Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/the-best-pool-accessories/)
- - [Love It or Hate It, the Ferrari Luce Is a Thrilling Drive](https://www.wired.com/story/first-drive-ferrari-luce/)
- - [Artists are lawyering up against AI slop, and some are even winning](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic)<!-- TECH:END -->
+ - [X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X &lpar;Daniel Thomas/Financial Times&rpar;](https://www.techmeme.com/260729/p20#a260729p20)
+ - [X Says Australia’s Under-16s Social Media Ban Risks Interfering With Foreign Law](https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/)
+ - [DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260729/p19#a260729p19)
+ - [Source: OpenRouter was recently generating ~$140M in annualized revenue, or ~$12M per month, up nearly 3x since April, making Stripe&#39;s $10B offer a big premium &lpar;The Information&rpar;](https://www.techmeme.com/260729/p18#a260729p18)
+ - [GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&amp;D of silicon photonics tech to power more efficient AI data centers &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p17#a260729p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

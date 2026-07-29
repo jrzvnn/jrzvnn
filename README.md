@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 💣 [Unexpected](http://9gag.com/gag/aGyW2nZ)
  - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
- - 👉 [Happens](http://9gag.com/gag/a9y9OR0)<!-- MEMES:END -->
+ - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
 
 ---
 

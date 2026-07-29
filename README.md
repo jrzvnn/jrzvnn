@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X settles a long-running legal battle with the World Federation of Advertisers, ending a case that accused brands like Mars and Shell of illegally boycotting X &lpar;Daniel Thomas/Financial Times&rpar;](https://www.techmeme.com/260729/p20#a260729p20)
- - [X Says Australia’s Under-16s Social Media Ban Risks Interfering With Foreign Law](https://www.wired.com/story/x-says-australias-under-16s-social-media-bans-risk-interfering-with-foreign-law/)
- - [DoorDash says the FAA granted it Part 135 air carrier certification to operate a drone delivery service and it plans to launch drone deliveries in the fall &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260729/p19#a260729p19)
- - [Source: OpenRouter was recently generating ~$140M in annualized revenue, or ~$12M per month, up nearly 3x since April, making Stripe&#39;s $10B offer a big premium &lpar;The Information&rpar;](https://www.techmeme.com/260729/p18#a260729p18)
- - [GlobalFoundries says the US plans to award it $300M in CHIPS Act funding to bolster R&amp;D of silicon photonics tech to power more efficient AI data centers &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p17#a260729p17)<!-- TECH:END -->
+ - [Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p27#a260729p27)
+ - [The Ferrari Luce has at least 500 fans](https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales)
+ - [Encore AI, which studies companies&#39; customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260729/p26#a260729p26)
+ - [ChipAgents, which uses AI agents to help speed up the process of chip design, raised a $60M Series A2 led by B Capital, bringing the expanded round to $134M &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260729/p25#a260729p25)
+ - [AI leaves the chat window behind with Gemini&#39;s new Mac voice mode](https://appleinsider.com/articles/26/07/29/ai-leaves-the-chat-window-behind-with-geminis-new-mac-voice-mode?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

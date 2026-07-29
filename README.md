@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Groundcover, which provides observability software that can monitor AI agents, raised a $100M Series C led by One Peak, bringing its total funding to $160M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p27#a260729p27)
- - [The Ferrari Luce has at least 500 fans](https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales)
- - [Encore AI, which studies companies&#39; customer interactions to train and deploy AI voice agents, raised a $30M Series A led by Team8, Planven, and The Garage &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260729/p26#a260729p26)
- - [ChipAgents, which uses AI agents to help speed up the process of chip design, raised a $60M Series A2 led by B Capital, bringing the expanded round to $134M &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260729/p25#a260729p25)
- - [AI leaves the chat window behind with Gemini&#39;s new Mac voice mode](https://appleinsider.com/articles/26/07/29/ai-leaves-the-chat-window-behind-with-geminis-new-mac-voice-mode?utm_source=rss)<!-- TECH:END -->
+ - [UK is asking for &#39;highly intrusive&#39; controls over App Store, says Apple](https://appleinsider.com/articles/26/07/29/uk-is-asking-for-highly-intrusive-controls-over-app-store-says-apple?utm_source=rss)
+ - [Anthropic&#39;s cryptanalysis results on HAWK and AES show AI can now understand existing cryptanalysis results, turn them into new attacks, and even extend them &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/260729/p30#a260729p30)
+ - [Full school day cellphone bans are more popular than ever](https://www.theverge.com/policy/972607/full-school-day-cell-phone-bans-are-more-popular-than-ever)
+ - [Tropical Diseases Like Dengue Fever and Chikungunya Are on the Rise in Europe](https://www.wired.com/story/tropical-diseases-dengue-fever-and-chikungunya-on-the-rise-in-europe/)
+ - [Investors continue to dump chipmaker stocks on Wednesday following disappointing results from SK Hynix; Sandisk is down 7.5%+, Arm 6.5%+, and AMD 6.5%+ &lpar;Financial Times&rpar;](https://www.techmeme.com/260729/p29#a260729p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Wall Street expects from Apple&#39;s Q3 2026 earnings on July 30](https://appleinsider.com/articles/26/07/27/what-wall-street-expects-from-apples-q3-2026-earnings-on-july-30?utm_source=rss)
- - [Which of Dyson’s 2026 Vacuum Models Is the Best?](https://www.wired.com/story/dyson-vacuum-comparison-2026/)
- - [Google launches its Lyria 3.5 music generation model in Google Flow Music, highlighting improved musicality, lyrics, vocal quality, and creative control &lpar;Google&rpar;](https://www.techmeme.com/260729/p33#a260729p33)
- - [Hugging Face Users Easily Created and Shared Abusive AI Images, Study Finds](https://www.cnet.com/tech/services-and-software/hugging-face-ai-nonconsensual-deepfakes-study/)
- - [Crunchyroll and Starz Bundle Up on Prime Video](https://www.cnet.com/tech/services-and-software/crunchyroll-starz-bundle-prime-video/)<!-- TECH:END -->
+ - [Qualcomm reports Q3 revenue down 4% YoY to $9.95B, vs. $9.67B est., forecasts Q4 profit below est., expects revenue from Apple products to decline more quickly &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p39#a260729p39)
+ - [Meta reports $2.4B in charges related to legal proceedings in Q2 and $1.18B in severance expenses in connection with the May 2026 layoff of about 8,000 staff &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260729/p38#a260729p38)
+ - [Runna’s New Feature Adjusts Training Plans Based on Extreme Weather](https://www.cnet.com/uncategorized/runnas-new-feature-adjusts-training-plans-based-on-extreme-weather/)
+ - [Microsoft reports Q4 Azure and other cloud services revenue up 43% YoY, vs. 40% est., and says Azure revenue in FY 2026 exceeded $100B for the first time &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260729/p37#a260729p37)
+ - [Meta reports Q2 revenue up 28% YoY to $60.8B and family daily active people up 3% to 3.6B on average for June 2026; META drops 4%+ after hours &lpar;Meta&rpar;](https://www.techmeme.com/260729/p36#a260729p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She&#39;s goated for doing this for bro](http://9gag.com/gag/aAyo2Kd)
  - 😝 [Sounds like a nurse](http://9gag.com/gag/aKGrO4b)
- - 😝 [Just sharing](http://9gag.com/gag/aLnydKV)
- - 💣 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)
+ - 💣 [Just sharing](http://9gag.com/gag/aLnydKV)
  - 😝 [OCD is for me!](http://9gag.com/gag/aYQ2A7V)
- - 👉 [Wildberries warehouse this morning in Ryazan ^^](http://9gag.com/gag/azx0YDN)<!-- MEMES:END -->
+ - 👉 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)
- - [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale)
- - [Microsoft reports Q4 Windows OEM and Devices revenue down 7% YoY, Xbox hardware revenue down 13%, and Xbox content and services revenue down 10% &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260729/p43#a260729p43)
- - [It Looks Like Nothing Can Dent MAGA’s Support for ICE](https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/)
- - [Arm reports Q1 revenue up 22% YoY to $1.29B, vs. $1.26B est., royalty revenue up 22% YoY to $715M, and forecasts Q2 profit above estimates &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p42#a260729p42)<!-- TECH:END -->
+ - [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
+ - [DoorDash Wins Approval to Begin Delivering by Drone](https://www.cnet.com/tech/doordash-wins-approval-to-begin-delivering-by-drone/)
+ - [Robinhood reports Q2 revenue up 32% YoY to $1.31B, vs. $1.29B est., event contracts revenue up over 10x to $156M, and crypto revenue down 38% to $100M &lpar;Bill Peters/MarketWatch&rpar;](https://www.techmeme.com/260729/p44#a260729p44)
+ - [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)
+ - [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

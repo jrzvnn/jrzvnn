@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jokes](http://9gag.com/gag/aMV3vwM)
- - 😝 [Thirsty bird just needed a little help](http://9gag.com/gag/aLnyGXz)
- - 💣 [Sounds like a nurse](http://9gag.com/gag/aKGrO4b)
- - 😝 [It\u2019s not about skin color, it\u2019s about education and culture.](http://9gag.com/gag/aD2EVPx)
- - 👉 [Unexpected](http://9gag.com/gag/aGyW2nZ)<!-- MEMES:END -->
+ - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 😝 [This is what a cult looks like](http://9gag.com/gag/apRWb8D)
+ - 💣 [Unexpected](http://9gag.com/gag/aGyW2nZ)
+ - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
+ - 👉 [Happens](http://9gag.com/gag/a9y9OR0)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 😝 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
- - 😝 [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 💣 [Fair emergency](http://9gag.com/gag/axyXm2b)
- - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
+ - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 ---
 

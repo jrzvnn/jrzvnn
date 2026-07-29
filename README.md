@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 💣 [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
- - 👉 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)<!-- MEMES:END -->
+ - 😝 [Sounds like a nurse](http://9gag.com/gag/aKGrO4b)
+ - 😝 [Just sharing](http://9gag.com/gag/aLnydKV)
+ - 💣 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)
+ - 😝 [OCD is for me!](http://9gag.com/gag/aYQ2A7V)
+ - 👉 [Wildberries warehouse this morning in Ryazan ^^](http://9gag.com/gag/azx0YDN)<!-- MEMES:END -->
 
 ---
 

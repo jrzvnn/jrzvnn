@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm reports Q3 revenue down 4% YoY to $9.95B, vs. $9.67B est., forecasts Q4 profit below est., expects revenue from Apple products to decline more quickly &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p39#a260729p39)
- - [Meta reports $2.4B in charges related to legal proceedings in Q2 and $1.18B in severance expenses in connection with the May 2026 layoff of about 8,000 staff &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260729/p38#a260729p38)
- - [Runna’s New Feature Adjusts Training Plans Based on Extreme Weather](https://www.cnet.com/uncategorized/runnas-new-feature-adjusts-training-plans-based-on-extreme-weather/)
- - [Microsoft reports Q4 Azure and other cloud services revenue up 43% YoY, vs. 40% est., and says Azure revenue in FY 2026 exceeded $100B for the first time &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260729/p37#a260729p37)
- - [Meta reports Q2 revenue up 28% YoY to $60.8B and family daily active people up 3% to 3.6B on average for June 2026; META drops 4%+ after hours &lpar;Meta&rpar;](https://www.techmeme.com/260729/p36#a260729p36)<!-- TECH:END -->
+ - [xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit)
+ - [Cyberpunk 2077 packs a lot of fun into its discounted $20 price](https://www.theverge.com/gadgets/972777/cyberpunk-2077-deal-sale)
+ - [Microsoft reports Q4 Windows OEM and Devices revenue down 7% YoY, Xbox hardware revenue down 13%, and Xbox content and services revenue down 10% &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260729/p43#a260729p43)
+ - [It Looks Like Nothing Can Dent MAGA’s Support for ICE](https://www.wired.com/story/it-looks-like-nothing-can-dent-magas-support-for-ice/)
+ - [Arm reports Q1 revenue up 22% YoY to $1.29B, vs. $1.26B est., royalty revenue up 22% YoY to $715M, and forecasts Q2 profit above estimates &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p42#a260729p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

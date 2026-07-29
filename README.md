@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p5#a260729p5)
- - [GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero&#39;s earlier investigations led EY and KPMG to retract reports with similar issues &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260729/p4#a260729p4)
- - [ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260729/p3#a260729p3)
- - [Surfshark Promo Codes: 87% Off | July 2026](https://www.wired.com/story/surfshark-coupon/)
- - [LG Promo Codes and Coupons for July 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed &lpar;Ingrid Lunden/Resilience Media&rpar;](https://www.techmeme.com/260729/p9#a260729p9)
+ - [Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p8#a260729p8)
+ - [Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books](https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/)
+ - [NASA’s New 3D Model Shows the Earth Is a Lumpy Mess](https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/)
+ - [ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’](https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

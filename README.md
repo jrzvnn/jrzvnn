@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft confirms Copilot ‘super app’ coming this year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed)
- - [DoorDash Wins Approval to Begin Delivering by Drone](https://www.cnet.com/tech/doordash-wins-approval-to-begin-delivering-by-drone/)
- - [Robinhood reports Q2 revenue up 32% YoY to $1.31B, vs. $1.29B est., event contracts revenue up over 10x to $156M, and crypto revenue down 38% to $100M &lpar;Bill Peters/MarketWatch&rpar;](https://www.techmeme.com/260729/p44#a260729p44)
- - [Mark Zuckerberg is planning a big push into personal AI agents](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)
- - [Qualcomm is raising phone chip prices starting September 1st](https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings)<!-- TECH:END -->
+ - [Source and docs: Intel has given access to its Atom processor tech to Rosaic, a new startup led by Amarjit Gill; Lip-Bu Tan and Gill are longtime co-investors &lpar;Reuters&rpar;](https://www.techmeme.com/260729/p46#a260729p46)
+ - [Apple&#39;s reliance on Qualcomm could decline faster than expected after Q4 2026](https://appleinsider.com/articles/26/07/29/apples-reliance-on-qualcomm-could-decline-faster-than-expected-after-q4-2026?utm_source=rss)
+ - [Microsoft Says Workers Are Now Using Copilot AI as Much as Teams and Outlook](https://www.cnet.com/tech/services-and-software/microsoft-fiscal-year-2026-q4-earnings-agentic-ai-work/)
+ - [Source: the European Commission plans to designate OpenAI&#39;s ChatGPT and Roblox as &quot;very large online platforms&quot; under the DSA as soon as August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p45#a260729p45)
+ - [Planets, Meteors and an Eclipse: August Is Going to Be a Big Month for Skygazing](https://www.cnet.com/science/planet-parade-meteors-eclipse-august-skygazing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

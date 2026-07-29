@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Mini Crossword Answers for Wednesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-29/)
- - [Mark Zuckerberg says the US should not ban Chinese AI models and that AI model peer reviews or vetting could be positive if &quot;done well with thoughtful people&quot; &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260728/p54#a260728p54)
- - [Doctors and researchers worry that FDA-related wagers on Kalshi and Polymarket could compromise drug development tests and erode public trust in the process &lpar;Rebecca Robbins/New York Times&rpar;](https://www.techmeme.com/260728/p53#a260728p53)
- - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
- - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)<!-- TECH:END -->
+ - [A look at Kioxia, the Japanese NAND flash maker that went from being cash-strapped in 2023 to an expected 30-fold jump in operating income in Q1 FY 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p5#a260729p5)
+ - [GPTZero finds AI hallucinations in four PwC Middle East reports; GPTZero&#39;s earlier investigations led EY and KPMG to retract reports with similar issues &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/260729/p4#a260729p4)
+ - [ETH Zurich spinout ZuriQ, which is developing trapped-ion quantum computing processors based on a 2D architecture, raised a $25.5M seed led by Quantonation &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260729/p3#a260729p3)
+ - [Surfshark Promo Codes: 87% Off | July 2026](https://www.wired.com/story/surfshark-coupon/)
+ - [LG Promo Codes and Coupons for July 2026](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

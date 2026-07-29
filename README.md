@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
+ - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 ---
 

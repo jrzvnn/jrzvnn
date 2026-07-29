@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
- - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
+ - 😝 [Happens](http://9gag.com/gag/a9y9OR0)
+ - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
+ - 💣 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
+ - 😝 [Seems legitimate](http://9gag.com/gag/an7LrD5)
+ - 👉 [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)<!-- MEMES:END -->
 
 ---
 

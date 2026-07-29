@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/aGyW2nZ)
- - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 💣 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
+ - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
  - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
  - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 ---

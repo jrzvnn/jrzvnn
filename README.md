@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s goated for doing this for bro](http://9gag.com/gag/aAyo2Kd)
- - 😝 [Sounds like a nurse](http://9gag.com/gag/aKGrO4b)
- - 💣 [Just sharing](http://9gag.com/gag/aLnydKV)
- - 😝 [OCD is for me!](http://9gag.com/gag/aYQ2A7V)
- - 👉 [Katy Perry&#39;s fans deliberately ruins her concert entry by carrying her away the wrong direction](http://9gag.com/gag/aE0LOgG)<!-- MEMES:END -->
+ - 😝 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
+ - 😝 [Unexpected](http://9gag.com/gag/aGyW2nZ)
+ - 💣 [Fair emergency](http://9gag.com/gag/axyXm2b)
+ - 😝 [Meow meow](http://9gag.com/gag/aryjBN5)
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 ---
 

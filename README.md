@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security- and AI-related startups have raised $855M across more than 150 reported seed-stage rounds this year, on track for an all-time high &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260728/p48#a260728p48)
- - [A Typo Landed an Innocent Gamer in Prison for 18 Months](https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/)
- - [A New Smart Ring Uses Finger Sweat to Track Health](https://www.cnet.com/tech/mobile/new-smart-ring-uses-finger-sweat-track-health/)
- - [OpenAI and Anthropic release statements in support of the &quot;Pacing the Frontier&quot; initiative; Anthropic says Dario Amodei and several co-founders have signed it &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260728/p47#a260728p47)
- - [The US is banning foreign robots](https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban)<!-- TECH:END -->
+ - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)
+ - [Online Scams May Be Costing Americans 7 Times More Than Reported](https://www.cnet.com/uncategorized/online-scams-may-be-costing-americans-seven-times-more-than-reported/)
+ - [SK Hynix reports Q2 revenue up 257% YoY to ~$54.34B, below ~$57.56B est., and operating profit up 557% YoY to ~$41.48B, below analyst estimate of ~$43.85B &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260728/p49#a260728p49)
+ - [OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face](https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/)
+ - [Twelve South Valet mini review: A luxe MagSafe catch-all with new, faster speeds](https://appleinsider.com/articles/26/07/28/twelve-south-valet-mini-review-a-luxe-magsafe-catch-all-with-new-faster-speeds?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

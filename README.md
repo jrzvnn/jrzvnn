@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Welcome To Europe \ud83c\uddea\ud83c\uddfa.](http://9gag.com/gag/a1mGLb6)
- - 😝 [Middle-aged white women will do anything except a normal workout](http://9gag.com/gag/aD2EXy9)
- - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 💣 [Stop bullying](http://9gag.com/gag/an7LDGB)
  - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
+ - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
 
 ---
 

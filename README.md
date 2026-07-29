@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happens](http://9gag.com/gag/a9y9OR0)
- - 😝 [Imagine seeing him, taking photos thinking it was just another cosplayer, and then seeing this video...](http://9gag.com/gag/aD2EVBK)
- - 💣 [He be testin\u2019](http://9gag.com/gag/aD2EXAK)
- - 😝 [Seems legitimate](http://9gag.com/gag/an7LrD5)
- - 👉 [F*ck them celebs &lpar;not mine but I liked it very much&rpar;](http://9gag.com/gag/a2vnL1p)<!-- MEMES:END -->
+ - 😝 [Kansas City tried 1 city-run low cost grocery store for $18 million to help a diverse neighborhood and this is what happened after 1 month](http://9gag.com/gag/agmPEvg)
+ - 😝 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
+ - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)
+ - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
 
 ---
 

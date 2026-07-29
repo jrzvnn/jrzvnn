@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Agon, which is developing sovereign AI training infrastructure for European defense, emerges from stealth with a $7M pre-seed and a $23M seed &lpar;Ingrid Lunden/Resilience Media&rpar;](https://www.techmeme.com/260729/p9#a260729p9)
- - [Sources: Moonshot AI hit a $35B valuation after closing a $3.5B round, exceeding its initial target of $1B to $2B, and plans a Hong Kong IPO as soon as 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260729/p8#a260729p8)
- - [Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books](https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/)
- - [NASA’s New 3D Model Shows the Earth Is a Lumpy Mess](https://www.wired.com/story/nasas-new-3d-model-shows-lumpy-earth/)
- - [ICE’s New Detention Center Contracts Declare State Laws ‘Shall Not Apply’](https://www.wired.com/story/ices-new-detention-contracts-declare-state-law-shall-not-apply/)<!-- TECH:END -->
+ - [Apple&#39;s corporate espionage suit against OpenAI: How we got here](https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss)
+ - [iPhone sales keep rising in China even as market declines](https://appleinsider.com/articles/26/07/29/iphone-sales-keep-rising-in-china-even-as-market-declines?utm_source=rss)
+ - [The 15 Best Pool Accessories to Upgrade Your Summer &lpar;2026&rpar;](https://www.wired.com/story/the-best-pool-accessories/)
+ - [Love It or Hate It, the Ferrari Luce Is a Thrilling Drive](https://www.wired.com/story/first-drive-ferrari-luce/)
+ - [Artists are lawyering up against AI slop, and some are even winning](https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

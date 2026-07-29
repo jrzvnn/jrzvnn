@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI sues Minnesota&#39;s AG over a state law banning apps and sites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment &lpar;Riley Moser/CBS News&rpar;](https://www.techmeme.com/260728/p50#a260728p50)
- - [Online Scams May Be Costing Americans 7 Times More Than Reported](https://www.cnet.com/uncategorized/online-scams-may-be-costing-americans-seven-times-more-than-reported/)
- - [SK Hynix reports Q2 revenue up 257% YoY to ~$54.34B, below ~$57.56B est., and operating profit up 557% YoY to ~$41.48B, below analyst estimate of ~$43.85B &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260728/p49#a260728p49)
- - [OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face](https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/)
- - [Twelve South Valet mini review: A luxe MagSafe catch-all with new, faster speeds](https://appleinsider.com/articles/26/07/28/twelve-south-valet-mini-review-a-luxe-magsafe-catch-all-with-new-faster-speeds?utm_source=rss)<!-- TECH:END -->
+ - [Today’s NYT Mini Crossword Answers for Wednesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-29/)
+ - [Mark Zuckerberg says the US should not ban Chinese AI models and that AI model peer reviews or vetting could be positive if &quot;done well with thoughtful people&quot; &lpar;Hannah Murphy/Financial Times&rpar;](https://www.techmeme.com/260728/p54#a260728p54)
+ - [Doctors and researchers worry that FDA-related wagers on Kalshi and Polymarket could compromise drug development tests and erode public trust in the process &lpar;Rebecca Robbins/New York Times&rpar;](https://www.techmeme.com/260728/p53#a260728p53)
+ - [Anthropic faces backlash from Silicon Valley partners, founders, and researchers for competitive tactics, guardrails, and lack of support for open-weight models &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260728/p52#a260728p52)
+ - [OpenAI says the rogue AI that breached Hugging Face used exposed credentials from &quot;four accounts&quot; tied to four &quot;publicly available&quot; third-party services &lpar;Wired&rpar;](https://www.techmeme.com/260728/p51#a260728p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

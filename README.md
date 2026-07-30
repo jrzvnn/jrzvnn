@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govee&amp;#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
- - [Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it &quot;achieves comparable performance&quot; to Inkling &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260730/p42#a260730p42)
- - [Sources: a group of banks is in talks to lend $15B to Nexus to build a Texas data center; Anthropic will lease it and Google has provided financial guarantees &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p41#a260730p41)
- - [Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/)
- - [Google pilots a faster twice-a-week schedule for Chrome security releases as AI tools drive a surge in bug discoveries; Chrome 149 and 150 fixed 1,072 bugs &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260730/p40#a260730p40)<!-- TECH:END -->
+ - [Apple pledges on-ground wildfire relief for Europe, earthquakes in Japan](https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss)
+ - [Winamp Plans Comeback With New Deezer Partnership](https://www.cnet.com/tech/winamp-plans-comeback-with-new-deezer-partnership/)
+ - [Sources: DeepSeek plans to build a 1 GW data center in Inner Mongolia and aims to bring at least part of its capacity online by the end of 2027 or early 2028 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260730/p47#a260730p47)
+ - [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale)
+ - [Samsung Expects the Chip Shortage to Get Worse Before It Gets Better](https://www.cnet.com/tech/samsung-expects-the-chip-shortage-to-get-worse-before-it-gets-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

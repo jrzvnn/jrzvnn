@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)
- - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
- - 💣 [What goes on here?](http://9gag.com/gag/aGyW7Z5)
- - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 💣 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
+ - 😝 [Unfortunate naming incident](http://9gag.com/gag/a5Q8DBL)
+ - 👉 [Fair emergency](http://9gag.com/gag/axyXm2b)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney CEO Josh D&#39;Amaro is leading a technological overhaul of Disney+ to close the gap with Netflix and YouTube, including new features like vertical videos &lpar;Bloomberg&rpar;](https://www.techmeme.com/260730/p16#a260730p16)
- - [4 Best Budget Smartwatch Models for Less Than $250 &lpar;2026&rpar;](https://www.wired.com/story/best-budget-smartwatch/)
- - [‘Spider-Man: Brand New Day’ Is a Superhero Movie for Yearners](https://www.wired.com/story/spider-man-brand-new-day-is-a-superhero-movie-for-yearners/)
- - [An AI avatar of Brazil&#39;s jailed ex-president Jair Bolsonaro, who is banned from communicating publicly, is testing new AI rules ahead of Brazil&#39;s 2026 elections &lpar;Financial Times&rpar;](https://www.techmeme.com/260730/p15#a260730p15)
- - [How compute could become over 10x costlier as AI capabilities and monetization outpace supply, and a look at the implications if Anthropic hits $1T in revenue &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260730/p14#a260730p14)<!-- TECH:END -->
+ - [Google-backed nuclear fusion company Commonwealth Fusion Systems raised $1B, after raising a $1.8B Series B in 2021 and $863M in 2025, and plans a 2030s launch &lpar;Zachary Skidmore/DatacenterDynamics&rpar;](https://www.techmeme.com/260730/p22#a260730p22)
+ - [Google integrates Nano Banana 2 into Google Earth via a new Create Image button, letting users prompt visual alterations of locations or infographics &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260730/p21#a260730p21)
+ - [Filing: Meta reports $279B in future lease agreements in Q2 related to AI data centers that are not reflected on its balance sheet, up 53% from the prior period &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/260730/p20#a260730p20)
+ - [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories)
+ - [Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for $6B in cash, a 33% premium, set to close in H1 2027 &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p19#a260730p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

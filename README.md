@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israel-based Xsight, which makes server networking and storage chips, raised $300M led by Fidelity Investments at a $2.8B post-money valuation &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260730/p32#a260730p32)
- - [Enterprise data pipeline startup DataBahn raised a $40M Series B led by Insight Partners, bringing its total funding to $59M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260730/p31#a260730p31)
- - [Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior](https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv)
- - [Gemini Robotics 2 Brings Google&#39;s AI Into the Physical World](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)
- - [Razer Huntsman V3 HE Review: Jumping on the Bandwagon](https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/)<!-- TECH:END -->
+ - [Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price)
+ - [Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace&#39;s $129 price, with an optional $10 monthly subscription &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260730/p37#a260730p37)
+ - [Amazon launches $399 Samsung 32&quot; M80F monitor deal, now $300 off](https://appleinsider.com/articles/26/07/30/amazon-launches-399-samsung-32-m80f-monitor-deal-now-300-off?utm_source=rss)
+ - [Wiz says a now-patched flaw in Azure CosmosDB would have let a hacker remotely compromise any of its users; Microsoft has seen &quot;no evidence of customer impact&quot; &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260730/p36#a260730p36)
+ - [The New Friend AI Pendant Can Now Talk Back to You](https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
  - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
- - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
- - 😝 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)
- - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
+ - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
+ - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with CuspAI&#39;s Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260730/p5#a260730p5)
- - [Though Google&#39;s SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260730/p4#a260730p4)
- - [A look at ByteDance&#39;s efforts to become China&#39;s leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips &lpar;Financial Times&rpar;](https://www.techmeme.com/260730/p3#a260730p3)
- - [Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares &lpar;K Oanh Ha/Bloomberg&rpar;](https://www.techmeme.com/260730/p2#a260730p2)
- - [As the UK slips in Ookla&#39;s mobile download speed and Opensignal&#39;s network quality rankings, operators blame planning rules and low prices for underinvestment &lpar;Financial Times&rpar;](https://www.techmeme.com/260730/p1#a260730p1)<!-- TECH:END -->
+ - [China&#39;s AI hubs, including CXMT&#39;s home Hefei, are driving the country&#39;s GDP growth, but even in these boomtowns, little of the windfall is reaching households &lpar;Bloomberg&rpar;](https://www.techmeme.com/260730/p8#a260730p8)
+ - [Tens of millions of South Korean retail investors, the market&#39;s biggest buyers in 2026, were caught in this week&#39;s selloff, as Samsung and SK Hynix tumble &lpar;Song Jung-a/Financial Times&rpar;](https://www.techmeme.com/260730/p7#a260730p7)
+ - [I Got a Free Meal From a Private Chef—Who Filmed It All to Train Robots](https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/)
+ - [Stripe says thousands of solo operators on its service generate $1M+ in annual revenue, and those making $10M+ nearly tripled between 2023 and 2025, aided by AI &lpar;Te-Ping Chen/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p6#a260730p6)
+ - [Q&amp;A with CuspAI&#39;s Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260730/p5#a260730p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

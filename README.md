@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
  - 😝 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
- - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 💣 [Fair emergency](http://9gag.com/gag/axyXm2b)
  - 😝 [Hello, it&#39;s been a while!](http://9gag.com/gag/aXP5ed6)
- - 👉 [Absolute Peak Male Performance Formula 1 Drivers are](http://9gag.com/gag/a87BzG1)<!-- MEMES:END -->
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 ---
 

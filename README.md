@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
  - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
  - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
+ - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
 
 ---
 

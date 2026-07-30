@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modeling Agency](http://9gag.com/gag/a6ZAGPe)
- - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
  - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
- - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
+ - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 😝 [Morning Sam. Morning Ralph. &lpar;Fight&rpar;. Same time tomorrow?](http://9gag.com/gag/aMV3q36)
+ - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
 
 ---
 

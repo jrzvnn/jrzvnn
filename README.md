@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google-backed nuclear fusion company Commonwealth Fusion Systems raised $1B, after raising a $1.8B Series B in 2021 and $863M in 2025, and plans a 2030s launch &lpar;Zachary Skidmore/DatacenterDynamics&rpar;](https://www.techmeme.com/260730/p22#a260730p22)
- - [Google integrates Nano Banana 2 into Google Earth via a new Create Image button, letting users prompt visual alterations of locations or infographics &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260730/p21#a260730p21)
- - [Filing: Meta reports $279B in future lease agreements in Q2 related to AI data centers that are not reflected on its balance sheet, up 53% from the prior period &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/260730/p20#a260730p20)
- - [Amazon’s short story collections are one of the best reasons to own a Kindle](https://www.theverge.com/tech/972612/amazons-kindle-short-stories)
- - [Intercontinental Exchange agrees to acquire electronic fixed-income trading platform MarketAxess for $6B in cash, a 33% premium, set to close in H1 2027 &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p19#a260730p19)<!-- TECH:END -->
+ - [Israel-based Xsight, which makes server networking and storage chips, raised $300M led by Fidelity Investments at a $2.8B post-money valuation &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/260730/p32#a260730p32)
+ - [Enterprise data pipeline startup DataBahn raised a $40M Series B led by Insight Partners, bringing its total funding to $59M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260730/p31#a260730p31)
+ - [Xiaomi’s SkyNomad N90 Max is an extended-range EV with a transforming interior](https://www.theverge.com/tech/973053/xiaomi-skynomad-n90-max-extended-range-electric-suv)
+ - [Gemini Robotics 2 Brings Google&#39;s AI Into the Physical World](https://www.wired.com/story/google-gemini-can-control-humanoid-robots/)
+ - [Razer Huntsman V3 HE Review: Jumping on the Bandwagon](https://www.wired.com/review/razer-huntsman-v3-hall-effect-keyboard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

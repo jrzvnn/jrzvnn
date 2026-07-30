@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
  - 😝 [San Lorenzo Beach incident - pilot made evasive maneuver to avoid a flock of birds](http://9gag.com/gag/ayNOv9y)
- - 😝 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
- - 💣 [Fair emergency](http://9gag.com/gag/axyXm2b)
+ - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
  - 😝 [Hello, it&#39;s been a while!](http://9gag.com/gag/aXP5ed6)
  - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 

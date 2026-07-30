@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your Home address in Maps on iPhone](https://appleinsider.com/articles/26/07/30/how-to-change-your-home-address-in-maps-on-iphone?utm_source=rss)
- - [In Q4, Microsoft&#39;s Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/260729/p52#a260729p52)
- - [US senators urge Apple to abandon plans for Chinese-made chips](https://appleinsider.com/articles/26/07/30/us-senators-urge-apple-to-abandon-plans-for-chinese-made-chips?utm_source=rss)
- - [The FCC&#39;s ban on foreign &quot;advanced robotic devices&quot; includes any new ground-based, software-controlled wireless robot over 4.4 pounds, including robot vacuums &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260729/p51#a260729p51)
- - [Onyx Security, whose platform enables enterprises to deploy AI agents securely, raised a $113M Series B led by Bessemer, taking its total funding to $153M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260729/p50#a260729p50)<!-- TECH:END -->
+ - [Q&amp;A with CuspAI&#39;s Max Welling on its AI Materials Foundry, partnerships with Nvidia and others, Geoff Hinton and Yann LeCun joining its advisory board, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260730/p5#a260730p5)
+ - [Though Google&#39;s SynthID tech for watermarking AI images is hard to break, there will always be ways to create AI-generated content without any labeling &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260730/p4#a260730p4)
+ - [A look at ByteDance&#39;s efforts to become China&#39;s leading company across all aspects of AI, from frontier models and video generation to infrastructure and chips &lpar;Financial Times&rpar;](https://www.techmeme.com/260730/p3#a260730p3)
+ - [Airlines are using AI to adjust seat prices more quickly, capturing more revenue while narrowing the pricing gaps that once let travelers find bargain fares &lpar;K Oanh Ha/Bloomberg&rpar;](https://www.techmeme.com/260730/p2#a260730p2)
+ - [As the UK slips in Ookla&#39;s mobile download speed and Opensignal&#39;s network quality rankings, operators blame planning rules and low prices for underinvestment &lpar;Financial Times&rpar;](https://www.techmeme.com/260730/p1#a260730p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can somebody translate it into english?](http://9gag.com/gag/agmPEqW)
- - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
- - 💣 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 😝 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)
- - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
+ - 😝 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
+ - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
+ - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [Giant fluffy best friend](http://9gag.com/gag/agmPKwg)
+ - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
 
 ---
 

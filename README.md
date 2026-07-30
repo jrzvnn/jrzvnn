@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep your head on a swivel](http://9gag.com/gag/aGyWO0w)
+ - 😝 [Modeling Agency](http://9gag.com/gag/a6ZAGPe)
  - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
- - 😝 [Giant fluffy best friend](http://9gag.com/gag/agmPKwg)
- - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
+ - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 😝 [Stop bullying](http://9gag.com/gag/an7LDGB)
+ - 👉 [Just NY things](http://9gag.com/gag/aqyqzov)<!-- MEMES:END -->
 
 ---
 

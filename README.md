@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
- - 💣 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 😝 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)
+ - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
+ - 💣 [What goes on here?](http://9gag.com/gag/aGyW7Z5)
  - 😝 [Save and never try it](http://9gag.com/gag/a9y9DKj)
- - 👉 [Property owner puts up gate to stop trespassers](http://9gag.com/gag/a5Q8qPV)<!-- MEMES:END -->
+ - 👉 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)<!-- MEMES:END -->
 
 ---
 

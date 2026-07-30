@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 😝 [Not disappointed](http://9gag.com/gag/apRWY9n)
+ - 😝 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)
+ - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
  - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
  - 😝 [Hello, it&#39;s been a while!](http://9gag.com/gag/aXP5ed6)
- - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)<!-- MEMES:END -->
+ - 👉 [Absolute Peak Male Performance Formula 1 Drivers are](http://9gag.com/gag/a87BzG1)<!-- MEMES:END -->
 
 ---
 

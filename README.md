@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pledges on-ground wildfire relief for Europe, earthquakes in Japan](https://appleinsider.com/articles/26/07/30/apple-pledges-aid-as-wildfires-devastate-southern-europe?utm_source=rss)
- - [Winamp Plans Comeback With New Deezer Partnership](https://www.cnet.com/tech/winamp-plans-comeback-with-new-deezer-partnership/)
- - [Sources: DeepSeek plans to build a 1 GW data center in Inner Mongolia and aims to bring at least part of its capacity online by the end of 2027 or early 2028 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260730/p47#a260730p47)
- - [Samsung’s Galaxy Watch 9 is $40 off at Costco and comes with over $50 in freebies](https://www.theverge.com/gadgets/973211/costco-galaxy-watch-9-preorder-costco-deal-sale)
- - [Samsung Expects the Chip Shortage to Get Worse Before It Gets Better](https://www.cnet.com/tech/samsung-expects-the-chip-shortage-to-get-worse-before-it-gets-better/)<!-- TECH:END -->
+ - [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)
+ - [Apple blows away Wall Street guess-work again with record-breaking earnings](https://appleinsider.com/articles/26/07/30/apple-blows-away-wall-street-guess-work-again-with-record-breaking-earnings?utm_source=rss)
+ - [Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B &lpar;Apple&rpar;](https://www.techmeme.com/260730/p52#a260730p52)
+ - [Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were &quot;choppy&quot;; RDDT drops 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260730/p51#a260730p51)
+ - [Banning Open-Source AI Models to Protect Our Cybersecurity May Do the Opposite](https://www.cnet.com/tech/services-and-software/open-source-ai-model-ban-proposal-cybersecurity-risks-news/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

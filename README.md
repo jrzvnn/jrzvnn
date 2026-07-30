@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The loss of Situational Awareness](https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks)
- - [Apple blows away Wall Street guess-work again with record-breaking earnings](https://appleinsider.com/articles/26/07/30/apple-blows-away-wall-street-guess-work-again-with-record-breaking-earnings?utm_source=rss)
- - [Apple reports Q3 revenue up 16% YoY to $109.42B, vs. $108.65B est., net income up 27% to $29.79B, and China revenue up 22% to $18.82B &lpar;Apple&rpar;](https://www.techmeme.com/260730/p52#a260730p52)
- - [Reddit reports Q2 revenue up 61% YoY to $805M, vs. $730M est., forecasts Q3 revenue above est., says search referrals were &quot;choppy&quot;; RDDT drops 6%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260730/p51#a260730p51)
- - [Banning Open-Source AI Models to Protect Our Cybersecurity May Do the Opposite](https://www.cnet.com/tech/services-and-software/open-source-ai-model-ban-proposal-cybersecurity-risks-news/)<!-- TECH:END -->
+ - [Ternus&#39;s MacBook Neo pushes Mac sales to unexpected Q3 heights](https://appleinsider.com/articles/26/07/30/ternuss-macbook-neo-pushes-mac-sales-to-unexpected-q3-heights?utm_source=rss)
+ - [Tim Cook says goodbye to analysts &amp; shareholders on his final Apple earnings call](https://appleinsider.com/articles/26/07/30/tim-cook-says-goodbye-to-analysts-shareholders-on-his-final-apple-earnings-call?utm_source=rss)
+ - [Roblox reports Q2 bookings up 8% YoY to $1.56B, vs. $1.6B est., DAUs up 10% to 123M, forecasts Q3 bookings and revenue below est.; RBLX drops 13%+ after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p55#a260730p55)
+ - [Apple hits 1.5 billion subscription milestone, still falls short of Wall Street wants](https://appleinsider.com/articles/26/07/30/apple-hits-15-billion-subscription-milestone-still-falls-short-of-wall-street-wants?utm_source=rss)
+ - [Apple blows away Wall Street guess-work again with record-breaking earnings](https://appleinsider.com/articles/26/07/30/apple-blows-away-wall-street-guess-work-again-with-record-breaking-earnings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

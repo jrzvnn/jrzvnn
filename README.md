@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friend re-launches its AI pendant with a speaker that talks to you, for twice the price](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price)
- - [Friend announces an AI pendant with a speaker for spoken replies for $249, up from its original necklace&#39;s $129 price, with an optional $10 monthly subscription &lpar;Boone Ashworth/Wired&rpar;](https://www.techmeme.com/260730/p37#a260730p37)
- - [Amazon launches $399 Samsung 32&quot; M80F monitor deal, now $300 off](https://appleinsider.com/articles/26/07/30/amazon-launches-399-samsung-32-m80f-monitor-deal-now-300-off?utm_source=rss)
- - [Wiz says a now-patched flaw in Azure CosmosDB would have let a hacker remotely compromise any of its users; Microsoft has seen &quot;no evidence of customer impact&quot; &lpar;Raphael Satter/Reuters&rpar;](https://www.techmeme.com/260730/p36#a260730p36)
- - [The New Friend AI Pendant Can Now Talk Back to You](https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/)<!-- TECH:END -->
+ - [Govee&amp;#8217;s portable smart lamp is down to one of its best prices to date](https://www.theverge.com/gadgets/973266/govee-table-lamp-classic-back-to-school-deal-sale)
+ - [Thinking Machines releases Inkling-Small, an open-weight model with 276B total and 12B active parameters, saying it &quot;achieves comparable performance&quot; to Inkling &lpar;Thinking Machines Lab&rpar;](https://www.techmeme.com/260730/p42#a260730p42)
+ - [Sources: a group of banks is in talks to lend $15B to Nexus to build a Texas data center; Anthropic will lease it and Google has provided financial guarantees &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p41#a260730p41)
+ - [Nvidia’s Open Source Alliance Snubs OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/)
+ - [Google pilots a faster twice-a-week schedule for Chrome security releases as AI tools drive a surge in bug discoveries; Chrome 149 and 150 fixed 1,072 bugs &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260730/p40#a260730p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

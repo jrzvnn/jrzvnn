@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kansas City tried 1 city-run low cost grocery store for $18 million to help a diverse neighborhood and this is what happened after 1 month](http://9gag.com/gag/agmPEvg)
- - 😝 [Yeah, pretty much so. Sadly](http://9gag.com/gag/an7LDRq)
- - 💣 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 😝 [Can somebody translate it into english?](http://9gag.com/gag/agmPEqW)
+ - 😝 [Just NY things](http://9gag.com/gag/aqyqzov)
+ - 💣 [He was a little angry](http://9gag.com/gag/agmPKqv)
  - 😝 [5000 days here f**kers](http://9gag.com/gag/a1mGO06)
- - 👉 [He was a little angry](http://9gag.com/gag/agmPKqv)<!-- MEMES:END -->
+ - 👉 [Stop bullying](http://9gag.com/gag/an7LDGB)<!-- MEMES:END -->
 
 ---
 

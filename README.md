@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [School and college is overrated... - that female cop](http://9gag.com/gag/a4PDV7Q)
- - 😝 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
- - 💣 [This is your reminder that Ryan Gosling has to beat this](http://9gag.com/gag/a6ZA8Vq)
- - 😝 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
+ - 😝 [Guys its over, norwood reaper is undefeated](http://9gag.com/gag/aQz0Vpe)
+ - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
+ - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
 
 ---
 

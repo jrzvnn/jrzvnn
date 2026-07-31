@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ceuta, Spain. I had to add the music. Some 9gaggers who live there?](http://9gag.com/gag/agmPj21)
- - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 😝 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
- - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
+ - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
+ - 😝 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 👉 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)<!-- MEMES:END -->
 
 ---
 

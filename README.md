@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys its over, norwood reaper is undefeated](http://9gag.com/gag/aQz0Vpe)
- - 😝 [That&#39;s one way to do it](http://9gag.com/gag/aND6jDA)
- - 💣 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 😝 [You look at it and you LIKE IT!](http://9gag.com/gag/aVvNBBM)
+ - 😝 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
+ - 😝 [Hello, it&#39;s been a while!](http://9gag.com/gag/aXP5ed6)
  - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 😝 [Temporary Insanity](http://9gag.com/gag/aYQ2R0q)
+ - 😝 [Ceuta, Spain. I had to add the music. Some 9gaggers who live there?](http://9gag.com/gag/agmPj21)
+ - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
  - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 😝 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
- - 👉 [Lumberjack breaks grip strength tester](http://9gag.com/gag/a9y9Dm1)<!-- MEMES:END -->
+ - 😝 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)
+ - 👉 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260730/p65#a260730p65)
- - [Microsoft&#39;s stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260730/p64#a260730p64)
- - [Tim Cook says Apple expects &quot;the impact from the supply constraints to increase significantly sequentially&quot; and the market pricing for memory to keep rising &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260730/p63#a260730p63)
- - [Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p62#a260730p62)
- - [Tim Cook’s Final Earnings Call: Record iPhone Sales and Future Pricing Woes](https://www.cnet.com/tech/tim-cook-final-apple-earnings-call-iphone-sales-pricing-woes/)<!-- TECH:END -->
+ - [Google, Amazon, Microsoft, and Meta spent a combined $1.1T in capex from the start of the AI boom in 2023 through June 2026 and plan to spend $745B this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260731/p2#a260731p2)
+ - [Today’s NYT Mini Crossword Answers for Friday, July 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-31/)
+ - [A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260731/p1#a260731p1)
+ - [JP Morgan lowers Apple price target on supply constraint worries, still bullish long-term](https://appleinsider.com/articles/26/07/31/jp-morgan-lowers-apple-price-target-on-supply-constraint-worries-still-bullish-long-term?utm_source=rss)
+ - [Sources: SoftBank gave $50M to Trump&#39;s library; Apple, Microsoft, and Amazon gave $25M, $10M, and $5M to his WH ballroom; Meta gave $10M to a pro-Trump group &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260730/p70#a260730p70)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

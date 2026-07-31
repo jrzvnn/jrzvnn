@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: Xi Jinping called for more defense applications using autonomous and AI technologies, as he pushes to build an advanced fighting force &lpar;Josh Xiao/Bloomberg&rpar;](https://www.techmeme.com/260731/p12#a260731p12)
- - [The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
- - [DeepSeek rolls out the official V4 Flash API in public beta, touting enhanced agent capabilities and benchmark scores &quot;far surpassing&quot; V4 Pro Preview &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260731/p11#a260731p11)
- - [New York sues Kalshi for alleged violations of its gambling laws; the CFTC files an emergency motion to stop the state&#39;s enforcement, calling it an &quot;overreach&quot; &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/260731/p10#a260731p10)
- - [Australia&#39;s online safety regulator says social media use among under-16s fell to 81.5% in March 2026, compared to 85.9% before ban took effect in December 2025 &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260731/p9#a260731p9)<!-- TECH:END -->
+ - [Sources: Eric Trump-backed Space-Eyes, which develops AI-powered defense tech for the public sector, agrees to go public via a SPAC merger at a $638M valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p17#a260731p17)
+ - [Best Dyson Vacuums &lpar;2026&rpar;: V15 Detect, Gen5Detect, PencilVac](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches)
+ - [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology)
+ - [Sources: the Trump admin is weighing a $100K fee for foreign students seeking to work in the US after graduation; a judge blocked Trump&#39;s $100K H-1B fee in June &lpar;Michelle Hackman/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p16#a260731p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

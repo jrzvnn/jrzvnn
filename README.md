@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was a little angry](http://9gag.com/gag/agmPKqv)
- - 😝 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 💣 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
  - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 👉 [Perfect gift for step brother....](http://9gag.com/gag/a5Q85EL)<!-- MEMES:END -->
+ - 😝 [What the F...k even that ?](http://9gag.com/gag/aXP5Rnb)
+ - 💣 [Six and halfway](http://9gag.com/gag/aBy7o7N)
+ - 😝 [White people are the worst. They even freed slaves.](http://9gag.com/gag/aW4wdD2)
+ - 👉 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
 
 ---
 

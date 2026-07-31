@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash](https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/)
+ - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)
+ - [Roblox shares close down ~27%, its worst-ever daily percentage decline, after forecasting falling bookings and slowing revenue growth; RBLX is down 40%+ YTD &lpar;Kit Norton/Barron&#39;s Online&rpar;](https://www.techmeme.com/260731/p37#a260731p37)
  - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI&#39;s network &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p36#a260731p36)
- - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)
- - [Today’s Wordle Hints, Answer and Help for Aug. 1, #1869](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-1-1869/)
- - [Today’s NYT Connections Hints and Answers for Aug. 1, #1147](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-1-1147/)
- - [Illinois Governor JB Pritzker signs the Children&#39;s Social Media Safety Act, a bill designed to limit children&#39;s access to &quot;addictive&quot; social media algorithms &lpar;Ben Szalinski/Capitol News Illinois&rpar;](https://www.techmeme.com/260731/p34#a260731p34)<!-- TECH:END -->
+ - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

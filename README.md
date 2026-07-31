@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, Amazon, Microsoft, and Meta spent a combined $1.1T in capex from the start of the AI boom in 2023 through June 2026 and plan to spend $745B this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260731/p2#a260731p2)
- - [Today’s NYT Mini Crossword Answers for Friday, July 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-31/)
- - [A leaked memo, issued by the water utilities information sharing group WaterISAC, links dozens of cyberattacks against Minnesota water utilities to Iran &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260731/p1#a260731p1)
- - [JP Morgan lowers Apple price target on supply constraint worries, still bullish long-term](https://appleinsider.com/articles/26/07/31/jp-morgan-lowers-apple-price-target-on-supply-constraint-worries-still-bullish-long-term?utm_source=rss)
- - [Sources: SoftBank gave $50M to Trump&#39;s library; Apple, Microsoft, and Amazon gave $25M, $10M, and $5M to his WH ballroom; Meta gave $10M to a pro-Trump group &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260730/p70#a260730p70)<!-- TECH:END -->
+ - [An interview with Granola CEO Chris Pedregal on making the AI note taker invisible and work across apps, and why he rejects executives seeking employees&#39; notes &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260731/p6#a260731p6)
+ - [Sony reports Q1 PS5 sales of 1.38M units, down from 1.56M a year ago, taking total sales of the console to 95.3M units, and 125M PlayStation MAUs, up 2M YoY &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260731/p5#a260731p5)
+ - [Sony reports Q1 operating profit up 40% YoY to ~$2.92B, raises FY profit forecast by 8% to ~$10.56B, and says it secured enough memory chip supply for the FY &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260731/p4#a260731p4)
+ - [MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260731/p3#a260731p3)
+ - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

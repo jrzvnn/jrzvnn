@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Eric Trump-backed Space-Eyes, which develops AI-powered defense tech for the public sector, agrees to go public via a SPAC merger at a $638M valuation &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p17#a260731p17)
- - [Best Dyson Vacuums &lpar;2026&rpar;: V15 Detect, Gen5Detect, PencilVac](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [This tattoo is permanent, pain-free, and might soon come in the mail](https://www.theverge.com/tech/972466/cipherx-permanent-pain-free-tattoo-microdot-patches)
- - [Apple TV’s Cape Fear remake turns it into a paranoid tech thriller](https://www.theverge.com/entertainment/973530/apple-tv-cape-fear-finale-technology)
- - [Sources: the Trump admin is weighing a $100K fee for foreign students seeking to work in the US after graduation; a judge blocked Trump&#39;s $100K H-1B fee in June &lpar;Michelle Hackman/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p16#a260731p16)<!-- TECH:END -->
+ - [DeepSeek V4 Flash scores 50 on the Artificial Analysis Intelligence Index, matching Gemini 3.6 Flash and up 10 points from the preview launch in April &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260731/p22#a260731p22)
+ - [Google starts rolling out access to Gemini Spark for Google AI Pro subscribers to over 160 countries and adds a Chrome auto browse integration on desktop &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260731/p21#a260731p21)
+ - [It’s time to panic about AI safety](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast)
+ - [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)
+ - [Sources: Moonshot has a computing power agreement with Alibaba for the use of ~20K Nvidia chips; some say the deal is for H200 chips, which Alibaba denies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260731/p20#a260731p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

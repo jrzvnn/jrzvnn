@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap says its recommendation systems will be adjusted so only videos created by real people, not AI-generated ones, are eligible for Spotlight recommendations &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260731/p30#a260731p30)
- - [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)
- - [Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call](https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss)
- - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
- - [Here’s the problem with putting an AI image generator in Google Earth](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)<!-- TECH:END -->
+ - [Google Earth&amp;#8217;s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool)
+ - [An in-depth account of the past two days inside Situational Awareness, as Aschenbrenner assured investors he would focus on changes to his portfolio management &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p33#a260731p33)
+ - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)
+ - [Inside Beats lab: Outside Apple, because AirPods can&#39;t do everything well](https://appleinsider.com/articles/26/07/31/inside-beats-lab-outside-apple-because-airpods-cant-do-everything-well?utm_source=rss)
+ - [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

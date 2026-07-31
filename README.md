@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek V4 Flash scores 50 on the Artificial Analysis Intelligence Index, matching Gemini 3.6 Flash and up 10 points from the preview launch in April &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260731/p22#a260731p22)
- - [Google starts rolling out access to Gemini Spark for Google AI Pro subscribers to over 160 countries and adds a Chrome auto browse integration on desktop &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/260731/p21#a260731p21)
- - [It’s time to panic about AI safety](https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast)
- - [Anthropic says Claude accidentally hacked real companies too](https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests)
- - [Sources: Moonshot has a computing power agreement with Alibaba for the use of ~20K Nvidia chips; some say the deal is for H200 chips, which Alibaba denies &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260731/p20#a260731p20)<!-- TECH:END -->
+ - [Can Republicans Actually Send Anthony Fauci to Jail?](https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/)
+ - [Who Will You Play in D&amp;#038;D’s New World of Warcraft and Star Wars Sets? CNET Answers](https://www.cnet.com/tech/gaming/who-will-you-play-in-dds-new-world-of-warcraft-and-star-wars-sets-cnet-answers/)
+ - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
+ - [SpaceXAI says it will remove 69 gas turbines used to power the Colossus data centers near Memphis by July 2027, as it moves to a 1.2 GW natural gas power plant &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260731/p25#a260731p25)
+ - [First Apple Silicon-native CrossOver build in testing as Rosetta&#39;s end nears](https://appleinsider.com/articles/26/07/31/first-apple-silicon-native-crossover-build-in-testing-as-rosettas-end-nears?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

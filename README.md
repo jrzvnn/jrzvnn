@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Republicans Actually Send Anthony Fauci to Jail?](https://www.wired.com/story/can-republicans-actually-send-anthony-fauci-to-jail/)
- - [Who Will You Play in D&amp;#038;D’s New World of Warcraft and Star Wars Sets? CNET Answers](https://www.cnet.com/tech/gaming/who-will-you-play-in-dds-new-world-of-warcraft-and-star-wars-sets-cnet-answers/)
- - [Best Robot Vacuum of 2026: Shark, Eufy](https://www.wired.com/story/best-robot-vacuum/)
- - [SpaceXAI says it will remove 69 gas turbines used to power the Colossus data centers near Memphis by July 2027, as it moves to a 1.2 GW natural gas power plant &lpar;Tim De Chant/TechCrunch&rpar;](https://www.techmeme.com/260731/p25#a260731p25)
- - [First Apple Silicon-native CrossOver build in testing as Rosetta&#39;s end nears](https://appleinsider.com/articles/26/07/31/first-apple-silicon-native-crossover-build-in-testing-as-rosettas-end-nears?utm_source=rss)<!-- TECH:END -->
+ - [Snap says its recommendation systems will be adjusted so only videos created by real people, not AI-generated ones, are eligible for Spotlight recommendations &lpar;Lauren Forristal/TechCrunch&rpar;](https://www.techmeme.com/260731/p30#a260731p30)
+ - [The ban on robot vacuums won’t make them safer, only worse](https://www.theverge.com/tech/973738/robot-vacuum-ban-fewer-choices-higher-prices)
+ - [Unimpressed Goldman Sachs trims AAPL target by $10 after earnings call](https://appleinsider.com/articles/26/07/31/unimpressed-goldman-sachs-trims-aapl-target-by-10-after-earnings-call?utm_source=rss)
+ - [Tomodachi Life: Living the Dream is a quirky life sim that’s worth buying at this discount](https://www.theverge.com/gadgets/973723/tomodachi-life-apple-marshall-stanmore-deal-sale)
+ - [Here’s the problem with putting an AI image generator in Google Earth](https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

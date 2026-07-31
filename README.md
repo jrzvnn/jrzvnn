@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI demoed a new &quot;Astra&quot; AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks &lpar;The Information&rpar;](https://www.techmeme.com/260731/p40#a260731p40)
- - [Filing: Amazon has completed its $50B investment in OpenAI; source: OpenAI received the final tranche this week, taking Amazon&#39;s position to roughly 5% &lpar;Financial Times&rpar;](https://www.techmeme.com/260731/p39#a260731p39)
- - [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
- - [Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash](https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/)
- - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)<!-- TECH:END -->
+ - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 1, #677](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-1-677/)
+ - [The FTC clears quantum computing company IonQ&#39;s $1.8B acquisition of chipmaker SkyWater after the FTC&#39;s two members disagreed at first on imposing conditions &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/260731/p41#a260731p41)
+ - [Today’s NYT Strands Hints, Answers and Help for Aug. 1 #881](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-1-881/)
+ - [Sources: OpenAI demoed a new &quot;Astra&quot; AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks &lpar;The Information&rpar;](https://www.techmeme.com/260731/p40#a260731p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

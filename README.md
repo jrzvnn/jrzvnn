@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
  - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 💣 [Six and halfway](http://9gag.com/gag/aBy7o7N)
  - 😝 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 💣 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 😝 [It\u2019s been a while since I\u2019ve seen this](http://9gag.com/gag/apRWdvp)
+ - 👉 [Hypnotized](http://9gag.com/gag/a0e2wwB)<!-- MEMES:END -->
 
 ---
 

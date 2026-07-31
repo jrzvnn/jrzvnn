@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Granola CEO Chris Pedregal on making the AI note taker invisible and work across apps, and why he rejects executives seeking employees&#39; notes &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260731/p6#a260731p6)
- - [Sony reports Q1 PS5 sales of 1.38M units, down from 1.56M a year ago, taking total sales of the console to 95.3M units, and 125M PlayStation MAUs, up 2M YoY &lpar;Ethan Gach/Kotaku&rpar;](https://www.techmeme.com/260731/p5#a260731p5)
- - [Sony reports Q1 operating profit up 40% YoY to ~$2.92B, raises FY profit forecast by 8% to ~$10.56B, and says it secured enough memory chip supply for the FY &lpar;Sam Nussey/Reuters&rpar;](https://www.techmeme.com/260731/p4#a260731p4)
- - [MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260731/p3#a260731p3)
- - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
+ - [Chinese state media: Xi Jinping called for more defense applications using autonomous and AI technologies, as he pushes to build an advanced fighting force &lpar;Josh Xiao/Bloomberg&rpar;](https://www.techmeme.com/260731/p12#a260731p12)
+ - [The New Defcon Badges Pack a Unique Open Source Chip That Doubles as a Security Key](https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/)
+ - [DeepSeek rolls out the official V4 Flash API in public beta, touting enhanced agent capabilities and benchmark scores &quot;far surpassing&quot; V4 Pro Preview &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260731/p11#a260731p11)
+ - [New York sues Kalshi for alleged violations of its gambling laws; the CFTC files an emergency motion to stop the state&#39;s enforcement, calling it an &quot;overreach&quot; &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/260731/p10#a260731p10)
+ - [Australia&#39;s online safety regulator says social media use among under-16s fell to 81.5% in March 2026, compared to 85.9% before ban took effect in December 2025 &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260731/p9#a260731p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it discovered three of its models had breached three organizations after launching a review in response to the OpenAI-Hugging Face incident &lpar;Anthropic&rpar;](https://www.techmeme.com/260730/p61#a260730p61)
- - [Sources: Zelenskyy asked Trump to secure Elon Musk&#39;s permission for the use of Starlink to guide drone strikes inside Russia, but Trump was noncommittal &lpar;The Atlantic&rpar;](https://www.techmeme.com/260730/p60#a260730p60)
- - [How the FCC’s New Rule Will Affect Robot Vacuums](https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/)
- - [In a memo to employees, Xbox CEO Asha Sharma lays out priorities for the unit, including returning to player and revenue growth by the end of fiscal year 2027 &lpar;The Verge&rpar;](https://www.techmeme.com/260730/p59#a260730p59)
- - [Anthropic says three of its models, including an internal research model, gained unauthorized access to real-world systems during internal cybersecurity testing &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260730/p58#a260730p58)<!-- TECH:END -->
+ - [Apple CFO Kevan Parekh says Services surpassed 1.5B paid subscriptions, up from 1B in January 2025, but a gaming slowdown and App Store changes hurt growth &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260730/p65#a260730p65)
+ - [Microsoft&#39;s stock closed up 15.5% on Thursday, adding ~$450B to its market capitalization, the largest single-day market value increase in stock market history &lpar;Subrat Patnaik/Bloomberg&rpar;](https://www.techmeme.com/260730/p64#a260730p64)
+ - [Tim Cook says Apple expects &quot;the impact from the supply constraints to increase significantly sequentially&quot; and the market pricing for memory to keep rising &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260730/p63#a260730p63)
+ - [Anthropic says the models that breached three companies include Opus 4.7, Mythos 5, and an unnamed research model, and the earliest incidents date back to April &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260730/p62#a260730p62)
+ - [Tim Cook’s Final Earnings Call: Record iPhone Sales and Future Pricing Woes](https://www.cnet.com/tech/tim-cook-final-apple-earnings-call-iphone-sales-pricing-woes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

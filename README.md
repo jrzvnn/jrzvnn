@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Earth&amp;#8217;s AI deepfake tool only lasted one day](https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool)
- - [An in-depth account of the past two days inside Situational Awareness, as Aschenbrenner assured investors he would focus on changes to his portfolio management &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260731/p33#a260731p33)
- - [Google rolls back an image generation tool in Google Earth to add &quot;stronger guardrails&quot; after concerns arose it can be used to create deepfake satellite imagery &lpar;Geoff Brumfiel/NPR&rpar;](https://www.techmeme.com/260731/p32#a260731p32)
- - [Inside Beats lab: Outside Apple, because AirPods can&#39;t do everything well](https://appleinsider.com/articles/26/07/31/inside-beats-lab-outside-apple-because-airpods-cant-do-everything-well?utm_source=rss)
- - [The NHTSA is investigating 1.2 million Tesla vehicles over suspension failure reports](https://www.theverge.com/transportation/973887/nhtsa-tesla-investigation-suspension)<!-- TECH:END -->
+ - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI&#39;s network &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p36#a260731p36)
+ - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)
+ - [Today’s Wordle Hints, Answer and Help for Aug. 1, #1869](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-1-1869/)
+ - [Today’s NYT Connections Hints and Answers for Aug. 1, #1147](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-1-1147/)
+ - [Illinois Governor JB Pritzker signs the Children&#39;s Social Media Safety Act, a bill designed to limit children&#39;s access to &quot;addictive&quot; social media algorithms &lpar;Ben Szalinski/Capitol News Illinois&rpar;](https://www.techmeme.com/260731/p34#a260731p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

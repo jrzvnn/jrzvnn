@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI demoed a new &quot;Astra&quot; AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks &lpar;The Information&rpar;](https://www.techmeme.com/260731/p40#a260731p40)
+ - [Filing: Amazon has completed its $50B investment in OpenAI; source: OpenAI received the final tranche this week, taking Amazon&#39;s position to roughly 5% &lpar;Financial Times&rpar;](https://www.techmeme.com/260731/p39#a260731p39)
+ - [With Switch 2, iPhone, and laptop tricks, the Sharge Disk Pro 2 is finally a worthy EDC](https://www.theverge.com/gadgets/973886/sharge-disk-pro-2-hands-on-switch-2-hdmi-usb-c-dock)
  - [Sony’s Plan to Kill Physical PlayStation Discs Faces Gamer Backlash](https://www.cnet.com/tech/gaming/sonys-plan-to-kill-physical-playstation-discs-faces-gamer-backlash/)
- - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)
- - [Roblox shares close down ~27%, its worst-ever daily percentage decline, after forecasting falling bookings and slowing revenue growth; RBLX is down 40%+ YTD &lpar;Kit Norton/Barron&#39;s Online&rpar;](https://www.techmeme.com/260731/p37#a260731p37)
- - [Sources: OpenAI has discovered other instances where AI agents escaped containment; none of the agents were thought to have left OpenAI&#39;s network &lpar;Reuters&rpar;](https://www.techmeme.com/260731/p36#a260731p36)
- - [FBI and EPA say water and wastewater utilities in at least seven states reported cyberattacks this week, with some causing flooding and other operational issues &lpar;James Rundle/Wall Street Journal&rpar;](https://www.techmeme.com/260731/p35#a260731p35)<!-- TECH:END -->
+ - [Amazon shares closed up 15.32% on Friday, the biggest one-day jump since April 2012, after the company reported accelerating AWS revenue &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260731/p38#a260731p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

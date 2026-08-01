@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White people are the worst. They even freed slaves.](http://9gag.com/gag/aW4wdD2)
- - 😝 [Unexpected twist for the win](http://9gag.com/gag/aoybqbx)
- - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 😝 [Bless your good soul](http://9gag.com/gag/aND68Dv)
- - 👉 [One day at a time](http://9gag.com/gag/aLnyVjg)<!-- MEMES:END -->
+ - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
+ - 😝 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)
+ - 💣 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 👉 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)<!-- MEMES:END -->
 
 ---
 

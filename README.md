@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting advertising choise](https://www.reddit.com/r/funny/comments/1vcxwri/interesting_advertising_choise/)
- - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 😝 [White people are the worst. They even freed slaves.](http://9gag.com/gag/aW4wdD2)
+ - 😝 [Unexpected twist for the win](http://9gag.com/gag/aoybqbx)
  - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 👉 [Same same but different](http://9gag.com/gag/aKGrnVW)<!-- MEMES:END -->
+ - 😝 [Bless your good soul](http://9gag.com/gag/aND68Dv)
+ - 👉 [One day at a time](http://9gag.com/gag/aLnyVjg)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)
  - [OpenAI says an internal version of Astra, its next big model, produced results for 10 problems in math, quantum complexity, and theoretical computer science &lpar;OpenAI&rpar;](https://www.techmeme.com/260801/p11#a260801p11)
  - [The Verge’s 2026 back-to-school shopping guide](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts)
  - [You could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos)
- - [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
- - [This year&#39;s Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token &lpar;Kim Zetter/Wired&rpar;](https://www.techmeme.com/260801/p10#a260801p10)<!-- TECH:END -->
+ - [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

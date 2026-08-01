@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 💣 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
  - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
- - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
- - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
- - 👉 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
+ - 👉 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)<!-- MEMES:END -->
 
 ---
 

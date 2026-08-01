@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
  - 😝 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)
+ - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
  - 💣 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
- - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
- - 👉 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)<!-- MEMES:END -->
+ - 😝 [I guess this is halal scorpion.](http://9gag.com/gag/ae9vyQm)
+ - 👉 [Oh David...](http://9gag.com/gag/a7ozGzb)<!-- MEMES:END -->
 
 ---
 

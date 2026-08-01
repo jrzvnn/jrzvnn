@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another iPhone 17 Pro plummets from plane, and found intact](https://appleinsider.com/articles/26/07/31/another-iphone-17-pro-plummets-from-plane-and-found-intact?utm_source=rss)
+ - [Best Organic Mattresses &lpar;2026&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattress/)
+ - [China’s EV Market Is Booming. There’s Just One Problem](https://www.wired.com/story/china-millions-of-evs-battery-recycling/)
  - [7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran](https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/)
- - [Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)
- - [Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan](https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/)
- - [At the UN AI for Good summit, a big Chinese delegation argued Chinese open-source AI models are the future for most of the world, while US presence was muted &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260801/p9#a260801p9)
- - [Alienware 15 Gaming Laptop Review: Hedging Its Bets](https://www.wired.com/review/alienware-15-gaming-laptop/)<!-- TECH:END -->
+ - [Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

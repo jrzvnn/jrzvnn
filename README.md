@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This year&#39;s Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token &lpar;Kim Zetter/Wired&rpar;](https://www.techmeme.com/260801/p10#a260801p10)
+ - [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
+ - [15 Best Office Chairs of 2026—We Tested 70 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Another iPhone 17 Pro plummets from plane, and found intact](https://appleinsider.com/articles/26/07/31/another-iphone-17-pro-plummets-from-plane-and-found-intact?utm_source=rss)
- - [Best Organic Mattresses &lpar;2026&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattress/)
- - [China’s EV Market Is Booming. There’s Just One Problem](https://www.wired.com/story/china-millions-of-evs-battery-recycling/)
- - [7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran](https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/)
- - [Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)<!-- TECH:END -->
+ - [Best Organic Mattresses &lpar;2026&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

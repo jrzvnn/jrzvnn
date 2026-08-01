@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
  - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
  - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)
  - [Today’s NYT Connections Hints and Answers for Aug. 2, #1148](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-2-1148/)
- - [US judge refuses xAI&#39;s request to stop a Minnesota law banning &quot;nudify&quot; apps, noting the request came only three days before the law was to take effect &lpar;NBC News&rpar;](https://www.techmeme.com/260801/p16#a260801p16)
- - [Bitcoin hardware wallet Coldcard shipped a faulty firmware build, and hackers are now draining wallets; Galaxy Research estimates ~$70M stolen &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260801/p15#a260801p15)<!-- TECH:END -->
+ - [US judge refuses xAI&#39;s request to stop a Minnesota law banning &quot;nudify&quot; apps, noting the request came only three days before the law was to take effect &lpar;NBC News&rpar;](https://www.techmeme.com/260801/p16#a260801p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations &lpar;Bloomberg&rpar;](https://www.techmeme.com/260731/p42#a260731p42)
  - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)
  - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 1, #677](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-1-677/)
  - [The FTC clears quantum computing company IonQ&#39;s $1.8B acquisition of chipmaker SkyWater after the FTC&#39;s two members disagreed at first on imposing conditions &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/260731/p41#a260731p41)
- - [Today’s NYT Strands Hints, Answers and Help for Aug. 1 #881](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-1-881/)
- - [Sources: OpenAI demoed a new &quot;Astra&quot; AI model family to US policymakers and regulators this week, touting its improved abilities to complete long-running tasks &lpar;The Information&rpar;](https://www.techmeme.com/260731/p40#a260731p40)<!-- TECH:END -->
+ - [Today’s NYT Strands Hints, Answers and Help for Aug. 1 #881](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-1-881/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

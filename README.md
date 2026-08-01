@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to like F1](http://9gag.com/gag/a87BXMZ)
- - 😝 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)
- - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 😝 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
- - 👉 [The curse is lifted](http://9gag.com/gag/aAyoZ80)<!-- MEMES:END -->
+ - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
+ - 😝 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 😝 [Skills](http://9gag.com/gag/axyXQD2)
+ - 👉 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)<!-- MEMES:END -->
 
 ---
 

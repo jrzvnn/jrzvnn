@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [Six and halfway](http://9gag.com/gag/aBy7o7N)
+ - 😝 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)
+ - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
  - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
- - 😝 [I couldn&#39;t think of a catchy title like friray or caturday... but have yet another knot video compilation on this friday... for you to save and never open again...](http://9gag.com/gag/aQz0N7q)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 😝 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
+ - 👉 [The curse is lifted](http://9gag.com/gag/aAyoZ80)<!-- MEMES:END -->
 
 ---
 

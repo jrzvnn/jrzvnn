@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Logan is just trying to enjoy his drink](https://www.reddit.com/r/funny/comments/1vc75en/logan_is_just_trying_to_enjoy_his_drink/)
- - 😝 [Brutal reality check](http://9gag.com/gag/a2vnxwd)
- - 💣 [It\u2019s been a while since I\u2019ve seen this](http://9gag.com/gag/apRWdvp)
- - 😝 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 😝 [Fake smile](http://9gag.com/gag/apRWjoB)
+ - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 💣 [This is your reminder that Ryan Gosling has to beat this](http://9gag.com/gag/a6ZA8Vq)
+ - 😝 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
 
 ---
 

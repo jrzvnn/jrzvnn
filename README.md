@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge largely denies Perplexity and three data scraper firms&#39; bid to dismiss Reddit&#39;s lawsuit over claims of copyright law violations under DMCA &lpar;Ashley Belanger/Ars Technica&rpar;](https://www.techmeme.com/260731/p44#a260731p44)
- - [Sensor Tower: India&#39;s mobile app market generated a record $345M in consumer spending in Q2, up 35% YoY; ChatGPT ranked No. 1 by downloads and No. 2 by revenue &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260731/p43#a260731p43)
- - [Cybersecurity experts fault Anthropic and OpenAI for sloppy safeguards and inadequate human oversight after their models broke into outside organizations &lpar;Bloomberg&rpar;](https://www.techmeme.com/260731/p42#a260731p42)
- - [SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth](https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 1, #677](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-1-677/)<!-- TECH:END -->
+ - [Inside Larry Ellison&#39;s debt-fueled push to turn Oracle into an AI juggernaut by aligning with Trump, backing Project Stargate, and partnering with OpenAI &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p8#a260801p8)
+ - [Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260801/p7#a260801p7)
+ - [Tel Aviv-based Bloom Security, which develops endpoint security tools for monitoring AI agents, extensions, and more, emerges from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260801/p6#a260801p6)
+ - [Harmony, which offers AI-powered enterprise software for handling tasks such as employee onboarding and software access, raised a $34M seed led by Lightspeed &lpar;Geoff Weiss/Business Insider&rpar;](https://www.techmeme.com/260801/p5#a260801p5)
+ - [Today’s NYT Mini Crossword Answers for Saturday, Aug. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

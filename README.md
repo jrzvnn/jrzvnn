@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomers Have Detected an Exomoon for the First Time](https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/)
- - [Inside Larry Ellison&#39;s debt-fueled push to turn Oracle into an AI juggernaut by aligning with Trump, backing Project Stargate, and partnering with OpenAI &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p8#a260801p8)
- - [Toronto-based Terminal, whose API connects insurance products and commercial fleet software with telematics data, raised a $20M Series A led by Battery Ventures &lpar;Alex Riehl/BetaKit&rpar;](https://www.techmeme.com/260801/p7#a260801p7)
- - [Tel Aviv-based Bloom Security, which develops endpoint security tools for monitoring AI agents, extensions, and more, emerges from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260801/p6#a260801p6)
- - [Harmony, which offers AI-powered enterprise software for handling tasks such as employee onboarding and software access, raised a $34M seed led by Lightspeed &lpar;Geoff Weiss/Business Insider&rpar;](https://www.techmeme.com/260801/p5#a260801p5)<!-- TECH:END -->
+ - [7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran](https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/)
+ - [Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head](https://www.wired.com/story/steel-water-filters-head-to-head/)
+ - [Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan](https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/)
+ - [At the UN AI for Good summit, a big Chinese delegation argued Chinese open-source AI models are the future for most of the world, while US presence was muted &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260801/p9#a260801p9)
+ - [Alienware 15 Gaming Laptop Review: Hedging Its Bets](https://www.wired.com/review/alienware-15-gaming-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

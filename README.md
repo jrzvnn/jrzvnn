@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2026 back-to-school shopping guide](https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts)
+ - [You could be taking way better photos on your phone](https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos)
+ - [The Mermaid Mask is a perfect vacation murder mystery](https://www.theverge.com/games/971660/the-mermaid-mask-review)
  - [This year&#39;s Defcon badges include Baochip-1x, an open source chip whose security is verifiable and that can also be used as a hardware security token &lpar;Kim Zetter/Wired&rpar;](https://www.techmeme.com/260801/p10#a260801p10)
- - [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)
- - [15 Best Office Chairs of 2026—We Tested 70 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Another iPhone 17 Pro plummets from plane, and found intact](https://appleinsider.com/articles/26/07/31/another-iphone-17-pro-plummets-from-plane-and-found-intact?utm_source=rss)
- - [Best Organic Mattresses &lpar;2026&rpar;: Certified Nontoxic, Natural Sleep](https://www.wired.com/story/best-organic-mattress/)<!-- TECH:END -->
+ - [The OG reading app just got a big update](https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

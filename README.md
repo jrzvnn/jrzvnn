@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 😝 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)
+ - 💣 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
  - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 💣 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
- - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
- - 👉 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)<!-- MEMES:END -->
+ - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
 
 ---
 

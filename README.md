@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin hardware wallet Coldcard shipped a faulty firmware build, and hackers are now draining wallets; Galaxy Research estimates ~$70M stolen &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260801/p15#a260801p15)
+ - [Trump Media&#39;s new paid data API debuts, for &quot;a direct, licensed, real-time feed of the platform&#39;s most market-moving Truths&quot;; Dem. senators asked SEC to probe &lpar;CJ Haddad/CNBC&rpar;](https://www.techmeme.com/260801/p14#a260801p14)
  - [Is this Billboard Hot 100 hit AI slop?](https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop)
  - [Officials: the scope of cyberattacks on US water systems now includes at least seven states and may be far wider; MN was just the first to publicly report them &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p13#a260801p13)
- - [A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p12#a260801p12)
- - [Spider-Man: Brand New Day leak racks up millions of views](https://www.theverge.com/entertainment/974199/spider-man-brand-new-day-leak-box-office-records)
- - [Trump blames Tim Walz for water hacks even though it’s probably Iran](https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran)<!-- TECH:END -->
+ - [A look at the deluge of AI computing power set to come online in the coming years; Epoch AI expects the number of AI chips in use to double every nine months &lpar;New York Times&rpar;](https://www.techmeme.com/260801/p12#a260801p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I used to like F1](http://9gag.com/gag/a87BXMZ)
  - 😝 [I was worried about his safety but then i saw the safety cigarette](http://9gag.com/gag/ajPoMng)
- - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
  - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
  - 😝 [How to make &#39;berliners&#39; upset](http://9gag.com/gag/aZZGVgV)
  - 👉 [The curse is lifted](http://9gag.com/gag/aAyoZ80)<!-- MEMES:END -->

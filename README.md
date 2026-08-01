@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh David...](http://9gag.com/gag/a7ozGzb)
- - 😝 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [Skills](http://9gag.com/gag/axyXQD2)
- - 👉 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)<!-- MEMES:END -->
+ - 😝 [Six and halfway](http://9gag.com/gag/aBy7o7N)
+ - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 💣 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)
+ - 😝 [One day at a time](http://9gag.com/gag/aLnyVjg)
+ - 👉 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
 
 ---
 

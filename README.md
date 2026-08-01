@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fake smile](http://9gag.com/gag/apRWjoB)
  - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 💣 [Six and halfway](http://9gag.com/gag/aBy7o7N)
- - 😝 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
- - 👉 [Guys its over, norwood reaper is undefeated](http://9gag.com/gag/aQz0Vpe)<!-- MEMES:END -->
+ - 😝 [Six and halfway](http://9gag.com/gag/aBy7o7N)
+ - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/a9y9NO6)
+ - 👉 [This is your reminder that Ryan Gosling has to beat this](http://9gag.com/gag/a6ZA8Vq)<!-- MEMES:END -->
 
 ---
 

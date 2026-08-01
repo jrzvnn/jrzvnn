@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [Six and halfway](http://9gag.com/gag/aBy7o7N)
- - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 😝 [Core memory unlocked](http://9gag.com/gag/a9y9NO6)
- - 👉 [This is your reminder that Ryan Gosling has to beat this](http://9gag.com/gag/a6ZA8Vq)<!-- MEMES:END -->
+ - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
+ - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
+ - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 👉 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Interesting advertising choise](https://www.reddit.com/r/funny/comments/1vcxwri/interesting_advertising_choise/)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
  - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 😝 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)
- - 💣 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
- - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 👉 [Six and halfway](http://9gag.com/gag/aBy7o7N)<!-- MEMES:END -->
+ - 👉 [Same same but different](http://9gag.com/gag/aKGrnVW)<!-- MEMES:END -->
 
 ---
 

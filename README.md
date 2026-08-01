@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)
- - 😝 [Bro was a minor all of a sudden](http://9gag.com/gag/a5Q8DXV)
- - 💣 [Big bug](http://9gag.com/gag/a0e2x0Q)
- - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 👉 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)<!-- MEMES:END -->
+ - 😝 [Big bug](http://9gag.com/gag/a0e2x0Q)
+ - 😝 [Six and halfway](http://9gag.com/gag/aBy7o7N)
+ - 💣 [Hypnotized](http://9gag.com/gag/a0e2wwB)
+ - 😝 [I couldn&#39;t think of a catchy title like friray or caturday... but have yet another knot video compilation on this friday... for you to save and never open again...](http://9gag.com/gag/aQz0N7q)
+ - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
 
 ---
 

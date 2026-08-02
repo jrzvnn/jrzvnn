@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260802/p8#a260802p8)
  - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
  - [Amazon Will Give Tariff Refunds to Some Customers](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
  - [DuckDuckGo’s Anti-AI Sunglasses Won’t Spy On Anyone](https://www.cnet.com/tech/mobile/duckduckgo-anti-ai-sunglasses-wont-spy/)
- - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)
- - [Thoughts on Apple Upgrade; sources: MacBook Air is now facing shortages too; Apple wants to turn its future glasses and headsets into health and fitness devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260802/p7#a260802p7)<!-- TECH:END -->
+ - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
  - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - 😝 [This is Ceuta last night. So much for \u201calmost everyone is returned back to Morocco and things are back to normal\u201d.](http://9gag.com/gag/ayNOmVp)
+ - 💣 [The life you choose](http://9gag.com/gag/adBm4Od)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
  - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
 
 ---

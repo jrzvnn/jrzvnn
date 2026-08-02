@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
+ - [YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline](https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/)
+ - [Save $1,200 on Apple&#39;s 16-inch MacBook Pro M5 Max with 2TB SSD](https://appleinsider.com/articles/26/08/02/save-1200-on-apples-16-inch-macbook-pro-m5-max-with-2tb-ssd?utm_source=rss)
  - [A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p5#a260802p5)
- - [Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China&#39;s tech, AI, and robotics sectors &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260802/p4#a260802p4)
- - [LemonEdge, a fund accounting and operations software provider for the private markets sector, raised a $21M Series A led by Blackstone Innovations Investments &lpar;FinTech Global&rpar;](https://www.techmeme.com/260802/p3#a260802p3)
- - [Malaysia shuts down Network School, Balaji Srinivasan&#39;s techno-utopian project, over licensing issues; Srinivasan says he is opening a new campus in Kazakhstan &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p2#a260802p2)<!-- TECH:END -->
+ - [Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China&#39;s tech, AI, and robotics sectors &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260802/p4#a260802p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

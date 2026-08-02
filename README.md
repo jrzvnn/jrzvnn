@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 😝 [One day at a time](http://9gag.com/gag/aLnyVjg)
- - 💣 [Bless your good soul](http://9gag.com/gag/aND68Dv)
- - 😝 [Modern cars just lack that boxy soul](http://9gag.com/gag/ae9vyn5)
- - 👉 [And no AI in sight](http://9gag.com/gag/a5Q8yno)<!-- MEMES:END -->
+ - 😝 [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
+ - 💣 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 👉 [Banks be like:](http://9gag.com/gag/a1mGBdb)<!-- MEMES:END -->
 
 ---
 

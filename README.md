@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Therapist is one word](http://9gag.com/gag/adBm4N9)
  - 😝 [FAFO](http://9gag.com/gag/avy3XvE)
- - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [Therapist is one word](http://9gag.com/gag/adBm4N9)
- - 😝 [Modern parenting in a nutshell](http://9gag.com/gag/an7L86z)
- - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
+ - 💣 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 😝 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 👉 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)<!-- MEMES:END -->
 
 ---
 

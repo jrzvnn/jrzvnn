@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [The life you choose](http://9gag.com/gag/adBm4Od)
- - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
- - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
+ - 😝 [Modern cars just lack that boxy soul](http://9gag.com/gag/ae9vyn5)
+ - 💣 [I couldn&#39;t think of a catchy title like friray or caturday... but have yet another knot video compilation on this friday... for you to save and never open again...](http://9gag.com/gag/aQz0N7q)
+ - 😝 [This is Ceuta last night. So much for \u201calmost everyone is returned back to Morocco and things are back to normal\u201d.](http://9gag.com/gag/ayNOmVp)
+ - 👉 [When you&#39;re having a bad day, just think of Paco.](http://9gag.com/gag/aND68O4)<!-- MEMES:END -->
 
 ---
 

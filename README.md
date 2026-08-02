@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [FAFO](http://9gag.com/gag/avy3XvE)
  - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
- - 💣 [Therapist is one word](http://9gag.com/gag/adBm4N9)
- - 😝 [Could be symbolic for society, they would burn down the house](http://9gag.com/gag/azx0oKb)
- - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
+ - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
+ - 😝 [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
 
 ---
 

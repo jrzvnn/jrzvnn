@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Password Managers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
+ - [As Taiwanese server makers expand in Mexico, the country has become the second-largest supplier of servers to the US, behind Taiwan, with $46.9B in YTD sales &lpar;Financial Times&rpar;](https://www.techmeme.com/260802/p6#a260802p6)
+ - [The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos](https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/)
  - [Best Car Vacuums &lpar;2026&rpar;: Handheld, Cordless, Shopping Tips](https://www.wired.com/story/best-car-vacuums/)
- - [There Are 2 Eclipses This August. Here’s How to See Them](https://www.wired.com/story/two-eclipses-august-how-to-see-them/)
- - [The Best Kids’ Backpacks for the 2026 School Year](https://www.wired.com/gallery/best-kids-backpacks-2026/)
- - [Is It Possible to Make Smart Glasses That Aren’t Creepy?](https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/)
- - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)<!-- TECH:END -->
+ - [There Are 2 Eclipses This August. Here’s How to See Them](https://www.wired.com/story/two-eclipses-august-how-to-see-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

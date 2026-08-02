@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 😝 [Modern cars just lack that boxy soul](http://9gag.com/gag/ae9vyn5)
- - 💣 [I couldn&#39;t think of a catchy title like friray or caturday... but have yet another knot video compilation on this friday... for you to save and never open again...](http://9gag.com/gag/aQz0N7q)
- - 😝 [This is Ceuta last night. So much for \u201calmost everyone is returned back to Morocco and things are back to normal\u201d.](http://9gag.com/gag/ayNOmVp)
- - 👉 [When you&#39;re having a bad day, just think of Paco.](http://9gag.com/gag/aND68O4)<!-- MEMES:END -->
+ - 😝 [Which game?](http://9gag.com/gag/amoEO9d)
+ - 😝 [Such a peaceful country..](http://9gag.com/gag/awy6POr)
+ - 💣 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
+ - 😝 [Be like bobr](http://9gag.com/gag/axyXeWL)
+ - 👉 [One chance only guys. Don\u2019t let Pastor Bob down](http://9gag.com/gag/a9y9N8W)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
+ - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
  - [8 Best Password Managers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
  - [As Taiwanese server makers expand in Mexico, the country has become the second-largest supplier of servers to the US, behind Taiwan, with $46.9B in YTD sales &lpar;Financial Times&rpar;](https://www.techmeme.com/260802/p6#a260802p6)
- - [The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos](https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/)
- - [Best Car Vacuums &lpar;2026&rpar;: Handheld, Cordless, Shopping Tips](https://www.wired.com/story/best-car-vacuums/)
- - [There Are 2 Eclipses This August. Here’s How to See Them](https://www.wired.com/story/two-eclipses-august-how-to-see-them/)<!-- TECH:END -->
+ - [The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos](https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

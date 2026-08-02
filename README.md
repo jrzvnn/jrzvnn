@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One day at a time](http://9gag.com/gag/aLnyVjg)
- - 😝 [Bless your good soul](http://9gag.com/gag/aND68Dv)
- - 💣 [Smoke Free at 43!](http://9gag.com/gag/axyXQwY)
- - 😝 [Modern cars just lack that boxy soul](http://9gag.com/gag/ae9vyn5)
- - 👉 [And no AI in sight](http://9gag.com/gag/a5Q8yno)<!-- MEMES:END -->
+ - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
+ - 💣 [Nailed it](http://9gag.com/gag/a0e2D5z)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
 
 ---
 

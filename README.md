@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest job listings suggest Apple Fitness+ could come to Apple Glasses](https://appleinsider.com/articles/26/08/02/apples-latest-job-listings-suggest-apple-fitness-could-come-to-apple-glasses?utm_source=rss)
  - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)
- - [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review)
- - [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
- - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)<!-- TECH:END -->
+ - [Thoughts on Apple Upgrade; sources: MacBook Air is now facing shortages too; Apple wants to turn its future glasses and headsets into health and fitness devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260802/p7#a260802p7)
+ - [Skylight&amp;#8217;s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale)
+ - [Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing](https://www.cnet.com/roadshow/automobiles/inside-luxury-robotaxi-uber-lucid-nuro-are-testing/)
+ - [Living Underwater in 2026: New Ocean Habitat Just Dropped](https://www.cnet.com/science/living-underwater-in-2026-new-ocean-habitat-just-dropped/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

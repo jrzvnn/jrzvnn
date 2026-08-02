@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation reveals Dubai-based unlicensed crypto exchange Shelbit has processed at least $4B as part of Iran&#39;s sanctions-evasion operation since May 2024 &lpar;Reuters&rpar;](https://www.techmeme.com/260801/p17#a260801p17)
+ - [Today’s NYT Mini Crossword Answers for Sunday, Aug. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-2/)
  - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
  - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
- - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)
- - [Today’s NYT Connections Hints and Answers for Aug. 2, #1148](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-2-1148/)
- - [US judge refuses xAI&#39;s request to stop a Minnesota law banning &quot;nudify&quot; apps, noting the request came only three days before the law was to take effect &lpar;NBC News&rpar;](https://www.techmeme.com/260801/p16#a260801p16)<!-- TECH:END -->
+ - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

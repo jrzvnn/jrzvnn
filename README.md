@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [FAFO](http://9gag.com/gag/avy3XvE)
  - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [Now that is an interesting question\u2026\u2026](http://9gag.com/gag/aGyWov0)
- - 😝 [Therapist is one word](http://9gag.com/gag/adBm4N9)
- - 👉 [Secret shortcut unlocked](http://9gag.com/gag/aAyomQp)<!-- MEMES:END -->
+ - 💣 [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 😝 [Modern parenting in a nutshell](http://9gag.com/gag/an7L86z)
+ - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
 
 ---
 

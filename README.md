@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
- - 😝 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - 💣 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 😝 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
- - 👉 [Banks be like:](http://9gag.com/gag/a1mGBdb)<!-- MEMES:END -->
+ - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
+ - 💣 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 😝 [Once a diamond, always a diamond.](http://9gag.com/gag/aMV3DwR)
+ - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
 
 ---
 

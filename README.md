@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
+ - 😝 [FAFO](http://9gag.com/gag/avy3XvE)
+ - 💣 [Financial advice from the best](http://9gag.com/gag/aoybAbA)
  - 😝 [Which game?](http://9gag.com/gag/amoEO9d)
- - 😝 [Such a peaceful country..](http://9gag.com/gag/awy6POr)
- - 💣 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
- - 😝 [Be like bobr](http://9gag.com/gag/axyXeWL)
- - 👉 [One chance only guys. Don\u2019t let Pastor Bob down](http://9gag.com/gag/a9y9N8W)<!-- MEMES:END -->
+ - 👉 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)<!-- MEMES:END -->
 
 ---
 

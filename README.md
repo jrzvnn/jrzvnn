@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation reveals Dubai-based unlicensed crypto exchange Shelbit has processed at least $4B as part of Iran&#39;s sanctions-evasion operation since May 2024 &lpar;Reuters&rpar;](https://www.techmeme.com/260801/p17#a260801p17)
- - [Today’s NYT Mini Crossword Answers for Sunday, Aug. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-2/)
- - [Pixel 11 specs and price leak with no surprises](https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak)
- - [Angela Nissel faces down grief with a laugh](https://www.theverge.com/report/974226/angela-nissel-interview-good-grief-pass-the-bread-mom-is-dead)
- - [Today’s Wordle Hints, Answer and Help for Aug. 2, #1870](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1870/)<!-- TECH:END -->
+ - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
+ - [A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p5#a260802p5)
+ - [Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China&#39;s tech, AI, and robotics sectors &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260802/p4#a260802p4)
+ - [LemonEdge, a fund accounting and operations software provider for the private markets sector, raised a $21M Series A led by Blackstone Innovations Investments &lpar;FinTech Global&rpar;](https://www.techmeme.com/260802/p3#a260802p3)
+ - [Malaysia shuts down Network School, Balaji Srinivasan&#39;s techno-utopian project, over licensing issues; Srinivasan says he is opening a new campus in Kazakhstan &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p2#a260802p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

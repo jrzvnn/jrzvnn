@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s latest job listings suggest Apple Fitness+ could come to Apple Glasses](https://appleinsider.com/articles/26/08/02/apples-latest-job-listings-suggest-apple-fitness-could-come-to-apple-glasses?utm_source=rss)
+ - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)
+ - [HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was](https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review)
  - [Is paying artists enough to convince them to embrace AI?](https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties)
- - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)
- - [8 Best Password Managers &lpar;2026&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
- - [As Taiwanese server makers expand in Mexico, the country has become the second-largest supplier of servers to the US, behind Taiwan, with $46.9B in YTD sales &lpar;Financial Times&rpar;](https://www.techmeme.com/260802/p6#a260802p6)
- - [The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos](https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/)<!-- TECH:END -->
+ - [Foldables are sort of boring now — and that’s great news for Apple](https://www.theverge.com/column/972937/foldable-phones-boring-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

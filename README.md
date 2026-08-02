@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s corporate espionage suit against OpenAI: How we got here](https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss)
+ - [Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines &lpar;Mariah Timms/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p9#a260802p9)
+ - [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
  - [Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260802/p8#a260802p8)
- - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
- - [Amazon Will Give Tariff Refunds to Some Customers](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
- - [DuckDuckGo’s Anti-AI Sunglasses Won’t Spy On Anyone](https://www.cnet.com/tech/mobile/duckduckgo-anti-ai-sunglasses-wont-spy/)
- - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)<!-- TECH:END -->
+ - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

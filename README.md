@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female characters in novels be like](http://9gag.com/gag/aGyWoX6)
  - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [When You Finally Understand The Reason Why Your Grandfather Is Rich.](http://9gag.com/gag/aBy7vwQ)
- - 😝 [I guess this is halal scorpion.](http://9gag.com/gag/ae9vyQm)
- - 👉 [Oh David...](http://9gag.com/gag/a7ozGzb)<!-- MEMES:END -->
+ - 😝 [What 11 years of progress looks like!](http://9gag.com/gag/ae9vP8B)
+ - 💣 [Therapist is one word](http://9gag.com/gag/adBm4N9)
+ - 😝 [Could be symbolic for society, they would burn down the house](http://9gag.com/gag/azx0oKb)
+ - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
 
 ---
 

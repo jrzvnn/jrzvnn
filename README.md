@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today’s NYT Strands Hints, Answers and Help for Aug. 3 #883](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-3-883/)
+ - [Today’s Wordle Hints, Answer and Help for Aug. 3, #1871](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-3-1871/)
+ - [Sunday Reboot: Tons of money, but way more grief](https://appleinsider.com/articles/26/08/02/sunday-reboot-tons-of-money-but-way-more-grief?utm_source=rss)
  - [Apple&#39;s corporate espionage suit against OpenAI: How we got here](https://appleinsider.com/articles/26/07/13/apples-corporate-espionage-suit-against-openai-isnt-the-first?utm_source=rss)
- - [Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines &lpar;Mariah Timms/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p9#a260802p9)
- - [Fender’s CEO seems to think your bandmates are just analog AI](https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music)
- - [Experts say US law is unprepared for rogue AI agents and models, as recent OpenAI and Anthropic incidents raise questions over legal liability and repercussions &lpar;Lily Hay Newman/Wired&rpar;](https://www.techmeme.com/260802/p8#a260802p8)
- - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)<!-- TECH:END -->
+ - [Researchers used AI-assisted code to undetectably tamper with data from computerized scans of physical DNA evidence produced by widely used crime-lab machines &lpar;Mariah Timms/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p9#a260802p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox prices are increasing by up to €200 or £170](https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros)
+ - [Amazon Will Give Tariff Refunds to Some Customers](https://www.cnet.com/tech/amazon-will-give-tariff-refunds-to-some-customers/)
+ - [DuckDuckGo’s Anti-AI Sunglasses Won’t Spy On Anyone](https://www.cnet.com/tech/mobile/duckduckgo-anti-ai-sunglasses-wont-spy/)
  - [Apple still plans a camera-free AirPods Pro update for 2026](https://appleinsider.com/articles/26/08/02/apple-still-plans-a-camera-free-airpods-pro-update-for-2026?utm_source=rss)
- - [Thoughts on Apple Upgrade; sources: MacBook Air is now facing shortages too; Apple wants to turn its future glasses and headsets into health and fitness devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260802/p7#a260802p7)
- - [Skylight&amp;#8217;s smart calendars are up to $90 off during its back-to-school sale](https://www.theverge.com/gadgets/973789/skylight-calendar-2-max-back-to-school-deal-sale)
- - [Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing](https://www.cnet.com/roadshow/automobiles/inside-luxury-robotaxi-uber-lucid-nuro-are-testing/)
- - [Living Underwater in 2026: New Ocean Habitat Just Dropped](https://www.cnet.com/science/living-underwater-in-2026-new-ocean-habitat-just-dropped/)<!-- TECH:END -->
+ - [Thoughts on Apple Upgrade; sources: MacBook Air is now facing shortages too; Apple wants to turn its future glasses and headsets into health and fitness devices &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260802/p7#a260802p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)
- - [YouTube Star AboFlah Made Streaming His Life. He Wants His Kids to Live Offline](https://www.wired.com/story/youtube-star-aboflah-made-streaming-his-life-he-wants-his-kids-to-live-offline/)
- - [Save $1,200 on Apple&#39;s 16-inch MacBook Pro M5 Max with 2TB SSD](https://appleinsider.com/articles/26/08/02/save-1200-on-apples-16-inch-macbook-pro-m5-max-with-2tb-ssd?utm_source=rss)
- - [A profile of Jacob Tsimerman, who won the Fields Medal last week and is taking a leave from the University of Toronto to join OpenAI and work on AI safety &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260802/p5#a260802p5)
- - [Chinese VC firms are rushing to raise new funds after three years of record-low fundraising, amid renewed enthusiasm for China&#39;s tech, AI, and robotics sectors &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260802/p4#a260802p4)<!-- TECH:END -->
+ - [Best Car Vacuums &lpar;2026&rpar;: Handheld, Cordless, Shopping Tips](https://www.wired.com/story/best-car-vacuums/)
+ - [There Are 2 Eclipses This August. Here’s How to See Them](https://www.wired.com/story/two-eclipses-august-how-to-see-them/)
+ - [The Best Kids’ Backpacks for the 2026 School Year](https://www.wired.com/gallery/best-kids-backpacks-2026/)
+ - [Is It Possible to Make Smart Glasses That Aren’t Creepy?](https://www.wired.com/story/is-it-possible-to-make-privacy-friendly-smart-glasses/)
+ - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

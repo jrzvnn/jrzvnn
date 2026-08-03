@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s AI Act enforcement powers take effect, letting it evaluate AI models before regional release, restrict market access, fine model providers, and more &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260803/p16#a260803p16)
- - [Best Robot Lawn Mowers &lpar;2026&rpar;: My Picks After 3 Years of Testing](https://www.wired.com/gallery/best-robot-lawn-mowers/)
- - [Source: Dario Amodei expressed concern about staff coming to Anthropic for the money rather than the mission, as Anthropic, OpenAI, and others battle for talent &lpar;Axios&rpar;](https://www.techmeme.com/260803/p15#a260803p15)
- - [Sources: South Korean AI chip designer DeepX raised a ~$29M Series D at a ~$2.2B valuation, and is in talks to raise ~$209M at a ~$2.4B valuation by September &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260803/p14#a260803p14)
- - [China&amp;#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)<!-- TECH:END -->
+ - [iPhones and home hardware: What to expect from Apple for the rest of 2026](https://appleinsider.com/articles/26/08/03/iphones-and-home-hardware-what-to-expect-from-apple-for-the-rest-of-2026?utm_source=rss)
+ - [Zenity, which develops a platform for securing AI agents, raised a $125M Series C led by Norwest Venture Partners, taking its total funding to ~$185M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260803/p21#a260803p21)
+ - [Visa plans to acquire Israeli company BioCatch, which uses AI to detect fraud and distinguish legitimate users from attackers in real time, for $2.4B in cash &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260803/p20#a260803p20)
+ - [Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops)
+ - [Horizon3, whose AI penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $250M Series E at a $2B valuation &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260803/p19#a260803p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

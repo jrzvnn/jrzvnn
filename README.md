@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones and home hardware: What to expect from Apple for the rest of 2026](https://appleinsider.com/articles/26/08/03/iphones-and-home-hardware-what-to-expect-from-apple-for-the-rest-of-2026?utm_source=rss)
- - [Zenity, which develops a platform for securing AI agents, raised a $125M Series C led by Norwest Venture Partners, taking its total funding to ~$185M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260803/p21#a260803p21)
- - [Visa plans to acquire Israeli company BioCatch, which uses AI to detect fraud and distinguish legitimate users from attackers in real time, for $2.4B in cash &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260803/p20#a260803p20)
- - [Lenovo Googlebook leaks reveal a laptop and 2-in-1 tablet](https://www.theverge.com/tech/974377/lenovo-googlebook-google-image-leaks-laptops)
- - [Horizon3, whose AI penetration testing platform NodeZero helps find and exploit attack paths in production systems, raised a $250M Series E at a $2B valuation &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/260803/p19#a260803p19)<!-- TECH:END -->
+ - [China has revised regulations to tighten protection of chip layout designs, including punitive damages for serious infringement, taking effect on October 15 &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260803/p27#a260803p27)
+ - [Valar, which is making small modular nuclear reactors to power data centers, raised a $1B Series B led by Sequoia at a $6B post-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260803/p26#a260803p26)
+ - [Mariana Minerals, which builds and operates mines using its MarianaOS software platform, raised a $310M Series B, bringing its total funding to $400M &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260803/p25#a260803p25)
+ - [M5 15-inch MacBook Air with 24GB RAM dips to $1,499 after $200 discount](https://appleinsider.com/articles/26/08/03/m5-15-inch-macbook-air-with-24gb-ram-dips-to-1499-after-200-discount?utm_source=rss)
+ - [India proposes extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, something Apple had lobbied for &lpar;Reuters&rpar;](https://www.techmeme.com/260803/p24#a260803p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

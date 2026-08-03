@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas &lpar;Devlin Barrett/New York Times&rpar;](https://www.techmeme.com/260803/p31#a260803p31)
- - [US satellite internet provider Hughesnet files for Chapter 11 after losing subscribers to Starlink and plans to focus on business and government customers &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260803/p30#a260803p30)
- - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
- - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
- - [Leaked doc: Microsoft plans to bring Xbox 360 games to PC, and the games will be able to run on the next-gen Project Helix console, &quot;Xbox PCs&quot;, and handhelds &lpar;The Verge&rpar;](https://www.techmeme.com/260803/p29#a260803p29)<!-- TECH:END -->
+ - [Today’s NYT Strands Hints, Answers and Help for Aug. 4 #884](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-4-884/)
+ - [Today’s NYT Connections Hints and Answers for Aug. 4, #1150](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-4-1150/)
+ - [The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases](https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/)
+ - [Samsung says it&#39;s restricting app registrations and removing apps with SDKs that can turn smart TVs into residential proxy exit nodes, after a similar ban by LG &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260803/p32#a260803p32)
+ - [Apple faces new antitrust case in Russia over state-backed apps](https://appleinsider.com/articles/26/08/03/apple-faces-new-antitrust-case-in-russia-over-state-backed-apps?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

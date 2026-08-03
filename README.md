@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 😝 [FAFO](http://9gag.com/gag/avy3XvE)
- - 💣 [Financial advice from the best](http://9gag.com/gag/aoybAbA)
- - 😝 [Which game?](http://9gag.com/gag/amoEO9d)
- - 👉 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)<!-- MEMES:END -->
+ - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
+ - 💣 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)
+ - 😝 [Be like bobr](http://9gag.com/gag/axyXeWL)
+ - 👉 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)<!-- MEMES:END -->
 
 ---
 

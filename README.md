@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jim Carrey is loving this impression of himself](http://9gag.com/gag/abA9LrL)
- - 😝 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
- - 💣 [Racism in 2026 is saying what security and body cameras show](http://9gag.com/gag/aQz0KPz)
- - 😝 [A sticker on the forehead would be helpful too](http://9gag.com/gag/agmP9D6)
- - 👉 [He is a dog of focus](http://9gag.com/gag/an7L0vV)<!-- MEMES:END -->
+ - 😝 [You go girl](http://9gag.com/gag/aGyW6vG)
+ - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 💣 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
+ - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
 
 ---
 

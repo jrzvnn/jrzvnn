@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
- - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)
- - [Sources detail the troubled development of Tencent&#39;s ambitious, GTA-like game Last Sentinel, which has burned hundreds of millions of dollars over six years &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260802/p11#a260802p11)
- - [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review)
- - [LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create &lpar;Andrej Karpathy/@karpathy&rpar;](https://www.techmeme.com/260802/p10#a260802p10)<!-- TECH:END -->
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 3, #679](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-3-679/)
+ - [A look at Central Asia&#39;s emerging data center race, led by Uzbekistan&#39;s 6MW TAS-1 due by year-end and Kazakhstan&#39;s 125MW facility with 100K Nvidia chips by 2027 &lpar;Yevgeniya Mikhailidi/Nikkei Asia&rpar;](https://www.techmeme.com/260803/p1#a260803p1)
+ - [Alibaba says its 2.4T-parameter Qwen3.8-Max tops Kimi K3 on some benchmarks, and says it plans to release the weights of Qwen3.8-Max and Qwen3.8-27B next week &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260802/p16#a260802p16)
+ - [Two independent teams used GPT-5.6 Sol Ultra on the same quantum cryptography problem, filing papers 3 hours apart, raising questions about scientific credit &lpar;Peter Hall/Scientific American&rpar;](https://www.techmeme.com/260802/p15#a260802p15)
+ - [A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p14#a260802p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

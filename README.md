@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the growing tensions over AI data centers in London, Europe&#39;s biggest data center hub, as housing, power, and water come under increasing strain &lpar;Francesca Perry/Financial Times&rpar;](https://www.techmeme.com/260803/p6#a260803p6)
- - [Indeed: UK employers are creating jobs for senior staff in software engineering and IT, where AI enhances the value of experience, while cutting back elsewhere &lpar;Irina Anghel/Bloomberg&rpar;](https://www.techmeme.com/260803/p5#a260803p5)
- - [Japanese startups are racing to enter defense drone production, as Tokyo seeks to cut reliance on Chinese industrial drones, which control 91% of Japan&#39;s market &lpar;Mitsuru Obe/Nikkei Asia&rpar;](https://www.techmeme.com/260803/p4#a260803p4)
- - [A detailed recap of the real-world target hacks by OpenAI and Anthropic models, exposing failures in AI alignment training and lack of meaningful supervision &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260803/p3#a260803p3)
- - [An unsecured police dashboard exposed China&#39;s extensive tracking of foreigners, aggregating data from surveillance cameras, facial recognition tools, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260803/p2#a260803p2)<!-- TECH:END -->
+ - [The EU&#39;s AI Act enforcement powers take effect, letting it evaluate AI models before regional release, restrict market access, fine model providers, and more &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260803/p16#a260803p16)
+ - [Best Robot Lawn Mowers &lpar;2026&rpar;: My Picks After 3 Years of Testing](https://www.wired.com/gallery/best-robot-lawn-mowers/)
+ - [Source: Dario Amodei expressed concern about staff coming to Anthropic for the money rather than the mission, as Anthropic, OpenAI, and others battle for talent &lpar;Axios&rpar;](https://www.techmeme.com/260803/p15#a260803p15)
+ - [Sources: South Korean AI chip designer DeepX raised a ~$29M Series D at a ~$2.2B valuation, and is in talks to raise ~$209M at a ~$2.4B valuation by September &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260803/p14#a260803p14)
+ - [China&amp;#8217;s Alibaba takes another swipe at America’s AI supremacy](https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

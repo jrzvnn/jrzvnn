@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China has revised regulations to tighten protection of chip layout designs, including punitive damages for serious infringement, taking effect on October 15 &lpar;Eduardo Baptista/Reuters&rpar;](https://www.techmeme.com/260803/p27#a260803p27)
- - [Valar, which is making small modular nuclear reactors to power data centers, raised a $1B Series B led by Sequoia at a $6B post-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260803/p26#a260803p26)
- - [Mariana Minerals, which builds and operates mines using its MarianaOS software platform, raised a $310M Series B, bringing its total funding to $400M &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260803/p25#a260803p25)
- - [M5 15-inch MacBook Air with 24GB RAM dips to $1,499 after $200 discount](https://appleinsider.com/articles/26/08/03/m5-15-inch-macbook-air-with-24gb-ram-dips-to-1499-after-200-discount?utm_source=rss)
- - [India proposes extending tax exemptions until 2041 for foreign companies that provide machinery to contract manufacturers, something Apple had lobbied for &lpar;Reuters&rpar;](https://www.techmeme.com/260803/p24#a260803p24)<!-- TECH:END -->
+ - [Court docs: an FBI agent has been charged with amassing ~$1M worth of cryptocurrency, largely by making unauthorized withdrawals from a criminal target overseas &lpar;Devlin Barrett/New York Times&rpar;](https://www.techmeme.com/260803/p31#a260803p31)
+ - [US satellite internet provider Hughesnet files for Chapter 11 after losing subscribers to Starlink and plans to focus on business and government customers &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260803/p30#a260803p30)
+ - [Europe’s AI labeling and transparency rules are now in effect](https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes)
+ - [The first-gen Kindle Scribe is a big e-reader and digital notebook that’s $150 refurbished](https://www.theverge.com/gadgets/974536/kindle-scribe-2022-refurbished-woot-deal-sale)
+ - [Leaked doc: Microsoft plans to bring Xbox 360 games to PC, and the games will be able to run on the next-gen Project Helix console, &quot;Xbox PCs&quot;, and handhelds &lpar;The Verge&rpar;](https://www.techmeme.com/260803/p29#a260803p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

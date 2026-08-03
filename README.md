@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)
+ - [Lenovo Shares Images of New Googlebook and 2-in-1 Tablet](https://www.cnet.com/uncategorized/lenovo-shares-images-of-new-googlebook-and-2-in-1-tablet/)
+ - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)
  - [Apple’s Rumored Camera-Equipped AirPods Could Arrive as Early as This Year](https://www.cnet.com/tech/mobile/apples-rumored-camera-equipped-airpods-could-arrive-as-early-as-this-year/)
- - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)
- - [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing)
- - [The End of August Will Feature a Lunar Eclipse Visible All Over North America](https://www.cnet.com/science/space/august-lunar-eclipse-north-america/)
- - [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale)<!-- TECH:END -->
+ - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

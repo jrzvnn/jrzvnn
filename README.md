@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
- - 😝 [ZMPC Is A Chinese State-Owned Company.](http://9gag.com/gag/a87BvBZ)
- - 💣 [He is a dog of focus](http://9gag.com/gag/an7L0vV)
- - 😝 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - 👉 [Nailed it](http://9gag.com/gag/a0e2D5z)<!-- MEMES:END -->
+ - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
+ - 😝 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
+ - 💣 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
+ - 👉 [You go girl](http://9gag.com/gag/aGyW6vG)<!-- MEMES:END -->
 
 ---
 

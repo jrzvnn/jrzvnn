@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Financial advice from the best](http://9gag.com/gag/aoybAbA)
+ - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
  - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
- - 👉 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)<!-- MEMES:END -->
+ - 💣 [Such a peaceful country..](http://9gag.com/gag/awy6POr)
+ - 😝 [Since you guys never show the outcome, here&#39;s what is happening in Ceuta now](http://9gag.com/gag/aKGrXDb)
+ - 👉 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)<!-- MEMES:END -->
 
 ---
 

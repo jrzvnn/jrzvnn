@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Got &#39;Ted Energy?&#39; Apple is holding a &#39;Ted Lasso&#39; look-alike contest](https://appleinsider.com/articles/26/08/03/got-ted-energy-apple-is-holding-a-ted-lasso-look-alike-contest?utm_source=rss)
- - [Snap reports Q2 revenue up 19% YoY to $1.6B, vs. $1.54B est., DAUs up 5% to 493M, vs. 487M est., forecasts Q3 revenue above est.; SNAP jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260803/p34#a260803p34)
- - [Hughesnet Files for Bankruptcy After Bleeding Customers to Starlink](https://www.cnet.com/home/internet/hughesnet-files-for-bankruptcy-after-bleeding-customers-to-starlink/)
- - [Team Ternus drags retired vice president of hardware engineering back into Apple](https://appleinsider.com/articles/26/08/03/team-ternus-drags-retired-vice-president-of-hardware-engineering-back-into-apple?utm_source=rss)
- - [Palantir reports Q2 revenue up 93% YoY to $1.94B, vs. $1.8B est., US commercial revenue up 149%, and raises FY 2026 revenue guidance; PLTR jumps 9%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260803/p33#a260803p33)<!-- TECH:END -->
+ - [Apple’s Rumored Camera-Equipped AirPods Could Arrive as Early as This Year](https://www.cnet.com/tech/mobile/apples-rumored-camera-equipped-airpods-could-arrive-as-early-as-this-year/)
+ - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)
+ - [Your Fitbit data can now connect directly to Apple Health](https://www.theverge.com/gadgets/974778/google-health-fitbit-data-apple-health-syncing)
+ - [The End of August Will Feature a Lunar Eclipse Visible All Over North America](https://www.cnet.com/science/space/august-lunar-eclipse-north-america/)
+ - [Samsung’s discounted smart monitor is $349.99, its lowest price yet](https://www.theverge.com/gadgets/974583/samsungs-m80f-smart-monitor-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

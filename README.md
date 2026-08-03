@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 3, #679](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-3-679/)
- - [A look at Central Asia&#39;s emerging data center race, led by Uzbekistan&#39;s 6MW TAS-1 due by year-end and Kazakhstan&#39;s 125MW facility with 100K Nvidia chips by 2027 &lpar;Yevgeniya Mikhailidi/Nikkei Asia&rpar;](https://www.techmeme.com/260803/p1#a260803p1)
- - [Alibaba says its 2.4T-parameter Qwen3.8-Max tops Kimi K3 on some benchmarks, and says it plans to release the weights of Qwen3.8-Max and Qwen3.8-27B next week &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260802/p16#a260802p16)
- - [Two independent teams used GPT-5.6 Sol Ultra on the same quantum cryptography problem, filing papers 3 hours apart, raising questions about scientific credit &lpar;Peter Hall/Scientific American&rpar;](https://www.techmeme.com/260802/p15#a260802p15)
- - [A look at the US open-weight AI model ecosystem, as VCs question the revenue potential of open-weight startups like Arcee, Reflection AI, and Poolside &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260802/p14#a260802p14)<!-- TECH:END -->
+ - [A look at the growing tensions over AI data centers in London, Europe&#39;s biggest data center hub, as housing, power, and water come under increasing strain &lpar;Francesca Perry/Financial Times&rpar;](https://www.techmeme.com/260803/p6#a260803p6)
+ - [Indeed: UK employers are creating jobs for senior staff in software engineering and IT, where AI enhances the value of experience, while cutting back elsewhere &lpar;Irina Anghel/Bloomberg&rpar;](https://www.techmeme.com/260803/p5#a260803p5)
+ - [Japanese startups are racing to enter defense drone production, as Tokyo seeks to cut reliance on Chinese industrial drones, which control 91% of Japan&#39;s market &lpar;Mitsuru Obe/Nikkei Asia&rpar;](https://www.techmeme.com/260803/p4#a260803p4)
+ - [A detailed recap of the real-world target hacks by OpenAI and Anthropic models, exposing failures in AI alignment training and lack of meaningful supervision &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260803/p3#a260803p3)
+ - [An unsecured police dashboard exposed China&#39;s extensive tracking of foreigners, aggregating data from surveillance cameras, facial recognition tools, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260803/p2#a260803p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

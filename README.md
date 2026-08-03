@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Strands Hints, Answers and Help for Aug. 4 #884](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-4-884/)
- - [Today’s NYT Connections Hints and Answers for Aug. 4, #1150](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-4-1150/)
- - [The SpaceX Falcon Lunar Crash Is a Warning for Moon Bases](https://www.wired.com/story/spacex-falcon-moon-crash-warning-for-lunar-bases/)
- - [Samsung says it&#39;s restricting app registrations and removing apps with SDKs that can turn smart TVs into residential proxy exit nodes, after a similar ban by LG &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260803/p32#a260803p32)
- - [Apple faces new antitrust case in Russia over state-backed apps](https://appleinsider.com/articles/26/08/03/apple-faces-new-antitrust-case-in-russia-over-state-backed-apps?utm_source=rss)<!-- TECH:END -->
+ - [Got &#39;Ted Energy?&#39; Apple is holding a &#39;Ted Lasso&#39; look-alike contest](https://appleinsider.com/articles/26/08/03/got-ted-energy-apple-is-holding-a-ted-lasso-look-alike-contest?utm_source=rss)
+ - [Snap reports Q2 revenue up 19% YoY to $1.6B, vs. $1.54B est., DAUs up 5% to 493M, vs. 487M est., forecasts Q3 revenue above est.; SNAP jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260803/p34#a260803p34)
+ - [Hughesnet Files for Bankruptcy After Bleeding Customers to Starlink](https://www.cnet.com/home/internet/hughesnet-files-for-bankruptcy-after-bleeding-customers-to-starlink/)
+ - [Team Ternus drags retired vice president of hardware engineering back into Apple](https://appleinsider.com/articles/26/08/03/team-ternus-drags-retired-vice-president-of-hardware-engineering-back-into-apple?utm_source=rss)
+ - [Palantir reports Q2 revenue up 93% YoY to $1.94B, vs. $1.8B est., US commercial revenue up 149%, and raises FY 2026 revenue guidance; PLTR jumps 9%+ after hours &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260803/p33#a260803p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

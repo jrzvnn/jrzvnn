@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)
- - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
- - 💣 [Such a peaceful country..](http://9gag.com/gag/awy6POr)
- - 😝 [Since you guys never show the outcome, here&#39;s what is happening in Ceuta now](http://9gag.com/gag/aKGrXDb)
- - 👉 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)<!-- MEMES:END -->
+ - 😝 [Jim Carrey is loving this impression of himself](http://9gag.com/gag/abA9LrL)
+ - 😝 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)
+ - 💣 [Racism in 2026 is saying what security and body cameras show](http://9gag.com/gag/aQz0KPz)
+ - 😝 [A sticker on the forehead would be helpful too](http://9gag.com/gag/agmP9D6)
+ - 👉 [He is a dog of focus](http://9gag.com/gag/an7L0vV)<!-- MEMES:END -->
 
 ---
 

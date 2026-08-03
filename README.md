@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I haven&#39;t do nothing](http://9gag.com/gag/a87BQVO)
  - 😝 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
- - 💣 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)
+ - 😝 [Since you guys never show the outcome, here&#39;s what is happening in Ceuta now](http://9gag.com/gag/aKGrXDb)
+ - 💣 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)
  - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
- - 👉 [You go girl](http://9gag.com/gag/aGyW6vG)<!-- MEMES:END -->
+ - 👉 [Bless me, Father, for I have sinned.](http://9gag.com/gag/a9y9Zom)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood&#39;s prediction markets revenue surged 10x+ YoY to $156M in Q2, topping stock and crypto for the first time as speculators shift to real-world event bets &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260802/p13#a260802p13)
+ - [Four US states rolled back or paused data center tax incentives, and nine others are weighing repeal measures, potentially adding 7% or more to equipment costs &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260802/p12#a260802p12)
  - [Sources detail the troubled development of Tencent&#39;s ambitious, GTA-like game Last Sentinel, which has burned hundreds of millions of dollars over six years &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/260802/p11#a260802p11)
  - [Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing](https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review)
- - [LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create &lpar;Andrej Karpathy/@karpathy&rpar;](https://www.techmeme.com/260802/p10#a260802p10)
- - [Today’s NYT Strands Hints, Answers and Help for Aug. 3 #883](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-3-883/)
- - [Today’s Wordle Hints, Answer and Help for Aug. 3, #1871](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-3-1871/)<!-- TECH:END -->
+ - [LLMs are moving from generating artifacts to creating hyper-custom worlds on demand, but still lack the ability to natively perceive and audit what they create &lpar;Andrej Karpathy/@karpathy&rpar;](https://www.techmeme.com/260802/p10#a260802p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

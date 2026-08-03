@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want his calm](http://9gag.com/gag/an7L885)
- - 😝 [F A F O - woman sits on an excavator and refuses to move, then gets stuck in it to the laughter of everyone](http://9gag.com/gag/an7L8PB)
- - 💣 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 😝 [Financial advice from the best](http://9gag.com/gag/aoybAbA)
+ - 😝 [Banks be like:](http://9gag.com/gag/a1mGBdb)
+ - 💣 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)
  - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
- - 👉 [Why settle for the product when you can go straight to the manufacturer](http://9gag.com/gag/aW4wNr4)<!-- MEMES:END -->
+ - 👉 [Let&#39;s see... Chaplin&#39;s head, spooky boy&#39;s hair, and... oh.... oh!](http://9gag.com/gag/a34Ve23)<!-- MEMES:END -->
 
 ---
 

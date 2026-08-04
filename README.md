@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)
- - 😝 [Got some side quests to do.](http://9gag.com/gag/a34VOgN)
- - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
- - 😝 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
- - 👉 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)<!-- MEMES:END -->
+ - 😝 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
+ - 😝 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
+ - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
 
 ---
 

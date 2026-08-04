@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - 😝 [Nailed it](http://9gag.com/gag/a0e2D5z)
- - 💣 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
- - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
+ - 😝 [Which game?](http://9gag.com/gag/amoEO9d)
+ - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
+ - 💣 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
+ - 😝 [Unexpectedly wholesome bluegrass night in the middle of tokyo](http://9gag.com/gag/ajPo4Z1)
  - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
 
 ---

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Punched me in the Arf Arfs.](http://9gag.com/gag/a0e238O)
- - 😝 [Do you all feel the same](http://9gag.com/gag/a0e2GXv)
- - 💣 [Is it ok to use woman&#39;s bathroom in this scenario?](http://9gag.com/gag/aE0Lb6e)
- - 😝 [We Hates Morningses](http://9gag.com/gag/a9y9gAD)
+ - 😝 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
+ - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
+ - 💣 [She has some fun](http://9gag.com/gag/aW4wXB4)
+ - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
  - 👉 [Just tactics!](http://9gag.com/gag/a1mG6dw)<!-- MEMES:END -->
 
 ---

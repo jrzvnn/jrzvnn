@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
- - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
- - 👉 [Wonder Generation](http://9gag.com/gag/aGyWqDX)<!-- MEMES:END -->
+ - 😝 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)
+ - 😝 [Got some side quests to do.](http://9gag.com/gag/a34VOgN)
+ - 💣 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 😝 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
+ - 👉 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)<!-- MEMES:END -->
 
 ---
 

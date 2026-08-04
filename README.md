@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it &quot;briefly removed Telegram from the App Store&quot; over CSAM on Monday, restoring it after Telegram &quot;promptly removed the content and banned the user&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260803/p39#a260803p39)
- - [Telegram briefly disappeared from the Apple App Store with no explanation](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)
- - [Sources: to fight critics on social media, DHS sent platforms hundreds of subpoenas and asked posters to sign letters saying speech about ICE &quot;may&quot; be a crime &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260803/p38#a260803p38)
- - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
- - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)<!-- TECH:END -->
+ - [Q&amp;A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky&#39;s reputation as a progressive social media network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260804/p2#a260804p2)
+ - [Telegram briefly disappeared from the Apple App Store due to CSAM [u]](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)
+ - [Sources: HP, Asus, and Acer have started using small amounts of DRAM chips from CXMT in their laptops for non-US markets, amid an unprecedented memory shortage &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260804/p1#a260804p1)
+ - [Lenovo Coupon Codes and Deals in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
+ - [Nomad Goods Promo Codes: Get 25% Off in August 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

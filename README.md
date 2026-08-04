@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)
- - [Lenovo Shares Images of New Googlebook and 2-in-1 Tablet](https://www.cnet.com/uncategorized/lenovo-shares-images-of-new-googlebook-and-2-in-1-tablet/)
- - [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/)
- - [Apple’s Rumored Camera-Equipped AirPods Could Arrive as Early as This Year](https://www.cnet.com/tech/mobile/apples-rumored-camera-equipped-airpods-could-arrive-as-early-as-this-year/)
- - [Amazon becomes the fifth company to reach a $3T market cap, joining Nvidia, Alphabet, Microsoft, and Apple; its stock closed up 4.58% on Monday &lpar;Jeran Wittenstein/Bloomberg&rpar;](https://www.techmeme.com/260803/p35#a260803p35)<!-- TECH:END -->
+ - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
+ - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)
+ - [Texas halts approval of data center grid connections until audits are performed; projects representing 474+ GW are in the queue, over 5x the grid&#39;s peak demand &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260803/p36#a260803p36)
+ - [Malwarebytes Offers US College Students 2 Years of Free Antivirus Protection](https://www.cnet.com/tech/services-and-software/malwarebytes-offers-us-college-students-two-years-of-free-antivirus-protection/)
+ - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

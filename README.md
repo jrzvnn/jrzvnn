@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
- - [Anthropic names Mariano-Florentino Cuéllar, an ex-California Supreme Court justice and a special assistant in Obama&#39;s WH, as its first global affairs chief &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260804/p33#a260804p33)
- - [Sandisk and SK Hynix announce the High Bandwidth Flash &lpar;HBF&rpar; open specification that enables up to 512GB memory modules with 0.4 TB/s to 3.0 TB/s bandwidth &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260804/p32#a260804p32)
- - [Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p31#a260804p31)
- - [The DOJ secures a $3.2M settlement from OpenAI to resolve allegations it discriminated against US workers by preferring workers with temporary employment visas &lpar;Jimmy Jenkins/Bloomberg&rpar;](https://www.techmeme.com/260804/p30#a260804p30)<!-- TECH:END -->
+ - [Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260804/p36#a260804p36)
+ - [OpenAI Hits Back at Apple, Calls Lawsuit ‘Careless, Aggressive and Oddly Personal’](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-released-texts-emails-august-2026-news/)
+ - [Sources: the White House doesn&#39;t plan to publicly release its voluntary AI framework; details will be available to the companies that are part of the process &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260804/p35#a260804p35)
+ - [Staff lottery reveals Apple&#39;s first-half September event plans](https://appleinsider.com/articles/26/08/04/staff-lottery-reveals-apples-first-half-september-event-plans?utm_source=rss)
+ - [Internal email: Microsoft introduces token budget limits for employees&#39; AI use, saying &quot;tokenmaxxing is not what we are optimizing for&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](https://www.techmeme.com/260804/p34#a260804p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

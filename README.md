@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and filings: Google assembled a ~$200B financing program for Anthropic, with $150B+ tied to TPUs and involving Broadcom, Blackstone, Apollo, and others &lpar;Financial Times&rpar;](https://www.techmeme.com/260804/p6#a260804p6)
- - [A look at Alphabet&#39;s moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be &lpar;Harry McCracken/Fast Company&rpar;](https://www.techmeme.com/260804/p5#a260804p5)
- - [Filing: Apple asks a US judge for a preliminary injunction barring two former staff and OpenAI from accessing, acquiring, using, or disclosing confidential info &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p4#a260804p4)
- - [OpenAI disputes Apple&#39;s account of pre-lawsuit contacts, rejects claims that ex-staff used confidential information, shares iMessages and emails, and more &lpar;OpenAI&rpar;](https://www.techmeme.com/260804/p3#a260804p3)
- - [Q&amp;A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky&#39;s reputation as a progressive social media network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260804/p2#a260804p2)<!-- TECH:END -->
+ - [AI cloud startup Volta raised $300M co-led by a16z and Altimeter at a $2.4B valuation and says it landed a $10B contract with an unnamed leading AI developer &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260804/p17#a260804p17)
+ - [Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat](https://www.wired.com/review/purple-carrot-meal-kit-2026/)
+ - [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)
+ - [Sources: China&#39;s CXMT is set to manufacture small quantities of LPDDR6 smartphone memory by the end of 2026, as it seeks to compete with SK Hynix and Samsung &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p16#a260804p16)
+ - [Sources: the FCC is drafting a restriction on US imports of new models of Chinese data center optical transceivers, set to take effect upon publication in 2026 &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260804/p15#a260804p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

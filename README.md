@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)
- - [The studio behind Pokémon struggles to find its voice in Beast of Reincarnation](https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox)
- - [Texas halts approval of data center grid connections until audits are performed; projects representing 474+ GW are in the queue, over 5x the grid&#39;s peak demand &lpar;The Texas Tribune&rpar;](https://www.techmeme.com/260803/p36#a260803p36)
- - [Malwarebytes Offers US College Students 2 Years of Free Antivirus Protection](https://www.cnet.com/tech/services-and-software/malwarebytes-offers-us-college-students-two-years-of-free-antivirus-protection/)
- - [Equifax Customers Have a Month to Claim a Piece of $2.2M Class Action Settlement](https://www.cnet.com/tech/equifax-customers-claim-2m-class-action-settlement/)<!-- TECH:END -->
+ - [Apple says it &quot;briefly removed Telegram from the App Store&quot; over CSAM on Monday, restoring it after Telegram &quot;promptly removed the content and banned the user&quot; &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260803/p39#a260803p39)
+ - [Telegram briefly disappeared from the Apple App Store with no explanation](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)
+ - [Sources: to fight critics on social media, DHS sent platforms hundreds of subpoenas and asked posters to sign letters saying speech about ICE &quot;may&quot; be a crime &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260803/p38#a260803p38)
+ - [iPhone to Windows clipboard sharing coming to iOS 28 in the EU](https://appleinsider.com/articles/26/08/04/iphone-to-windows-clipboard-sharing-coming-to-ios-28-in-the-eu?utm_source=rss)
+ - [TikTok agrees to settle three more teen social media lawsuits ahead of trial; 2,600 cases with similar claims are pending in California federal court &lpar;Dietrich Knauth/Reuters&rpar;](https://www.techmeme.com/260803/p37#a260803p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky&#39;s reputation as a progressive social media network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260804/p2#a260804p2)
- - [Telegram briefly disappeared from the Apple App Store due to CSAM [u]](https://appleinsider.com/articles/26/08/04/telegram-briefly-disappeared-from-the-apple-app-store-with-no-explanation?utm_source=rss)
- - [Sources: HP, Asus, and Acer have started using small amounts of DRAM chips from CXMT in their laptops for non-US markets, amid an unprecedented memory shortage &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260804/p1#a260804p1)
- - [Lenovo Coupon Codes and Deals in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
- - [Nomad Goods Promo Codes: Get 25% Off in August 2026](https://www.wired.com/story/nomad-discount-code/)<!-- TECH:END -->
+ - [Sources and filings: Google assembled a ~$200B financing program for Anthropic, with $150B+ tied to TPUs and involving Broadcom, Blackstone, Apollo, and others &lpar;Financial Times&rpar;](https://www.techmeme.com/260804/p6#a260804p6)
+ - [A look at Alphabet&#39;s moonshot lab X and interviews with its staff, including CEO Astro Teller, on reinventing itself and what its next big thing might be &lpar;Harry McCracken/Fast Company&rpar;](https://www.techmeme.com/260804/p5#a260804p5)
+ - [Filing: Apple asks a US judge for a preliminary injunction barring two former staff and OpenAI from accessing, acquiring, using, or disclosing confidential info &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p4#a260804p4)
+ - [OpenAI disputes Apple&#39;s account of pre-lawsuit contacts, rejects claims that ex-staff used confidential information, shares iMessages and emails, and more &lpar;OpenAI&rpar;](https://www.techmeme.com/260804/p3#a260804p3)
+ - [Q&amp;A with Bluesky CEO Toni Schneider on the AT Protocol, ActivityPub, scaling moderation, Bluesky&#39;s reputation as a progressive social media network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260804/p2#a260804p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

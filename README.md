@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260804/p21#a260804p21)
- - [HappyRobot, which uses AI to automate freight operator communications, raised a $150M Series C at a $1.2B valuation, after a $44M Series B in September 2025 &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260804/p20#a260804p20)
- - [UK faces new legal fight from Apple over backdoor access to iCloud data](https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss)
- - [T-Mobile Is Stretching Its Device Commitment to 3 Years with New Installment and “2.0” Phone Plans](https://www.cnet.com/tech/mobile/t-mobile-is-stretching-its-device-commitment-to-3-years-with-new-installment-and-2-0-phone-plans/)
- - [Peak Design’s latest bags have clever integrated hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price)<!-- TECH:END -->
+ - [Oligo, which offers runtime security tools, raised $60M from Ballistic Ventures, Canon Capital, and others, bringing its total funding to $140M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260804/p28#a260804p28)
+ - [Alpamayo 2 Super, Nvidia&#39;s frontier open reasoning model for robotaxis and AVs, is now available for commercial use under the OpenMDW-1.1 license &lpar;Jessica Soares/NVIDIA&rpar;](https://www.techmeme.com/260804/p27#a260804p27)
+ - [Texas says data centers must pass an audit before connecting to the grid](https://www.theverge.com/policy/975071/texas-data-center-audit)
+ - [Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom as it expands beyond farming into trucking, construction, and real estate &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260804/p26#a260804p26)
+ - [Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal](https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

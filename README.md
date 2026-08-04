@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An internal TikTok doc shows it withheld a safeguarded algorithm from 10% of US users, including a 16-year-old who was fed self-harm content and died by suicide &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260804/p50#a260804p50)
- - [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/)
- - [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync)
- - [Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260804/p49#a260804p49)
- - [The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260804/p48#a260804p48)<!-- TECH:END -->
+ - [OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations &lpar;Wired&rpar;](https://www.techmeme.com/260804/p53#a260804p53)
+ - [Coupang reports Q2 revenue up 4% YoY to $8.9B and an operating loss of $556M, vs. $361M est., due to a $409M data breach fine; CPNG drops 7%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p52#a260804p52)
+ - [iPhone 20 Pro and Pro Max Might Get Bigger Screens in 2027](https://www.cnet.com/tech/iphone-20-pro-and-pro-max-might-get-bigger-screens-in-2027/)
+ - [Don’t screw this up, Marvel](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday)
+ - [SpaceX President Gwynne Shotwell says the company aims to build out ground-based infrastructure to complement its satellite network for &quot;a true mobile service&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p51#a260804p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

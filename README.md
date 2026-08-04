@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Since you guys never show the outcome, here&#39;s what is happening in Ceuta now](http://9gag.com/gag/aKGrXDb)
- - 😝 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
- - 💣 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
- - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
+ - 😝 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
+ - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 💣 [This surgeon came from another Multiverse, or is just an alien Undercover](http://9gag.com/gag/agmPbvq)
+ - 😝 [Wave goodbye](http://9gag.com/gag/abA98eB)
+ - 👉 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oligo, which offers runtime security tools, raised $60M from Ballistic Ventures, Canon Capital, and others, bringing its total funding to $140M &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260804/p28#a260804p28)
- - [Alpamayo 2 Super, Nvidia&#39;s frontier open reasoning model for robotaxis and AVs, is now available for commercial use under the OpenMDW-1.1 license &lpar;Jessica Soares/NVIDIA&rpar;](https://www.techmeme.com/260804/p27#a260804p27)
- - [Texas says data centers must pass an audit before connecting to the grid](https://www.theverge.com/policy/975071/texas-data-center-audit)
- - [Ambrook, which offers accounting software, raised a $30M Series B led by Lachy Groom as it expands beyond farming into trucking, construction, and real estate &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260804/p26#a260804p26)
- - [Landmark Deal Would Officially Add Laser Weapons to US Army Arsenal](https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/)<!-- TECH:END -->
+ - [BMW’s in-car Spider-Man ad is villain behavior](https://www.theverge.com/transportation/975172/bmw-spider-man-movie-infotainment-ad)
+ - [Anthropic names Mariano-Florentino Cuéllar, an ex-California Supreme Court justice and a special assistant in Obama&#39;s WH, as its first global affairs chief &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260804/p33#a260804p33)
+ - [Sandisk and SK Hynix announce the High Bandwidth Flash &lpar;HBF&rpar; open specification that enables up to 512GB memory modules with 0.4 TB/s to 3.0 TB/s bandwidth &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260804/p32#a260804p32)
+ - [Sources: the US is preparing to set a price floor and impose tariffs on polysilicon, a material critical to chips, later this month, in a bid to counter China &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p31#a260804p31)
+ - [The DOJ secures a $3.2M settlement from OpenAI to resolve allegations it discriminated against US workers by preferring workers with temporary employment visas &lpar;Jimmy Jenkins/Bloomberg&rpar;](https://www.techmeme.com/260804/p30#a260804p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Germany VS Iran 2004](http://9gag.com/gag/aoybwz0)
- - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 💣 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
+ - 😝 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
+ - 💣 [She has some fun](http://9gag.com/gag/aW4wXB4)
+ - 😝 [Someone reported this spam so the original got deleted. Repost.. :&rpar;](http://9gag.com/gag/aD2EeVG)
+ - 👉 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)<!-- MEMES:END -->
 
 ---
 

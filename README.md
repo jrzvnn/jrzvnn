@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
- - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
- - 💣 [This surgeon came from another Multiverse, or is just an alien Undercover](http://9gag.com/gag/agmPbvq)
- - 😝 [Wave goodbye](http://9gag.com/gag/abA98eB)
- - 👉 [They really dont like people to see their worst side](http://9gag.com/gag/aO8XnNv)<!-- MEMES:END -->
+ - 😝 [Punched me in the Arf Arfs.](http://9gag.com/gag/a0e238O)
+ - 😝 [Do you all feel the same](http://9gag.com/gag/a0e2GXv)
+ - 💣 [Is it ok to use woman&#39;s bathroom in this scenario?](http://9gag.com/gag/aE0Lb6e)
+ - 😝 [We Hates Morningses](http://9gag.com/gag/a9y9gAD)
+ - 👉 [Just tactics!](http://9gag.com/gag/a1mG6dw)<!-- MEMES:END -->
 
 ---
 

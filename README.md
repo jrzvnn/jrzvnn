@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard truths about spiderman lore](http://9gag.com/gag/ae9vE1O)
- - 😝 [Punched me in the Arf Arfs.](http://9gag.com/gag/a0e238O)
- - 💣 [Racism in 2026 is saying what security and body cameras show](http://9gag.com/gag/aQz0KPz)
- - 😝 [Metalhead on therapy](http://9gag.com/gag/aqyqE4R)
- - 👉 [Be like bobr](http://9gag.com/gag/axyXeWL)<!-- MEMES:END -->
+ - 😝 [Hey, is it me or does this place smell like up-dog?](http://9gag.com/gag/aGyWrZZ)
+ - 😝 [Nailed it](http://9gag.com/gag/a0e2D5z)
+ - 💣 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
+ - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
+ - 👉 [You don\u2019t ADIOS the judge!](http://9gag.com/gag/avy3BxM)<!-- MEMES:END -->
 
 ---
 

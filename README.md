@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI cloud startup Volta raised $300M co-led by a16z and Altimeter at a $2.4B valuation and says it landed a $10B contract with an unnamed leading AI developer &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260804/p17#a260804p17)
- - [Purple Carrot Meal Kit Review: Tastier Than Meal Kits With Meat](https://www.wired.com/review/purple-carrot-meal-kit-2026/)
- - [OpenAI drags Apple’s lawsuit into the court of public opinion](https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages)
- - [Sources: China&#39;s CXMT is set to manufacture small quantities of LPDDR6 smartphone memory by the end of 2026, as it seeks to compete with SK Hynix and Samsung &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p16#a260804p16)
- - [Sources: the FCC is drafting a restriction on US imports of new models of Chinese data center optical transceivers, set to take effect upon publication in 2026 &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260804/p15#a260804p15)<!-- TECH:END -->
+ - [Obsidian Security, which helps companies secure AI agents, raised an $85M Series D at a $1.1B valuation, after raising a $90M Series C in April 2022 &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260804/p21#a260804p21)
+ - [HappyRobot, which uses AI to automate freight operator communications, raised a $150M Series C at a $1.2B valuation, after a $44M Series B in September 2025 &lpar;Lily Mae Lazarus/Fortune&rpar;](https://www.techmeme.com/260804/p20#a260804p20)
+ - [UK faces new legal fight from Apple over backdoor access to iCloud data](https://appleinsider.com/articles/26/08/03/uk-faces-new-legal-fight-from-apple-over-backdoor-access-to-icloud-data?utm_source=rss)
+ - [T-Mobile Is Stretching Its Device Commitment to 3 Years with New Installment and “2.0” Phone Plans](https://www.cnet.com/tech/mobile/t-mobile-is-stretching-its-device-commitment-to-3-years-with-new-installment-and-2-0-phone-plans/)
+ - [Peak Design’s latest bags have clever integrated hooks](https://www.theverge.com/tech/973624/peak-design-city-line-details-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

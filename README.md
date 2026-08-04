@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral releases Shieldstral, a 3B multimodal safety classifier that it says matches models up to 7x its size on text safety, available under Apache 2.0 &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260804/p36#a260804p36)
- - [OpenAI Hits Back at Apple, Calls Lawsuit ‘Careless, Aggressive and Oddly Personal’](https://www.cnet.com/tech/services-and-software/openai-apple-lawsuit-released-texts-emails-august-2026-news/)
- - [Sources: the White House doesn&#39;t plan to publicly release its voluntary AI framework; details will be available to the companies that are part of the process &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260804/p35#a260804p35)
- - [Staff lottery reveals Apple&#39;s first-half September event plans](https://appleinsider.com/articles/26/08/04/staff-lottery-reveals-apples-first-half-september-event-plans?utm_source=rss)
- - [Internal email: Microsoft introduces token budget limits for employees&#39; AI use, saying &quot;tokenmaxxing is not what we are optimizing for&quot; &lpar;Emanuel Maiberg/404 Media&rpar;](https://www.techmeme.com/260804/p34#a260804p34)<!-- TECH:END -->
+ - [Pixel 11 Leak Shows a New HiLight LED Light on the Back of the Phone](https://www.cnet.com/tech/mobile/pixel-11-leak-shows-a-new-hilight-led-light-on-the-back-of-the-phone/)
+ - [Samsung previews zHBM, which vertically stacks HBM atop AI accelerators, and zNAND-O, built on V-NAND, and unveils the industry&#39;s first V10 BV-NAND architecture &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p40#a260804p40)
+ - [EA is now a private company](https://www.theverge.com/games/974736/ea-private-company-deal-closed)
+ - [New DC Studios Show ‘Lanterns’ Is Out This August on HBO Max, Plus New ‘Hard Knocks,’ Conan and More](https://www.cnet.com/culture/entertainment/new-dc-studios-show-lanterns-is-out-this-august-on-hbo-max-plus-a-new-season-of-hard-knocks-conan-obrien-must-go-and-more/)
+ - [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., and AI segment operating loss of $1.26B, vs. $2.39B est.; SPCX drops 4%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p39#a260804p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder Generation](http://9gag.com/gag/aGyWqDX)
  - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 💣 [She has some fun](http://9gag.com/gag/aW4wXB4)
+ - 😝 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)
+ - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
  - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
- - 👉 [Just tactics!](http://9gag.com/gag/a1mG6dw)<!-- MEMES:END -->
+ - 👉 [Wonder Generation](http://9gag.com/gag/aGyWqDX)<!-- MEMES:END -->
 
 ---
 

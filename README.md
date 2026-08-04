@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to South Africa your civilization has collapsed](http://9gag.com/gag/aGyWQ1K)
- - 😝 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
- - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - 😝 [Germany VS Iran 2004](http://9gag.com/gag/aoybwz0)
+ - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
+ - 💣 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
  - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
  - 👉 [She has some fun](http://9gag.com/gag/aW4wXB4)<!-- MEMES:END -->
 

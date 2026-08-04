@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260804/p48#a260804p48)
- - [Sources: the US&#39; AI framework excludes open models and defines a covered frontier model as closed source with SOTA capabilities and national security risks &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260804/p47#a260804p47)
- - [SpaceX says its Q2 capex was $18.4B, up from $2.8B a year ago, including $15.8B for AI &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260804/p46#a260804p46)
- - [SpaceX reports Q2 revenue of $4.29B from its connectivity division, which includes Starlink, $100B of cash and marketable securities, and a $47.5B order backlog &lpar;Nathan Bomey/Axios&rpar;](https://www.techmeme.com/260804/p45#a260804p45)
- - [Pinterest reports Q2 revenue up 18% YoY to $1.18B, vs. $1.15B est., MAUs up 11% to 640M, forecasts Q3 revenue in line with estimates; PINS drops 8%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260804/p44#a260804p44)<!-- TECH:END -->
+ - [An internal TikTok doc shows it withheld a safeguarded algorithm from 10% of US users, including a 16-year-old who was fed self-harm content and died by suicide &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260804/p50#a260804p50)
+ - [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/)
+ - [Now you can securely link multiple phones to one Signal account](https://www.theverge.com/tech/975407/signal-linked-devices-sync)
+ - [Match reports Q2 revenue down 1% YoY to $853M, vs. $856.6M est., 13.3M paying users, vs. 13.4M est., forecasts Q3 revenue below est.; MTCH drops 8%+ after hours &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260804/p49#a260804p49)
+ - [The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260804/p48#a260804p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

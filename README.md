@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 Leak Shows a New HiLight LED Light on the Back of the Phone](https://www.cnet.com/tech/mobile/pixel-11-leak-shows-a-new-hilight-led-light-on-the-back-of-the-phone/)
- - [Samsung previews zHBM, which vertically stacks HBM atop AI accelerators, and zNAND-O, built on V-NAND, and unveils the industry&#39;s first V10 BV-NAND architecture &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p40#a260804p40)
- - [EA is now a private company](https://www.theverge.com/games/974736/ea-private-company-deal-closed)
- - [New DC Studios Show ‘Lanterns’ Is Out This August on HBO Max, Plus New ‘Hard Knocks,’ Conan and More](https://www.cnet.com/culture/entertainment/new-dc-studios-show-lanterns-is-out-this-august-on-hbo-max-plus-a-new-season-of-hard-knocks-conan-obrien-must-go-and-more/)
- - [SpaceX reports Q2 revenue up 92% YoY to $7.8B, vs. $6.81B est., and AI segment operating loss of $1.26B, vs. $2.39B est.; SPCX drops 4%+ after hours &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p39#a260804p39)<!-- TECH:END -->
+ - [The UK AISI says it observed a total of 19 instances where Mythos and GPT-5.6 Sol tried to hack people and companies during a routine cyber evaluation in July &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260804/p48#a260804p48)
+ - [Sources: the US&#39; AI framework excludes open models and defines a covered frontier model as closed source with SOTA capabilities and national security risks &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260804/p47#a260804p47)
+ - [SpaceX says its Q2 capex was $18.4B, up from $2.8B a year ago, including $15.8B for AI &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260804/p46#a260804p46)
+ - [SpaceX reports Q2 revenue of $4.29B from its connectivity division, which includes Starlink, $100B of cash and marketable securities, and a $47.5B order backlog &lpar;Nathan Bomey/Axios&rpar;](https://www.techmeme.com/260804/p45#a260804p45)
+ - [Pinterest reports Q2 revenue up 18% YoY to $1.18B, vs. $1.15B est., MAUs up 11% to 640M, forecasts Q3 revenue in line with estimates; PINS drops 8%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260804/p44#a260804p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

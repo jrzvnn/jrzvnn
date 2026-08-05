@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
- - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
  - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
+ - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 💣 [Fan v fan](http://9gag.com/gag/a87BgXO)
+ - 😝 [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
+ - 👉 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)<!-- MEMES:END -->
 
 ---
 

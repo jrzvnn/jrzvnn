@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260804/p57#a260804p57)
- - [The AI frenzy has divided the VC market, as the gap between top and bottom performers has more than doubled for 2024 funds compared to funds from 2017 to 2021 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p56#a260804p56)
- - [If SideCar isn&#39;t enough, get real macOS on iPad with a new jailbreak tool](https://appleinsider.com/articles/26/08/05/if-sidecar-isnt-enough-get-real-macos-on-ipad-with-a-new-jailbreak-tool?utm_source=rss)
- - [SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260804/p55#a260804p55)
- - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)<!-- TECH:END -->
+ - [The AI Notetaker Has Been Invited to All the Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/)
+ - [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv)
+ - [SpaceX is coming for T-Mobile, AT&amp;#038;T and Verizon](https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company)
+ - [How Reddit moderators are battling AI-powered astroturfing ad campaigns that exploit the platform&#39;s trusted reputation to promote skincare and other products &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260805/p4#a260805p4)
+ - [Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers; 62% of its Q1 revenue came from the US &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p3#a260805p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

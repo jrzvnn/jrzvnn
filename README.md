@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance affiliates are suing RedotPay&#39;s founders for allegedly diverting 470K+ users to a competing product in a &quot;fraudulent scheme&quot;, claiming $472.8M in losses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p41#a260805p41)
- - [Salesforce appoints Miguel Milano, its chief revenue officer, as COO; Chief Operating and Financial Officer Robin Washington will keep her title &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260805/p40#a260805p40)
- - [Nikita Bier says he will step back from leading product for X and continue as an adviser &lpar;Nikita Bier/@nikitabier&rpar;](https://www.techmeme.com/260805/p39#a260805p39)
- - [The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting](https://www.wired.com/story/national-design-studio-doge-recruiting/)
- - [Meta&#39;s Muse Code is yet another AI coding agent on macOS](https://appleinsider.com/articles/26/08/05/metas-muse-code-is-yet-another-ai-coding-agent-on-macos?utm_source=rss)<!-- TECH:END -->
+ - [Sandisk reports Q4 revenue up 372% YoY to $8.97B, vs. $8.48B est., and forecasts Q1 revenue below estimates; SNDK drops 5%+ after hours &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260805/p44#a260805p44)
+ - [PSA: don&#39;t fall for the scam Uber email making the rounds](https://appleinsider.com/articles/26/08/05/psa-dont-fall-for-the-scam-uber-email-making-the-rounds?utm_source=rss)
+ - [X product chief Nikita Bier is leaving after one year](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving)
+ - [Match Group’s CEO Says Gen Z Values In-Person Connection Over Dating Apps](https://www.cnet.com/tech/match-groups-ceo-says-gen-z-values-in-person-connection-over-dating-apps/)
+ - [Duolingo reports Q2 revenue up 18% YoY to $298.5M, paid subscribers up 17% to 12.7M, below est., forecasts Q3 revenue below est.; DUOL drops 11%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260805/p43#a260805p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

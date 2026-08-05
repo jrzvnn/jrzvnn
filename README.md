@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)
- - [An Abandoned SpaceX Rocket Crashed Into the Moon. Here’s What Happened](https://www.cnet.com/science/space/an-abandoned-spacex-rocket-crashed-into-the-moon-heres-what-happened/)
- - [Source: Yunfeng Capital, a PE firm co-founded by Jack Ma, invested ~$30M in AI insurance tech startup Corgi, leading a round that reportedly valued Corgi at $4B &lpar;Business Insider&rpar;](https://www.techmeme.com/260805/p33#a260805p33)
- - [Two of Ring&amp;#8217;s latest video doorbells are a lot cheaper than usual](https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale)
- - [Mysk: Apple&#39;s Private Relay tool can leak users&#39; IP addresses due to issues in Apple&#39;s WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260805/p32#a260805p32)<!-- TECH:END -->
+ - [Filing: Microsoft recorded $24.1B in revenue from OpenAI during the year ended in June, suggesting OpenAI accounted for more than half of Microsoft&#39;s AI sales &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p35#a260805p35)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 6, #682](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-6-682/)
+ - [Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260805/p34#a260805p34)
+ - [The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop](https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/)
+ - [TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up](https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro waited his whole life for this moment](http://9gag.com/gag/aAyo8Yo)
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 💣 [Fan v fan](http://9gag.com/gag/a87BgXO)
- - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
- - 👉 [This clever door system](http://9gag.com/gag/aO8XLj3)<!-- MEMES:END -->
+ - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
+ - 😝 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
+ - 💣 [Bro waited his whole life for this moment](http://9gag.com/gag/aAyo8Yo)
+ - 😝 [Cha cha cha !](http://9gag.com/gag/aQz0jBq)
+ - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
 
 ---
 

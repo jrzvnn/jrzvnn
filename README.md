@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating Creatures](http://9gag.com/gag/a87BxxO)
- - 😝 [Just tactics!](http://9gag.com/gag/a1mG6dw)
- - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
  - 😝 [She has some fun](http://9gag.com/gag/aW4wXB4)
- - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
+ - 💣 [Upgrades](http://9gag.com/gag/aoybw2X)
+ - 😝 [Fan v fan](http://9gag.com/gag/a87BgXO)
+ - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
 
 ---
 

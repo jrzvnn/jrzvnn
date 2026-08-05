@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
- - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)
- - [OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations &lpar;Wired&rpar;](https://www.techmeme.com/260804/p53#a260804p53)
- - [Coupang reports Q2 revenue up 4% YoY to $8.9B and an operating loss of $556M, vs. $361M est., due to a $409M data breach fine; CPNG drops 7%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p52#a260804p52)
- - [iPhone 20 Pro and Pro Max Might Get Bigger Screens in 2027](https://www.cnet.com/tech/iphone-20-pro-and-pro-max-might-get-bigger-screens-in-2027/)<!-- TECH:END -->
+ - [Cloudflare announces Cloudflare Wallets for users to pay for APIs and content via stablecoins, with the ability to create virtual wallets for agentic shopping &lpar;Jeff John Roberts/Fortune&rpar;](https://www.techmeme.com/260804/p57#a260804p57)
+ - [The AI frenzy has divided the VC market, as the gap between top and bottom performers has more than doubled for 2024 funds compared to funds from 2017 to 2021 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260804/p56#a260804p56)
+ - [If SideCar isn&#39;t enough, get real macOS on iPad with a new jailbreak tool](https://appleinsider.com/articles/26/08/05/if-sidecar-isnt-enough-get-real-macos-on-ipad-with-a-new-jailbreak-tool?utm_source=rss)
+ - [SpaceX reports Q2 revenue from connectivity, which includes Starlink, up 66% YoY to $4.29B vs. $3.83B est., Starlink subscribers up 100% to 12M vs. 12.19M est. &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260804/p55#a260804p55)
+ - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

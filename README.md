@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Set sail with Apple CarPlay on Crest &amp; Balise pontoon boats](https://appleinsider.com/articles/26/08/05/set-sail-with-apple-carplay-on-crest-balise-pontoon-boats?utm_source=rss)
- - [MAGA Is In Turmoil Over Tucker Carlson&#39;s Possible 2028 Presidential Bid](https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/)
- - [Amazon&#39;s Zoox will start charging for rides in Las Vegas starting August 10, launching its commercial operations after offering free rides since last year &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260805/p24#a260805p24)
- - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss)
- - [Faye, which offers travel insurance services and uses AI to help resolve claims, raised a $50M Series C led by Madrona, taking its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260805/p23#a260805p23)<!-- TECH:END -->
+ - [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale)
+ - [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo)
+ - [Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260805/p30#a260805p30)
+ - [Surgeons enthuse about what a great bargain Apple Vision Pro is](https://appleinsider.com/articles/26/08/05/surgeons-enthuse-about-what-a-great-bargain-apple-vision-pro-is?utm_source=rss)
+ - [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

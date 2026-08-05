@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sandisk reports Q4 revenue up 372% YoY to $8.97B, vs. $8.48B est., and forecasts Q1 revenue below estimates; SNDK drops 5%+ after hours &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260805/p44#a260805p44)
- - [PSA: don&#39;t fall for the scam Uber email making the rounds](https://appleinsider.com/articles/26/08/05/psa-dont-fall-for-the-scam-uber-email-making-the-rounds?utm_source=rss)
- - [X product chief Nikita Bier is leaving after one year](https://www.theverge.com/tech/975955/x-twitter-nikita-bier-leaving)
- - [Match Group’s CEO Says Gen Z Values In-Person Connection Over Dating Apps](https://www.cnet.com/tech/match-groups-ceo-says-gen-z-values-in-person-connection-over-dating-apps/)
- - [Duolingo reports Q2 revenue up 18% YoY to $298.5M, paid subscribers up 17% to 12.7M, below est., forecasts Q3 revenue below est.; DUOL drops 11%+ after hours &lpar;Akash Sriram/Reuters&rpar;](https://www.techmeme.com/260805/p43#a260805p43)<!-- TECH:END -->
+ - [Sources: Demis Hassabis had been drifting away from day-to-day duties as Google DeepMind CEO for at least a year and struggled to find satisfaction in the role &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p47#a260805p47)
+ - [Hidden Backdoor Found in Chinese-Made Zbtlink Routers](https://www.cnet.com/home/internet/hidden-backdoor-found-in-chinese-made-zbtlink-routers/)
+ - [Linux Use Skyrockets to a Historic High](https://www.cnet.com/tech/services-and-software/linux-use-historic-high/)
+ - [Figma reports Q2 revenue up 48% YoY to $370.1M, vs. $351.6M est., and lifts annual revenue forecast but keeps profit outlook intact; FIG drops 15%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/260805/p46#a260805p46)
+ - [Source: Muse Spark 1.1 model breached a company&#39;s systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260805/p45#a260805p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

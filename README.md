@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 😝 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
- - 💣 [This clever door system](http://9gag.com/gag/aO8XLj3)
- - 😝 [Why knot?](http://9gag.com/gag/ayNObQ8)
- - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
+ - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
+ - 😝 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
+ - 💣 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)
+ - 😝 [Would YOU make it?](http://9gag.com/gag/aAyo8AL)
+ - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
 
 ---
 

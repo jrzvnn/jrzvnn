@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House panel report: US telcos connected their systems to data centers in a way that exposed them to vulnerabilities, potentially enabling Salt Typhoon hacks &lpar;Kelcee Griffis/Bloomberg&rpar;](https://www.techmeme.com/260804/p54#a260804p54)
+ - [WebKit leaks in iOS &amp; macOS expose user data in spite of proxy use](https://appleinsider.com/articles/26/08/05/webkit-leaks-in-ios-macos-expose-ip-and-dns-in-spite-of-proxy-use?utm_source=rss)
  - [OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations &lpar;Wired&rpar;](https://www.techmeme.com/260804/p53#a260804p53)
  - [Coupang reports Q2 revenue up 4% YoY to $8.9B and an operating loss of $556M, vs. $361M est., due to a $409M data breach fine; CPNG drops 7%+ after hours &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260804/p52#a260804p52)
- - [iPhone 20 Pro and Pro Max Might Get Bigger Screens in 2027](https://www.cnet.com/tech/iphone-20-pro-and-pro-max-might-get-bigger-screens-in-2027/)
- - [Don’t screw this up, Marvel](https://www.theverge.com/entertainment/975297/spider-man-brand-new-day-marvel-sony-xmen-doomsday)
- - [SpaceX President Gwynne Shotwell says the company aims to build out ground-based infrastructure to complement its satellite network for &quot;a true mobile service&quot; &lpar;Reuters&rpar;](https://www.techmeme.com/260804/p51#a260804p51)<!-- TECH:END -->
+ - [iPhone 20 Pro and Pro Max Might Get Bigger Screens in 2027](https://www.cnet.com/tech/iphone-20-pro-and-pro-max-might-get-bigger-screens-in-2027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Microsoft recorded $24.1B in revenue from OpenAI during the year ended in June, suggesting OpenAI accounted for more than half of Microsoft&#39;s AI sales &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p35#a260805p35)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 6, #682](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-6-682/)
- - [Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260805/p34#a260805p34)
- - [The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop](https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/)
- - [TikTok Says ‘Moderator Error’ Kept Perez Hilton Livestream Up](https://www.wired.com/story/tiktok-says-moderator-error-kept-perez-hilton-livestream-on-platform/)<!-- TECH:END -->
+ - [Binance affiliates are suing RedotPay&#39;s founders for allegedly diverting 470K+ users to a competing product in a &quot;fraudulent scheme&quot;, claiming $472.8M in losses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260805/p41#a260805p41)
+ - [Salesforce appoints Miguel Milano, its chief revenue officer, as COO; Chief Operating and Financial Officer Robin Washington will keep her title &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260805/p40#a260805p40)
+ - [Nikita Bier says he will step back from leading product for X and continue as an adviser &lpar;Nikita Bier/@nikitabier&rpar;](https://www.techmeme.com/260805/p39#a260805p39)
+ - [The National Design Studio Became a DOGE Landing Pad. Now ‘Big Balls’ Is Recruiting](https://www.wired.com/story/national-design-studio-doge-recruiting/)
+ - [Meta&#39;s Muse Code is yet another AI coding agent on macOS](https://appleinsider.com/articles/26/08/05/metas-muse-code-is-yet-another-ai-coding-agent-on-macos?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

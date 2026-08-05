@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Device Eases One of the Most Annoying Parts of Routine Physicals](https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/)
+ - [At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260805/p5#a260805p5)
+ - [Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?](https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/)
  - [The AI Notetaker Has Been Invited to All the Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/)
- - [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv)
- - [SpaceX is coming for T-Mobile, AT&amp;#038;T and Verizon](https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company)
- - [How Reddit moderators are battling AI-powered astroturfing ad campaigns that exploit the platform&#39;s trusted reputation to promote skincare and other products &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/260805/p4#a260805p4)
- - [Innolight falls after a report said the US plans to restrict imports of new Chinese data center optical transceivers; 62% of its Q1 revenue came from the US &lpar;Reuters&rpar;](https://www.techmeme.com/260805/p3#a260805p3)<!-- TECH:END -->
+ - [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

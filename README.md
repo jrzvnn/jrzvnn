@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miracle on 34th street](http://9gag.com/gag/aKGrMdj)
  - 😝 [Reincarnate as symbiote](http://9gag.com/gag/a87BxmV)
- - 💣 [Stank lee , he is here](http://9gag.com/gag/aMV3MzP)
- - 😝 [Would YOU make it?](http://9gag.com/gag/aAyo8AL)
- - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
+ - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 💣 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
 
 ---
 

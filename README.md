@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters](https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming)
- - [Uber CEO Dara Khosrowshahi says the company plans to spend $10B+ &quot;over the coming years&quot; to deploy 120K driverless vehicles, aiming to hit 15+ cities in 2026 &lpar;Financial Times&rpar;](https://www.techmeme.com/260805/p14#a260805p14)
- - [The Best MagSafe Accessories &lpar;for Android Too!&rpar;: Chargers, Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Shopify reports Q2 revenue up 34% YoY to $3.6B, above $3.45B est., GMV up 32% YoY to $115.6B, and forecasts Q3 revenue above est.; SHOP jumps 30%+ pre-market &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260805/p13#a260805p13)
- - [Uber reports Q2 revenue up 12% YoY to $14.2B, below $14.24B est., Gross Bookings up 24% to $58B, above $57B est., and forecasts Q3 adjusted EPS below est. &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260805/p12#a260805p12)<!-- TECH:END -->
+ - [Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a &quot;multi-chip approach&quot; &lpar;Tom Carter/Business Insider&rpar;](https://www.techmeme.com/260805/p19#a260805p19)
+ - [Sources: Google is in talks with AI coding agent startup Mechanize on a possible deal, potentially worth $1.5B+, to hire some of its talent and license its tech &lpar;Business Insider&rpar;](https://www.techmeme.com/260805/p18#a260805p18)
+ - [FanDuel parent Flutter says CEO Peter Jackson is stepping down, replaced by President Dan Taylor, and reports a lower profit outlook as its US business falters &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260805/p17#a260805p17)
+ - [The UK Competition Appeal Tribunal rejects Google&#39;s bid to block a class action alleging it overcharged businesses for search ads and abused its dominance &lpar;Upmanyu Trivedi/Bloomberg&rpar;](https://www.techmeme.com/260805/p16#a260805p16)
+ - [Even before iPhone 18 Pro mass production, AI drives Foxconn to record profits](https://appleinsider.com/articles/26/08/05/even-before-iphone-18-pro-mass-production-ai-drives-foxconn-to-record-profits?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

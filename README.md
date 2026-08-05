@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Underrated strategy for middle earth](http://9gag.com/gag/aBy7M3z)
- - 😝 [How those chinese bluetooth speakers are made](http://9gag.com/gag/aAyo9vg)
- - 💣 [It&#39;s over for incels](http://9gag.com/gag/aYQ2XyO)
- - 😝 [Bart is a man of focus, commitment and sheer will. Man or fish whatever..](http://9gag.com/gag/aZZGOOW)
- - 👉 [Keeping the family together in a bucket](http://9gag.com/gag/an7Loo5)<!-- MEMES:END -->
+ - 😝 [Fascinating Creatures](http://9gag.com/gag/a87BxxO)
+ - 😝 [Just tactics!](http://9gag.com/gag/a1mG6dw)
+ - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 😝 [She has some fun](http://9gag.com/gag/aW4wXB4)
+ - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
 
 ---
 

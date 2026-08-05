@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s selling refurbished MacBook Neos with a $100 discount](https://www.theverge.com/gadgets/975603/refurbished-apple-macbook-neo-google-wireless-charger-deal-sale)
- - [Sure seems like Fenix Flexin used AI music generator Treblo](https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo)
- - [Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260805/p30#a260805p30)
- - [Surgeons enthuse about what a great bargain Apple Vision Pro is](https://appleinsider.com/articles/26/08/05/surgeons-enthuse-about-what-a-great-bargain-apple-vision-pro-is?utm_source=rss)
- - [Google just announced a major shakeup of its top AI leadership](https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup)<!-- TECH:END -->
+ - [AI Worms and Viruses Are Coming](https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/)
+ - [An Abandoned SpaceX Rocket Crashed Into the Moon. Here’s What Happened](https://www.cnet.com/science/space/an-abandoned-spacex-rocket-crashed-into-the-moon-heres-what-happened/)
+ - [Source: Yunfeng Capital, a PE firm co-founded by Jack Ma, invested ~$30M in AI insurance tech startup Corgi, leading a round that reportedly valued Corgi at $4B &lpar;Business Insider&rpar;](https://www.techmeme.com/260805/p33#a260805p33)
+ - [Two of Ring&amp;#8217;s latest video doorbells are a lot cheaper than usual](https://www.theverge.com/gadgets/975723/ring-wired-doorbell-pro-battery-doorbell-plus-deal-sale)
+ - [Mysk: Apple&#39;s Private Relay tool can leak users&#39; IP addresses due to issues in Apple&#39;s WebKit browser engine, also affecting OnionBrowser, a Tor browser for iOS &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260805/p32#a260805p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

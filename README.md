@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)
- - 😝 [Upgrades](http://9gag.com/gag/aoybw2X)
- - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
- - 😝 [She has some fun](http://9gag.com/gag/aW4wXB4)
- - 👉 [Fan v fan](http://9gag.com/gag/a87BgXO)<!-- MEMES:END -->
+ - 😝 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)
+ - 💣 [This clever door system](http://9gag.com/gag/aO8XLj3)
+ - 😝 [Why knot?](http://9gag.com/gag/ayNObQ8)
+ - 👉 [The story of the bottle](http://9gag.com/gag/aryjLYK)<!-- MEMES:END -->
 
 ---
 

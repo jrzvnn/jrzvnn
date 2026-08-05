@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
  - 😝 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
+ - 😝 [Hmm](http://9gag.com/gag/aW4wr0x)
  - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
  - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
- - 👉 [Looks so delish!](http://9gag.com/gag/a34VOz1)<!-- MEMES:END -->
+ - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
 
 ---
 

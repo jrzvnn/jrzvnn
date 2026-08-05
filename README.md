@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
- - 😝 [She has some fun](http://9gag.com/gag/aW4wXB4)
- - 💣 [Upgrades](http://9gag.com/gag/aoybw2X)
- - 😝 [Fan v fan](http://9gag.com/gag/a87BgXO)
- - 👉 [He knows that everything is free](http://9gag.com/gag/a2vnXEp)<!-- MEMES:END -->
+ - 😝 [Let&#39;s heal our buddy with some toad venom](http://9gag.com/gag/aAyo9yd)
+ - 😝 [Upgrades](http://9gag.com/gag/aoybw2X)
+ - 💣 [She has some fun](http://9gag.com/gag/aW4wXB4)
+ - 😝 [Bart is a man of focus, commitment and sheer will. Man or fish whatever..](http://9gag.com/gag/aZZGOOW)
+ - 👉 [TLDR: Japanese man discovers America\u2019s Thin Chud Line](http://9gag.com/gag/aXP5O99)<!-- MEMES:END -->
 
 ---
 

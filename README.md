@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 😝 [The story of the bottle](http://9gag.com/gag/aryjLYK)
- - 💣 [Fan v fan](http://9gag.com/gag/a87BgXO)
- - 😝 [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
- - 👉 [I LOVE CHEESE](http://9gag.com/gag/aO8XW2E)<!-- MEMES:END -->
+ - 😝 [Bro waited his whole life for this moment](http://9gag.com/gag/aAyo8Yo)
+ - 😝 [This clever door system](http://9gag.com/gag/aO8XLj3)
+ - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
+ - 👉 [Fan v fan](http://9gag.com/gag/a87BgXO)<!-- MEMES:END -->
 
 ---
 

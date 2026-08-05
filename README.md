@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro waited his whole life for this moment](http://9gag.com/gag/aAyo8Yo)
- - 😝 [This clever door system](http://9gag.com/gag/aO8XLj3)
- - 💣 [The story of the bottle](http://9gag.com/gag/aryjLYK)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 💣 [Fan v fan](http://9gag.com/gag/a87BgXO)
  - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
- - 👉 [Fan v fan](http://9gag.com/gag/a87BgXO)<!-- MEMES:END -->
+ - 👉 [This clever door system](http://9gag.com/gag/aO8XLj3)<!-- MEMES:END -->
 
 ---
 

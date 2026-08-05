@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic confirms it is building an in-house silicon team to design custom chips for Claude, co-designing hardware and models and using a &quot;multi-chip approach&quot; &lpar;Tom Carter/Business Insider&rpar;](https://www.techmeme.com/260805/p19#a260805p19)
- - [Sources: Google is in talks with AI coding agent startup Mechanize on a possible deal, potentially worth $1.5B+, to hire some of its talent and license its tech &lpar;Business Insider&rpar;](https://www.techmeme.com/260805/p18#a260805p18)
- - [FanDuel parent Flutter says CEO Peter Jackson is stepping down, replaced by President Dan Taylor, and reports a lower profit outlook as its US business falters &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260805/p17#a260805p17)
- - [The UK Competition Appeal Tribunal rejects Google&#39;s bid to block a class action alleging it overcharged businesses for search ads and abused its dominance &lpar;Upmanyu Trivedi/Bloomberg&rpar;](https://www.techmeme.com/260805/p16#a260805p16)
- - [Even before iPhone 18 Pro mass production, AI drives Foxconn to record profits](https://appleinsider.com/articles/26/08/05/even-before-iphone-18-pro-mass-production-ai-drives-foxconn-to-record-profits?utm_source=rss)<!-- TECH:END -->
+ - [Set sail with Apple CarPlay on Crest &amp; Balise pontoon boats](https://appleinsider.com/articles/26/08/05/set-sail-with-apple-carplay-on-crest-balise-pontoon-boats?utm_source=rss)
+ - [MAGA Is In Turmoil Over Tucker Carlson&#39;s Possible 2028 Presidential Bid](https://www.wired.com/story/maga-is-in-turmoil-over-tucker-carlsons-possible-2028-presidential-bid/)
+ - [Amazon&#39;s Zoox will start charging for rides in Las Vegas starting August 10, launching its commercial operations after offering free rides since last year &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260805/p24#a260805p24)
+ - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss)
+ - [Faye, which offers travel insurance services and uses AI to help resolve claims, raised a $50M Series C led by Madrona, taking its total funding to $100M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260805/p23#a260805p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

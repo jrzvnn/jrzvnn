@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Device Eases One of the Most Annoying Parts of Routine Physicals](https://www.wired.com/story/iris-nodoca-ai-throat-exam-routine-physical/)
- - [At the 2026 International Congress of Mathematicians, 20+ mathematicians reflect on how AI advances are transforming their work and field; many are optimistic &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260805/p5#a260805p5)
- - [Which New Samsung Foldable Phone Should You Buy? Fold8 Ultra, Fold8, or Flip8?](https://www.wired.com/story/which-samsung-galaxy-z-fold8-to-buy/)
- - [The AI Notetaker Has Been Invited to All the Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/)
- - [Ted Lasso returns at an important time for Apple TV](https://www.theverge.com/entertainment/975224/ted-lasso-season-4-apple-tv)<!-- TECH:END -->
+ - [Disney gives TikTok creators official access to Marvel, Star Wars, and Pixar characters](https://www.theverge.com/streaming/975520/disney-tiktok-partnership-verts-streaming)
+ - [Uber CEO Dara Khosrowshahi says the company plans to spend $10B+ &quot;over the coming years&quot; to deploy 120K driverless vehicles, aiming to hit 15+ cities in 2026 &lpar;Financial Times&rpar;](https://www.techmeme.com/260805/p14#a260805p14)
+ - [The Best MagSafe Accessories &lpar;for Android Too!&rpar;: Chargers, Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [Shopify reports Q2 revenue up 34% YoY to $3.6B, above $3.45B est., GMV up 32% YoY to $115.6B, and forecasts Q3 revenue above est.; SHOP jumps 30%+ pre-market &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260805/p13#a260805p13)
+ - [Uber reports Q2 revenue up 12% YoY to $14.2B, below $14.24B est., Gross Bookings up 24% to $58B, above $57B est., and forecasts Q3 adjusted EPS below est. &lpar;Lora Kolodny/CNBC&rpar;](https://www.techmeme.com/260805/p12#a260805p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

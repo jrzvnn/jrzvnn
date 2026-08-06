@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
+ - 😝 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
+ - 😝 [Hmm](http://9gag.com/gag/aW4wr0x)
+ - 💣 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
  - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 💣 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
- - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 👉 [Maybe](http://9gag.com/gag/ae9v8Zj)<!-- MEMES:END -->
+ - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
 
 ---
 

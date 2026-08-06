@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
- - 😝 [Hmm](http://9gag.com/gag/aW4wr0x)
- - 💣 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
- - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
+ - 😝 [Would YOU make it?](http://9gag.com/gag/aAyo8AL)
+ - 😝 [Good dog](http://9gag.com/gag/aPAKEQq)
+ - 💣 [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
+ - 😝 [Witty title](http://9gag.com/gag/ayNOGAq)
+ - 👉 [I miss TopGear / GrandTour](http://9gag.com/gag/a1mG3GG)<!-- MEMES:END -->
 
 ---
 

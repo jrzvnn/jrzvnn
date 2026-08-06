@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok&#39;s US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260806/p1#a260806p1)
- - [Analysis: Grokipedia appears not to have updated any articles since April 24, when it stopped processing human-suggested edits; xAI launched it in October 2025 &lpar;Lawfare&rpar;](https://www.techmeme.com/260805/p55#a260805p55)
- - [Cloudflare open sources a new version of Cloudflare OS, a browser-accessible AI agentic workspace for enterprises that lets employees build custom micro-apps &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260805/p54#a260805p54)
- - [AppLovin reports Q2 revenue up 53% YoY to $1.92B, below $1.94B est., and forecasts Q3 revenue within estimates; APP drops 16% after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260805/p53#a260805p53)
- - [Nikita Bier steps down as head of product at X after a little more than a year in the role and says he will continue as an adviser &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260805/p52#a260805p52)<!-- TECH:END -->
+ - [A look at Sequoia&#39;s revamped strategy under new stewards Alfred Lin and Pat Grady, including bold AI bets; sources: Sequoia recently closed $10B in new funding &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p10#a260806p10)
+ - [DeepSeek says it plans to implement substantial price increases across its services; it currently charges $0.14/1M input and $0.28/1M output tokens for V4 Flash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p9#a260806p9)
+ - [OpenAI says &quot;Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its failures to integrate AI into its products&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260806/p8#a260806p8)
+ - [OpenAI files a motion to dismiss Apple&#39;s lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker&#39;s allegations are meritless &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p7#a260806p7)
+ - [An interview with TMTG interim CEO Kevin McGurn on the paid API for high-speed access to Truth Social posts, the pending $6B TMTG-TAE merger, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260806/p6#a260806p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

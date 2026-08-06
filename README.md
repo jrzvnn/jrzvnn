@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
  - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 💣 [This clever door system](http://9gag.com/gag/aO8XLj3)
- - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
+ - 💣 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 😝 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
  - 👉 [Maybe](http://9gag.com/gag/ae9v8Zj)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Demis Hassabis had been drifting away from day-to-day duties as Google DeepMind CEO for at least a year and struggled to find satisfaction in the role &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p47#a260805p47)
- - [Hidden Backdoor Found in Chinese-Made Zbtlink Routers](https://www.cnet.com/home/internet/hidden-backdoor-found-in-chinese-made-zbtlink-routers/)
- - [Linux Use Skyrockets to a Historic High](https://www.cnet.com/tech/services-and-software/linux-use-historic-high/)
- - [Figma reports Q2 revenue up 48% YoY to $370.1M, vs. $351.6M est., and lifts annual revenue forecast but keeps profit outlook intact; FIG drops 15%+ after hours &lpar;Deborah Mary Sophia/Reuters&rpar;](https://www.techmeme.com/260805/p46#a260805p46)
- - [Source: Muse Spark 1.1 model breached a company&#39;s systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260805/p45#a260805p45)<!-- TECH:END -->
+ - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
+ - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)
+ - [Abode Expands Into the New Age of Home Security With Unique Outdoor Sensors](https://www.cnet.com/home/security/abode-expands-into-the-new-age-of-home-security-with-unique-outdoor-sensors/)
+ - [Elon Musk&amp;#8217;s attempt at an AI Wikipedia hasn&amp;#8217;t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead)
+ - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

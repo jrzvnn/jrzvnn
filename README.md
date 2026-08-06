@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Sequoia&#39;s revamped strategy under new stewards Alfred Lin and Pat Grady, including bold AI bets; sources: Sequoia recently closed $10B in new funding &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p10#a260806p10)
- - [DeepSeek says it plans to implement substantial price increases across its services; it currently charges $0.14/1M input and $0.28/1M output tokens for V4 Flash &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p9#a260806p9)
- - [OpenAI says &quot;Apple should not be permitted to use a baseless and pretextual lawsuit to make up for its failures to integrate AI into its products&quot; &lpar;Megan Morrone/Axios&rpar;](https://www.techmeme.com/260806/p8#a260806p8)
- - [OpenAI files a motion to dismiss Apple&#39;s lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker&#39;s allegations are meritless &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p7#a260806p7)
- - [An interview with TMTG interim CEO Kevin McGurn on the paid API for high-speed access to Truth Social posts, the pending $6B TMTG-TAE merger, and more &lpar;Financial Times&rpar;](https://www.techmeme.com/260806/p6#a260806p6)<!-- TECH:END -->
+ - [Google centralizes its AI leadership at Mountain View in a bid to catch its rivals; Sebastian Borgeaud, who led a major AI coding effort, moved from the UK &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p13#a260806p13)
+ - [OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request)
+ - [Best Handheld Fans for a Breeze on Demand &lpar;2026&rpar;](https://www.wired.com/story/best-handheld-and-portable-fans/)
+ - [Nintendo reports Q1 revenue down 10% YoY to ~$3.3B, above $2.8B est., net income of ~$933M, above ~$495M est., and Switch 2 sales down 34.4% YoY to 3.82M &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260806/p12#a260806p12)
+ - [Sources: some Google researchers have grown frustrated over AI compute access for ambitious projects while Google Cloud sells TPUs to customers like Anthropic &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260806/p11#a260806p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

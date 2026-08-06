@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
+ - 😝 [Hmm](http://9gag.com/gag/aW4wr0x)
+ - 💣 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
  - 😝 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)
- - 😝 [This clever door system](http://9gag.com/gag/aO8XLj3)
- - 💣 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
- - 😝 [BMW OWNERS FURIOUS AFTER SPIDER-MAN AD APPEARS ON CAR SCREENS AT STARTUP](http://9gag.com/gag/aBy7pnz)
- - 👉 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)<!-- MEMES:END -->
+ - 👉 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese RAM supplier denies Apple&#39;s bid for cheaper RAM](https://appleinsider.com/articles/26/08/06/chinese-ram-supplier-denies-apples-bid-for-cheaper-ram?utm_source=rss)
- - [Filing: Hangzhou-based Unitree Robotics prices its Shanghai IPO at ~$22/share, aiming to sell 40.4M shares to raise $904M; Unitree shipped 5,500+ robots in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p17#a260806p17)
- - [Best Android Charger: Wireless, Portable, Cable &lpar;2026&rpar;](https://www.wired.com/story/best-android-charger/)
- - [OpenAI fires back, says Apple is suing because it can&#39;t compete](https://appleinsider.com/articles/26/08/06/openai-fires-back-says-apple-is-suing-because-it-cant-compete?utm_source=rss)
- - [Samsung Odyssey G8 6K Review: Pixel Overdose](https://www.wired.com/review/samsung-g8-g80hs/)<!-- TECH:END -->
+ - [RAM supply holding up iPhone 18 Pro assembly is another bad sign](https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss)
+ - [AirPods Pro 3 plunge to $189 at Amazon, 30-day best price](https://appleinsider.com/articles/26/08/06/airpods-pro-3-plunge-to-189-at-amazon-30-day-best-price?utm_source=rss)
+ - [Photo and Video Editing in ChatGPT Just Got an Adobe-Size Update](https://www.cnet.com/tech/services-and-software/adobe-for-chatgpt-updated-plugins-editing-news/)
+ - [Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them](https://www.cnet.com/tech/mobile/boses-new-quietcomfort-headphones-are-truly-next-gen-heres-what-i-like-about-them/)
+ - [Dolby Vision 2 will be available first on some 2026 Hisense TVs](https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

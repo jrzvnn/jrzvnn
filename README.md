@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would YOU make it?](http://9gag.com/gag/aAyo8AL)
- - 😝 [Good dog](http://9gag.com/gag/aPAKEQq)
- - 💣 [A video game life.. you pay your bills by completing missions.](http://9gag.com/gag/apRWO0M)
- - 😝 [Witty title](http://9gag.com/gag/ayNOGAq)
- - 👉 [I miss TopGear / GrandTour](http://9gag.com/gag/a1mG3GG)<!-- MEMES:END -->
+ - 😝 [We had a paradise building until...](http://9gag.com/gag/ajPoz51)
+ - 😝 [This clever door system](http://9gag.com/gag/aO8XLj3)
+ - 💣 [Refugees Welcome](http://9gag.com/gag/aMV3MX6)
+ - 😝 [BMW OWNERS FURIOUS AFTER SPIDER-MAN AD APPEARS ON CAR SCREENS AT STARTUP](http://9gag.com/gag/aBy7pnz)
+ - 👉 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)<!-- MEMES:END -->
 
 ---
 

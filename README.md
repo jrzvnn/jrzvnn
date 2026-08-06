@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RAM supply holding up iPhone 18 Pro assembly is another bad sign](https://appleinsider.com/articles/26/08/06/ram-supply-holding-up-iphone-18-pro-assembly-is-another-bad-sign?utm_source=rss)
- - [AirPods Pro 3 plunge to $189 at Amazon, 30-day best price](https://appleinsider.com/articles/26/08/06/airpods-pro-3-plunge-to-189-at-amazon-30-day-best-price?utm_source=rss)
- - [Photo and Video Editing in ChatGPT Just Got an Adobe-Size Update](https://www.cnet.com/tech/services-and-software/adobe-for-chatgpt-updated-plugins-editing-news/)
- - [Bose’s New QuietComfort Headphones Are Truly Next Gen. Here’s What I Like About Them](https://www.cnet.com/tech/mobile/boses-new-quietcomfort-headphones-are-truly-next-gen-heres-what-i-like-about-them/)
- - [Dolby Vision 2 will be available first on some 2026 Hisense TVs](https://www.theverge.com/tech/974126/dolby-vision-2-rolls-out-to-hisense-tvs)<!-- TECH:END -->
+ - [WindBorne, which deploys weather balloons to collect data for its AI weather forecasting models, raised a $37M Series B at a $250M post-money valuation &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260806/p27#a260806p27)
+ - [One pasted Terminal command opens the door to Mac crypto wallet theft](https://appleinsider.com/articles/26/08/06/one-pasted-terminal-command-opens-the-door-to-mac-crypto-wallet-theft?utm_source=rss)
+ - [Apple sweetens its trade-in deals, but you can still do better](https://appleinsider.com/articles/26/08/06/apple-sweetens-its-trade-in-deals-but-you-can-still-do-better?utm_source=rss)
+ - [SpaceX and Tesla plan to initially invest $16.8B to build Terafab in Grimes County, Texas; combined demand from SpaceX and Tesla is forecast to top 1 TW &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260806/p26#a260806p26)
+ - [Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng&#39;s remarks to investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p25#a260806p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

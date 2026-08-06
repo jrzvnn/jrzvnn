@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sapiom, which helps businesses build, ship, and scale AI agents and lower token costs, raised a $35M Series A led by Dragonfly, taking its total funding to $50M &lpar;Reed Albergotti/Semafor&rpar;](https://www.techmeme.com/260805/p50#a260805p50)
- - [Apple’s Private Relay Isn’t So Private After All, Can Leak Your IP Address](https://www.cnet.com/uncategorized/apples-private-relay-isnt-so-private-after-all-can-leak-your-ip-address/)
- - [Abode Expands Into the New Age of Home Security With Unique Outdoor Sensors](https://www.cnet.com/home/security/abode-expands-into-the-new-age-of-home-security-with-unique-outdoor-sensors/)
- - [Elon Musk&amp;#8217;s attempt at an AI Wikipedia hasn&amp;#8217;t been updated in months](https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead)
- - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/)<!-- TECH:END -->
+ - [TikTok&#39;s US entity says it is closing its Nashville office, which held some of its content moderation team; filing: TikTok laid off 250 employees at the office &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260806/p1#a260806p1)
+ - [Analysis: Grokipedia appears not to have updated any articles since April 24, when it stopped processing human-suggested edits; xAI launched it in October 2025 &lpar;Lawfare&rpar;](https://www.techmeme.com/260805/p55#a260805p55)
+ - [Cloudflare open sources a new version of Cloudflare OS, a browser-accessible AI agentic workspace for enterprises that lets employees build custom micro-apps &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260805/p54#a260805p54)
+ - [AppLovin reports Q2 revenue up 53% YoY to $1.92B, below $1.94B est., and forecasts Q3 revenue within estimates; APP drops 16% after hours &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260805/p53#a260805p53)
+ - [Nikita Bier steps down as head of product at X after a little more than a year in the role and says he will continue as an adviser &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260805/p52#a260805p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

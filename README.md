@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google centralizes its AI leadership at Mountain View in a bid to catch its rivals; Sebastian Borgeaud, who led a major AI coding effort, moved from the UK &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p13#a260806p13)
- - [OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’](https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request)
- - [Best Handheld Fans for a Breeze on Demand &lpar;2026&rpar;](https://www.wired.com/story/best-handheld-and-portable-fans/)
- - [Nintendo reports Q1 revenue down 10% YoY to ~$3.3B, above $2.8B est., net income of ~$933M, above ~$495M est., and Switch 2 sales down 34.4% YoY to 3.82M &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260806/p12#a260806p12)
- - [Sources: some Google researchers have grown frustrated over AI compute access for ambitious projects while Google Cloud sells TPUs to customers like Anthropic &lpar;MacKenzie Sigalos/CNBC&rpar;](https://www.techmeme.com/260806/p11#a260806p11)<!-- TECH:END -->
+ - [Chinese RAM supplier denies Apple&#39;s bid for cheaper RAM](https://appleinsider.com/articles/26/08/06/chinese-ram-supplier-denies-apples-bid-for-cheaper-ram?utm_source=rss)
+ - [Filing: Hangzhou-based Unitree Robotics prices its Shanghai IPO at ~$22/share, aiming to sell 40.4M shares to raise $904M; Unitree shipped 5,500+ robots in 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p17#a260806p17)
+ - [Best Android Charger: Wireless, Portable, Cable &lpar;2026&rpar;](https://www.wired.com/story/best-android-charger/)
+ - [OpenAI fires back, says Apple is suing because it can&#39;t compete](https://appleinsider.com/articles/26/08/06/openai-fires-back-says-apple-is-suing-because-it-cant-compete?utm_source=rss)
+ - [Samsung Odyssey G8 6K Review: Pixel Overdose](https://www.wired.com/review/samsung-g8-g80hs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,8 +161,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p3#a260807p3)
  - [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic&#39;s Mythos 5 &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p2#a260807p2)
  - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
- - [Ulta Promo Codes: Up to 20% Off in August 2026](https://www.wired.com/story/ulta-coupon/)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [B&amp;H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
+ - [Ulta Promo Codes: Up to 20% Off in August 2026](https://www.wired.com/story/ulta-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

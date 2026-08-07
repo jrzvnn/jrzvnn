@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When will Apple have its iPhone 18 Pro release event?](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)
- - [iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID](https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss)
- - [B&amp;H&#39;s $1,349 M5 MacBook Air deal with 24GB RAM ends this weekend](https://appleinsider.com/articles/26/08/07/bhs-1349-m5-macbook-air-deal-with-24gb-ram-ends-this-weekend?utm_source=rss)
- - [Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260807/p21#a260807p21)
- - [The 7 Best TV Shows to Stream This Month](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Munich-based NavVis, which provides enterprises with spatial data on factories, plants, buildings, and more, raised an $85M Series D led by The Jordan Company &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260807/p23#a260807p23)
+ - [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search)
+ - [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
+ - [Apple RAM supplier makes $38B bet on AI boom lasting until 2029](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

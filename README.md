@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
- - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)
- - [Analysis: Google DeepMind has lost frontier-model momentum amid leadership and RL talent departures, with Google Cloud emerging as a winner with more compute &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p6#a260807p6)
- - [Meta ordered to pay an additional $567 million in public nuisance ruling](https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance)
- - [Sources: Google&#39;s AI shakeup is a seismic shift in the works for months and cements Sergey Brin&#39;s influence, after execs became frustrated with Demis Hassabis &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p5#a260807p5)<!-- TECH:END -->
+ - [Ranking the Best Smart Glasses: Meta, Viture, &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-glasses/)
+ - [The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry](https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/)
+ - [The White House imposes a series of price floors and a 15% tariff on products made from polysilicon, a chip raw material primarily produced by China &lpar;Reuters&rpar;](https://www.techmeme.com/260807/p9#a260807p9)
+ - [Atlassian CEO Mike Cannon-Brookes says he will buy $250M of company shares after strong Q4 results eased fears that AI could threaten its business model &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260807/p8#a260807p8)
+ - [The Hottest New AI Chatbot Is Just a Guy Answering Your Questions](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

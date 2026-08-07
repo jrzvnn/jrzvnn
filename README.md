@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)
- - [Apple memory supplier bets on AI boom lasting till 2029 with $38B investment](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)
- - [Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks](https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak)
- - [Birdfy’s smart bird feeder is on sale for just $60](https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale)
- - [I’ve Waited 8 Years for Overwatch’s D.Mon. Her Gameplay Didn’t Disappoint](https://www.cnet.com/tech/gaming/ive-waited-8-years-for-overwatchs-d-mon-her-gameplay-didnt-disappoint/)<!-- TECH:END -->
+ - [When will Apple have its iPhone 18 Pro release event?](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)
+ - [iPhone 18 Pro rumor roundup: 2nm A20 chip, C2 modem, under-display Face ID](https://appleinsider.com/articles/26/08/07/iphone-18-pro-rumor-roundup-2nm-a20-chip-c2-modem-under-display-face-id?utm_source=rss)
+ - [B&amp;H&#39;s $1,349 M5 MacBook Air deal with 24GB RAM ends this weekend](https://appleinsider.com/articles/26/08/07/bhs-1349-m5-macbook-air-deal-with-24gb-ram-ends-this-weekend?utm_source=rss)
+ - [Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260807/p21#a260807p21)
+ - [The 7 Best TV Shows to Stream This Month](https://www.wired.com/story/the-7-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

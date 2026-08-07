@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)<!-- MEMES:END -->
+ - 😝 [Poland just passed a bill that says officers &lpar;Border Guard, police, and Armed Forces personnel&rpar; face no criminal liability if they shoot someone trying to enter the country illegally:](http://9gag.com/gag/aO8XgRy)
+ - 😝 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
+ - 💣 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
+ - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 

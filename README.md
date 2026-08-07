@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
- - 😝 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - 💣 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
- - 😝 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)
- - 👉 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)<!-- MEMES:END -->
+ - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 😝 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
+ - 💣 [Poland just passed a bill that says officers &lpar;Border Guard, police, and Armed Forces personnel&rpar; face no criminal liability if they shoot someone trying to enter the country illegally:](http://9gag.com/gag/aO8XgRy)
+ - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
+ - 👉 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)<!-- MEMES:END -->
 
 ---
 

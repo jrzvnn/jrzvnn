@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland just passed a bill that says officers &lpar;Border Guard, police, and Armed Forces personnel&rpar; face no criminal liability if they shoot someone trying to enter the country illegally:](http://9gag.com/gag/aO8XgRy)
+ - 😝 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
  - 😝 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
- - 💣 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 💣 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
+ - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 ---
 

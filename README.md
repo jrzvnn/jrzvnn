@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
- - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
- - 💣 [You read this?](http://9gag.com/gag/awyRNVy)
- - 😝 [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 💣 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 😝 [Dog got hit by bike &lpar;relatively&rpar;](http://9gag.com/gag/aLnY6rV)
+ - 👉 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)<!-- MEMES:END -->
 
 ---
 

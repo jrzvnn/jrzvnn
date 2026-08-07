@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One bump, two kids, one perfect landing.](https://www.reddit.com/r/funny/comments/1vi9pmp/one_bump_two_kids_one_perfect_landing/)
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 💣 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
- - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 👉 [Oh god](http://9gag.com/gag/aGy3KoG)<!-- MEMES:END -->
+ - 😝 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
+ - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
+ - 💣 [You read this?](http://9gag.com/gag/awyRNVy)
+ - 😝 [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 

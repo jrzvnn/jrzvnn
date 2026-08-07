@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Black Hat, OpenAI reconstructs the OpenAI-Hugging Face incident and examines its implications for AI security, cyber resilience, and alignment &lpar;Black Hat on YouTube&rpar;](https://www.techmeme.com/260807/p14#a260807p14)
- - [Take-Two reports Q1 bookings down 3% YoY to $1.39B, vs. $1.38B est., forecasts Q2 and FY 2027 bookings below est., reiterates GTA VI&#39;s November 19 launch date &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/260807/p13#a260807p13)
- - [The best classic slasher movie you&amp;#8217;ll never watch](https://www.theverge.com/entertainment/975850/teenage-sex-and-death-at-camp-miasma-production-design)
- - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)
- - [Best Webcams &lpar;2026&rpar;: My Honest Take After Testing the Best](https://www.wired.com/story/best-webcams/)<!-- TECH:END -->
+ - [Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a &quot;major platform shift&quot;; sources: 50-60 employees were cut, including its CTO &lpar;Nat Ives/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p16#a260807p16)
+ - [Scientists Used AI to Create 16 New Viruses](https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/)
+ - [Werewolf transformed my old gadgets into USB-C powered ones](https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on)
+ - [Our Favorite Fans Are on Sale to Help With Summer Heat Waves &lpar;2026&rpar;](https://www.wired.com/story/fan-deals-august-2026/)
+ - [Anthropic updates Claude Fable 5&#39;s biology safeguards to reduce false positives, cutting biology-related &quot;fallbacks&quot; by ~85% in testing across product surfaces &lpar;Anthropic&rpar;](https://www.techmeme.com/260807/p15#a260807p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 💣 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
  - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 

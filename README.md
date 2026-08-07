@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 😝 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [No time for safety!!! Get the spicy noodle](http://9gag.com/gag/aYQ22mx)
  - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
  - 😝 [Pretty neat. This would have kept me occupied for the summer as a child](http://9gag.com/gag/aBy7qZN)
  - 👉 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)<!-- MEMES:END -->

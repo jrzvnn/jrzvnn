@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 😝 [In honor of those who saved a dog by forming a human chain.](http://9gag.com/gag/a2vn39E)
- - 💣 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
- - 😝 [Poland just passed a bill that says officers &lpar;Border Guard, police, and Armed Forces personnel&rpar; face no criminal liability if they shoot someone trying to enter the country illegally:](http://9gag.com/gag/aO8XgRy)
- - 👉 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)
+ - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 😝 [Pretty neat. This would have kept me occupied for the summer as a child](http://9gag.com/gag/aBy7qZN)
+ - 👉 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)<!-- MEMES:END -->
 
 ---
 

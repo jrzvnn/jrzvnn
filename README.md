@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a &quot;major platform shift&quot;; sources: 50-60 employees were cut, including its CTO &lpar;Nat Ives/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p16#a260807p16)
- - [Scientists Used AI to Create 16 New Viruses](https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/)
- - [Werewolf transformed my old gadgets into USB-C powered ones](https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on)
- - [Our Favorite Fans Are on Sale to Help With Summer Heat Waves &lpar;2026&rpar;](https://www.wired.com/story/fan-deals-august-2026/)
- - [Anthropic updates Claude Fable 5&#39;s biology safeguards to reduce false positives, cutting biology-related &quot;fallbacks&quot; by ~85% in testing across product surfaces &lpar;Anthropic&rpar;](https://www.techmeme.com/260807/p15#a260807p15)<!-- TECH:END -->
+ - [When to expect Apple&#39;s iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)
+ - [Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been](https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/)
+ - [Singapore-based AI infrastructure startup Acrab raised a $130M Series B, bringing its total funding to more than $480M &lpar;Mars W. Mosqueda Jr/DealStreetAsia&rpar;](https://www.techmeme.com/260807/p17#a260807p17)
+ - [Samsung’s Z Fold 8 Ultra is more of the same, but better than ever](https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review)
+ - [Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a &quot;major platform shift&quot;; sources: 50-60 employees were cut, including its CTO &lpar;Nat Ives/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p16#a260807p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

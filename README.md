@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Livestream shopping app Whatnot raised a $545M Series G led by Iconiq, Lightspeed, and Avra at a $20B valuation, up from an $11.5B valuation in October 2025 &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260807/p12#a260807p12)
+ - [Best Webcams &lpar;2026&rpar;: My Honest Take After Testing the Best](https://www.wired.com/story/best-webcams/)
+ - [The 5 Best Laptop Power Banks I&#39;ve Personally Tested &lpar;2026&rpar;](https://www.wired.com/story/best-laptop-power-banks/)
  - [Paying for AI, freezing iPhones, &amp; avoiding scams on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss)
- - [Athens-based Omilia, which builds self-learning AI agents that work across different customer contact points, raised a $67M Series B led by Expedition Growth &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260807/p11#a260807p11)
- - [3 Best Cheap Gaming Laptops &lpar;2026&rpar;: Lenovo, MSI, Alienware](https://www.wired.com/gallery/best-cheap-gaming-laptops/)
- - [Why does Apple keep banning Telegram, but never X?](https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations)
- - [Sources: the US Commerce Department&#39;s BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260807/p10#a260807p10)<!-- TECH:END -->
+ - [Athens-based Omilia, which builds self-learning AI agents that work across different customer contact points, raised a $67M Series B led by Expedition Growth &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260807/p11#a260807p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retailers are updating their websites to rank highly in chatbot results, while making sure purchases are done on their own sites to collect customer data &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260807/p28#a260807p28)
  - [TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260807/p27#a260807p27)
  - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
  - [Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260807/p26#a260807p26)
- - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
- - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)<!-- TECH:END -->
+ - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

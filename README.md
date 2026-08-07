@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retailers are updating their websites to rank highly in chatbot results, while making sure purchases are done on their own sites to collect customer data &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260807/p28#a260807p28)
- - [TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260807/p27#a260807p27)
- - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
- - [Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260807/p26#a260807p26)
- - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)<!-- TECH:END -->
+ - [Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260807/p31#a260807p31)
+ - [The Clarity Act faces uncertainty after Senate Republicans delayed a vote until after their August recess, pushing it to September, just weeks before midterms &lpar;Jasper Goodman/Politico&rpar;](https://www.techmeme.com/260807/p30#a260807p30)
+ - [The gaming site sponsored by Walmart lays off its editorial staff](https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs)
+ - [Sources: data center operator Switch filed confidentially for a US IPO, and a listing could take place as soon as November; Ben Horowitz is joining its board &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260807/p29#a260807p29)
+ - [Retailers are updating their websites to rank highly in chatbot results, while making sure purchases are done on their own sites to collect customer data &lpar;Arriana McLymore/Reuters&rpar;](https://www.techmeme.com/260807/p28#a260807p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TMTG interim CEO Kevin McGurn says the company is pulling back from a pair of Crypto.com deals to focus on its media arm and its pending merger with TAE &lpar;Sara Fischer/Axios&rpar;](https://www.techmeme.com/260807/p27#a260807p27)
+ - [Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore](https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo)
  - [Sources: Cursor told staff on Thursday that SpaceX could complete its $60B acquisition as soon as next week and the Cursor brand name will likely be phased out &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260807/p26#a260807p26)
  - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
- - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
- - [T-Mobile Just Quietly Killed Its Better Value Phone Plan After Less Than a Year](https://www.cnet.com/tech/mobile/t-mobile-just-quietly-killed-its-better-value-phone-plan-after-less-than-a-year/)
- - [The US Treasury sanctions Dubai-based unlicensed crypto exchange Shelbit, alleging it processed millions in crypto for IRGC and other Iran-linked groups &lpar;Reuters&rpar;](https://www.techmeme.com/260807/p25#a260807p25)<!-- TECH:END -->
+ - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

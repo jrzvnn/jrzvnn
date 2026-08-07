@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: up to five people tied to US Cyber Command died by suicide from early June to early July 2026, prompting it to flag a potential suicide cluster &lpar;Bloomberg&rpar;](https://www.techmeme.com/260807/p4#a260807p4)
- - [Filing: ex-a16z partner Bryan Kim is forming venture firm Mido Capital; sources: he plans to raise ~$100M for a fund backing early-stage AI and other startups &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p3#a260807p3)
- - [Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic&#39;s Mythos 5 &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p2#a260807p2)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)<!-- TECH:END -->
+ - [Ratio vs. Simply Good: Which Plastic-Free Coffee Maker Is Best?](https://www.wired.com/story/plastic-free-coffee-makers/)
+ - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)
+ - [Analysis: Google DeepMind has lost frontier-model momentum amid leadership and RL talent departures, with Google Cloud emerging as a winner with more compute &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p6#a260807p6)
+ - [Meta ordered to pay an additional $567 million in public nuisance ruling](https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance)
+ - [Sources: Google&#39;s AI shakeup is a seismic shift in the works for months and cements Sergey Brin&#39;s influence, after execs became frustrated with Demis Hassabis &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p5#a260807p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
  - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 💣 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 👉 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)<!-- MEMES:END -->
 
 ---
 

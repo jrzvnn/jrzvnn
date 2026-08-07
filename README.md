@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
  - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 💣 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 😝 [Holy Neck](http://9gag.com/gag/a4PDv4Q)
+ - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
  - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 👉 [A man accidentally joins the wrong forum](http://9gag.com/gag/aBy7A7O)<!-- MEMES:END -->
 
 ---
 

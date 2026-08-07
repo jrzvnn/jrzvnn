@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
  - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
- - 😝 [Dog got hit by bike &lpar;relatively&rpar;](http://9gag.com/gag/aLnY6rV)
- - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
+ - 💣 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
+ - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

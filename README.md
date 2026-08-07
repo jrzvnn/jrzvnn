@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When to expect Apple&#39;s iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/07/when-to-expect-apples-iphone-18-pro-launch?utm_source=rss)
- - [Zohran Mamdani’s NYC Tech Team Is What DOGE Should Have Been](https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/)
- - [Singapore-based AI infrastructure startup Acrab raised a $130M Series B, bringing its total funding to more than $480M &lpar;Mars W. Mosqueda Jr/DealStreetAsia&rpar;](https://www.techmeme.com/260807/p17#a260807p17)
- - [Samsung’s Z Fold 8 Ultra is more of the same, but better than ever](https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review)
- - [Ad measurement company VideoAmp laid off ~20% of staff this week, citing AI as a &quot;major platform shift&quot;; sources: 50-60 employees were cut, including its CTO &lpar;Nat Ives/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p16#a260807p16)<!-- TECH:END -->
+ - [Singapore-based Multiplier, which acquires accounting firms to boost their growth with AI tools, raised a $35M Series B led by TheGP at a $300M valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260807/p19#a260807p19)
+ - [Apple memory supplier bets on AI boom lasting till 2029 with $38B investment](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)
+ - [Sony could release a cheaper version of its WH-1000XM4 headphones, according to leaks](https://www.theverge.com/tech/976735/sony-wireless-headphones-anc-wh-1000xm4c-leak)
+ - [Birdfy’s smart bird feeder is on sale for just $60](https://www.theverge.com/gadgets/976422/birdfy-feeder-rookie-nothing-headphones-deal-sale)
+ - [I’ve Waited 8 Years for Overwatch’s D.Mon. Her Gameplay Didn’t Disappoint](https://www.cnet.com/tech/gaming/ive-waited-8-years-for-overwatchs-d-mon-her-gameplay-didnt-disappoint/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

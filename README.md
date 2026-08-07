@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The only instant cameras worth your money](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Munich-based NavVis, which provides enterprises with spatial data on factories, plants, buildings, and more, raised an $85M Series D led by The Jordan Company &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/260807/p23#a260807p23)
- - [Disney Plus tries a new AI-powered search](https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search)
- - [Microsoft Edge is about to lock out older ad blockers, just like Chrome did](https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3)
- - [Apple RAM supplier makes $38B bet on AI boom lasting until 2029](https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment?utm_source=rss)<!-- TECH:END -->
+ - [Watching Roku’s AI channel is like eating from a trough](https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel)
+ - [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/)
+ - [T-Mobile Just Quietly Killed Its Better Value Phone Plan After Less Than a Year](https://www.cnet.com/tech/mobile/t-mobile-just-quietly-killed-its-better-value-phone-plan-after-less-than-a-year/)
+ - [The US Treasury sanctions Dubai-based unlicensed crypto exchange Shelbit, alleging it processed millions in crypto for IRGC and other Iran-linked groups &lpar;Reuters&rpar;](https://www.techmeme.com/260807/p25#a260807p25)
+ - [OpenAI puts the brakes on a new model because it&amp;#8217;s supposedly too powerful](https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

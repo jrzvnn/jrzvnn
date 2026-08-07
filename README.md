@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ranking the Best Smart Glasses: Meta, Viture, &amp; More &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-glasses/)
- - [The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry](https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/)
- - [The White House imposes a series of price floors and a 15% tariff on products made from polysilicon, a chip raw material primarily produced by China &lpar;Reuters&rpar;](https://www.techmeme.com/260807/p9#a260807p9)
- - [Atlassian CEO Mike Cannon-Brookes says he will buy $250M of company shares after strong Q4 results eased fears that AI could threaten its business model &lpar;Nic Fildes/Financial Times&rpar;](https://www.techmeme.com/260807/p8#a260807p8)
- - [The Hottest New AI Chatbot Is Just a Guy Answering Your Questions](https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/)<!-- TECH:END -->
+ - [Paying for AI, freezing iPhones, &amp; avoiding scams on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/07/paying-for-ai-freezing-iphones-avoiding-scams-on-the-appleinsider-podcast?utm_source=rss)
+ - [Athens-based Omilia, which builds self-learning AI agents that work across different customer contact points, raised a $67M Series B led by Expedition Growth &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260807/p11#a260807p11)
+ - [3 Best Cheap Gaming Laptops &lpar;2026&rpar;: Lenovo, MSI, Alienware](https://www.wired.com/gallery/best-cheap-gaming-laptops/)
+ - [Why does Apple keep banning Telegram, but never X?](https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations)
+ - [Sources: the US Commerce Department&#39;s BIS is reviewing how Chinese AI companies access Nvidia chips overseas, including by legally renting foreign data centers &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260807/p10#a260807p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

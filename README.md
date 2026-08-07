@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
- - 😝 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
- - 💣 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
+ - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
+ - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
  - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 ---

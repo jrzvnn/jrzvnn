@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
- - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 💣 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
+ - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
  - 😝 [Dude living his life](http://9gag.com/gag/an7pe6V)
- - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 ---
 

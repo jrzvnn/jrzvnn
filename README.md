@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens &lpar;KOB 4&rpar;](https://www.techmeme.com/260806/p55#a260806p55)
- - [Alphabet raises $25B in a bond sale; sources say the offering attracted roughly $115B of peak demand and that the company plans to issue US debt twice a year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p54#a260806p54)
- - [Apple continues to dominate premium smartphone market share in 2026](https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss)
- - [Atlassian reports Q4 revenue up 28% YoY to $1.77B, vs. $1.66B est., cloud revenue up 31% to $1.2B, forecasts Q1 revenue above est.; TEAM jumps 31%+ after hours &lpar;Arunesh Sinha/Reuters&rpar;](https://www.techmeme.com/260806/p53#a260806p53)
- - [Twilio reports Q2 revenue up 22% YoY to $1.5B, above $1.43B est., and forecasts Q3 revenue above estimates; TWLO jumps 16%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](https://www.techmeme.com/260806/p52#a260806p52)<!-- TECH:END -->
+ - [Naïve, which provides infrastructure for AI agents to handle most business operations, raised a $28.5M Series A led by Nexus, bringing its total funding to $32M &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260806/p60#a260806p60)
+ - [Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot&#39;s Kimi K3 requires up to a 30% revenue share &lpar;Reuters&rpar;](https://www.techmeme.com/260806/p59#a260806p59)
+ - [Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &lpar;Will Knight/Wired&rpar;](https://www.techmeme.com/260806/p58#a260806p58)
+ - [An interview with Replit CEO Amjad Masad on why &quot;vibe coding&quot; is never about coding, the SaaS apocalypse, building a &quot;self-driving company&quot;, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260806/p57#a260806p57)
+ - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

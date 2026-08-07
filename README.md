@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naïve, which provides infrastructure for AI agents to handle most business operations, raised a $28.5M Series A led by Nexus, bringing its total funding to $32M &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260806/p60#a260806p60)
- - [Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot&#39;s Kimi K3 requires up to a 30% revenue share &lpar;Reuters&rpar;](https://www.techmeme.com/260806/p59#a260806p59)
- - [Security researchers claim Kimi K3 went outside its sandbox during defensive cybersecurity tests, but did not hack anything after accessing the internet &lpar;Will Knight/Wired&rpar;](https://www.techmeme.com/260806/p58#a260806p58)
- - [An interview with Replit CEO Amjad Masad on why &quot;vibe coding&quot; is never about coding, the SaaS apocalypse, building a &quot;self-driving company&quot;, and more &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260806/p57#a260806p57)
- - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/)<!-- TECH:END -->
+ - [Sources: ByteDance is pre-training an AI model with up to 10T parameters, roughly 3x Kimi K3 and potentially larger than estimates for Anthropic&#39;s Mythos 5 &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p2#a260807p2)
+ - [B&amp;H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
+ - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
+ - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
+ - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

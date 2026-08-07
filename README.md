@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WindBorne, which deploys weather balloons to collect data for its AI weather forecasting models, raised a $37M Series B at a $250M post-money valuation &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260806/p27#a260806p27)
- - [One pasted Terminal command opens the door to Mac crypto wallet theft](https://appleinsider.com/articles/26/08/06/one-pasted-terminal-command-opens-the-door-to-mac-crypto-wallet-theft?utm_source=rss)
- - [Apple sweetens its trade-in deals, but you can still do better](https://appleinsider.com/articles/26/08/06/apple-sweetens-its-trade-in-deals-but-you-can-still-do-better?utm_source=rss)
- - [SpaceX and Tesla plan to initially invest $16.8B to build Terafab in Grimes County, Texas; combined demand from SpaceX and Tesla is forecast to top 1 TW &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/260806/p26#a260806p26)
- - [Sources: DeepSeek has resumed its funding round, seeking $8B at a $74B valuation, after pausing talks following the leak of Liang Wenfeng&#39;s remarks to investors &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p25#a260806p25)<!-- TECH:END -->
+ - [New Mexico trial: a judge orders Meta to pay $567M and make changes for underage users after finding its platforms helped create a public nuisance harming teens &lpar;KOB 4&rpar;](https://www.techmeme.com/260806/p55#a260806p55)
+ - [Alphabet raises $25B in a bond sale; sources say the offering attracted roughly $115B of peak demand and that the company plans to issue US debt twice a year &lpar;Bloomberg&rpar;](https://www.techmeme.com/260806/p54#a260806p54)
+ - [Apple continues to dominate premium smartphone market share in 2026](https://appleinsider.com/articles/26/08/06/apple-continues-to-dominate-premium-smartphone-market-share-in-2026?utm_source=rss)
+ - [Atlassian reports Q4 revenue up 28% YoY to $1.77B, vs. $1.66B est., cloud revenue up 31% to $1.2B, forecasts Q1 revenue above est.; TEAM jumps 31%+ after hours &lpar;Arunesh Sinha/Reuters&rpar;](https://www.techmeme.com/260806/p53#a260806p53)
+ - [Twilio reports Q2 revenue up 22% YoY to $1.5B, above $1.43B est., and forecasts Q3 revenue above estimates; TWLO jumps 16%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](https://www.techmeme.com/260806/p52#a260806p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No hard feelings man\u2026..](http://9gag.com/gag/aD2EeXG)
- - 😝 [Hmm](http://9gag.com/gag/aW4wr0x)
- - 💣 [Asking for a friend who definitely works in retail](http://9gag.com/gag/a6ZA0N2)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
  - 😝 [Why weight and size matters in a fight](http://9gag.com/gag/aXP5Byb)
- - 👉 [Not all heroes wear clothes](http://9gag.com/gag/a9y9opK)<!-- MEMES:END -->
+ - 💣 [Zendaya&#39;s acting](http://9gag.com/gag/aD2EEZB)
+ - 😝 [You greedy bastards started the war](http://9gag.com/gag/aO8XgEv)
+ - 👉 [Holy Neck](http://9gag.com/gag/a4PDv4Q)<!-- MEMES:END -->
 
 ---
 

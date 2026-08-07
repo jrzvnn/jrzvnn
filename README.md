@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 💣 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
  - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 💣 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
- - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
- - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
+ - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
 
 ---
 

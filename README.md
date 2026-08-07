@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
- - 😝 [How it feels to have zero tattoos in 2026](http://9gag.com/gag/aND6xOA)
- - 💣 [This is the dude I want teaching me to drive like that! What a stud!](http://9gag.com/gag/aD2EEyK)
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 👉 [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)<!-- MEMES:END -->
+ - 😝 [One bump, two kids, one perfect landing.](https://www.reddit.com/r/funny/comments/1vi9pmp/one_bump_two_kids_one_perfect_landing/)
+ - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 💣 [I still don\u2019t know](http://9gag.com/gag/aAyoWG0)
+ - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
+ - 👉 [Oh god](http://9gag.com/gag/aGy3KoG)<!-- MEMES:END -->
 
 ---
 

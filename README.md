@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 😝 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
- - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
- - 😝 [The amount of focus I dedicated to this stuff was insane](http://9gag.com/gag/aE0rwdK)
- - 👉 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)<!-- MEMES:END -->
+ - 😝 [Elf toon](https://www.reddit.com/r/funny/comments/1vj0wb8/elf_toon/)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 💣 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 👉 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)<!-- MEMES:END -->
 
 ---
 

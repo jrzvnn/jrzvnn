@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
  - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 😝 [From 5 years to 50 years](http://9gag.com/gag/axyxdOn)
- - 💣 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)
- - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
+ - 💣 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
 
 ---
 

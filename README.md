@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
  - [A profile of Russia&#39;s A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually &lpar;Alexander Osipovich/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p8#a260808p8)
  - [iPhone 17 faces potential price hike before iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss)
  - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
- - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)
- - [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview)<!-- TECH:END -->
+ - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

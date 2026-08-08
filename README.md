@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)
  - [Spokane Shows What the New Era of Wildfires Looks Like](https://www.wired.com/story/spokane-shows-new-era-of-wildfires/)
  - [WhatsApp Gets a Handy @all Feature for Group Chats](https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/)
  - [Best Solar Generators for Off-Grid Trips, RVs, and Home Backup](https://www.wired.com/story/best-solar-generators/)
- - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)
- - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)<!-- TECH:END -->
+ - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

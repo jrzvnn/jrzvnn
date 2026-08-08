@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s AI-driven chip industry boom is reordering the country&#39;s society, changing expectations around fairness, careers, and even culture and dating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260808/p6#a260808p6)
+ - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
  - [Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/)
  - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
- - [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)
- - [iPhone 17 faces an early price rise a month before iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss)
- - [The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today](https://www.wired.com/story/hp-omnibook-5-50-percent-off/)<!-- TECH:END -->
+ - [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

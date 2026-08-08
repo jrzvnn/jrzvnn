@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)
- - [Spokane Shows What the New Era of Wildfires Looks Like](https://www.wired.com/story/spokane-shows-new-era-of-wildfires/)
- - [WhatsApp Gets a Handy @all Feature for Group Chats](https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/)
- - [Best Solar Generators for Off-Grid Trips, RVs, and Home Backup](https://www.wired.com/story/best-solar-generators/)
- - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)<!-- TECH:END -->
+ - [How Amazon and Gilroy, California, quietly negotiated a $2B data center project that AWS applied to build in 2020, without any public meetings or votes &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p5#a260808p5)
+ - [Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed](https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/)
+ - [How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)
+ - [Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
+ - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

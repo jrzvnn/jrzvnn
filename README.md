@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [Boys being Boys](http://9gag.com/gag/a5Qme4y)
- - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
+ - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - 😝 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
+ - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
+ - 😝 [The amount of focus I dedicated to this stuff was insane](http://9gag.com/gag/aE0rwdK)
+ - 👉 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last minute final reminder, tomorrow 13:00 8.08.26 CZ DE PL tripoint.](http://9gag.com/gag/aQzw61r)
- - 😝 [New Pixar movie starts promising](http://9gag.com/gag/aGyW3zZ)
- - 💣 [Guess I\u2019m not welcome\u2026](http://9gag.com/gag/aqy341Y)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 👉 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)<!-- MEMES:END -->
+ - 😝 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
+ - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 😝 [Guys](http://9gag.com/gag/aO8gKoM)
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

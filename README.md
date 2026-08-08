@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xteink X4 Pro Pocket E-Reader Review &lpar;2026&rpar;: Fun but Limited](https://www.wired.com/review/xteink-x4-pro-e-reader/)
  - [How Amazon and Gilroy, California, quietly negotiated a $2B data center project that AWS applied to build in 2020, without any public meetings or votes &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p5#a260808p5)
  - [Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed](https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/)
  - [How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)
- - [Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)
- - [Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots](https://www.wired.com/review/hairmax-laserband-82-comfortflex/)<!-- TECH:END -->
+ - [Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All](https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

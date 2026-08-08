@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia agrees to invest $2B in Lancium, the power infrastructure developer of the Stargate campus in Texas, plus $1B more if it hits certain thresholds &lpar;The Information&rpar;](https://www.techmeme.com/260807/p36#a260807p36)
+ - [Analysis: SpaceX is on track to build ~10 GW of compute capacity by 2027&#39;s end, with 6 GW-8 GW in 2027 alone, which could drive $300B in annual revenue run-rate &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260807/p35#a260807p35)
  - [Anthropic announces a feature that allows different Claude Code sessions to message each other with updates and other information, available on macOS and Linux &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260807/p34#a260807p34)
  - [Filings: Moonshot restructured its China-based entity from a limited liability company to a joint stock company in its first visible step toward a Hong Kong IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260807/p33#a260807p33)
- - [The US OCC denies Dutch fintech Bunq&#39;s application for a national bank charter, citing the need for more clarity on its business plan to expand in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260807/p32#a260807p32)
- - [Sources: Situational Awareness invested $500M, including $400M this week, into Source Foundry, a startup that plans to develop new AI chip manufacturing tools &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260807/p31#a260807p31)
- - [The Clarity Act faces uncertainty after Senate Republicans delayed a vote until after their August recess, pushing it to September, just weeks before midterms &lpar;Jasper Goodman/Politico&rpar;](https://www.techmeme.com/260807/p30#a260807p30)<!-- TECH:END -->
+ - [The US OCC denies Dutch fintech Bunq&#39;s application for a national bank charter, citing the need for more clarity on its business plan to expand in the US &lpar;Bloomberg&rpar;](https://www.techmeme.com/260807/p32#a260807p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

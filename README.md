@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elf toon](https://www.reddit.com/r/funny/comments/1vj0wb8/elf_toon/)
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 💣 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
  - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 👉 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)<!-- MEMES:END -->
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
+ - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 👉 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
- - 😝 [Financial genius at work](http://9gag.com/gag/aYQ8NRx)
+ - 😝 [Guys](http://9gag.com/gag/aO8gKoM)
+ - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
  - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
 
 ---

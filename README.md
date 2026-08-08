@@ -158,8 +158,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
  - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+ - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
  - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)
  - [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview)
  - [Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/)<!-- TECH:END -->

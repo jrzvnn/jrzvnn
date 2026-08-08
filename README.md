@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
  - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
- - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 💣 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
+ - 👉 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)
  - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+ - [Amazon is backing a 7.65 GW gas plant for an off-grid TX AI data center, potentially the largest single US emissions source, at odds with its 2040 net-zero goal &lpar;Hiroko Tabuchi/New York Times&rpar;](https://www.techmeme.com/260808/p7#a260808p7)
  - [Musician and entrepreneur Tom Vek is building a digital music player, but don’t call it retro](https://www.theverge.com/report/976872/tom-vek-musician-entrepreneur-sleevenote-interview)
- - [Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/)
- - [South Korea&#39;s AI-driven chip industry boom is reordering the country&#39;s society, changing expectations around fairness, careers, and even culture and dating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260808/p6#a260808p6)
- - [Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/)<!-- TECH:END -->
+ - [Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

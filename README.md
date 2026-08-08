@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 😝 [When Keanu arrived: `Missssssssshhter Andersson....`](http://9gag.com/gag/aryjP2y)
- - 💣 [Guys](http://9gag.com/gag/aO8gKoM)
- - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
+ - 😝 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 💣 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 😝 [A light chuckle](http://9gag.com/gag/aNDxeKG)
+ - 👉 [When Keanu arrived: `Missssssssshhter Andersson....`](http://9gag.com/gag/aryjP2y)<!-- MEMES:END -->
 
 ---
 

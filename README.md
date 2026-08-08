@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spokane Shows What the New Era of Wildfires Looks Like](https://www.wired.com/story/spokane-shows-new-era-of-wildfires/)
+ - [WhatsApp Gets a Handy @all Feature for Group Chats](https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/)
+ - [Best Solar Generators for Off-Grid Trips, RVs, and Home Backup](https://www.wired.com/story/best-solar-generators/)
  - [Nitecore’s latest power bank is the lightest and most compact yet](https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery)
- - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)
- - [Ukrainian attacks on warehouses of Russia&#39;s largest online retailer Wildberries are affecting tens of thousands of small businesses that rely on the platform &lpar;Reuters&rpar;](https://www.techmeme.com/260808/p3#a260808p3)
- - [Analysis: South Korea and Taiwan each surpassed Japan in total exports for the first time in H1 2026, as AI demand drove explosive growth in chip exports &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260808/p2#a260808p2)
- - [X announces the Original Content Rewards Program and will discontinue Revenue Sharing on Sep. 7, saying existing Revenue Sharing members can apply for access &lpar;@xcreators&rpar;](https://www.techmeme.com/260808/p1#a260808p1)<!-- TECH:END -->
+ - [A profile of Tatyana Kim, founder of Russia&#39;s largest online retailer Wildberries, which has lost an estimated third of its warehouse space to Ukrainian attacks &lpar;New York Times&rpar;](https://www.techmeme.com/260808/p4#a260808p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

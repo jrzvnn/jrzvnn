@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 💣 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [Why not](http://9gag.com/gag/a9y93Ym)<!-- MEMES:END -->
+ - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 😝 [Sign me up](http://9gag.com/gag/aKG0w2b)
+ - 👉 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
  - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [When Keanu arrived: `Missssssssshhter Andersson....`](http://9gag.com/gag/aryjP2y)
+ - 💣 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
  - 😝 [Dude living his life](http://9gag.com/gag/an7pe6V)
- - 👉 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)<!-- MEMES:END -->
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

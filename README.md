@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s AI-driven chip industry boom is reordering the country&#39;s society, changing expectations around fairness, careers, and even culture and dating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260808/p6#a260808p6)
  - [The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon](https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/)
+ - [Census Proposal Would Stop Counting Undocumented Immigrants—and Ignore Race and Sexual Orientation](https://www.wired.com/story/census-proposal-would-stop-counting-undocumented-immigrants-and-ignore-race-and-sexual-orientation/)
+ - [South Korea&#39;s AI-driven chip industry boom is reordering the country&#39;s society, changing expectations around fairness, careers, and even culture and dating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260808/p6#a260808p6)
  - [Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket](https://www.wired.com/story/first-images-spacex-rocket-moon-crater/)
- - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)
- - [My favorite feel-good show is back](https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer)<!-- TECH:END -->
+ - [Is this $450 laptop from an unknown brand too good to be true?](https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

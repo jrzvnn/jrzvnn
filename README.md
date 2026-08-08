@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
  - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
- - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 👉 [Guys](http://9gag.com/gag/aO8gKoM)<!-- MEMES:END -->
+ - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
+ - 💣 [Hope. Gen Aplha.](http://9gag.com/gag/apRyE49)
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 👉 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)<!-- MEMES:END -->
 
 ---
 

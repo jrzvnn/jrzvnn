@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 😝 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
- - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 💣 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
  - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [Physically*](http://9gag.com/gag/aO8XgnM)<!-- MEMES:END -->
+ - 👉 [Why not](http://9gag.com/gag/a9y93Ym)<!-- MEMES:END -->
 
 ---
 

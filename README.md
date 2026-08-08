@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear fellow degenerates, Unfortunately, I cannot attend this year&#39;s 9GAG Beer Drinking Competition. Nevertheless, I took the liBEERty of preparing a few small souvenirs for the participants of the event. You can find them near the table at the Border Tripoint of HUN, AUT &amp; SVK.](http://9gag.com/gag/aGy3KG6)
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 💣 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 😝 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
- - 👉 [With friends like these, who needs enemies\u2026..](http://9gag.com/gag/axyXxnn)<!-- MEMES:END -->
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [What a pig!!!](http://9gag.com/gag/a6ZAW4m)
+ - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
 
 ---
 

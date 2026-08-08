@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
- - 😝 [Guys](http://9gag.com/gag/aO8gKoM)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
+ - 😝 [From 5 years to 50 years](http://9gag.com/gag/axyxdOn)
+ - 💣 [First rule, never lose eye contact](http://9gag.com/gag/axyxdAb)
  - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
  - 👉 [Bro became a villain](http://9gag.com/gag/adBmZP9)<!-- MEMES:END -->
 

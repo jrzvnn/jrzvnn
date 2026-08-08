@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 💣 [When Keanu arrived: `Missssssssshhter Andersson....`](http://9gag.com/gag/aryjP2y)
  - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
- - 👉 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)<!-- MEMES:END -->
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

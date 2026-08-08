@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
  - 😝 [Turkana Boy](http://9gag.com/gag/ayNOyE8)
- - 😝 [Bro became a villain](http://9gag.com/gag/adBmZP9)
  - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
- - 😝 [Guys](http://9gag.com/gag/aO8gKoM)
- - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
+ - 😝 [This is how Bigfoot myth was born](http://9gag.com/gag/aAyonj2)
+ - 👉 [Physically*](http://9gag.com/gag/aO8XgnM)<!-- MEMES:END -->
 
 ---
 

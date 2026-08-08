@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
  - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
  - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [This knowledge should not be spread](http://9gag.com/gag/a9yQdE6)
+ - 😝 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
  - 👉 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
 
 ---

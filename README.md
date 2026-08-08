@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 😝 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
- - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
+ - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
+ - 💣 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
  - 😝 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)
- - 👉 [Dude living his life](http://9gag.com/gag/an7pe6V)<!-- MEMES:END -->
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

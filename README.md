@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
  - [Amazon slashes $500 off Apple&#39;s M5 Max 14-inch MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss)
  - [An Amazon data center could have the worst polluting power plant in the country](https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant)
  - [A profile of Russia&#39;s A7, a payment network that helps Russia bypass Western sanctions, handling ~20% of payments in Russian foreign trade, or $100B+ annually &lpar;Alexander Osipovich/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p8#a260808p8)
- - [iPhone 17 faces potential price hike before iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss)
- - [Buc-ee’s dodges John Oliver to sue another small business](https://www.theverge.com/business/977112/buc-ees-john-oliver-lawsuit-beaver-mini-mart)<!-- TECH:END -->
+ - [iPhone 17 faces potential price hike before iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

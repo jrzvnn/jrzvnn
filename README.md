@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 faces an early price rise a month before iPhone 18 Pro launch](https://appleinsider.com/articles/26/08/08/iphone-17-faces-an-early-price-rise-a-month-before-iphone-18-pro-launch?utm_source=rss)
+ - [The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today](https://www.wired.com/story/hp-omnibook-5-50-percent-off/)
  - [Best Gaming Laptops &lpar;2026&rpar;: Razer, Asus, Dell, and More](https://www.wired.com/story/best-gaming-laptops/)
  - [Xteink X4 Pro Pocket E-Reader Review &lpar;2026&rpar;: Fun but Limited](https://www.wired.com/review/xteink-x4-pro-e-reader/)
- - [How Amazon and Gilroy, California, quietly negotiated a $2B data center project that AWS applied to build in 2020, without any public meetings or votes &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p5#a260808p5)
- - [Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed](https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/)
- - [How to Disable Gemini in Gmail and Google Docs](https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/)<!-- TECH:END -->
+ - [How Amazon and Gilroy, California, quietly negotiated a $2B data center project that AWS applied to build in 2020, without any public meetings or votes &lpar;Zusha Elinson/Wall Street Journal&rpar;](https://www.techmeme.com/260808/p5#a260808p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

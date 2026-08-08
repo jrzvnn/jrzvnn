@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why not](http://9gag.com/gag/a9y93Ym)
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 💣 [When Keanu arrived: `Missssssssshhter Andersson....`](http://9gag.com/gag/aryjP2y)
- - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
+ - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
+ - 😝 [Need more awesome people](http://9gag.com/gag/aVvnjL8)
+ - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
+ - 😝 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)
+ - 👉 [Dude living his life](http://9gag.com/gag/an7pe6V)<!-- MEMES:END -->
 
 ---
 

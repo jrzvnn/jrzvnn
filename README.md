@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
  - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
  - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [Slovakiaaaaaaaaaa Wins!!!!](http://9gag.com/gag/aO8gq7N)
- - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
+ - 😝 [This knowledge should not be spread](http://9gag.com/gag/a9yQdE6)
+ - 👉 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
 
 ---
 

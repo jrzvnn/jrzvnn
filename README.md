@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still some good in the world | Barcelona Subway station](http://9gag.com/gag/aBy7qj2)
- - 😝 [All aboard the Feel Train !](http://9gag.com/gag/an7LAgn)
- - 💣 [10000 Cable channels for free &lpar;with adds though&rpar;](http://9gag.com/gag/aGy3KyX)
- - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
- - 👉 [With friends like these, who needs enemies\u2026..](http://9gag.com/gag/axyXxnn)<!-- MEMES:END -->
+ - 😝 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
+ - 💣 [Why not](http://9gag.com/gag/a9y93Ym)
+ - 😝 [NEIGHBOR KAREN](http://9gag.com/gag/a1mGz08)
+ - 👉 [Guys](http://9gag.com/gag/aO8gKoM)<!-- MEMES:END -->
 
 ---
 

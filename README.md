@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In-depth look at OpenAI&#39;s model training, dangerous decisions, and cluelessness before the HuggingFace hack; despite delaying Astra, OpenAI still doesn&#39;t get it &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260809/p6#a260809p6)
  - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)
  - [8 Snacks and Guilty-Pleasure Foods Chefs Can’t Live Without](https://www.cnet.com/home/kitchen-and-household/8-snacks-and-guilty-pleasure-foods-chefs-cant-live-without/)
  - [Apple Upgrade plan to preload your data nixed over privacy optics](https://appleinsider.com/articles/26/08/09/apple-upgrade-plan-to-preload-your-data-nixed-over-privacy-optics?utm_source=rss)
- - [RAM shortages now affecting MacBook Air availability](https://appleinsider.com/articles/26/08/09/ram-shortages-now-affecting-macbook-air-availability?utm_source=rss)
- - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)<!-- TECH:END -->
+ - [RAM shortages now affecting MacBook Air availability](https://appleinsider.com/articles/26/08/09/ram-shortages-now-affecting-macbook-air-availability?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

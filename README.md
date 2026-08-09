@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
  - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
  - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 😝 [Good boi is smart and fast too](http://9gag.com/gag/aVvnQYM)
  - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
 
 ---

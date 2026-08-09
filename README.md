@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data Insight: Russia&#39;s largest online retailer Wildberries, which owes Russian banks $10B+ in loans, has lost as much as $5B in inventory to Ukrainian attacks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p1#a260809p1)
  - [Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&#39;s good enough at catching harmful actions &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260808/p10#a260808p10)
  - [A look at &quot;Spiralism&quot;, a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260808/p9#a260808p9)
  - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
- - [Today’s NYT Connections Hints and Answers for Aug. 9, #1155](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-9-1155/)
- - [Amazon slashes $500 off Apple&#39;s M5 Max 14-inch MacBook Pro with 2TB SSD](https://appleinsider.com/articles/26/08/08/amazon-slashes-500-off-apples-m5-max-14-inch-macbook-pro-with-2tb-ssd?utm_source=rss)<!-- TECH:END -->
+ - [Today’s NYT Connections Hints and Answers for Aug. 9, #1155](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-9-1155/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

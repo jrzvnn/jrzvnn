@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 💣 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 😝 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)
+ - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
  - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 👉 [Guys](http://9gag.com/gag/aO8gKoM)<!-- MEMES:END -->
+ - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
 
 ---
 

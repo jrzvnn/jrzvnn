@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some say that he always comes early. Others claim he never left. All that we know is he\u2019s a degenerate.](http://9gag.com/gag/azxNbgz)
- - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
- - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 😝 [The mistress.](http://9gag.com/gag/aByqKEx)
- - 👉 [Bro leaked all magic tricks](http://9gag.com/gag/a7o45Or)<!-- MEMES:END -->
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 😝 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 💣 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 👉 [Innocence](http://9gag.com/gag/aW4KQ3Z)<!-- MEMES:END -->
 
 ---
 

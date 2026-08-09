@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 😝 [Good boi is smart and fast too](http://9gag.com/gag/aVvnQYM)
- - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
+ - 😝 [Some say that he always comes early. Others claim he never left. All that we know is he\u2019s a degenerate.](http://9gag.com/gag/azxNbgz)
+ - 😝 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - 😝 [The mistress.](http://9gag.com/gag/aByqKEx)
+ - 👉 [Bro leaked all magic tricks](http://9gag.com/gag/a7o45Or)<!-- MEMES:END -->
 
 ---
 

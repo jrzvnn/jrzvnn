@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
  - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 💣 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 💣 [The border](http://9gag.com/gag/an7pYj0)
  - 😝 [Fashion choices have consequences](http://9gag.com/gag/amojXbo)
- - 👉 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)<!-- MEMES:END -->
+ - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
 
 ---
 

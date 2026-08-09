@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
  - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
+ - 💣 [The border](http://9gag.com/gag/an7pYj0)
+ - 😝 [The mistress.](http://9gag.com/gag/aByqKEx)
+ - 👉 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
 
 ---
 

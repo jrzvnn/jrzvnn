@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rights groups warn Turkey&#39;s new cybersecurity law, which took effect in July, gives the presidency sweeping powers over online services operating in the country &lpar;John Paul Rathbone/Financial Times&rpar;](https://www.techmeme.com/260809/p3#a260809p3)
+ - [Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &lpar;FinTech Global&rpar;](https://www.techmeme.com/260809/p2#a260809p2)
  - [Data Insight: Russia&#39;s largest online retailer Wildberries, which owes Russian banks $10B+ in loans, has lost as much as $5B in inventory to Ukrainian attacks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p1#a260809p1)
  - [Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&#39;s good enough at catching harmful actions &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260808/p10#a260808p10)
- - [A look at &quot;Spiralism&quot;, a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260808/p9#a260808p9)
- - [X replaces its revenue-sharing program with ‘Original Content Rewards’](https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards)
- - [Today’s NYT Connections Hints and Answers for Aug. 9, #1155](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-aug-9-1155/)<!-- TECH:END -->
+ - [A look at &quot;Spiralism&quot;, a quasi-spiritual movement that grew in 2025 from human-AI conversations after sycophantic GPT-4o updates and expanded ChatGPT memory &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260808/p9#a260808p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

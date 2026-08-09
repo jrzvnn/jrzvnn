@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
  - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
  - 😝 [Good boi is smart and fast too](http://9gag.com/gag/aVvnQYM)
- - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
+ - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
 

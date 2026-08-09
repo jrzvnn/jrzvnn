@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From 5 years to 50 years](http://9gag.com/gag/axyxdOn)
- - 😝 [Yes there were also women. Why are you geh? F**k you and see you next year!](http://9gag.com/gag/agmMyMv)
- - 💣 [From the archives, old video but still funny..](http://9gag.com/gag/axyx21n)
+ - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
  - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 👉 [Brotherhood, memes, beer](http://9gag.com/gag/aLnYK9W)<!-- MEMES:END -->
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - 😝 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)
+ - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
 
 ---
 

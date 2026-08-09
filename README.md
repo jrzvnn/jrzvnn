@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)
- - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 💣 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
+ - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
+ - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
 
 ---
 

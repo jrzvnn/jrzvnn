@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
  - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
  - [Sunday Reboot: AI device worries and Ted Lasso cheapness](https://appleinsider.com/articles/26/08/09/sunday-reboot-ai-device-worries-and-ted-lasso-cheapness?utm_source=rss)
  - [A look at Chinese state-owned investment bank CICC, which sponsored multibillion-dollar listings of China&#39;s tech champions, including CXMT and Zhongji Innolight &lpar;Financial Times&rpar;](https://www.techmeme.com/260809/p8#a260809p8)
- - [Ceramic Apple Watch may return as soon as September](https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss)
- - [Zuckerberg&amp;#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)<!-- TECH:END -->
+ - [Ceramic Apple Watch may return as soon as September](https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

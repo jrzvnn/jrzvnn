@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)
- - [iPhone Fold may ship in a choice of Silver or Dark Blue](https://appleinsider.com/articles/26/08/09/iphone-fold-may-ship-in-a-choice-of-silver-or-dark-blue?utm_source=rss)
- - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
- - [The Complicated Case of Passing On Your Digital Estate](https://www.wired.com/story/digital-estate-planning-tips/)
- - [Crime blotter: Thieves try using stolen credit cards at a Miami Apple Store](https://appleinsider.com/articles/26/08/09/crime-blotter-thieves-try-using-stolen-credit-cards-at-a-miami-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)
+ - [8 Snacks and Guilty-Pleasure Foods Chefs Can’t Live Without](https://www.cnet.com/home/kitchen-and-household/8-snacks-and-guilty-pleasure-foods-chefs-cant-live-without/)
+ - [Apple Upgrade plan to preload your data nixed over privacy optics](https://appleinsider.com/articles/26/08/09/apple-upgrade-plan-to-preload-your-data-nixed-over-privacy-optics?utm_source=rss)
+ - [RAM shortages now affecting MacBook Air availability](https://appleinsider.com/articles/26/08/09/ram-shortages-now-affecting-macbook-air-availability?utm_source=rss)
+ - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

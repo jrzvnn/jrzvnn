@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: AI device worries and Ted Lasso cheapness](https://appleinsider.com/articles/26/08/09/sunday-reboot-ai-device-worries-and-ted-lasso-cheapness?utm_source=rss)
+ - [A look at Chinese state-owned investment bank CICC, which sponsored multibillion-dollar listings of China&#39;s tech champions, including CXMT and Zhongji Innolight &lpar;Financial Times&rpar;](https://www.techmeme.com/260809/p8#a260809p8)
  - [Ceramic Apple Watch may return as soon as September](https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss)
  - [Zuckerberg&amp;#8217;s yacht was closer, but someone else saved a stranded boat](https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat)
- - [As PC makers start using CXMT RAM chips, Apple is testing them too, but it needs a custom version for its devices, and US rules block Apple from sharing designs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p7#a260809p7)
- - [Of course, Apple&#39;s already planning a third-gen iPhone Fold](https://appleinsider.com/articles/26/08/09/of-course-apples-already-planning-a-third-gen-iphone-fold?utm_source=rss)
- - [Framework’s Data Breach Revealed Customer Data: Here’s What to Know](https://www.cnet.com/tech/computing/frameworks-data-breach-revealed-customer-data-heres-what-to-know/)<!-- TECH:END -->
+ - [As PC makers start using CXMT RAM chips, Apple is testing them too, but it needs a custom version for its devices, and US rules block Apple from sharing designs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p7#a260809p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

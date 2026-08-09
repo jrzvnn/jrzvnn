@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Complicated Case of Passing On Your Digital Estate](https://www.wired.com/story/digital-estate-planning-tips/)
  - [Crime blotter: Thieves try using stolen credit cards at a Miami Apple Store](https://appleinsider.com/articles/26/08/09/crime-blotter-thieves-try-using-stolen-credit-cards-at-a-miami-apple-store?utm_source=rss)
  - [4 Best Compression Boots: Therabody, Hyperice, and More &lpar;2026&rpar;](https://www.wired.com/story/best-compression-boots/)
  - [A look back at &quot;Move 37&quot;, a watershed AI moment from AlphaGo&#39;s 2016 Go victory, as math witnesses similar breakthroughs where AI makes surprising discoveries &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260809/p5#a260809p5)
- - [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/)
- - [TCL Note A1 Nxtpaper Review &lpar;2026&rpar;: A Hybrid Tablet for Taking Notes and Watching Video](https://www.wired.com/review/tcl-note-a1-nxtpaper-tablet/)<!-- TECH:END -->
+ - [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

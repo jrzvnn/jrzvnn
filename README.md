@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Workout Headphones &amp; Earbuds: Beats, Bose, Apple &lpar;2026&rpar;](https://www.wired.com/story/the-best-workout-headphones-and-earbuds/)
+ - [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/)
  - [Google&#39;s AI shakeup suggests it may be prioritizing AI diffusion over frontier-model leadership, betting on AI compute as a bigger economic opportunity &lpar;Tim O&#39;Reilly/Asimov&#39;s Addendum&rpar;](https://www.techmeme.com/260809/p4#a260809p4)
  - [Rights groups warn Turkey&#39;s new cybersecurity law, which took effect in July, gives the presidency sweeping powers over online services operating in the country &lpar;John Paul Rathbone/Financial Times&rpar;](https://www.techmeme.com/260809/p3#a260809p3)
- - [Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &lpar;FinTech Global&rpar;](https://www.techmeme.com/260809/p2#a260809p2)
- - [Data Insight: Russia&#39;s largest online retailer Wildberries, which owes Russian banks $10B+ in loans, has lost as much as $5B in inventory to Ukrainian attacks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260809/p1#a260809p1)
- - [Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it&#39;s good enough at catching harmful actions &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260808/p10#a260808p10)<!-- TECH:END -->
+ - [Cape Town-based Moment, a provider of digital payments and billing tools for businesses across Africa, raised a $22M Series A, taking its total funding to $55M &lpar;FinTech Global&rpar;](https://www.techmeme.com/260809/p2#a260809p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

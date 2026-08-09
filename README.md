@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Of course, Apple&#39;s already planning a third-gen iPhone Fold](https://appleinsider.com/articles/26/08/09/of-course-apples-already-planning-a-third-gen-iphone-fold?utm_source=rss)
+ - [Ceramic Apple Watch may return as soon as September](https://appleinsider.com/articles/26/08/09/ceramic-apple-watch-may-return-as-soon-as-september?utm_source=rss)
  - [49ers coach says his Tesla was on Autopilot when he crashed](https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash)
  - [In-depth look at OpenAI&#39;s model training, dangerous decisions, and cluelessness before the HuggingFace hack; despite delaying Astra, OpenAI still doesn&#39;t get it &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260809/p6#a260809p6)
- - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)
- - [8 Snacks and Guilty-Pleasure Foods Chefs Can’t Live Without](https://www.cnet.com/home/kitchen-and-household/8-snacks-and-guilty-pleasure-foods-chefs-cant-live-without/)
- - [Apple Upgrade plan to preload your data nixed over privacy optics](https://appleinsider.com/articles/26/08/09/apple-upgrade-plan-to-preload-your-data-nixed-over-privacy-optics?utm_source=rss)<!-- TECH:END -->
+ - [2026 Apple Watch upgrade will be dull, but a big redesign is in progress](https://appleinsider.com/articles/26/08/09/2026-apple-watch-upgrade-will-be-dull-but-a-big-redesign-is-in-progress?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

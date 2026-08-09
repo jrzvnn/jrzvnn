@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro leaked all magic tricks](http://9gag.com/gag/a7o45Or)
- - 😝 [The mistress.](http://9gag.com/gag/aByqKEx)
- - 💣 [Slovakiaaaaaaaaaa Wins!!!!](http://9gag.com/gag/aO8gq7N)
- - 😝 [From 5 years to 50 years](http://9gag.com/gag/axyxdOn)
- - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
+ - 😝 [F you and see you tomorrow](http://9gag.com/gag/aqy39mv)
+ - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
+ - 💣 [From 5 years to 50 years](http://9gag.com/gag/axyxdOn)
+ - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From 0 to 50 to 100](http://9gag.com/gag/aMV3poX)
  - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 😝 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
- - 💣 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)
- - 😝 [Some good stuff in here](http://9gag.com/gag/a5QmdQV)
- - 👉 [Wife Loved the Surprise Home... Until She Learned It Was in Her Husband&#39;s Name](http://9gag.com/gag/apRyKQ8)<!-- MEMES:END -->
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 👉 [Circe and calypso would like a word](http://9gag.com/gag/aByq9rN)<!-- MEMES:END -->
 
 ---
 

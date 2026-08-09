@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 💣 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 😝 [2026 beer drinking competition](http://9gag.com/gag/a9yQdq6)
+ - 😝 [Some say that he always comes early. Others claim he never left. All that we know is he\u2019s a degenerate.](http://9gag.com/gag/azxNbgz)
+ - 💣 [Bro leaked all magic tricks](http://9gag.com/gag/a7o45Or)
  - 😝 [Fashion choices have consequences](http://9gag.com/gag/amojXbo)
- - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
+ - 👉 [`Are those men with you?` UK Girls: `N-no... help...`](http://9gag.com/gag/an7pq0q)<!-- MEMES:END -->
 
 ---
 

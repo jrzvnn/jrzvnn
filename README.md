@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
- - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 💣 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
+ - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
  - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
+ - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
+ - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
  - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---

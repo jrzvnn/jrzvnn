@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Driving a luxury car in Nigeria](http://9gag.com/gag/azxNgbZ)
+ - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
+ - 💣 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)
  - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 😝 [Fashion choices have consequences](http://9gag.com/gag/amojXbo)
- - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
+ - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
 
 ---
 

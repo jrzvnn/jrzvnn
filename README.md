@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dropbox is a PC builder’s best friend](https://www.theverge.com/tech/976092/pc-building-dropbox-backup)
  - [iPhone Fold may ship in a choice of Silver or Dark Blue](https://appleinsider.com/articles/26/08/09/iphone-fold-may-ship-in-a-choice-of-silver-or-dark-blue?utm_source=rss)
  - [AI detectors are creating a new era of distrust](https://www.theverge.com/column/976690/ai-writing-detectors-suspicion)
  - [The Complicated Case of Passing On Your Digital Estate](https://www.wired.com/story/digital-estate-planning-tips/)
- - [Crime blotter: Thieves try using stolen credit cards at a Miami Apple Store](https://appleinsider.com/articles/26/08/09/crime-blotter-thieves-try-using-stolen-credit-cards-at-a-miami-apple-store?utm_source=rss)
- - [4 Best Compression Boots: Therabody, Hyperice, and More &lpar;2026&rpar;](https://www.wired.com/story/best-compression-boots/)<!-- TECH:END -->
+ - [Crime blotter: Thieves try using stolen credit cards at a Miami Apple Store](https://appleinsider.com/articles/26/08/09/crime-blotter-thieves-try-using-stolen-credit-cards-at-a-miami-apple-store?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

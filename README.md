@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro](https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss)
- - [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
- - [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
- - [South Korea plans to launch a ~$3.5B chip fund for promising materials, parts, equipment, and fabless companies, and speed the development of domestic chip hubs &lpar;Reuters&rpar;](https://www.techmeme.com/260810/p19#a260810p19)
- - [Sources: Palmer Luckey&#39;s Erebor, a lender that aims to fill the gap left by Silicon Valley Bank, is in advanced talks to raise ~$1.5B at an $8B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p18#a260810p18)<!-- TECH:END -->
+ - [Anthropic, Macquarie, and Singapore&#39;s GIC form Theseus Infrastructure to develop AI computing sites; Anthropic will cover consumer electricity price hikes &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260810/p22#a260810p22)
+ - [Jefferies cuts AAPL target to $263.66, downgrades to Underperform](https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss)
+ - [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach)
+ - [Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, adding to support for PayPal and Cash App &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260810/p21#a260810p21)
+ - [iMacs with OLED screens now predicted for 2029](https://appleinsider.com/articles/26/08/10/imacs-with-oled-screens-now-predicted-for-2029?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

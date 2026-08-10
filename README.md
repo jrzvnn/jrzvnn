@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
  - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 💣 [Phones](http://9gag.com/gag/aGy3Vpn)
+ - 😝 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 💣 [She is crying, but also know nobody can prove anything...](http://9gag.com/gag/aZZAWE6)
  - 😝 [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)
- - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
+ - 👉 [Phones](http://9gag.com/gag/aGy3Vpn)<!-- MEMES:END -->
 
 ---
 

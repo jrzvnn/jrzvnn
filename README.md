@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic, Macquarie, and Singapore&#39;s GIC form Theseus Infrastructure to develop AI computing sites; Anthropic will cover consumer electricity price hikes &lpar;Mark Bergen/Bloomberg&rpar;](https://www.techmeme.com/260810/p22#a260810p22)
- - [Jefferies cuts AAPL target to $263.66, downgrades to Underperform](https://appleinsider.com/articles/26/08/10/jefferies-cuts-aapl-target-to-26366-downgrades-to-underperform?utm_source=rss)
- - [Steam hardware shipper breach leaks customer data, including names and addresses](https://www.theverge.com/games/977314/valve-steam-hardware-shipping-data-breach)
- - [Google adds Venmo as a payment option on Google Play for games, apps, add-ons, subscriptions, and more in the US, adding to support for PayPal and Cash App &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260810/p21#a260810p21)
- - [iMacs with OLED screens now predicted for 2029](https://appleinsider.com/articles/26/08/10/imacs-with-oled-screens-now-predicted-for-2029?utm_source=rss)<!-- TECH:END -->
+ - [As Waymo expands its fleet from 700 in 2025 to nearly 4,000 now, recalls and edge-case failures like flooded roadways and a San Francisco power outage mount &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/260810/p26#a260810p26)
+ - [Bose CEO Lila Snyder on the fight for high-quality audio](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
+ - [Boeing is selling its air taxi startups to Archer Aviation](https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi)
+ - [Online course cheating has accelerated from chatbot-written essays to agents executing commands like &quot;log in and complete my quiz&quot;; major AI tools didn&#39;t refuse &lpar;New York Times&rpar;](https://www.techmeme.com/260810/p25#a260810p25)
+ - [Sources: Microsoft plans to unveil its next-gen AI chip, the Maia 300, potentially as soon as September, and is in talks with TSMC to make 300K+ chips for 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260810/p24#a260810p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

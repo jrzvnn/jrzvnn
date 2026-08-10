@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did we learn today?](http://9gag.com/gag/aD2pwVK)
- - 😝 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - 💣 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
  - 😝 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
+ - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
 
 ---
 

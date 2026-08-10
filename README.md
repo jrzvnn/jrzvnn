@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four takeaways from Mark Zuckerberg&amp;#8217;s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)
- - [Apple will stream Friday Night Baseball live in Vision Pro](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro)
- - [Apple tested Chinese memory chips for the Mac, rivals shipping](https://appleinsider.com/articles/26/08/10/apple-tested-chinese-memory-chips-for-the-mac-rivals-shipping?utm_source=rss)
- - [Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch](https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/)
- - [Tel Aviv- and San Francisco-based Corma, which develops AI models for defensive cybersecurity, emerges from stealth with a $60M seed led by Sequoia Capital &lpar;Emily Forlini/Fortune&rpar;](https://www.techmeme.com/260810/p27#a260810p27)<!-- TECH:END -->
+ - [Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump&#39;s AI strategy after leaving the administration &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260810/p29#a260810p29)
+ - [Friday Night Baseball season will stream key games live in Apple Immersive](https://appleinsider.com/articles/26/08/10/friday-night-baseball-season-will-stream-key-games-live-in-apple-immersive?utm_source=rss)
+ - [Dark Cherry iPhone 18 Pro is still a rumor mill favorite](https://appleinsider.com/articles/26/08/10/dark-cherry-iphone-18-pro-is-still-a-rumor-mill-favorite?utm_source=rss)
+ - [Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p28#a260810p28)
+ - [Four takeaways from Mark Zuckerberg&amp;#8217;s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

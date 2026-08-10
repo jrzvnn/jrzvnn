@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo pours water on rumor of $1B Apple chip stockpile at TSMC](https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss)
- - [Sources: Apollo, Blackstone, BlackRock, KKR, and other financial groups are partnering with Nvidia on a $500B funding package for AI infrastructure development &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p34#a260810p34)
- - [Valve Warns Steam Machine Buyers About Scam Messages After Cyberattack](https://www.cnet.com/tech/gaming/valve-warns-steam-machine-buyers-about-scam-messages-after-cyberattack/)
- - [Apple preps beta security updates for iOS 18, iOS 26, and macOS 26](https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss)
- - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)<!-- TECH:END -->
+ - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)
+ - [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)
+ - [YouTube says new creators will need double, or 8,000+, watch hours over the past year or 20M Shorts views in the last 90 days to start earning money from Feb. 1 &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260810/p35#a260810p35)
+ - [Costco&amp;#8217;s great Switch 2 console bundle includes over $100 in free stuff](https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale)
+ - [Report: Analyst Shatters Expectations of an All-Glass iPhone](https://www.cnet.com/tech/mobile/report-analyst-shatters-expectations-of-an-all-glass-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

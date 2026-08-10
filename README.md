@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: officials say OpenAI risks its White House relationship by hiring Dean Ball, who has criticized Trump&#39;s AI strategy after leaving the administration &lpar;Thomas Barrabi/New York Post&rpar;](https://www.techmeme.com/260810/p29#a260810p29)
- - [Friday Night Baseball season will stream key games live in Apple Immersive](https://appleinsider.com/articles/26/08/10/friday-night-baseball-season-will-stream-key-games-live-in-apple-immersive?utm_source=rss)
- - [Dark Cherry iPhone 18 Pro is still a rumor mill favorite](https://appleinsider.com/articles/26/08/10/dark-cherry-iphone-18-pro-is-still-a-rumor-mill-favorite?utm_source=rss)
- - [Sources: AI cloud computing provider Lambda is selling a $917M leveraged loan to finance the purchase of GPUs as part of a contract with Nvidia &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p28#a260810p28)
- - [Four takeaways from Mark Zuckerberg&amp;#8217;s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)<!-- TECH:END -->
+ - [Photo leak backs up massive iPhone 18 Pro Max battery rumor](https://appleinsider.com/articles/26/08/10/photo-leak-backs-up-massive-iphone-18-pro-max-battery-rumor?utm_source=rss)
+ - [Flight tracking poster, Schlage Sense Pro review, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/08/10/flight-tracking-poster-schlage-sense-pro-review-more-on-smart-home-insider?utm_source=rss)
+ - [Google adds third-party games store Aptoide to the Play Store for Android users in the US, following a judge&#39;s orders in the antitrust lawsuit with Epic &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260810/p31#a260810p31)
+ - [Generative AI needs ethical leaders and to be controlled like nuclear power](https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss)
+ - [A US appeals court allows ~2,400 federal lawsuits against social media companies to proceed over claims their products were designed to addict young users &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260810/p30#a260810p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

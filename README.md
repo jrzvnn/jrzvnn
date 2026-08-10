@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
  - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 😝 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 😝 [I&#39;m sorry but it&#39;s true](http://9gag.com/gag/a4PeLLp)
+ - 👉 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)<!-- MEMES:END -->
 
 ---
 

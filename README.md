@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As AI salaries intensify competition in San Francisco&#39;s rental market, CoStar says average asking rent is up 18% in under two years to $3,728/month, passing NYC &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p16#a260810p16)
- - [A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk](https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/)
- - [The Best E-Readers of 2026: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)
- - [Ford’s new AI assistant can check your fuel levels and tire pressure](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app)
- - [Space mirrors could ruin astronomy — and your eyes](https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage)<!-- TECH:END -->
+ - [iPhone 18 Pro expected to be 40% more expensive to make than iPhone 17 Pro](https://appleinsider.com/articles/26/08/10/iphone-18-pro-expected-to-be-40-more-expensive-to-make-than-iphone-17-pro?utm_source=rss)
+ - [The first rival Android app store just arrived in the US Play Store](https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games)
+ - [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/)
+ - [South Korea plans to launch a ~$3.5B chip fund for promising materials, parts, equipment, and fabless companies, and speed the development of domestic chip hubs &lpar;Reuters&rpar;](https://www.techmeme.com/260810/p19#a260810p19)
+ - [Sources: Palmer Luckey&#39;s Erebor, a lender that aims to fill the gap left by Silicon Valley Bank, is in advanced talks to raise ~$1.5B at an $8B valuation &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p18#a260810p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

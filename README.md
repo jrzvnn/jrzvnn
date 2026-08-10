@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moore Threads reports H1 revenue up 147% YoY to ~$258M, a net loss of $1.72M, says it plans a Hong Kong listing, after its stock surged 420%+ since Shanghai IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260809/p12#a260809p12)
+ - [Tel Aviv-based QuantHealth, a provider of AI clinical trial simulation software, raised a $45M Series B led by Qumra Capital, taking its total funding to ~$70M &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/260809/p11#a260809p11)
  - [An Australian user&#39;s Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist &lpar;ABC&rpar;](https://www.techmeme.com/260809/p10#a260809p10)
  - [US data center bans top 500, up from 300+ in late June, as New York and Texas join cities and counties pushing back against data center development &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/260809/p9#a260809p9)
- - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)
- - [Sunday Reboot: AI device worries and Ted Lasso cheapness](https://appleinsider.com/articles/26/08/09/sunday-reboot-ai-device-worries-and-ted-lasso-cheapness?utm_source=rss)
- - [A look at Chinese state-owned investment bank CICC, which sponsored multibillion-dollar listings of China&#39;s tech champions, including CXMT and Zhongji Innolight &lpar;Financial Times&rpar;](https://www.techmeme.com/260809/p8#a260809p8)<!-- TECH:END -->
+ - [No Dogs in Space is a music history podcast for true obsessives](https://www.theverge.com/entertainment/977190/no-dogs-in-space-music-history-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

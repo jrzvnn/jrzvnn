@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)
- - [OpenAI unveils two Daybreak tiers: Daybreak Blue, which provides access to frontier models, and Daybreak Red, which offers purpose-trained cybersecurity models &lpar;OpenAI&rpar;](https://www.techmeme.com/260810/p33#a260810p33)
- - [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event)
- - [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements)
- - [OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260810/p32#a260810p32)<!-- TECH:END -->
+ - [Kuo pours water on rumor of $1B Apple chip stockpile at TSMC](https://appleinsider.com/articles/26/08/10/kuo-pours-water-on-rumor-of-1b-apple-chip-stockpile-at-tsmc?utm_source=rss)
+ - [Sources: Apollo, Blackstone, BlackRock, KKR, and other financial groups are partnering with Nvidia on a $500B funding package for AI infrastructure development &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p34#a260810p34)
+ - [Valve Warns Steam Machine Buyers About Scam Messages After Cyberattack](https://www.cnet.com/tech/gaming/valve-warns-steam-machine-buyers-about-scam-messages-after-cyberattack/)
+ - [Apple preps beta security updates for iOS 18, iOS 26, and macOS 26](https://appleinsider.com/articles/26/08/10/apple-preps-beta-security-updates-for-ios-18-ios-26-and-macos-26?utm_source=rss)
+ - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

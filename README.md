@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026, as the AI industry now accounts for a third of its lifetime total &lpar;Joel Khalili/Wired&rpar;](https://www.techmeme.com/260810/p5#a260810p5)
- - [Revelio Labs: short-term AI training programs made up ~33% of the professional certificate market in 2026, up from just 2% in 2022 before ChatGPT launched &lpar;Liam Knox/Bloomberg&rpar;](https://www.techmeme.com/260810/p4#a260810p4)
- - [How credit card issuers and reservation apps like OpenTable and Amex-owned Resy fragment restaurant reservations, wiring the best tables into premium card perks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p3#a260810p3)
- - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
- - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind arrived in 2016, and now hosts OpenAI, Meta, Wayve, and more &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
+ - [Smart Analytics: Chinese humanoid robot makers were 97%+ of global shipments in H1 2026, reaching ~19,100 unit shipments globally, up from 5,100 in H1 2025 &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260810/p9#a260810p9)
+ - [Sources: the UK FCA is consulting industry participants, including major banks, on a regulatory framework for tokenized gold; London dominates the global market &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p8#a260810p8)
+ - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)
+ - [Sources: Nvidia chips remain the norm for Chinese AI labs training LLMs, as switching from its CUDA platform to Huawei&#39;s CANN requires major code rewriting &lpar;South China Morning Post&rpar;](https://www.techmeme.com/260810/p7#a260810p7)
+ - [Q&amp;A with historian Jill Lepore on her new book The Rise and Fall of the Artificial State, tech leaders misreading science fiction warnings as manuals, and more &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260810/p6#a260810p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

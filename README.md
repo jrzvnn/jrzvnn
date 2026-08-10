@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Founders Pledge, which has recorded $4B in pledges from founders so far in 2026, as the AI industry now accounts for a third of its lifetime total &lpar;Joel Khalili/Wired&rpar;](https://www.techmeme.com/260810/p5#a260810p5)
+ - [Revelio Labs: short-term AI training programs made up ~33% of the professional certificate market in 2026, up from just 2% in 2022 before ChatGPT launched &lpar;Liam Knox/Bloomberg&rpar;](https://www.techmeme.com/260810/p4#a260810p4)
+ - [How credit card issuers and reservation apps like OpenTable and Amex-owned Resy fragment restaurant reservations, wiring the best tables into premium card perks &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p3#a260810p3)
  - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
- - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)
- - [Chinese AI labs account for nine of Artificial Analysis&#39; top 10 text-to-video models, gaining global adoption and potentially an edge in building world models &lpar;Catherine Thorbecke/Bloomberg&rpar;](https://www.techmeme.com/260810/p1#a260810p1)
- - [Sources: the UK Royal Navy removed internet connectivity from its drones&#39; cameras, after finding they sent &quot;heartbeat communications&quot; to an IP address in China &lpar;Richard Holmes/Telegraph&rpar;](https://www.techmeme.com/260809/p16#a260809p16)
- - [Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan&#39;s Kumamoto as early as 2029 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260809/p15#a260809p15)<!-- TECH:END -->
+ - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind arrived in 2016, and now hosts OpenAI, Meta, Wayve, and more &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

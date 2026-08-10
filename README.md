@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Waymo expands its fleet from 700 in 2025 to nearly 4,000 now, recalls and edge-case failures like flooded roadways and a San Francisco power outage mount &lpar;Emmy Martin/New York Times&rpar;](https://www.techmeme.com/260810/p26#a260810p26)
- - [Bose CEO Lila Snyder on the fight for high-quality audio](https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio)
- - [Boeing is selling its air taxi startups to Archer Aviation](https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi)
- - [Online course cheating has accelerated from chatbot-written essays to agents executing commands like &quot;log in and complete my quiz&quot;; major AI tools didn&#39;t refuse &lpar;New York Times&rpar;](https://www.techmeme.com/260810/p25#a260810p25)
- - [Sources: Microsoft plans to unveil its next-gen AI chip, the Maia 300, potentially as soon as September, and is in talks with TSMC to make 300K+ chips for 2027 &lpar;The Information&rpar;](https://www.techmeme.com/260810/p24#a260810p24)<!-- TECH:END -->
+ - [Four takeaways from Mark Zuckerberg&amp;#8217;s massive AI manifesto](https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble)
+ - [Apple will stream Friday Night Baseball live in Vision Pro](https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro)
+ - [Apple tested Chinese memory chips for the Mac, rivals shipping](https://appleinsider.com/articles/26/08/10/apple-tested-chinese-memory-chips-for-the-mac-rivals-shipping?utm_source=rss)
+ - [Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch](https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/)
+ - [Tel Aviv- and San Francisco-based Corma, which develops AI models for defensive cybersecurity, emerges from stealth with a $60M seed led by Sequoia Capital &lpar;Emily Forlini/Fortune&rpar;](https://www.techmeme.com/260810/p27#a260810p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

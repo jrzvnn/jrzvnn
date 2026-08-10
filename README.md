@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smart Analytics: Chinese humanoid robot makers were 97%+ of global shipments in H1 2026, reaching ~19,100 unit shipments globally, up from 5,100 in H1 2025 &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260810/p9#a260810p9)
- - [Sources: the UK FCA is consulting industry participants, including major banks, on a regulatory framework for tokenized gold; London dominates the global market &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p8#a260810p8)
- - [Still simple, still powerful, BBEdit is a Mac app legend](https://appleinsider.com/articles/26/08/07/still-simple-still-powerful-bbedit-is-a-mac-app-legend?utm_source=rss)
- - [Sources: Nvidia chips remain the norm for Chinese AI labs training LLMs, as switching from its CUDA platform to Huawei&#39;s CANN requires major code rewriting &lpar;South China Morning Post&rpar;](https://www.techmeme.com/260810/p7#a260810p7)
- - [Q&amp;A with historian Jill Lepore on her new book The Rise and Fall of the Artificial State, tech leaders misreading science fiction warnings as manuals, and more &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260810/p6#a260810p6)<!-- TECH:END -->
+ - [As AI salaries intensify competition in San Francisco&#39;s rental market, CoStar says average asking rent is up 18% in under two years to $3,728/month, passing NYC &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p16#a260810p16)
+ - [A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk](https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/)
+ - [The Best E-Readers of 2026: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)
+ - [Ford’s new AI assistant can check your fuel levels and tire pressure](https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app)
+ - [Space mirrors could ruin astronomy — and your eyes](https://www.theverge.com/science/976977/space-mirror-reflect-orbital-fcc-solar-eye-damage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

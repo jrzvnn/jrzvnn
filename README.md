@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)
+ - [With his long essay, Zuckerberg returns to his &quot;open&quot; AI arguments at an opportune time, as Chinese open models narrow the performance gap at much lower cost &lpar;M.G. Siegler/Spyglass&rpar;](https://www.techmeme.com/260810/p41#a260810p41)
  - [Anker&amp;#8217;s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
  - [Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p40#a260810p40)
- - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)
- - [Source: Applied Compute, which helps companies customize models with their data, is in talks to raise &quot;hundreds of millions&quot; led by Elad Gil at a ~$3B valuation &lpar;The Information&rpar;](https://www.techmeme.com/260810/p39#a260810p39)
- - [Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California&#39;s wealth tax, bringing his total contributions to $102M &lpar;Alicia Clanton/Bloomberg&rpar;](https://www.techmeme.com/260810/p38#a260810p38)<!-- TECH:END -->
+ - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Space Agencies Are Trying to Keep Astronauts From Losing Their Sight](https://www.wired.com/story/space-agencies-trying-stop-astronauts-losing-sight/)
  - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)
  - [Chinese AI labs account for nine of Artificial Analysis&#39; top 10 text-to-video models, gaining global adoption and potentially an edge in building world models &lpar;Catherine Thorbecke/Bloomberg&rpar;](https://www.techmeme.com/260810/p1#a260810p1)
  - [Sources: the UK Royal Navy removed internet connectivity from its drones&#39; cameras, after finding they sent &quot;heartbeat communications&quot; to an IP address in China &lpar;Richard Holmes/Telegraph&rpar;](https://www.techmeme.com/260809/p16#a260809p16)
- - [Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan&#39;s Kumamoto as early as 2029 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260809/p15#a260809p15)
- - [Sources: as Spotify tests a skip ahead button that lets some Premium users skip publisher-sold podcast ads and filler content, audio networks raise concerns &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260809/p14#a260809p14)<!-- TECH:END -->
+ - [Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan&#39;s Kumamoto as early as 2029 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260809/p15#a260809p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

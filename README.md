@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women when they see a more beautiful woman](http://9gag.com/gag/azxNbWj)
- - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 💣 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 😝 [Annual 9gag meet up 2026 &lpar;stream in comments&rpar;](http://9gag.com/gag/ayNg5XM)
- - 👉 [Stop it Velma](http://9gag.com/gag/aByqKGP)<!-- MEMES:END -->
+ - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
+ - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 💣 [POV: You went to your friend&#39;s house but his sister answered the door.](http://9gag.com/gag/aKG0g61)
+ - 😝 [Ever wondered why Hasidic Jews use kosher phones.](http://9gag.com/gag/avyYZjn)
+ - 👉 [Phones](http://9gag.com/gag/aGy3Vpn)<!-- MEMES:END -->
 
 ---
 

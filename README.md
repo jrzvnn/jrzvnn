@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 😝 [Innocence](http://9gag.com/gag/aW4KQ3Z)
- - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - 😝 [Phones](http://9gag.com/gag/aGy3Vpn)
- - 👉 [Going clubbing in Europe is not what it used to be](http://9gag.com/gag/abAPX7r)<!-- MEMES:END -->
+ - 😝 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 😝 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 💣 [Stop it Velma](http://9gag.com/gag/aByqKGP)
+ - 😝 [Can you be even more useless](http://9gag.com/gag/aYQ8W40)
+ - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---
 

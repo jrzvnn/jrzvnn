@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 😝 [They could just fly away with it](http://9gag.com/gag/aoyr0re)
- - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
+ - 😝 [What did we learn today?](http://9gag.com/gag/aD2pwVK)
+ - 😝 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 💣 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
 
 ---
 

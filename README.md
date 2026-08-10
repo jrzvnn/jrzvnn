@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photo leak backs up massive iPhone 18 Pro Max battery rumor](https://appleinsider.com/articles/26/08/10/photo-leak-backs-up-massive-iphone-18-pro-max-battery-rumor?utm_source=rss)
- - [Flight tracking poster, Schlage Sense Pro review, &amp; more on Smart Home Insider](https://appleinsider.com/articles/26/08/10/flight-tracking-poster-schlage-sense-pro-review-more-on-smart-home-insider?utm_source=rss)
- - [Google adds third-party games store Aptoide to the Play Store for Android users in the US, following a judge&#39;s orders in the antitrust lawsuit with Epic &lpar;Ryan Whitwam/Ars Technica&rpar;](https://www.techmeme.com/260810/p31#a260810p31)
- - [Generative AI needs ethical leaders and to be controlled like nuclear power](https://appleinsider.com/articles/26/08/10/generative-ai-needs-ethical-leaders-and-to-be-controlled-like-nuclear-power?utm_source=rss)
- - [A US appeals court allows ~2,400 federal lawsuits against social media companies to proceed over claims their products were designed to addict young users &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260810/p30#a260810p30)<!-- TECH:END -->
+ - [Fifth developer betas of iOS 27, macOS 27 land as testing continues](https://appleinsider.com/articles/26/08/10/fifth-developer-betas-of-ios-27-macos-27-land-as-testing-continues?utm_source=rss)
+ - [OpenAI unveils two Daybreak tiers: Daybreak Blue, which provides access to frontier models, and Daybreak Red, which offers purpose-trained cybersecurity models &lpar;OpenAI&rpar;](https://www.techmeme.com/260810/p33#a260810p33)
+ - [What to expect from Google’s 2026 Pixel hardware launch event](https://www.theverge.com/tech/977448/made-by-google-2026-pixel-hardware-launch-event)
+ - [YouTube is making it harder to earn money on YouTube](https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements)
+ - [OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260810/p32#a260810p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

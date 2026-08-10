@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 😝 [The new local government of London. CELEBRATE.](http://9gag.com/gag/abAP5x8)
+ - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
  - 💣 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
  - 😝 [I&#39;m sorry but it&#39;s true](http://9gag.com/gag/a4PeLLp)
- - 👉 [POV: You went to your friend&#39;s house but his sister answered the door.](http://9gag.com/gag/aKG0g61)<!-- MEMES:END -->
+ - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---
 

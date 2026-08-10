@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Bombardier beetle using its chemical defence.](http://9gag.com/gag/aD2p0V7)
- - 😝 [Phones](http://9gag.com/gag/aGy3Vpn)
- - 💣 [She is crying, but also know nobody can prove anything...](http://9gag.com/gag/aZZAWE6)
- - 😝 [Once upon a Time..](http://9gag.com/gag/axyxZQY)
- - 👉 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)<!-- MEMES:END -->
+ - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 💣 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - 😝 [They could just fly away with it](http://9gag.com/gag/aoyr0re)
+ - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
 
 ---
 

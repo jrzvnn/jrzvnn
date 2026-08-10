@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California&#39;s wealth tax, bringing his total contributions to $102M &lpar;Alicia Clanton/Bloomberg&rpar;](https://www.techmeme.com/260810/p38#a260810p38)
- - [Anthropic details an unreleased Claude model&#39;s attempt to solve the Riemann hypothesis; it didn&#39;t solve it but &quot;unexpectedly&quot; made strides on a related problem &lpar;Anthropic&rpar;](https://www.techmeme.com/260810/p37#a260810p37)
- - [The Ninth Circuit dismisses Meta&#39;s bid to pause a landmark trial by state AGs alleging its products addict children and have caused a youth mental health crisis &lpar;Isaiah Poritz/Bloomberg&rpar;](https://www.techmeme.com/260810/p36#a260810p36)
+ - [Anker&amp;#8217;s travel charger works in almost any country and is down to $20](https://www.theverge.com/gadgets/977626/anker-nano-travel-adapter-summer-travel-tech-deal-sale)
+ - [Sources: OpenAI bought back ~$7B in shares from current and former employees in a tender offer valuing it at $852B, unchanged from its most recent funding round &lpar;Bloomberg&rpar;](https://www.techmeme.com/260810/p40#a260810p40)
  - [New in iOS 27 beta 5: &#39;Before Searching&#39; settings, updated app icons, more](https://appleinsider.com/articles/26/08/10/new-in-ios-27-beta-5-before-searching-settings-updated-app-icons-more?utm_source=rss)
- - [Bluesky now lets you hide reposts from that annoying person you follow](https://www.theverge.com/tech/977581/bluesky-hide-reposts-user-post-count-threads)<!-- TECH:END -->
+ - [Source: Applied Compute, which helps companies customize models with their data, is in talks to raise &quot;hundreds of millions&quot; led by Elad Gil at a ~$3B valuation &lpar;The Information&rpar;](https://www.techmeme.com/260810/p39#a260810p39)
+ - [Filing: Sergey Brin donated an additional $20M to Building a Better California, which fights California&#39;s wealth tax, bringing his total contributions to $102M &lpar;Alicia Clanton/Bloomberg&rpar;](https://www.techmeme.com/260810/p38#a260810p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

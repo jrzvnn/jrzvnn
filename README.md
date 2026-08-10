@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at London&#39;s King&#39;s Cross, which transformed from a seedy area into an AI hub after DeepMind moved in in 2016, now home to OpenAI, Meta, Wayve, and others &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260810/p2#a260810p2)
+ - [Chinese AI labs account for nine of Artificial Analysis&#39; top 10 text-to-video models, gaining global adoption and potentially an edge in building world models &lpar;Catherine Thorbecke/Bloomberg&rpar;](https://www.techmeme.com/260810/p1#a260810p1)
  - [Sources: the UK Royal Navy removed internet connectivity from its drones&#39; cameras, after finding they sent &quot;heartbeat communications&quot; to an IP address in China &lpar;Richard Holmes/Telegraph&rpar;](https://www.techmeme.com/260809/p16#a260809p16)
  - [Sources: Sony and TSMC plan a $6.3B JV, owned ~60% by Sony and ~40% by TSMC, to mass produce next-gen image sensor chips in Japan&#39;s Kumamoto as early as 2029 &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260809/p15#a260809p15)
- - [Sources: as Spotify tests a skip ahead button that lets some Premium users skip publisher-sold podcast ads and filler content, audio networks raise concerns &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260809/p14#a260809p14)
- - [Sources: Chinese regulators have told banks to back tech companies, but lenders still prefer stable cash flows and profitability over loss-making tech startups &lpar;Bloomberg&rpar;](https://www.techmeme.com/260809/p13#a260809p13)
- - [Moore Threads reports H1 revenue up 147% YoY to ~$258M, a net loss of $1.72M, says it plans a Hong Kong listing, after its stock surged 420%+ since Shanghai IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260809/p12#a260809p12)<!-- TECH:END -->
+ - [Sources: as Spotify tests a skip ahead button that lets some Premium users skip publisher-sold podcast ads and filler content, audio networks raise concerns &lpar;Max Tani/Semafor&rpar;](https://www.techmeme.com/260809/p14#a260809p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

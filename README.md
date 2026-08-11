@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pay &amp; Apple Card VP Jennifer Bailey is retiring](https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss)
- - [Another OpenAI executive takes off](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure)
- - [Steve Wozniak gave Apple its soul before Steve Jobs made it a hit](https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss)
- - [SpaceXAI rolls out Grok Bot AI agent app in beta on Mac, iOS, Windows, and Linux, initially for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium users &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260811/p29#a260811p29)
- - [Bumble Changes the Feature That Made It Different From Other Dating Apps](https://www.cnet.com/news/bumble-changes-the-feature-that-made-it-different-from-other-dating-apps/)<!-- TECH:END -->
+ - [Similarweb: Bluesky&#39;s mobile MAUs fell 27% YoY to 10.4M in June and DAUs fell 26% to 3M in July; X&#39;s mobile MAUs fell 3% to 302M and DAUs fell 7% to 123.7M &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260811/p32#a260811p32)
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
+ - [How and When to View the Perseid Meteor Shower &lpar;August 2026&rpar;](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
+ - [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
+ - [Royal Bank of Canada and Bank of Montreal agree to sell payments company Moneris to PE firm Francisco Partners for CA$2B in cash, splitting proceeds equally &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p31#a260811p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

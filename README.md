@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new local government of London. CELEBRATE.](http://9gag.com/gag/abAP5x8)
- - 😝 [Stop it Velma](http://9gag.com/gag/aByqKGP)
- - 💣 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
- - 😝 [I&#39;m sorry but it&#39;s true](http://9gag.com/gag/a4PeLLp)
+ - 😝 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 😝 [She was my life. 14 years. The greatest gift in the world. Here we still hoped she would get better. She left today. It hurts.](http://9gag.com/gag/aVvnXYy)
  - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
 
 ---

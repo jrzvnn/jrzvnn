@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)
- - 😝 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
- - 💣 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 😝 [Why Americans are obese &lpar;8:03&rpar;](http://9gag.com/gag/a6Zvd4m)
+ - 😝 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
+ - 💣 [The multiverse?](http://9gag.com/gag/ary6R8p)
  - 😝 [Fafo](http://9gag.com/gag/aE0rzmx)
- - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
+ - 👉 [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)<!-- MEMES:END -->
 
 ---
 

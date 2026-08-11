@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Joby flexes military muscle with $500 million defense acquisition](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol)
- - [Big Tech&#39;s AI boom echoes the 1870s railroad expansion, and Nvidia shifting risk to institutional capital may expose investors if revenues fail to materialize &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260811/p13#a260811p13)
- - [An NYC bill, backed by Mayor Zohran Mamdani, calls for Amazon, FedEx, and others to directly employ thousands of delivery workers; the bill could pass this fall &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p12#a260811p12)
- - [Ranking the Best Red-Light Therapy Masks and LED Devices of 2026](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)<!-- TECH:END -->
+ - [Nvidia releases Nemotron 3.5 Lightning, an open 30B-parameter MoE model that it says delivers up to 4x faster output speeds, and an agentic AI model router &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260811/p18#a260811p18)
+ - [Spotify plans to roll out AI Persona labeling in mid-September for profiles that do &quot;not represent a real person&quot;; the system uses human review and AI tools &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260811/p17#a260811p17)
+ - [Unreleased iPhones again revealed in the latest iOS developer beta](https://appleinsider.com/articles/26/08/11/unreleased-iphones-again-revealed-in-the-latest-ios-developer-beta?utm_source=rss)
+ - [iCloud Private Relay failures manifest a new class-action lawsuit against Apple](https://appleinsider.com/articles/26/08/11/icloud-private-relay-failures-manifest-a-new-class-action-lawsuit-against-apple?utm_source=rss)
+ - [Bumble rolls out a global update letting any user send an opening message after matching, a major reversal from its signature women-go-first model &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260811/p16#a260811p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

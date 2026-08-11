@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia releases Nemotron 3.5 Lightning, an open 30B-parameter MoE model that it says delivers up to 4x faster output speeds, and an agentic AI model router &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260811/p18#a260811p18)
- - [Spotify plans to roll out AI Persona labeling in mid-September for profiles that do &quot;not represent a real person&quot;; the system uses human review and AI tools &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260811/p17#a260811p17)
- - [Unreleased iPhones again revealed in the latest iOS developer beta](https://appleinsider.com/articles/26/08/11/unreleased-iphones-again-revealed-in-the-latest-ios-developer-beta?utm_source=rss)
- - [iCloud Private Relay failures manifest a new class-action lawsuit against Apple](https://appleinsider.com/articles/26/08/11/icloud-private-relay-failures-manifest-a-new-class-action-lawsuit-against-apple?utm_source=rss)
- - [Bumble rolls out a global update letting any user send an opening message after matching, a major reversal from its signature women-go-first model &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260811/p16#a260811p16)<!-- TECH:END -->
+ - [Source: Trajectory, founded by ex-DeepMind, Apple, OpenAI, and Meta staffers to build continual learning models, raised $40M led by Sequoia at a $300M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p22#a260811p22)
+ - [River Markets, which gives professional traders a single place to trade across multiple prediction markets, raised an $8.5M seed led by Haun Ventures &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260811/p21#a260811p21)
+ - [Manus says it will &quot;soon return to operating as an independent company&quot;, implying it is close to finalizing the reversal of its acquisition by Meta &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260811/p20#a260811p20)
+ - [AI Could Help Fossil Fuel Companies Create More Emissions](https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/)
+ - [TSMC and Sony plan to form Advanced Vision Semiconductor Manufacturing Corp, a $4.69B joint venture in Japan to make next-gen smartphone image sensors from 2029 &lpar;Reuters&rpar;](https://www.techmeme.com/260811/p19#a260811p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

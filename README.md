@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
- - 😝 [Well played my dude](http://9gag.com/gag/aW4KOEx)
- - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 😝 [Guys cannot be friends with attractive girls.](http://9gag.com/gag/ae9opeO)
- - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
+ - 😝 [Ball twister](http://9gag.com/gag/aAyWr7d)
+ - 😝 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)
+ - 💣 [They could just fly away with it](http://9gag.com/gag/aoyr0re)
+ - 😝 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
+ - 👉 [Big thanks to all participants, especially the Man, The Legend who came too early. He didn\u00b4t drink this year because of driving but he covered whole thing form a beginning, Proud of this community. F**k you and see you tomorrow!](http://9gag.com/gag/a3493Me)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: former OpenAI Chief Product Officer Kevin Weil is aiming to raise $150M for a new AI science startup, seeking a valuation of at least $750M &lpar;Business Insider&rpar;](https://www.techmeme.com/260811/p36#a260811p36)
+ - [CoreWeave reports Q2 revenue up 112% YoY to $2.58B, vs. $2.56B est., and a $104B revenue backlog, with 1.5 GW of contracted power; CRWV jumps 9%+ after hours &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260811/p35#a260811p35)
+ - [Super Micro reports Q4 revenue up 93% YoY to $11.1B, vs. $11.3B est., and forecasts Q1 and FY 2027 revenue above estimates; SMCI jumps 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260811/p34#a260811p34)
  - [Everyone at Apple is calling the foldable &#39;iPhone Ultra&#39;](https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss)
- - [Apple’s 20th Anniversary All-Glass iPhone Is Still on the Menu, Report Says](https://www.cnet.com/tech/mobile/apples-20th-anniversary-all-glass-iphone-is-still-on-the-menu/)
- - [Golf&#39;s US Open Championship could come to Apple TV in latest sports bid](https://appleinsider.com/articles/26/08/11/golfs-us-open-championship-could-come-to-apple-tv-in-latest-sports-bid?utm_source=rss)
- - [PlayStation 5 Is Getting a Wolverine Yellow Makeover, and It’ll Cost You $650](https://www.cnet.com/tech/gaming/playstation-5-is-getting-a-wolverine-yellow-makeover-and-itll-cost-you-650/)
- - [Parents’ Stress Leads to More Screen Time for Kids, Study Finds](https://www.cnet.com/news/social-media/parents-stress-leads-to-more-screen-time-for-kids-study-finds/)<!-- TECH:END -->
+ - [Is It Safe to Eat Lettuce Yet?](https://www.wired.com/story/is-it-safe-to-eat-lettuce-yet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why Americans are obese &lpar;8:03&rpar;](http://9gag.com/gag/a6Zvd4m)
- - 😝 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
- - 💣 [The multiverse?](http://9gag.com/gag/ary6R8p)
- - 😝 [Fafo](http://9gag.com/gag/aE0rzmx)
- - 👉 [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)<!-- MEMES:END -->
+ - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 😝 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [Men rescue stranded doggo](http://9gag.com/gag/abAP00E)
+ - 👉 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)<!-- MEMES:END -->
 
 ---
 

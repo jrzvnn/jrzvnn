@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)
- - [6 Best Dehumidifiers to Fight Mold and Muggy Summers &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/)
- - [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
- - [How India&#39;s IT services sector, which employs 6M people, contributes ~7% of GDP, and generates $300B+ annually, is shedding jobs as AI automates formulaic work &lpar;Financial Times&rpar;](https://www.techmeme.com/260811/p10#a260811p10)<!-- TECH:END -->
+ - [Joby flexes military muscle with $500 million defense acquisition](https://www.theverge.com/transportation/977533/joby-resonant-sciences-acquisition-evtol)
+ - [Big Tech&#39;s AI boom echoes the 1870s railroad expansion, and Nvidia shifting risk to institutional capital may expose investors if revenues fail to materialize &lpar;Ben Thompson/Stratechery&rpar;](https://www.techmeme.com/260811/p13#a260811p13)
+ - [An NYC bill, backed by Mayor Zohran Mamdani, calls for Amazon, FedEx, and others to directly employ thousands of delivery workers; the bill could pass this fall &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p12#a260811p12)
+ - [Ranking the Best Red-Light Therapy Masks and LED Devices of 2026](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

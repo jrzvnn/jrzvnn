@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia is developing a Nemotron 4 model with 1T+ parameters, up from Nemotron 3 Ultra&#39;s 550B parameters but smaller than leading Chinese open models &lpar;The Information&rpar;](https://www.techmeme.com/260811/p28#a260811p28)
- - [iOS 27 celebrates your friends&#39; birthdays with fireworks](https://appleinsider.com/articles/26/08/11/ios-27-celebrates-your-friends-birthdays-with-fireworks?utm_source=rss)
- - [Sundar Pichai says Gemini has hit 1B+ MAUs, the company&#39;s fastest-growing product ever and its 14th product to hit the 1B-user mark &lpar;Sundar Pichai/@sundarpichai&rpar;](https://www.techmeme.com/260811/p27#a260811p27)
- - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)
- - [Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t](https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led)<!-- TECH:END -->
+ - [Apple Pay &amp; Apple Card VP Jennifer Bailey is retiring](https://appleinsider.com/articles/26/08/11/apple-pay-apple-card-vp-jennifer-bailey-is-retiring?utm_source=rss)
+ - [Another OpenAI executive takes off](https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure)
+ - [Steve Wozniak gave Apple its soul before Steve Jobs made it a hit](https://appleinsider.com/articles/26/07/24/steve-wozniak-gave-apple-its-soul-before-steve-jobs-made-it-a-hit?utm_source=rss)
+ - [SpaceXAI rolls out Grok Bot AI agent app in beta on Mac, iOS, Windows, and Linux, initially for SuperGrok Heavy, Cursor Ultra, and Cursor Teams Premium users &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260811/p29#a260811p29)
+ - [Bumble Changes the Feature That Made It Different From Other Dating Apps](https://www.cnet.com/news/bumble-changes-the-feature-that-made-it-different-from-other-dating-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

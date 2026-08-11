@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
- - [Save up to $5,000 on LG OLED TVs, 32&quot; UltraFine 6K monitor plunges to $1,099](https://appleinsider.com/articles/26/08/11/save-up-to-5000-on-lg-oled-tvs-32-ultrafine-6k-monitor-plunges-to-1099?utm_source=rss)
- - [Sources: Phia co-founders Phoebe Gates and Sophia Kianni pushed for and were aware for seven months of using &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p24#a260811p24)
- - [Razer Naga V3 Pro Review: Buttons Galore](https://www.wired.com/review/razer-naga-v3-pro/)
- - [eToro agrees to acquire US-focused online brokerage TradeZero for up to $231M in cash and stock; TradeZero had ~$80M in revenue over the 12 months ended June 30 &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260811/p23#a260811p23)<!-- TECH:END -->
+ - [Sources: Nvidia is developing a Nemotron 4 model with 1T+ parameters, up from Nemotron 3 Ultra&#39;s 550B parameters but smaller than leading Chinese open models &lpar;The Information&rpar;](https://www.techmeme.com/260811/p28#a260811p28)
+ - [iOS 27 celebrates your friends&#39; birthdays with fireworks](https://appleinsider.com/articles/26/08/11/ios-27-celebrates-your-friends-birthdays-with-fireworks?utm_source=rss)
+ - [Sundar Pichai says Gemini has hit 1B+ MAUs, the company&#39;s fastest-growing product ever and its 14th product to hit the 1B-user mark &lpar;Sundar Pichai/@sundarpichai&rpar;](https://www.techmeme.com/260811/p27#a260811p27)
+ - [Apple stocking up on OLED screens to offset RAM and SSD prices](https://appleinsider.com/articles/26/08/11/apple-stocking-up-on-oled-screens-to-offset-ram-and-ssd-prices?utm_source=rss)
+ - [Google’s upcoming Pixel phones are for the fans, even if its launch event isn’t](https://www.theverge.com/tech/977844/made-by-google-pixel-11-launch-power-users-notification-led)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

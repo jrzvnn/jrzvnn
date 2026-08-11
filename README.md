@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
- - 😝 [As wise Chinese Sage once said `love your mom, be a mom lover, make it the way of your life`](http://9gag.com/gag/aMVRr2V)
- - 💣 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 😝 [Ba dum tsss](http://9gag.com/gag/aZZAWYQ)
- - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
+ - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
+ - 💣 [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)
+ - 😝 [Was that a body they were moving?](http://9gag.com/gag/a0eApZv)
+ - 👉 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)<!-- MEMES:END -->
 
 ---
 

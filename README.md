@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ball twister](http://9gag.com/gag/aAyWr7d)
- - 😝 [They could just fly away with it](http://9gag.com/gag/aoyr0re)
- - 💣 [That&#39;s going to leave a mark](http://9gag.com/gag/aqy3N3R)
- - 😝 [Big thanks to all participants, especially the Man, The Legend who came too early. He didn\u00b4t drink this year because of driving but he covered whole thing form a beginning, Proud of this community. F**k you and see you tomorrow!](http://9gag.com/gag/a3493Me)
- - 👉 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)<!-- MEMES:END -->
+ - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
+ - 💣 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
+ - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
+ - 👉 [Phones](http://9gag.com/gag/aGy3Vpn)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investor interest in Situational Awareness surged after it nearly blew up on leveraged positions; the fund says it&#39;s not accepting new capital for now &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260810/p49#a260810p49)
- - [Your iPhone can capture the Perseids meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)
- - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)
- - [How a clause in Elon Musk&#39;s Tesla pay package, worth up to ~$1T, could provide him a shortcut around lofty performance targets if Tesla merged with SpaceX &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p47#a260810p47)
- - [New rumor counters that all-glass 20th-anniversary iPhone will still happen](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)<!-- TECH:END -->
+ - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)
+ - [Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)
+ - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [LG Promo Codes and Coupons for August 2026](https://www.wired.com/story/lg-promo-code/)
+ - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)
  - [Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)
+ - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
  - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)
- - [LG Promo Codes and Coupons for August 2026](https://www.wired.com/story/lg-promo-code/)
- - [Mattress Firm Coupons: Save up to $700 |](https://www.wired.com/story/mattress-firm-coupon/)<!-- TECH:END -->
+ - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

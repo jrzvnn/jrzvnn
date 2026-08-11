@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Similarweb: Bluesky&#39;s mobile MAUs fell 27% YoY to 10.4M in June and DAUs fell 26% to 3M in July; X&#39;s mobile MAUs fell 3% to 302M and DAUs fell 7% to 123.7M &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260811/p32#a260811p32)
- - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
- - [How and When to View the Perseid Meteor Shower &lpar;August 2026&rpar;](https://www.wired.com/story/how-and-when-to-view-the-perseid-meteor-shower-august-2026/)
- - [Threads has a VR app now](https://www.theverge.com/tech/978181/meta-threads-quest-vr-app)
- - [Royal Bank of Canada and Bank of Montreal agree to sell payments company Moneris to PE firm Francisco Partners for CA$2B in cash, splitting proceeds equally &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p31#a260811p31)<!-- TECH:END -->
+ - [Everyone at Apple is calling the foldable &#39;iPhone Ultra&#39;](https://appleinsider.com/articles/26/08/11/everyone-at-apple-is-calling-the-foldable-iphone-ultra?utm_source=rss)
+ - [Apple’s 20th Anniversary All-Glass iPhone Is Still on the Menu, Report Says](https://www.cnet.com/tech/mobile/apples-20th-anniversary-all-glass-iphone-is-still-on-the-menu/)
+ - [Golf&#39;s US Open Championship could come to Apple TV in latest sports bid](https://appleinsider.com/articles/26/08/11/golfs-us-open-championship-could-come-to-apple-tv-in-latest-sports-bid?utm_source=rss)
+ - [PlayStation 5 Is Getting a Wolverine Yellow Makeover, and It’ll Cost You $650](https://www.cnet.com/tech/gaming/playstation-5-is-getting-a-wolverine-yellow-makeover-and-itll-cost-you-650/)
+ - [Parents’ Stress Leads to More Screen Time for Kids, Study Finds](https://www.cnet.com/news/social-media/parents-stress-leads-to-more-screen-time-for-kids-study-finds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

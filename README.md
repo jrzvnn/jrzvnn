@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Trajectory, founded by ex-DeepMind, Apple, OpenAI, and Meta staffers to build continual learning models, raised $40M led by Sequoia at a $300M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p22#a260811p22)
- - [River Markets, which gives professional traders a single place to trade across multiple prediction markets, raised an $8.5M seed led by Haun Ventures &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260811/p21#a260811p21)
- - [Manus says it will &quot;soon return to operating as an independent company&quot;, implying it is close to finalizing the reversal of its acquisition by Meta &lpar;Jing Yang/The Information&rpar;](https://www.techmeme.com/260811/p20#a260811p20)
- - [AI Could Help Fossil Fuel Companies Create More Emissions](https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/)
- - [TSMC and Sony plan to form Advanced Vision Semiconductor Manufacturing Corp, a $4.69B joint venture in Japan to make next-gen smartphone image sensors from 2029 &lpar;Reuters&rpar;](https://www.techmeme.com/260811/p19#a260811p19)<!-- TECH:END -->
+ - [Razer Naga V3 Pro Review: Buttons Galore](https://www.wired.com/review/razer-naga-v3-pro/)
+ - [eToro agrees to acquire US-focused online brokerage TradeZero for up to $231M in cash and stock; TradeZero had ~$80M in revenue over the 12 months ended June 30 &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260811/p23#a260811p23)
+ - [‘Zoomsday’ hack uncovered using fewer than 20 AI prompts](https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack)
+ - [First hints emerge about how much extra Apple Intelligence features will cost](https://appleinsider.com/articles/26/08/11/first-hints-emerge-about-how-much-extra-apple-intelligence-features-will-cost?utm_source=rss)
+ - [Source: Trajectory, founded by ex-DeepMind, Apple, OpenAI, and Meta staffers to build continual learning models, raised $40M led by Sequoia at a $300M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p22#a260811p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 😝 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
- - 💣 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)
+ - 😝 [3rd kid deserve an Oscar.](http://9gag.com/gag/ajPb6dp)
+ - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 💣 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
  - 😝 [This guy know something...](http://9gag.com/gag/a9yQMe0)
  - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now breed](http://9gag.com/gag/a87PWZY)
- - 😝 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - 💣 [Well played my dude](http://9gag.com/gag/aW4KOEx)
- - 😝 [She was my life. 14 years. The greatest gift in the world. Here we still hoped she would get better. She left today. It hurts.](http://9gag.com/gag/aVvnXYy)
- - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
+ - 😝 [Sophie Cunningham get smacked in the head by DiJonai Carrington. Carrington was ejected from the game then ran to Threads and posted `WHITE PRIVILEGE` Apparently it&#39;s `White Privilege` if you get ejected for assaulting another player.](http://9gag.com/gag/apRyq4b)
+ - 😝 [Well played my dude](http://9gag.com/gag/aW4KOEx)
+ - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
+ - 😝 [Guys cannot be friends with attractive girls.](http://9gag.com/gag/ae9opeO)
+ - 👉 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New rumor counters that all-glass 20th-anniversary iPhone will still happen](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)
+ - [Trump Media reports a Q2 net loss of $238.1M, vs. a net loss of $20M in Q2 2025, and says 10+ clients are paying up to $100K per month for its Truth API &lpar;Steve Kopack/NBC News&rpar;](https://www.techmeme.com/260810/p45#a260810p45)
+ - [SpaceX&#39;s earnings show X&#39;s Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260810/p44#a260810p44)
  - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
- - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)
- - [Discrimination lawsuit involving converted Jewish employee settled by Apple](https://appleinsider.com/articles/26/08/10/discrimination-lawsuit-involving-converted-jewish-employee-settled-by-apple?utm_source=rss)
- - [Anthropic makes Claude Sonnet 5&#39;s introductory pricing permanent at $2/1M input tokens and $10/1M output tokens, canceling a planned September 1 increase &lpar;Claude/@claudeai&rpar;](https://www.techmeme.com/260810/p42#a260810p42)
- - [Mark Zuckerberg doesn’t understand how to live](https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision)<!-- TECH:END -->
+ - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

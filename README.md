@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)
- - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 💣 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
+ - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 😝 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
  - 😝 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)
- - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
+ - 👉 [Phones](http://9gag.com/gag/aGy3Vpn)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple could help you prove your iPhone photos aren’t deepfakes](https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata)
+ - [Save up to $5,000 on LG OLED TVs, 32&quot; UltraFine 6K monitor plunges to $1,099](https://appleinsider.com/articles/26/08/11/save-up-to-5000-on-lg-oled-tvs-32-ultrafine-6k-monitor-plunges-to-1099?utm_source=rss)
+ - [Sources: Phia co-founders Phoebe Gates and Sophia Kianni pushed for and were aware for seven months of using &quot;cookie stuffing&quot; to claim affiliate commissions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p24#a260811p24)
  - [Razer Naga V3 Pro Review: Buttons Galore](https://www.wired.com/review/razer-naga-v3-pro/)
- - [eToro agrees to acquire US-focused online brokerage TradeZero for up to $231M in cash and stock; TradeZero had ~$80M in revenue over the 12 months ended June 30 &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260811/p23#a260811p23)
- - [‘Zoomsday’ hack uncovered using fewer than 20 AI prompts](https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack)
- - [First hints emerge about how much extra Apple Intelligence features will cost](https://appleinsider.com/articles/26/08/11/first-hints-emerge-about-how-much-extra-apple-intelligence-features-will-cost?utm_source=rss)
- - [Source: Trajectory, founded by ex-DeepMind, Apple, OpenAI, and Meta staffers to build continual learning models, raised $40M led by Sequoia at a $300M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260811/p22#a260811p22)<!-- TECH:END -->
+ - [eToro agrees to acquire US-focused online brokerage TradeZero for up to $231M in cash and stock; TradeZero had ~$80M in revenue over the 12 months ended June 30 &lpar;Daniel Kuhn/The Block&rpar;](https://www.techmeme.com/260811/p23#a260811p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

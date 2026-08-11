@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3rd kid deserve an Oscar.](http://9gag.com/gag/ajPb6dp)
+ - 😝 [Now breed](http://9gag.com/gag/a87PWZY)
  - 😝 [Diplomat Francesca from Italy](http://9gag.com/gag/aKG0gDQ)
- - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 😝 [I&#39;m sorry but it&#39;s true](http://9gag.com/gag/a4PeLLp)
- - 👉 [Newly opened Airport in India](http://9gag.com/gag/aE0rGZo)<!-- MEMES:END -->
+ - 💣 [Well played my dude](http://9gag.com/gag/aW4KOEx)
+ - 😝 [She was my life. 14 years. The greatest gift in the world. Here we still hoped she would get better. She left today. It hurts.](http://9gag.com/gag/aVvnXYy)
+ - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
 
 ---
 

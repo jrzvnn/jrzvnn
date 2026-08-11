@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 😝 [How it&#39;s even possible?](http://9gag.com/gag/aKG0Bw3)
- - 💣 [Doing the polite shuffle for the driver](http://9gag.com/gag/aByq3R1)
- - 😝 [Was that a body they were moving?](http://9gag.com/gag/a0eApZv)
- - 👉 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)<!-- MEMES:END -->
+ - 😝 [Safety First? No, Safety LAST](http://9gag.com/gag/aGy3wRG)
+ - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
+ - 👉 [Ba dum tsss](http://9gag.com/gag/aZZAWYQ)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New rumor counters that all-glass 20th-anniversary iPhone will still happen](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)
- - [Trump Media reports a Q2 net loss of $238.1M, vs. a net loss of $20M in Q2 2025, and says 10+ clients are paying up to $100K per month for its Truth API &lpar;Steve Kopack/NBC News&rpar;](https://www.techmeme.com/260810/p45#a260810p45)
- - [SpaceX&#39;s earnings show X&#39;s Q2 ad revenue at $367M, down from $1.08B at Twitter in Q2 2022; Musk once said he would take its annual ad revenue to $12B in 2027 &lpar;Mike Masnick/Techdirt&rpar;](https://www.techmeme.com/260810/p44#a260810p44)
- - [Source: OpenAI head of ethics Chloé Bakalar departs after less than a year, following exits by the head of safety systems and a former head of mission alignment &lpar;Financial Times&rpar;](https://www.techmeme.com/260810/p43#a260810p43)
- - [Mcon mobile gaming controller review: Compact design with premium feel](https://appleinsider.com/articles/26/01/07/mcon-mobile-gaming-controller-review-compact-design-with-premium-feel?utm_source=rss)<!-- TECH:END -->
+ - [Sources: investor interest in Situational Awareness surged after it nearly blew up on leveraged positions; the fund says it&#39;s not accepting new capital for now &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260810/p49#a260810p49)
+ - [Your iPhone can capture the Perseids meteor shower if you use the right tools](https://appleinsider.com/inside/iphone/tips/your-iphone-can-capture-the-perseids-meteor-shower-if-you-use-the-right-tools?utm_source=rss)
+ - [Sources: Anthropic agreed to a 20-year, $9.1B compute deal with Riot Platforms for 191 MW of capacity at a Rockdale, TX campus; RIOT jumps ~25% after hours &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260810/p48#a260810p48)
+ - [How a clause in Elon Musk&#39;s Tesla pay package, worth up to ~$1T, could provide him a shortcut around lofty performance targets if Tesla merged with SpaceX &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260810/p47#a260810p47)
+ - [New rumor counters that all-glass 20th-anniversary iPhone will still happen](https://appleinsider.com/articles/26/08/11/new-rumor-counters-that-all-glass-20th-anniversary-iphone-will-still-happen?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

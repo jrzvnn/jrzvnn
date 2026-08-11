@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owner of 1.5M-page site PatronView on a year of fighting scrapers: 214:1 bot-to-human page loads, 35K Claude crawls per referred user, Amazon bot referred none &lpar;Nick Gray/PatronView&rpar;](https://www.techmeme.com/260811/p4#a260811p4)
+ - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
+ - [PatronView&#39;s owner details a year of fighting scrapers: 214:1 bot-to-human page loads, 35,000 Claude crawls per referred user, and Amazon&#39;s bot referred none &lpar;Nick Gray/PatronView&rpar;](https://www.techmeme.com/260811/p4#a260811p4)
  - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)
- - [Anthropic says Claude models in the EU will now add invisible watermarks to generated text and C2PA metadata to generated files, to comply with the EU AI Act &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)
- - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [Valvoline Coupons and Promo Codes for August 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
+ - [Anthropic says new Claude models in the EU will add watermarks to text and C2PA metadata to files, to comply with the EU AI Act, and it will update older models &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260811/p2#a260811p2)
+ - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

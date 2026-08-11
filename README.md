@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Red-Light Therapy for Hair Growth and Restoration &lpar;2026&rpar;](https://www.wired.com/story/best-red-light-therapy-for-hair-growth/)
- - [AI Is Helping Solve the Intricate Genetic Puzzle of Schizophrenia](https://www.wired.com/story/ai-helping-solve-intricate-genetic-puzzle-schizophrenia/)
- - [A look at Western Australian police&#39;s first live facial recognition trial, which has scanned 130,000+ people since June, raising accuracy and privacy concerns &lpar;ABC&rpar;](https://www.techmeme.com/260811/p5#a260811p5)
- - [PatronView&#39;s owner details a year of fighting scrapers: 214:1 bot-to-human page loads, 35,000 Claude crawls per referred user, and Amazon&#39;s bot referred none &lpar;Nick Gray/PatronView&rpar;](https://www.techmeme.com/260811/p4#a260811p4)
- - [Singapore raises its 2026 GDP growth forecast to 4.5%-5.5% from 2%-4%, citing stronger-than-expected global AI investment and improved external demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p3#a260811p3)<!-- TECH:END -->
+ - [OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity &lpar;Julian Hast/Bloomberg&rpar;](https://www.techmeme.com/260811/p9#a260811p9)
+ - [How a wave of disinformation on Facebook, WhatsApp, TikTok, Instagram, and Telegram contributed to a surge of migrants from Morocco to Spain&#39;s Ceuta enclave &lpar;New York Times&rpar;](https://www.techmeme.com/260811/p8#a260811p8)
+ - [Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food](https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/)
+ - [AI Is Dead. Organoids Are Alive](https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/)
+ - [A look at London-based AI startup Cosine, which is building a frontier model with UK government backing, as some question if it has the talent and resources &lpar;Financial Times&rpar;](https://www.techmeme.com/260811/p7#a260811p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

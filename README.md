@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3rd kid deserve an Oscar.](http://9gag.com/gag/ajPb6dp)
- - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
- - 💣 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
- - 😝 [This guy know something...](http://9gag.com/gag/a9yQMe0)
- - 👉 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)<!-- MEMES:END -->
+ - 😝 [Family left stunned after visiting a Zoo only to see animal statues instead of live animals.](https://www.reddit.com/r/funny/comments/1vlsown/family_left_stunned_after_visiting_a_zoo_only_to/)
+ - 😝 [Haha funny](http://9gag.com/gag/aZZAN19)
+ - 💣 [`Low caste cannot own such things.`](http://9gag.com/gag/aVvnQdv)
+ - 😝 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
+ - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 ---
 

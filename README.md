@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squeeze](https://www.reddit.com/r/funny/comments/1vlhkcw/squeeze/)
- - 😝 [Phones](http://9gag.com/gag/aGy3Vpn)
+ - 😝 [3rd kid deserve an Oscar.](http://9gag.com/gag/ajPb6dp)
+ - 😝 [Human reflexes have reached their peak](http://9gag.com/gag/ajPb0Yx)
  - 💣 [Yup this happened. People still have the Mandela effect to this day](http://9gag.com/gag/a9yQMNm)
- - 😝 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
- - 👉 [You can see the Spider String. Man from ger home](http://9gag.com/gag/abAPbWv)<!-- MEMES:END -->
+ - 😝 [Fafo](http://9gag.com/gag/aE0rzmx)
+ - 👉 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)<!-- MEMES:END -->
 
 ---
 

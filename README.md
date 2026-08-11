@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is hiring a power-trading lead to manage commodity hedging across its expanding data center power portfolio, as tech companies seek reliable electricity &lpar;Julian Hast/Bloomberg&rpar;](https://www.techmeme.com/260811/p9#a260811p9)
- - [How a wave of disinformation on Facebook, WhatsApp, TikTok, Instagram, and Telegram contributed to a surge of migrants from Morocco to Spain&#39;s Ceuta enclave &lpar;New York Times&rpar;](https://www.techmeme.com/260811/p8#a260811p8)
- - [Seedless Blackberries and Cherries That Grow on Bushes Vie to Be the Future of Food](https://www.wired.com/story/seedless-blackberries-cherry-bushes-future-of-food/)
- - [AI Is Dead. Organoids Are Alive](https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/)
- - [A look at London-based AI startup Cosine, which is building a frontier model with UK government backing, as some question if it has the talent and resources &lpar;Financial Times&rpar;](https://www.techmeme.com/260811/p7#a260811p7)<!-- TECH:END -->
+ - [xAI co-founder Igor Babuschkin&#39;s River AI raised $1B led by General Catalyst to build home or small business computer servers capable of running AI locally &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/260811/p11#a260811p11)
+ - [6 Best Dehumidifiers to Fight Mold and Muggy Summers &lpar;2026&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
+ - [A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/)
+ - [The AI takeover of mathematics has begun](https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun)
+ - [How India&#39;s IT services sector, which employs 6M people, contributes ~7% of GDP, and generates $300B+ annually, is shedding jobs as AI automates formulaic work &lpar;Financial Times&rpar;](https://www.techmeme.com/260811/p10#a260811p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

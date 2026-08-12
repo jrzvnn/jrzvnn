@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi referred 32 possible insider traders to the CFTC in the three months through June; sources: CFTC has up to 20 ongoing probes using just Kalshi&#39;s evidence &lpar;Sharon LaFraniere/New York Times&rpar;](https://www.techmeme.com/260812/p46#a260812p46)
- - [Twitch will train Amazon&#39;s AI on your streams unless you opt out](https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=rss)
- - [Apple picks up Nate Gatten as new head of government affairs](https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss)
- - [The Gender War Over ‘Obsession’ Has Come for Theme Parks](https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/)
- - [Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260812/p45#a260812p45)<!-- TECH:END -->
+ - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)
+ - [Mistral says its platform will support third-party open models, starting with Z.ai&#39;s GLM-5.2, and run them on the same infrastructure as its own models &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260812/p48#a260812p48)
+ - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
+ - [Freedom of the Press Foundation and The Intercept sue Trump after Trump Media &amp; Technology offered a subscription service for faster access to Trump&#39;s posts &lpar;Bernard Condon/Associated Press&rpar;](https://www.techmeme.com/260812/p47#a260812p47)
+ - [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

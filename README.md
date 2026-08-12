@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
- - 💣 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
+ - 😝 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
+ - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
  - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 ---

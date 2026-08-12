@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NYC Council sent letters to Polymarket, Kalshi, Coinbase, and Gemini Titan to investigate alleged deceptive marketing practices and targeting minors &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p15#a260812p15)
- - [AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p14#a260812p14)
- - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
- - [Q&amp;A with Redwood Research Chief Scientist Ryan Greenblatt on AI R&amp;D, RSI, whether human expert data is bottlenecking progress, token prices, alignment, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260812/p13#a260812p13)
- - [The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/)<!-- TECH:END -->
+ - [BOE really wants to make OLED panels for the iPad Air](https://appleinsider.com/articles/26/08/12/boe-really-wants-to-make-oled-panels-for-the-ipad-air?utm_source=rss)
+ - [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
+ - [Skan AI, which is building a &quot;context graph of work&quot; by observing staff using enterprise software, raised a $63M Series C co-led by Cathay Innovation and Dell &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260812/p18#a260812p18)
+ - [This Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+ - [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

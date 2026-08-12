@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Screen protector leak shows iPhone Ultra&#39;s asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
- - [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens &lpar;xAI&rpar;](https://www.techmeme.com/260812/p39#a260812p39)
- - [Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260812/p40#a260812p40)
- - [ClearJet, whose AI-enabled logistics service connects shippers with unused cargo capacity on commercial flights, raised a $25M Series B led by Edison Partners &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260812/p38#a260812p38)
- - [FlightAware withdraws its lawsuit against Kalshi, a day after it alleged Kalshi is using its data without permission to let users bet on flight cancellations &lpar;Sumedha Mukherjee/Reuters&rpar;](https://www.techmeme.com/260812/p37#a260812p37)<!-- TECH:END -->
+ - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
+ - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
+ - [Sources: the UK government is planning to regulate the use of AI in gene synthesis to prevent terrorists and other bad actors from using AI for bioweapons &lpar;Ellen Milligan/Bloomberg&rpar;](https://www.techmeme.com/260812/p42#a260812p42)
+ - [Bank of America says it plans to deploy $250B by July 2027 to support US digital and infrastructure projects, including data centers and energy infrastructure &lpar;Reuters&rpar;](https://www.techmeme.com/260812/p41#a260812p41)
+ - [How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8](https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

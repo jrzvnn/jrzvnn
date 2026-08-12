@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 😝 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 👉 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)<!-- MEMES:END -->
+ - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 👉 [Bliss of happiness](http://9gag.com/gag/awyRxZy)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
- - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 💣 [I just learned about this for the first time. So, shooting through a large concrete pipe creates an effect like a silencer?](http://9gag.com/gag/avyYP7b)
- - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
- - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
+ - 😝 [Haha funny](http://9gag.com/gag/aZZAN19)
+ - 💣 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)
+ - 😝 [Classic dad move stealing the kids console](http://9gag.com/gag/ajPbA3Q)
+ - 👉 [Gemma arterton](http://9gag.com/gag/aPANGpw)<!-- MEMES:END -->
 
 ---
 

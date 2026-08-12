@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
- - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
+ - 👉 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)<!-- MEMES:END -->
 
 ---
 

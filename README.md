@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
- - [Made by Google 2026 live blog: Let’s watch Trevor Noah talk about the Pixel 11](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah)
- - [PS Plus Is Loaded With Great Games for August, Including Helldivers 2, Hell Is Us, Kingdom Come 2](https://www.cnet.com/tech/gaming/ps-plus-helldivers-2-hell-is-us-kingdom-come-2-august-2026/)
- - [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
- - [iPhone 17 vs Google Pixel 11: The standard models, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss)<!-- TECH:END -->
+ - [Twitch says it intends to use videos streamed on its platform to help train Amazon&#39;s generative AI models and tells creators how to opt out &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260812/p52#a260812p52)
+ - [SpaceXAI Joins the AI Agent Game With Grok Bot](https://www.cnet.com/tech/services-and-software/spacexai-ai-agent-grok-bot/)
+ - [Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more](https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more?utm_source=rss)
+ - [A livestream of the Made by Google 2026 event hosted by Trevor Noah &lpar;Made by Google on YouTube&rpar;](https://www.techmeme.com/260812/p51#a260812p51)
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

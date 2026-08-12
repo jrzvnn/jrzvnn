@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)
  - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
  - [Briter: Africa-focused startups raised $3.3B in H1 2026, up 73% YoY, driven by Zipline&#39;s $950M raise; US- and UAE-incorporated entities raised half the capital &lpar;Nduka Orjinmo/Bloomberg&rpar;](https://www.techmeme.com/260812/p5#a260812p5)
  - [Today’s NYT Mini Crossword Answers for Wednesday, Aug. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-12/)
- - [Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C, sources say at a ~$170M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p4#a260812p4)
- - [Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p3#a260812p3)<!-- TECH:END -->
+ - [Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C, sources say at a ~$170M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p4#a260812p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

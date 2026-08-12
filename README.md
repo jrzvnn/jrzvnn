@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snu snu](http://9gag.com/gag/abAP069)
- - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
- - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
- - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - 😝 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)
+ - 😝 [Dancing](http://9gag.com/gag/ajPbAAG)
+ - 💣 [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 😝 [Hardest part of the job is watching others do nothing](http://9gag.com/gag/aZZApM9)
+ - 👉 [The multiverse?](http://9gag.com/gag/ary6R8p)<!-- MEMES:END -->
 
 ---
 

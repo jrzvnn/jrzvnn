@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
  - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
  - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [Honesty](http://9gag.com/gag/abAPZ2r)
  - 👉 [Bliss of happiness](http://9gag.com/gag/awyRxZy)<!-- MEMES:END -->
 
 ---

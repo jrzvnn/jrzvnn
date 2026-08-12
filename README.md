@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
  - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 😝 [Dancing](http://9gag.com/gag/ajPbAAG)
+ - 💣 [Do what you do best!](http://9gag.com/gag/abAP0dE)
+ - 😝 [The multiverse?](http://9gag.com/gag/ary6R8p)
+ - 👉 [Cap?](http://9gag.com/gag/aByqYdN)<!-- MEMES:END -->
 
 ---
 

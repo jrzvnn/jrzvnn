@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe&#39;s most valuable startups &lpar;Ben Dummett/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p8#a260812p8)
- - [You’re Thinking About Online Trends All Wrong](https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/)
- - [8 Great Deals From Patagonia’s Past-Season Sale](https://www.wired.com/story/patagonia-past-season-sale-2026/)
- - [A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election](https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/)
- - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)<!-- TECH:END -->
+ - [A look at the challenges facing incoming Google DeepMind head Koray Kavukcuoglu, who joined DeepMind in 2012 and will oversee Gemini and frontier AI research &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260812/p12#a260812p12)
+ - [The Best Action Cameras for All Your Craziest Adventures &lpar;2026&rpar;](https://www.wired.com/gallery/best-action-cameras/)
+ - [Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)
+ - [Former Alibaba star researcher Junyang Lin launches Shanghai-based Pragmatik Labs to build digital and physical AI agents; Pragmatik hit a $2B valuation in June &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260812/p11#a260812p11)
+ - [McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

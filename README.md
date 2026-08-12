@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dance with sea lion](http://9gag.com/gag/aZZAMW3)
+ - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
  - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
- - 😝 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)
- - 👉 [The Suuuun Boat!](http://9gag.com/gag/amoj0q2)<!-- MEMES:END -->
+ - 💣 [I just learned about this for the first time. So, shooting through a large concrete pipe creates an effect like a silencer?](http://9gag.com/gag/avyYP7b)
+ - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
+ - 👉 [All is calm and well until....](http://9gag.com/gag/aByqrgD)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BOE really wants to make OLED panels for the iPad Air](https://appleinsider.com/articles/26/08/12/boe-really-wants-to-make-oled-panels-for-the-ipad-air?utm_source=rss)
- - [Of course the ChatGPT dog cancer vaccine spawned a startup](https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee)
- - [Skan AI, which is building a &quot;context graph of work&quot; by observing staff using enterprise software, raised a $63M Series C co-led by Cathay Innovation and Dell &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260812/p18#a260812p18)
- - [This Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
- - [Grok is now an AI ‘teammate’ you can assign work](https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch)<!-- TECH:END -->
+ - [Apple TV drops trailer and launch date for Australian thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/08/12/apple-tv-drops-trailer-and-launch-date-for-australian-thriller-last-seen?utm_source=rss)
+ - [AT&amp;T says open models currently account for ~25% of its AI usage, and it targets 70% to 80% over time; AT&amp;T uses an average of 45B AI tokens per day &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p22#a260812p22)
+ - [Jaguar offers a first look inside the all-electric Type 01](https://www.theverge.com/transportation/978793/jaguar-type-01-interior)
+ - [Faked photos could be shown up by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
+ - [Brendan Carr is one firing away from an unchecked FCC](https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

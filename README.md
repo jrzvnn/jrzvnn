@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple hired Nate Gatten, an American Airlines exec with GOP ties, as government affairs VP, seeking someone who could align with Trump administration &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260812/p43#a260812p43)
+ - [Sources detail moves behind Google&#39;s AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260812/p44#a260812p44)
+ - [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date)
  - [Apple picks up Nate Gatten as new head of government affairs](https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss)
- - [Amazon gets out of the MMO game](https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations)
- - [iPhone Ultra screen protectors have asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
- - [Generative AI photo fakes could be exposed by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)<!-- TECH:END -->
+ - [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)
+ - [Sources: Apple hired Nate Gatten, an American Airlines exec with GOP ties, as government affairs VP, seeking someone who could align with Trump administration &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260812/p43#a260812p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

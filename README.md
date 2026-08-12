@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
- - [Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260812/p50#a260812p50)
- - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
- - [Cerebras reports Q2 revenue up 74% YoY to $180M and raises its annual revenue and gross margin forecasts; CBRS drops 14%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260812/p49#a260812p49)
- - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)<!-- TECH:END -->
+ - [Apple fails to delay filing new App Store fees to court as Epic battle continues](https://appleinsider.com/articles/26/08/11/apple-fails-to-delay-filing-new-app-store-fees-to-court-as-epic-battle-continues?utm_source=rss)
+ - [Made by Google 2026 live blog: Let’s watch Trevor Noah talk about the Pixel 11](https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah)
+ - [PS Plus Is Loaded With Great Games for August, Including Helldivers 2, Hell Is Us, Kingdom Come 2](https://www.cnet.com/tech/gaming/ps-plus-helldivers-2-hell-is-us-kingdom-come-2-august-2026/)
+ - [This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off](https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale)
+ - [iPhone 17 vs Google Pixel 11: The standard models, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-google-pixel-11-the-standard-models-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

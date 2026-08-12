@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV drops trailer and launch date for Australian thriller &#39;Last Seen&#39;](https://appleinsider.com/articles/26/08/12/apple-tv-drops-trailer-and-launch-date-for-australian-thriller-last-seen?utm_source=rss)
- - [AT&amp;T says open models currently account for ~25% of its AI usage, and it targets 70% to 80% over time; AT&amp;T uses an average of 45B AI tokens per day &lpar;Belle Lin/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p22#a260812p22)
- - [Jaguar offers a first look inside the all-electric Type 01](https://www.theverge.com/transportation/978793/jaguar-type-01-interior)
- - [Faked photos could be shown up by new iPhone feature](https://appleinsider.com/articles/26/08/12/faked-photos-could-be-shown-up-by-new-iphone-feature?utm_source=rss)
- - [Brendan Carr is one firing away from an unchecked FCC](https://www.theverge.com/policy/978783/trump-fcc-nominee-quorum)<!-- TECH:END -->
+ - [Google&#39;s Pixel 11 introduces Camera Looks, a total rethink of how the camera captures and styles an image, as users seek &quot;more authentic or traditional&quot; photos &lpar;David Imel/The Verge&rpar;](https://www.techmeme.com/260812/p36#a260812p36)
+ - [Google DeepMind launches SL2T, a multilingual sign-language-to-text model debuting on the Pixel 11 in Gboard and Live Transcribe, first with ASL and English &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260812/p35#a260812p35)
+ - [Google says the Pixel 11 Pro and Pro XL are its most durable Pixel phones yet, using spacecraft-grade aluminum frames and a more scratch-resistant coating &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260812/p34#a260812p34)
+ - [Google is introducing an insulin-resistance trend feature that uses AI, accelerometer, and other sensors, launching first on the Watch 5 and Fitbit devices &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260812/p33#a260812p33)
+ - [Google is cutting the Google One AI Pro trial bundled with the Pixel 11 Pro and other handsets from 12 to six months and removes the free trial for the Pixel 11 &lpar;Damien Wilde/9to5Google&rpar;](https://www.techmeme.com/260812/p32#a260812p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

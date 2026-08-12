@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)
- - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
- - [Briter: Africa-focused startups raised $3.3B in H1 2026, up 73% YoY, driven by Zipline&#39;s $950M raise; US- and UAE-incorporated entities raised half the capital &lpar;Nduka Orjinmo/Bloomberg&rpar;](https://www.techmeme.com/260812/p5#a260812p5)
- - [Today’s NYT Mini Crossword Answers for Wednesday, Aug. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-12/)
- - [Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C, sources say at a ~$170M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p4#a260812p4)<!-- TECH:END -->
+ - [Stockholm-based AI coding startup Lovable raised $400M at a $13.3B valuation, up from $6.6B in December 2025, becoming one of Europe&#39;s most valuable startups &lpar;Ben Dummett/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p8#a260812p8)
+ - [You’re Thinking About Online Trends All Wrong](https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/)
+ - [8 Great Deals From Patagonia’s Past-Season Sale](https://www.wired.com/story/patagonia-past-season-sale-2026/)
+ - [A Candidate Named ‘Count Binface’ Is the Most Normal Part of This Pivotal UK Election](https://www.wired.com/story/a-candidate-named-count-binface-is-the-most-normal-part-of-this-pivotal-uk-election/)
+ - [Sources: AI coding startup Cognition is in early talks with investors to raise $1B+ at a $40B+ valuation, after raising $1B at a $26B valuation in May &lpar;Rebecca Torrence/Bloomberg&rpar;](https://www.techmeme.com/260812/p7#a260812p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

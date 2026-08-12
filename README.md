@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some health and fitness obsessives are using AI for hyperpersonalized training, building custom dashboards and tools to analyze their sleep, workouts, and diet &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p6#a260812p6)
  - [Briter: Africa-focused startups raised $3.3B in H1 2026, up 73% YoY, driven by Zipline&#39;s $950M raise; US- and UAE-incorporated entities raised half the capital &lpar;Nduka Orjinmo/Bloomberg&rpar;](https://www.techmeme.com/260812/p5#a260812p5)
+ - [Today’s NYT Mini Crossword Answers for Wednesday, Aug. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-12/)
  - [Bengaluru-based Yulu, which gets ~95% of its revenue from renting e-bikes to gig workers, raised a $93M Series C, sources say at a ~$170M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p4#a260812p4)
- - [Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p3#a260812p3)
- - [Researchers say suspected Chinese hackers used open-source AI agents to build an autonomous hacking tool that compromised Taiwanese government websites in July &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260812/p2#a260812p2)
- - [Chegg Coupon Codes August 2026: Save on Study, Textbooks, &amp; More](https://www.wired.com/story/chegg-coupon-code/)<!-- TECH:END -->
+ - [Sources: Singapore-based data center operator DayOne confidentially files for a US IPO, aims to list as soon as next quarter, and is considering raising ~$5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p3#a260812p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

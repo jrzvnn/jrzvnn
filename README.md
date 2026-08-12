@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its takes one to know one](http://9gag.com/gag/ae9o0yj)
- - 😝 [Dancing](http://9gag.com/gag/ajPbAAG)
- - 💣 [Here we go](http://9gag.com/gag/ajPbAxp)
- - 😝 [Hardest part of the job is watching others do nothing](http://9gag.com/gag/aZZApM9)
- - 👉 [The multiverse?](http://9gag.com/gag/ary6R8p)<!-- MEMES:END -->
+ - 😝 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 💣 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
+ - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail moves behind Google&#39;s AI reshuffle; Sergey Brin urged key staff to go all in on Gemini, and some teams shifted from DeepMind to corporate Google &lpar;Kenrick Cai/Reuters&rpar;](https://www.techmeme.com/260812/p44#a260812p44)
- - [Google’s Pixel 11 phone preorders come with up to $350 in gift cards](https://www.theverge.com/gadgets/975970/google-pixel-11-series-where-to-buy-preorder-release-date)
+ - [Kalshi referred 32 possible insider traders to the CFTC in the three months through June; sources: CFTC has up to 20 ongoing probes using just Kalshi&#39;s evidence &lpar;Sharon LaFraniere/New York Times&rpar;](https://www.techmeme.com/260812/p46#a260812p46)
+ - [Twitch will train Amazon&#39;s AI on your streams unless you opt out](https://appleinsider.com/articles/26/08/12/twitch-will-train-amazons-ai-on-your-streams-unless-you-opt-out?utm_source=rss)
  - [Apple picks up Nate Gatten as new head of government affairs](https://appleinsider.com/articles/26/08/12/apple-picks-up-nate-gatten-as-new-head-of-government-affairs?utm_source=rss)
- - [Twitch streamers can now opt out from training Amazon’s AI](https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai)
- - [Sources: Apple hired Nate Gatten, an American Airlines exec with GOP ties, as government affairs VP, seeking someone who could align with Trump administration &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260812/p43#a260812p43)<!-- TECH:END -->
+ - [The Gender War Over ‘Obsession’ Has Come for Theme Parks](https://www.wired.com/story/the-gender-war-over-obsession-has-come-for-theme-parks/)
+ - [Sources: Kalshi is in advanced talks to raise $750M+ co-led by Sequoia Capital and Wellington Management at a $40B valuation; Kalshi was valued at $22B in May &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260812/p45#a260812p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

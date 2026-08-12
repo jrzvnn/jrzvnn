@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Candy Crush&#39;s continued popularity 15 years after its launch, with an estimated 81.5M MAUs and in-app revenue of $876.5M in fiscal year 2025 &lpar;Alanna Okun/Bloomberg&rpar;](https://www.techmeme.com/260811/p43#a260811p43)
+ - [Saber denies replacing Rideshare Stimulator&amp;#8217;s writers with ChatGPT](https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive)
  - [A profile of Suno, which has been used by more than 100M people since 2023 and has 2M+ paid subscribers, as it faces copyright lawsuits from UMG and Sony Music &lpar;Bloomberg&rpar;](https://www.techmeme.com/260811/p42#a260811p42)
  - [OpenAI launches a ChatGPT desktop app for Linux in preview, supporting ChatGPT Work, Codex, and more; Computer Use outside the in-app browser is not available &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260811/p41#a260811p41)
- - [The CFTC uses its &quot;emergency authority&quot; to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi &lpar;Nikhilesh De/CoinDesk&rpar;](https://www.techmeme.com/260811/p40#a260811p40)
- - [Xbox Elite 3 prototype pad leaks with tiny built-in screen](https://www.theverge.com/games/978374/xbox-elite-3-prototype-pad-leaks-with-tiny-built-in-screen)
- - [Source: Kalshi&#39;s annualized revenue topped $4B in July, up from $2B+ two months earlier, and its operating expenses totaled $300M in June &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/260811/p39#a260811p39)<!-- TECH:END -->
+ - [The CFTC uses its &quot;emergency authority&quot; to order Kalshi to continue operating in New York after the state filed a lawsuit in July seeking to shutter Kalshi &lpar;Nikhilesh De/CoinDesk&rpar;](https://www.techmeme.com/260811/p40#a260811p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

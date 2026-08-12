@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 😝 [Dancing](http://9gag.com/gag/ajPbAAG)
- - 💣 [Do what you do best!](http://9gag.com/gag/abAP0dE)
- - 😝 [The multiverse?](http://9gag.com/gag/ary6R8p)
- - 👉 [Cap?](http://9gag.com/gag/aByqYdN)<!-- MEMES:END -->
+ - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 😝 [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
+ - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 😝 [A Trump Win](http://9gag.com/gag/aE0rn0M)
+ - 👉 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
- - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 😝 [Immortal wolverine energy](http://9gag.com/gag/amoj9Kd)
+ - 😝 [Well played my dude](http://9gag.com/gag/aW4KOEx)
+ - 💣 [Best way to handle a workout](http://9gag.com/gag/an7pBOz)
+ - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
 
 ---
 

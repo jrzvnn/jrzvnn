@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Pixel 11 introduces Camera Looks, a total rethink of how the camera captures and styles an image, as users seek &quot;more authentic or traditional&quot; photos &lpar;David Imel/The Verge&rpar;](https://www.techmeme.com/260812/p36#a260812p36)
- - [Google DeepMind launches SL2T, a multilingual sign-language-to-text model debuting on the Pixel 11 in Gboard and Live Transcribe, first with ASL and English &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260812/p35#a260812p35)
- - [Google says the Pixel 11 Pro and Pro XL are its most durable Pixel phones yet, using spacecraft-grade aluminum frames and a more scratch-resistant coating &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260812/p34#a260812p34)
- - [Google is introducing an insulin-resistance trend feature that uses AI, accelerometer, and other sensors, launching first on the Watch 5 and Fitbit devices &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260812/p33#a260812p33)
- - [Google is cutting the Google One AI Pro trial bundled with the Pixel 11 Pro and other handsets from 12 to six months and removes the free trial for the Pixel 11 &lpar;Damien Wilde/9to5Google&rpar;](https://www.techmeme.com/260812/p32#a260812p32)<!-- TECH:END -->
+ - [Screen protector leak shows iPhone Ultra&#39;s asymmetric corners](https://appleinsider.com/articles/26/08/12/screen-protector-leak-shows-iphone-ultras-asymmetric-corners?utm_source=rss)
+ - [SpaceXAI releases Grok 4.6, saying it matches GPT-5.6 Sol on the Artificial Analysis Intelligence Index, and prices it at $2/1M input and $6/1M output tokens &lpar;xAI&rpar;](https://www.techmeme.com/260812/p39#a260812p39)
+ - [Silicon Data, which offers real-time compute pricing data to financial institutions and exchanges, raised a $30.5M Series A led by the Valor Atreides AI Fund &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260812/p40#a260812p40)
+ - [ClearJet, whose AI-enabled logistics service connects shippers with unused cargo capacity on commercial flights, raised a $25M Series B led by Edison Partners &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260812/p38#a260812p38)
+ - [FlightAware withdraws its lawsuit against Kalshi, a day after it alleged Kalshi is using its data without permission to let users bet on flight cancellations &lpar;Sumedha Mukherjee/Reuters&rpar;](https://www.techmeme.com/260812/p37#a260812p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

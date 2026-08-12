@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ouch that was brutal.](http://9gag.com/gag/aQzwnoz)
- - 😝 [Gemma arterton](http://9gag.com/gag/aPANGpw)
- - 💣 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)
+ - 😝 [Snu snu](http://9gag.com/gag/abAP069)
+ - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
+ - 💣 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
  - 😝 [50 Cent does it again](http://9gag.com/gag/a9yQPBo)
- - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
+ - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
 
 ---
 

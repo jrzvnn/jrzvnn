@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)
- - [Mistral says its platform will support third-party open models, starting with Z.ai&#39;s GLM-5.2, and run them on the same infrastructure as its own models &lpar;Mistral AI Blog&rpar;](https://www.techmeme.com/260812/p48#a260812p48)
- - [The Best Way to Avoid Diarrhea Lettuce? This Indoor Garden](https://www.wired.com/story/lettuce-grow-20-percent-off-2026/)
- - [Freedom of the Press Foundation and The Intercept sue Trump after Trump Media &amp; Technology offered a subscription service for faster access to Trump&#39;s posts &lpar;Bernard Condon/Associated Press&rpar;](https://www.techmeme.com/260812/p47#a260812p47)
- - [The next big indie game publisher is taking some exciting swings](https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition)<!-- TECH:END -->
+ - [Cats and dogs are missing meals after a popular smart feeder went down](https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders)
+ - [Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. &lpar;Juby Babu/Reuters&rpar;](https://www.techmeme.com/260812/p50#a260812p50)
+ - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/)
+ - [Cerebras reports Q2 revenue up 74% YoY to $180M and raises its annual revenue and gross margin forecasts; CBRS drops 14%+ after hours &lpar;Reuters&rpar;](https://www.techmeme.com/260812/p49#a260812p49)
+ - [iPhone 17 Pro vs Google Pixel 11 Pro: Tech titan flagships compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-google-pixel-11-pro-tech-titan-flagships-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

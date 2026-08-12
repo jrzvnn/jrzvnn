@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the challenges facing incoming Google DeepMind head Koray Kavukcuoglu, who joined DeepMind in 2012 and will oversee Gemini and frontier AI research &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260812/p12#a260812p12)
- - [The Best Action Cameras for All Your Craziest Adventures &lpar;2026&rpar;](https://www.wired.com/gallery/best-action-cameras/)
- - [Oh Lord, AI Reporters Are Actually Breaking Big News](https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/)
- - [Former Alibaba star researcher Junyang Lin launches Shanghai-based Pragmatik Labs to build digital and physical AI agents; Pragmatik hit a $2B valuation in June &lpar;Juro Osawa/The Information&rpar;](https://www.techmeme.com/260812/p11#a260812p11)
- - [McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/)<!-- TECH:END -->
+ - [The NYC Council sent letters to Polymarket, Kalshi, Coinbase, and Gemini Titan to investigate alleged deceptive marketing practices and targeting minors &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260812/p15#a260812p15)
+ - [AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260812/p14#a260812p14)
+ - [Ego 1300 Electric Mower Review: Tame Your Lawn Without Gas](https://www.wired.com/review/ego-1300-electric-lawn-mower/)
+ - [Q&amp;A with Redwood Research Chief Scientist Ryan Greenblatt on AI R&amp;D, RSI, whether human expert data is bottlenecking progress, token prices, alignment, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260812/p13#a260812p13)
+ - [The Job Interview Tattoo Guy Everyone Got Mad at Finally Explains Himself](https://www.wired.com/story/linkedin-grindset-tattoo-guy-explains-himself/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

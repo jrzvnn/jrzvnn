@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here we go](http://9gag.com/gag/ajPbAxp)
  - 😝 [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
- - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 😝 [A Trump Win](http://9gag.com/gag/aE0rn0M)
+ - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
+ - 💣 [IT&#39;S IN THE PACKAGE YOU IDIOT - Brit police arrest white man for buying a baseball bat](http://9gag.com/gag/an7pKLL)
+ - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
  - 👉 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)<!-- MEMES:END -->
 
 ---

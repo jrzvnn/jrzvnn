@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Immortal wolverine energy](http://9gag.com/gag/amoj9Kd)
- - 😝 [Well played my dude](http://9gag.com/gag/aW4KOEx)
- - 💣 [Best way to handle a workout](http://9gag.com/gag/an7pBOz)
+ - 😝 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)
  - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 👉 [Do what you do best!](http://9gag.com/gag/abAP0dE)<!-- MEMES:END -->
+ - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
 
 ---
 

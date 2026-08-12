@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 😝 [Good to see when law is unbiased and upholds equality](http://9gag.com/gag/a0eApPO)
- - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
  - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 💣 [All is calm and well until....](http://9gag.com/gag/aByqrgD)
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 👉 [Yes mom, we have food at home and I love that](http://9gag.com/gag/aD2pm9d)<!-- MEMES:END -->
 
 ---
 

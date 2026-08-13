@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 😝 [Educated](http://9gag.com/gag/aZZABW6)
- - 👉 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)<!-- MEMES:END -->
+ - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
+ - 😝 [Honesty](http://9gag.com/gag/abAPZ2r)
+ - 💣 [Is this Real?](http://9gag.com/gag/aRB5AwB)
+ - 😝 [Based Teal&#39;c](http://9gag.com/gag/aVvnen8)
+ - 👉 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)<!-- MEMES:END -->
 
 ---
 

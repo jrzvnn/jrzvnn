@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
- - 😝 [Educated](http://9gag.com/gag/aZZABW6)
- - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 😝 [Average cook British show](http://9gag.com/gag/aXPDqvv)
+ - 😝 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
+ - 😝 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
+ - 💣 [Marisa tomei defies all laws of aging](http://9gag.com/gag/ajPbDYg)
+ - 😝 [Footage from the solar eclipse!](http://9gag.com/gag/aVvnqW8)
  - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---

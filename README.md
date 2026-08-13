@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Camilla Clark, quiet adviser to husband Dario Amodei and behind-the-scenes player at Anthropic; she once pitched a porn startup to Jeffrey Epstein &lpar;The Information&rpar;](https://www.techmeme.com/260813/p48#a260813p48)
- - [Supreme Court denies yet another stay in Apple vs Epic proceedings as deadlines loom](https://appleinsider.com/articles/26/08/13/supreme-court-denies-yet-another-stay-in-apple-vs-epic-proceedings-as-deadlines-loom?utm_source=rss)
- - [Reddit will join the S&amp;P 500 on August 18, becoming only the second pure-play social media company in the index after Meta; RDDT jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260813/p47#a260813p47)
- - [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier)
- - [Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency](https://www.cnet.com/health/medical/pixel-watch-5-will-call-emergency-services-if-it-detects-a-breathing-emergency/)<!-- TECH:END -->
+ - [A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws &lpar;J.J. McCorvey/Bloomberg&rpar;](https://www.techmeme.com/260813/p50#a260813p50)
+ - [Apple&#39;s latest commission rates for external App Store purchases haven&#39;t satisfied Epic](https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss)
+ - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
+ - [Pets Left in a Ruff Spot After Automatic Feeders Go Down](https://www.cnet.com/home/smart-home/pets-left-in-a-ruff-spot-after-automatic-feeders-go-down/)
+ - [Sources: OpenAI is on track to generate annualized revenue of $40B+ based on its current performance, roughly doubling its run rate from the end of 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p49#a260813p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

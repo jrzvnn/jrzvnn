@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this Real?](http://9gag.com/gag/aRB5AwB)
+ - 😝 [Leftover Chinese woman is upset that she\u2019s still single at 35](http://9gag.com/gag/a6Zv7d2)
  - 😝 [Japanese hospitality towards white tourists](http://9gag.com/gag/ary6RD7)
  - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 😝 [Perfect shot](http://9gag.com/gag/a4PeZ9y)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/a0eAd6X)
  - 👉 [Honesty](http://9gag.com/gag/abAPZ2r)<!-- MEMES:END -->
 
 ---

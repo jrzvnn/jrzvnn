@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)
+ - [Could a Shirt Fool Facial Recognition? The Answer Is Complicated](https://www.cnet.com/tech/services-and-software/shirts-fool-facial-recognition-complicated/)
  - [Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260812/p53#a260812p53)
  - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
- - [Twitch says it intends to use videos streamed on its platform to help train Amazon&#39;s generative AI models and tells creators how to opt out &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260812/p52#a260812p52)
- - [Apple Faces Lawsuit Over iCloud Private Relay Vulnerability](https://www.cnet.com/tech/services-and-software/apple-faces-lawsuit-over-icloud-private-relay-vulnerability/)<!-- TECH:END -->
+ - [Twitch says it intends to use videos streamed on its platform to help train Amazon&#39;s generative AI models and tells creators how to opt out &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260812/p52#a260812p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

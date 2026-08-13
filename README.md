@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260813/p30#a260813p30)
- - [Apple&#39;s first foldable iPhone won&#39;t arrive everywhere in September](https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss)
- - [Does Google even want to win at AI?](https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis)
- - [Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs](https://www.cnet.com/home/electric-vehicles/rivian-r1s-r1t-see-2027-updates-including-second-row-captains-chairs/)
- - [Rivian is finally getting a long-requested feature — and no, it’s not CarPlay](https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs)<!-- TECH:END -->
+ - [HPE secures court approval for its settlement with the US DOJ over its takeover of networking company Juniper, defeating a challenge by Democratic state AGs &lpar;Josh Sisco/Bloomberg&rpar;](https://www.techmeme.com/260813/p34#a260813p34)
+ - [Tech hardware companies report the highest US CBP tariff refunds at $2.5B across six companies, including $2.2B in refunds to Apple alone; Amazon received $640M &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260813/p33#a260813p33)
+ - [Sources: AMD plans to raise as much as $5B in what could be the chipmaker&#39;s biggest-ever investment-grade bond sale, as it ramps up spending to meet AI demand &lpar;Brian W Smith/Bloomberg&rpar;](https://www.techmeme.com/260813/p32#a260813p32)
+ - [DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p31#a260813p31)
+ - [I looked inside an AI generated movie, and the best parts were all human](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

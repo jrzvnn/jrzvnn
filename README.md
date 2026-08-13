@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
+ - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
+ - [Eddy Cue hints at more &#39;Ted Lasso&#39; seasons to come](https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss)
  - [Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p24#a260813p24)
- - [Watch classic movies for free with an Apple TV subscription](https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss)
- - [JD.com reports Q2 revenue down 2.9% YoY to ~$51.4B and net income of ~$1.1B, above ~$964M est., driven by JD Retail profitability and narrowing food losses &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260813/p23#a260813p23)
- - [SMIC reports Q2 revenue up 36% YoY to ~$3B, net profit up 3x+ to ~$479.2M, above ~$283.1M est., and a 25.3% gross margin, driven by strong mature-node orders &lpar;Sherry Qin/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p22#a260813p22)
- - [The Google Pixelsnap Charger With Stand Is 50 Percent Off Right Now](https://www.wired.com/story/google-pixelsnap-charger-and-stand-50-percent-off/)<!-- TECH:END -->
+ - [Watch classic movies for free with an Apple TV subscription](https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

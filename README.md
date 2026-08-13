@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments as AI workloads shifted from training to inference, driving 5x YoY industry revenue growth &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260813/p14#a260813p14)
- - [A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks for use as AI robot training data &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p13#a260813p13)
- - [Counterpoint: China&#39;s YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung&#39;s 25% and SK Hynix&#39;s 22%, but ahead of Micron and Kioxia &lpar;Howard Liu/South China Morning Post&rpar;](https://www.techmeme.com/260813/p12#a260813p12)
- - [Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260813/p11#a260813p11)
- - [Coinbase, Block, and 30+ other crypto companies say frontier AI safety guardrails hinder legitimate security work while attackers use stronger tools &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260813/p10#a260813p10)<!-- TECH:END -->
+ - [Sources: Demis Hassabis pitched a new independent industry AI safety entity, modeled on the IAEA, to top Trump officials before stepping down as DeepMind CEO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260813/p16#a260813p16)
+ - [Meta says it removed 750,000+ Australian accounts believed to belong to under-16s to comply with the social media ban, including 462,000 Instagram accounts &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260813/p15#a260813p15)
+ - [The 10 Best Cooling Mattresses for Hot Sleepers &lpar;2026&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
+ - [CBP Workers Allegedly Used Government Databases to Spy on Exes, Crushes, and Colleagues](https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/)
+ - [UK loses Basingstoke Apple Store after 15 years](https://appleinsider.com/articles/26/08/13/uk-loses-basingstoke-apple-store-after-15-years?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

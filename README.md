@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260813/p39#a260813p39)
- - [Google unveils Gemini 3.7 Flash, its &quot;most intelligent workhorse model&quot; for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch &lpar;Tulsee Doshi/Google&rpar;](https://www.techmeme.com/260813/p38#a260813p38)
- - [Deals: Amazon slashes up to $190 off Beats, Nomad iPhone cases as low as $19](https://appleinsider.com/articles/26/08/13/deals-amazon-slashes-up-to-190-off-beats-nomad-iphone-cases-as-low-as-19?utm_source=rss)
- - [Apple Glasses could chime when recording, but only for the wearer](https://appleinsider.com/articles/26/08/13/apple-glasses-could-chime-when-recording-but-only-for-the-wearer?utm_source=rss)
- - [X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X&#39;s ranking systems &quot;shadowbanned&quot; them &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260813/p37#a260813p37)<!-- TECH:END -->
+ - [Sources: Vantage Data Centers, a major hyperscale developer, is exploring options including a sale or an IPO at a valuation of about $100B as soon as next year &lpar;Reuters&rpar;](https://www.techmeme.com/260813/p41#a260813p41)
+ - [Apple opens Houston center to train next generation of U.S. manufacturers](https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss)
+ - [The Trump admin will start letting private firms launch international cyberattacks](https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms)
+ - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
+ - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

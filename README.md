@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260813/p29#a260813p29)
- - [Why This Prediction Market Banned Teens](https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/)
- - [Microsoft is combining its Copilot apps ahead of a ‘super app’](https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience)
- - [Flock CEO Garrett Langley acknowledges the company &quot;got this one wrong&quot; and is assuming greater responsibility for preventing US law enforcement misuse &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260813/p27#a260813p27)
- - [Inside SK Hynix&#39;s $720B Yongin Cluster, which it calls the world&#39;s largest network of memory factories and is set to go into production in February 2027 &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260813/p28#a260813p28)<!-- TECH:END -->
+ - [Databricks closed a $5B funding round at a $190B valuation, six months after raising $5B at a $134B valuation, and says it has crossed $7B in revenue run rate &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260813/p30#a260813p30)
+ - [Apple&#39;s first foldable iPhone won&#39;t arrive everywhere in September](https://appleinsider.com/articles/26/08/13/apples-first-foldable-iphone-wont-arrive-everywhere-in-september?utm_source=rss)
+ - [Does Google even want to win at AI?](https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis)
+ - [Rivian R1S, R1T See 2027 Updates, Including Second-Row Captain’s Chairs](https://www.cnet.com/home/electric-vehicles/rivian-r1s-r1t-see-2027-updates-including-second-row-captains-chairs/)
+ - [Rivian is finally getting a long-requested feature — and no, it’s not CarPlay](https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

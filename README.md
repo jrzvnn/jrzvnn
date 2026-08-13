@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninja Just Launched Its First Water Filter. Here’s What It Does That Others Don’t](https://www.cnet.com/home/kitchen-and-household/ninja-just-launched-its-first-water-filter-heres-what-it-does-that-others-dont/)
- - [The Best Samsung Galaxy S26 Cases &lpar;2026&rpar;: S26, S26+, and S26 Ultra](https://www.wired.com/gallery/best-samsung-s26-cases-and-accessories/)
- - [Eddy Cue hints at more &#39;Ted Lasso&#39; seasons to come](https://appleinsider.com/articles/26/08/13/eddy-cue-hints-at-more-ted-lasso-seasons-to-come?utm_source=rss)
- - [Accelerant, which uses data analytics to connect insurance underwriters with risk capital partners, agrees to go private with Thoma Bravo in a $4.4B deal &lpar;Katherine Hamilton/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p24#a260813p24)
- - [Watch classic movies for free with an Apple TV subscription](https://appleinsider.com/articles/26/08/13/watch-classic-movies-for-free-with-an-apple-tv-subscription?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft begins merging its consumer and commercial Copilot apps into a single app, with a mobile and web rollout in mid-August and desktop in mid-September &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260813/p29#a260813p29)
+ - [Why This Prediction Market Banned Teens](https://www.wired.com/story/novig-says-its-not-like-those-other-prediction-markets/)
+ - [Microsoft is combining its Copilot apps ahead of a ‘super app’](https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience)
+ - [Flock CEO Garrett Langley acknowledges the company &quot;got this one wrong&quot; and is assuming greater responsibility for preventing US law enforcement misuse &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260813/p27#a260813p27)
+ - [Inside SK Hynix&#39;s $720B Yongin Cluster, which it calls the world&#39;s largest network of memory factories and is set to go into production in February 2027 &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/260813/p28#a260813p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 😝 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
- - 👉 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)<!-- MEMES:END -->
+ - 😝 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
+ - 😝 [Never saw Emo Girls fighting before](http://9gag.com/gag/a0eAjYL)
+ - 💣 [Eye on you](http://9gag.com/gag/aKG0qjN)
+ - 😝 [Though you might like this](http://9gag.com/gag/aoyr1OX)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 

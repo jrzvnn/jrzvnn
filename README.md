@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
  - 😝 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - 😝 [Mechanic humor at its finest](http://9gag.com/gag/aoyr9qx)
- - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 😝 [Go to gym guys, `lift heavy stone make sad head voice quiet`](http://9gag.com/gag/ary6bXX)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)
+ - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---
 

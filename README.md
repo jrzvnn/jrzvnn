@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is discussing multiyear content deals with publishers to deliver current news and information for Siri AI, with a potential nine-figure budget &lpar;Alexandra Bruell/Wall Street Journal&rpar;](https://www.techmeme.com/260812/p54#a260812p54)
- - [Could a Shirt Fool Facial Recognition? The Answer Is Complicated](https://www.cnet.com/tech/services-and-software/shirts-fool-facial-recognition-complicated/)
- - [Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260812/p53#a260812p53)
- - [The Best Photos of the Big August Solar Eclipse](https://www.wired.com/story/best-photos-august-solar-eclipse-spain/)
- - [Twitch says it intends to use videos streamed on its platform to help train Amazon&#39;s generative AI models and tells creators how to opt out &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260812/p52#a260812p52)<!-- TECH:END -->
+ - [Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p56#a260812p56)
+ - [My Favorite Things from Made by Google 2026](https://www.cnet.com/tech/mobile/my-favorite-things-from-made-by-google-2026/)
+ - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
+ - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)
+ - [Pixel 11 vs. Pixel 11 Pro vs. Pixel 11 Pro XL: Google’s Latest Phones Compared](https://www.cnet.com/tech/mobile/pixel-11-vs-pixel-11-pro-vs-pixel-11-pro-xl-googles-latest-phones-compared/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

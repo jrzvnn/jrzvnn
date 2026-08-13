@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X&#39;s ranking systems &quot;shadowbanned&quot; them &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260813/p37#a260813p37)
- - [2K launches new studio to build its &amp;#8216;next blockbuster sports franchise&amp;#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
- - [Ramp&#39;s July AI index: Anthropic&#39;s market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost &lpar;Ara Kharazian/Ramp&rpar;](https://www.techmeme.com/260813/p36#a260813p36)
- - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
- - [OpenAI hires Dali Rajic, COO of Alphabet&#39;s Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260813/p35#a260813p35)<!-- TECH:END -->
+ - [OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260813/p39#a260813p39)
+ - [Google unveils Gemini 3.7 Flash, its &quot;most intelligent workhorse model&quot; for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch &lpar;Tulsee Doshi/Google&rpar;](https://www.techmeme.com/260813/p38#a260813p38)
+ - [Deals: Amazon slashes up to $190 off Beats, Nomad iPhone cases as low as $19](https://appleinsider.com/articles/26/08/13/deals-amazon-slashes-up-to-190-off-beats-nomad-iphone-cases-as-low-as-19?utm_source=rss)
+ - [Apple Glasses could chime when recording, but only for the wearer](https://appleinsider.com/articles/26/08/13/apple-glasses-could-chime-when-recording-but-only-for-the-wearer?utm_source=rss)
+ - [X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X&#39;s ranking systems &quot;shadowbanned&quot; them &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260813/p37#a260813p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

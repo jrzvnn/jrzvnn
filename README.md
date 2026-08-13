@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 😝 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
- - 💣 [Do what you do best!](http://9gag.com/gag/abAP0dE)
- - 😝 [Those damn onion cutting ninjas at it again](http://9gag.com/gag/a0eAdDq)
- - 👉 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)<!-- MEMES:END -->
+ - 😝 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
+ - 👉 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
 
 ---
 

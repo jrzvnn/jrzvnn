@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like a sunday walk](http://9gag.com/gag/aQzwxVr)
- - 😝 [A Meteor Seen From A Plane](http://9gag.com/gag/aQzwMq2)
- - 💣 [Smooth finish](http://9gag.com/gag/apRyLPB)
- - 😝 [This was rather wholesome](http://9gag.com/gag/ary6NR6)
- - 👉 [Educated](http://9gag.com/gag/aZZABW6)<!-- MEMES:END -->
+ - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
+ - 😝 [Is this Real?](http://9gag.com/gag/aRB5AwB)
+ - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
+ - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
+ - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---
 

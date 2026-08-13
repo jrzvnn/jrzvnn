@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p52#a260813p52)
+ - [We Spotted So Many Workarounds for Flock’s New Rules on Police Camera Surveillance](https://www.cnet.com/news/privacy/we-spotted-so-many-workarounds-for-flocks-new-rules-on-police-camera-surveillance/)
+ - [Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260813/p51#a260813p51)
  - [A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws &lpar;J.J. McCorvey/Bloomberg&rpar;](https://www.techmeme.com/260813/p50#a260813p50)
- - [Apple&#39;s latest commission rates for external App Store purchases haven&#39;t satisfied Epic](https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss)
- - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
- - [Pets Left in a Ruff Spot After Automatic Feeders Go Down](https://www.cnet.com/home/smart-home/pets-left-in-a-ruff-spot-after-automatic-feeders-go-down/)
- - [Sources: OpenAI is on track to generate annualized revenue of $40B+ based on its current performance, roughly doubling its run rate from the end of 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p49#a260813p49)<!-- TECH:END -->
+ - [Apple&#39;s latest commission rates for external App Store purchases haven&#39;t satisfied Epic](https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

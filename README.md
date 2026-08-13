@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is closing game studios Night School Studio, which it acquired in 2021, and Moonloot, and is also cutting jobs from its internal games team &lpar;Stephen Totilo/Game File&rpar;](https://www.techmeme.com/260813/p45#a260813p45)
- - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
- - [iPhone X &amp; 2018 MacBook Pro are now on Apple&#39;s &#39;obsolete products&#39; list](https://appleinsider.com/articles/26/08/13/iphone-x-2018-macbook-pro-are-now-on-apples-obsolete-products-list?utm_source=rss)
- - [Netflix is closing two game studios](https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games)
- - [Anthropic details multiagent experiments showing Claude agents can wage a &quot;turf war&quot; over incompatible goals, fail to coordinate, collude on prices, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260813/p44#a260813p44)<!-- TECH:END -->
+ - [A profile of Camilla Clark, quiet adviser to husband Dario Amodei and behind-the-scenes player at Anthropic; she once pitched a porn startup to Jeffrey Epstein &lpar;The Information&rpar;](https://www.techmeme.com/260813/p48#a260813p48)
+ - [Supreme Court denies yet another stay in Apple vs Epic proceedings as deadlines loom](https://appleinsider.com/articles/26/08/13/supreme-court-denies-yet-another-stay-in-apple-vs-epic-proceedings-as-deadlines-loom?utm_source=rss)
+ - [Reddit will join the S&amp;P 500 on August 18, becoming only the second pure-play social media company in the index after Meta; RDDT jumps 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260813/p47#a260813p47)
+ - [‘That is not acceptable’: Judge orders Google to make rival app store installs easier](https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier)
+ - [Pixel Watch 5 Will Call Emergency Services if It Detects a Breathing Emergency](https://www.cnet.com/health/medical/pixel-watch-5-will-call-emergency-services-if-it-detects-a-breathing-emergency/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

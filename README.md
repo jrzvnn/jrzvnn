@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
  - 😝 [A cheater CS2 player receives special treatment from a Valve employee, who bans all of his accounts from live streams.](http://9gag.com/gag/aAyWPDR)
- - 😝 [Is this Real?](http://9gag.com/gag/aRB5AwB)
- - 💣 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 😝 [It&#39;s all your fault.](http://9gag.com/gag/a4Peb9p)
+ - 👉 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)<!-- MEMES:END -->
 
 ---
 

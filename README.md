@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Vantage Data Centers, a major hyperscale developer, is exploring options including a sale or an IPO at a valuation of about $100B as soon as next year &lpar;Reuters&rpar;](https://www.techmeme.com/260813/p41#a260813p41)
+ - [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
+ - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)
+ - [Tether says KPMG completed Tether&#39;s first full audit and found its 2025 financial statements fairly presented its financial position in all material respects &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260813/p42#a260813p42)
  - [Apple opens Houston center to train next generation of U.S. manufacturers](https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss)
- - [The Trump admin will start letting private firms launch international cyberattacks](https://www.theverge.com/policy/979734/trump-administration-cybercrime-private-firms)
- - [US-based robot vacuum maker Matic rolls out a firmware update that lets users control its $1,245 vacuum with voice commands in more than 70 languages &lpar;Chris Welch/Bloomberg&rpar;](https://www.techmeme.com/260813/p40#a260813p40)
- - [I finally found a robot lawnmower I’d trust with my yard](https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame)<!-- TECH:END -->
+ - [Sources: Vantage Data Centers, a major hyperscale developer, is exploring options including a sale or an IPO at a valuation of about $100B as soon as next year &lpar;Reuters&rpar;](https://www.techmeme.com/260813/p41#a260813p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

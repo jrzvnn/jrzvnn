@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 😝 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
- - 💣 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)
- - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 😝 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
+ - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
+ - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 👉 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
 
 ---
 

@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks for use as AI robot training data &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p13#a260813p13)
  - [Counterpoint: China&#39;s YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung&#39;s 25% and SK Hynix&#39;s 22%, but ahead of Micron and Kioxia &lpar;Howard Liu/South China Morning Post&rpar;](https://www.techmeme.com/260813/p12#a260813p12)
  - [Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260813/p11#a260813p11)
- - [Over 30 crypto companies, including Coinbase and Block, say frontier AI safety guardrails hinder legitimate security work while attackers use stronger tools &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260813/p10#a260813p10)<!-- TECH:END -->
+ - [Coinbase, Block, and 30+ other crypto companies say frontier AI safety guardrails hinder legitimate security work while attackers use stronger tools &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260813/p10#a260813p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

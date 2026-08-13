@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HPE secures court approval for its settlement with the US DOJ over its takeover of networking company Juniper, defeating a challenge by Democratic state AGs &lpar;Josh Sisco/Bloomberg&rpar;](https://www.techmeme.com/260813/p34#a260813p34)
- - [Tech hardware companies report the highest US CBP tariff refunds at $2.5B across six companies, including $2.2B in refunds to Apple alone; Amazon received $640M &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260813/p33#a260813p33)
- - [Sources: AMD plans to raise as much as $5B in what could be the chipmaker&#39;s biggest-ever investment-grade bond sale, as it ramps up spending to meet AI demand &lpar;Brian W Smith/Bloomberg&rpar;](https://www.techmeme.com/260813/p32#a260813p32)
- - [DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p31#a260813p31)
- - [I looked inside an AI generated movie, and the best parts were all human](https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list)<!-- TECH:END -->
+ - [X makes the source code for its For You timeline available on GitHub and adds tools to let users see if X&#39;s ranking systems &quot;shadowbanned&quot; them &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260813/p37#a260813p37)
+ - [2K launches new studio to build its &amp;#8216;next blockbuster sports franchise&amp;#8217;](https://www.theverge.com/games/979689/2k-sports-franchise-small-axe-studios-soccer)
+ - [Ramp&#39;s July AI index: Anthropic&#39;s market share hit 43.5%, widening its lead over OpenAI; Fable 5 is only 6% of tokens businesses bought, likely due to high cost &lpar;Ara Kharazian/Ramp&rpar;](https://www.techmeme.com/260813/p36#a260813p36)
+ - [Ford’s $28,000 Fathom EV nears production after $2 billion factory overhaul](https://www.theverge.com/transportation/979565/ford-fathom-uev-louisville-assembly-plant)
+ - [OpenAI hires Dali Rajic, COO of Alphabet&#39;s Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260813/p35#a260813p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

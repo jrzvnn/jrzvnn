@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
- - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
- - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [One man’s fight against his name](https://www.reddit.com/r/funny/comments/1vnnurt/one_mans_fight_against_his_name/)
+ - 💣 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
  - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 👉 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
+ - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
 
 ---
 

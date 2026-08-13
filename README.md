@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wealth managers are cutting fees and hiring staff in Silicon Valley to win over OpenAI and Anthropic workers before IPOs mint a new class of millionaires &lpar;Financial Times&rpar;](https://www.techmeme.com/260813/p7#a260813p7)
- - [Rapidly advancing AI tools have created investor uncertainty and fear around the SaaS business model and the private equity and credit built on top of it &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p6#a260813p6)
- - [Research: over 53M people in China worked as food delivery or ridesharing drivers as of 2025, up 10M in two years, amid accelerating automation in manufacturing &lpar;Financial Times&rpar;](https://www.techmeme.com/260813/p5#a260813p5)
- - [London- and Boston-based Mindgard, which offers automated AI security and red-teaming tools to help organizations secure AI systems, raised a $30M Series A &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260813/p4#a260813p4)
- - [Foreign investment in Japan&#39;s chip industry has reached ~$37B, as government subsidies attract companies working on logic and memory chips and image sensors &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260813/p3#a260813p3)<!-- TECH:END -->
+ - [In Q2 2026, server-led eSSDs reached 48% of NAND flash shipments as AI workloads shifted from training to inference, driving 5x YoY industry revenue growth &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260813/p14#a260813p14)
+ - [A look at workers in India who are paid extra to wear devices that capture first-person video of factory and other work tasks for use as AI robot training data &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260813/p13#a260813p13)
+ - [Counterpoint: China&#39;s YMTC accounted for 14% of NAND flash shipments in Q2, behind Samsung&#39;s 25% and SK Hynix&#39;s 22%, but ahead of Micron and Kioxia &lpar;Howard Liu/South China Morning Post&rpar;](https://www.techmeme.com/260813/p12#a260813p12)
+ - [Lenovo reports Q1 revenue up 43% YoY to $26.94B, its highest quarterly revenue growth in five years, as AI-related revenue rose 60% YoY to $9.3B, 35% of total &lpar;Laurie Chen/Reuters&rpar;](https://www.techmeme.com/260813/p11#a260813p11)
+ - [Over 30 crypto companies, including Coinbase and Block, say frontier AI safety guardrails hinder legitimate security work while attackers use stronger tools &lpar;Shaurya Malwa/CoinDesk&rpar;](https://www.techmeme.com/260813/p10#a260813p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

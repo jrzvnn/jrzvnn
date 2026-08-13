@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yuno, a payments infrastructure provider for processing transactions globally, raised a $45M Series B led by Global PayTech with a16z and others participating &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/260812/p57#a260812p57)
- - [Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260812/p56#a260812p56)
- - [My Favorite Things from Made by Google 2026](https://www.cnet.com/tech/mobile/my-favorite-things-from-made-by-google-2026/)
- - [Siri AI could get a boost from news content with new publisher deal](https://appleinsider.com/articles/26/08/13/siri-ai-could-get-a-boost-from-news-content-with-new-publisher-deal?utm_source=rss)
- - [Sources: former Google exec Jeff Dean is in talks for $1B in funding at a ~$10B valuation for his new science and engineering-focused AI startup, Discovery Loop &lpar;Business Insider&rpar;](https://www.techmeme.com/260812/p55#a260812p55)<!-- TECH:END -->
+ - [Wealth managers are cutting fees and hiring staff in Silicon Valley to win over OpenAI and Anthropic workers before IPOs mint a new class of millionaires &lpar;Financial Times&rpar;](https://www.techmeme.com/260813/p7#a260813p7)
+ - [Rapidly advancing AI tools have created investor uncertainty and fear around the SaaS business model and the private equity and credit built on top of it &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p6#a260813p6)
+ - [Research: over 53M people in China worked as food delivery or ridesharing drivers as of 2025, up 10M in two years, amid accelerating automation in manufacturing &lpar;Financial Times&rpar;](https://www.techmeme.com/260813/p5#a260813p5)
+ - [London- and Boston-based Mindgard, which offers automated AI security and red-teaming tools to help organizations secure AI systems, raised a $30M Series A &lpar;Ionut Arghire/SecurityWeek&rpar;](https://www.techmeme.com/260813/p4#a260813p4)
+ - [Foreign investment in Japan&#39;s chip industry has reached ~$37B, as government subsidies attract companies working on logic and memory chips and image sensors &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260813/p3#a260813p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

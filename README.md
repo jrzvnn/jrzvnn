@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s in the name](http://9gag.com/gag/azxNAbq)
- - 😝 [Bliss of happiness](http://9gag.com/gag/awyRxZy)
- - 💣 [2 &amp; 3 for me. Which psycho choose 4?](http://9gag.com/gag/a349B6m)
- - 😝 [If you missed the solar eclipse, this is what it looked like:](http://9gag.com/gag/apRyrqM)
- - 👉 [Honesty](http://9gag.com/gag/abAPZ2r)<!-- MEMES:END -->
+ - 😝 [Like a sunday walk](http://9gag.com/gag/aQzwxVr)
+ - 😝 [A Meteor Seen From A Plane](http://9gag.com/gag/aQzwMq2)
+ - 💣 [Smooth finish](http://9gag.com/gag/apRyLPB)
+ - 😝 [This was rather wholesome](http://9gag.com/gag/ary6NR6)
+ - 👉 [Educated](http://9gag.com/gag/aZZABW6)<!-- MEMES:END -->
 
 ---
 

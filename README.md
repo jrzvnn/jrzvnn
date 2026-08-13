@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)
- - 😝 [Never saw Emo Girls fighting before](http://9gag.com/gag/a0eAjYL)
- - 💣 [Eye on you](http://9gag.com/gag/aKG0qjN)
- - 😝 [Though you might like this](http://9gag.com/gag/aoyr1OX)
+ - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
+ - 😝 [Educated](http://9gag.com/gag/aZZABW6)
+ - 💣 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
+ - 😝 [Average cook British show](http://9gag.com/gag/aXPDqvv)
  - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
 
 ---

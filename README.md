@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Ted Lasso&#39; season 4 scores Apple TV&#39;s biggest launch yet](https://appleinsider.com/articles/26/08/13/ted-lasso-season-4-scores-apple-tvs-biggest-launch-yet?utm_source=rss)
+ - [My Favorite Sunrise Alarm Clock Now Tracks Your Sleep — No Wearable Required](https://www.cnet.com/health/sleep/my-favorite-sunrise-alarm-clock-now-tracks-your-sleep-no-wearable-required/)
+ - [This school-friendly laptop from HP is $300 off](https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale)
  - [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
- - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)
- - [Tether says KPMG completed Tether&#39;s first full audit and found its 2025 financial statements fairly presented its financial position in all material respects &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260813/p42#a260813p42)
- - [Apple opens Houston center to train next generation of U.S. manufacturers](https://appleinsider.com/articles/26/08/13/apple-opens-houston-center-to-train-next-generation-of-us-manufacturers?utm_source=rss)
- - [Sources: Vantage Data Centers, a major hyperscale developer, is exploring options including a sale or an IPO at a valuation of about $100B as soon as next year &lpar;Reuters&rpar;](https://www.techmeme.com/260813/p41#a260813p41)<!-- TECH:END -->
+ - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

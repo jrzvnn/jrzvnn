@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; season 4 scores Apple TV&#39;s biggest launch yet](https://appleinsider.com/articles/26/08/13/ted-lasso-season-4-scores-apple-tvs-biggest-launch-yet?utm_source=rss)
- - [My Favorite Sunrise Alarm Clock Now Tracks Your Sleep — No Wearable Required](https://www.cnet.com/health/sleep/my-favorite-sunrise-alarm-clock-now-tracks-your-sleep-no-wearable-required/)
- - [This school-friendly laptop from HP is $300 off](https://www.theverge.com/gadgets/979699/hp-omnibook-x-flip-pixel-buds-pro-2-deal-sale)
- - [OpenAI is losing its second executive this week](https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure)
- - [Sources: Silver Lake is in talks to acquire HR and financial management software maker Workday, which has a market value of ~$43B; WDAY jumps 18%+ &lpar;Milana Vinn/Reuters&rpar;](https://www.techmeme.com/260813/p43#a260813p43)<!-- TECH:END -->
+ - [Netflix is closing game studios Night School Studio, which it acquired in 2021, and Moonloot, and is also cutting jobs from its internal games team &lpar;Stephen Totilo/Game File&rpar;](https://www.techmeme.com/260813/p45#a260813p45)
+ - [Mark Zuckerberg’s AI Manifesto Is 6,500-Words—and Barely Says Anything](https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/)
+ - [iPhone X &amp; 2018 MacBook Pro are now on Apple&#39;s &#39;obsolete products&#39; list](https://appleinsider.com/articles/26/08/13/iphone-x-2018-macbook-pro-are-now-on-apples-obsolete-products-list?utm_source=rss)
+ - [Netflix is closing two game studios](https://www.theverge.com/games/979855/netflix-shut-down-night-school-studio-moonloot-games)
+ - [Anthropic details multiagent experiments showing Claude agents can wage a &quot;turf war&quot; over incompatible goals, fail to coordinate, collude on prices, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](https://www.techmeme.com/260813/p44#a260813p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

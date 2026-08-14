@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the CFTC has launched a probe into prediction markets&#39; &quot;mention markets&quot;, prompting Kalshi to remove bets on word choices from sports-related offerings &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260813/p57#a260813p57)
- - [Apple CEO Tim Cook: &#39;I hope that people say I was a good and decent man&#39;](https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss)
- - [Pony AI plans to deploy 2K+ robotaxis across Europe in partnership with Uber and add four more European cities, after Zagreb, with a later Middle East expansion &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p56#a260813p56)
- - [New wave of Apple threat notifications reach 110 countries to warn about targeted attacks](https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss)
- - [A profile of Amy Kremer, a pro-Trump activist who helped organize the January 6 rally and currently chairs the grassroots anti-data center group Humans First &lpar;Veronica Irwin/Transformer&rpar;](https://www.techmeme.com/260813/p55#a260813p55)<!-- TECH:END -->
+ - [The White House announces new tariffs on drones and components, including a 100% levy on &quot;particularly sensitive&quot; models, aiming to cut reliance on Chinese tech &lpar;Demetri Sevastopulo/Financial Times&rpar;](https://www.techmeme.com/260814/p3#a260814p3)
+ - [Columbia Promo Codes: 15% Off | August 2026](https://www.wired.com/story/columbia-promo-code/)
+ - [Layla Sleep Coupon: Save Up to $600 in August 2026](https://www.wired.com/story/layla-sleep-coupon/)
+ - [Office Depot Coupons: Save With Promo Codes in August 2026](https://www.wired.com/story/office-depot-promo-codes/)
+ - [HelloFresh Promo Codes: 55% Off for August 2026](https://www.wired.com/story/hellofresh-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

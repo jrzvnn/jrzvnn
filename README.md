@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 😝 [Just trying to push some boundaries](http://9gag.com/gag/a9yQpMm)
+ - 😝 [He finally lost the battle. He was a 16 and 0 professional boxer but his career was ended after being illegally punched by his opponent Terrell Williams which caused brain bleeding and permanent neurological damage. RIP man, you fought hard.](http://9gag.com/gag/an7pbV0)
+ - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
+ - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 😝 [Based Teal&#39;c](http://9gag.com/gag/aVvnen8)
- - 💣 [Crazy world](http://9gag.com/gag/aKG02Vg)
- - 😝 [Hiring someone just because they have certification](http://9gag.com/gag/aQzweBK)
- - 👉 [No homo](http://9gag.com/gag/apRypZ9)<!-- MEMES:END -->
+ - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
+ - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 👉 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)<!-- MEMES:END -->
 
 ---
 

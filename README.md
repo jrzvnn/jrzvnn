@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - 😝 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
- - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 😝 [Motivational Oversimplification](http://9gag.com/gag/apRyQEp)
+ - 😝 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - 😝 [Peace of mind?](http://9gag.com/gag/a9yQYnD)
+ - 💣 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
+ - 😝 [Mullets are making a comeback](http://9gag.com/gag/aVvnMzn)
  - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---

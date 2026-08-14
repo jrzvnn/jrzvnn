@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Real Reason Data Center Gas Power Plants Are So Dirty](https://www.wired.com/story/real-reason-data-center-gas-power-plants-are-so-dirty/)
- - [Help build a monument to that ‘sad little bitch’ Elon Musk](https://www.theverge.com/tech/980142/cards-against-humanity-elon-musk-monument)
- - [Blackbird and Airtree revalue Canva at $34.9B, down from $42B in 2025, as it struggles in the AI era; Canva&#39;s internal valuation falls to $31B, down from $38.9B &lpar;Australian Financial Review&rpar;](https://www.techmeme.com/260814/p6#a260814p6)
- - [Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks &lpar;Z.ai&rpar;](https://www.techmeme.com/260814/p5#a260814p5)
- - [A look at Quincy, a rural Washington farming town of 8,500 that benefited from a data center boom as its poverty rate fell from 29.4% in 2012 to 6.2% in 2024 &lpar;Nathaniel Meyersohn/CNN&rpar;](https://www.techmeme.com/260814/p4#a260814p4)<!-- TECH:END -->
+ - [People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them](https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/)
+ - [Epic v. Google: in a compliance hearing, a judge orders Google to remove &quot;anticompetitive friction&quot; for installing third-party app stores from its Play Store &lpar;Sean Hollister/The Verge&rpar;](https://www.techmeme.com/260814/p8#a260814p8)
+ - [Sources: JPMorgan Chase terminated its banking relationship with Polymarket in 2025 over regulatory concerns, though it still maintains some ties to the company &lpar;Financial Times&rpar;](https://www.techmeme.com/260814/p7#a260814p7)
+ - [5 Weird Tricks for Having a Brain](https://www.wired.com/galaxy-brain/)
+ - [Best Computer Monitors &lpar;2026&rpar;: The Home Office Upgrade You Need](https://www.wired.com/story/best-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

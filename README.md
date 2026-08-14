@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
- - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 💣 [Olivia Munn as psylocke in x men apocalypse](http://9gag.com/gag/aPANWYP)
- - 😝 [Those damn onion cutting ninjas at it again](http://9gag.com/gag/a0eAdDq)
- - 👉 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)<!-- MEMES:END -->
+ - 😝 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
+ - 😝 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
+ - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 😝 [Motivational Oversimplification](http://9gag.com/gag/apRyQEp)
+ - 👉 [Nice show](http://9gag.com/gag/aPANWgw)<!-- MEMES:END -->
 
 ---
 

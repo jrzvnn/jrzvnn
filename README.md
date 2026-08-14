@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dats a Long legged Croc](http://9gag.com/gag/aMVRwpX)
- - 😝 [I like the camera man, couldn&#39;t hold it and joined the party of awesomeness](http://9gag.com/gag/aoyrp1e)
- - 💣 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 😝 [This is real](http://9gag.com/gag/a9yQWKm)
- - 👉 [Crazy world](http://9gag.com/gag/aKG02Vg)<!-- MEMES:END -->
+ - 😝 [Maybe the insurance will cover that](http://9gag.com/gag/amoj9Ko)
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 😝 [Hold my tentacle while I kiss you, hooman!](https://www.reddit.com/r/funny/comments/1vnsx8a/hold_my_tentacle_while_i_kiss_you_hooman/)
+ - 👉 [Never saw Emo Girls fighting before](http://9gag.com/gag/a0eAjYL)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former OpenAI employees say pressure to quickly ship products left less time for safety, contributing to incidents like the rogue agent hack &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260813/p54#a260813p54)
- - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)
- - [Google’s New Pixel 11 Phones Get Higher Starting Prices — Blame the RAM Shortage](https://www.cnet.com/tech/mobile/googles-new-pixel-11-phones-got-higher-starting-prices-blame-the-ram-shortage/)
- - [Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p52#a260813p52)
- - [We Spotted So Many Workarounds for Flock’s New Rules on Police Camera Surveillance](https://www.cnet.com/news/privacy/we-spotted-so-many-workarounds-for-flocks-new-rules-on-police-camera-surveillance/)<!-- TECH:END -->
+ - [Sources: the CFTC has launched a probe into prediction markets&#39; &quot;mention markets&quot;, prompting Kalshi to remove bets on word choices from sports-related offerings &lpar;Bobby Allyn/NPR&rpar;](https://www.techmeme.com/260813/p57#a260813p57)
+ - [Apple CEO Tim Cook: &#39;I hope that people say I was a good and decent man&#39;](https://appleinsider.com/articles/26/08/14/apple-ceo-tim-cook-i-hope-that-people-say-i-was-a-good-and-decent-man?utm_source=rss)
+ - [Pony AI plans to deploy 2K+ robotaxis across Europe in partnership with Uber and add four more European cities, after Zagreb, with a later Middle East expansion &lpar;Bloomberg&rpar;](https://www.techmeme.com/260813/p56#a260813p56)
+ - [New wave of Apple threat notifications reach 110 countries to warn about targeted attacks](https://appleinsider.com/articles/26/08/14/new-wave-of-apple-threat-notifications-reach-110-countries-to-warn-about-targeted-attacks?utm_source=rss)
+ - [A profile of Amy Kremer, a pro-Trump activist who helped organize the January 6 rally and currently chairs the grassroots anti-data center group Humans First &lpar;Veronica Irwin/Transformer&rpar;](https://www.techmeme.com/260813/p55#a260813p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

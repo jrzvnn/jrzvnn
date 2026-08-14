@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Current and former OpenAI employees say pressure to quickly ship products left less time for safety, contributing to incidents like the rogue agent hack &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260813/p54#a260813p54)
+ - [Applied Materials reports Q3 revenue up 25% YoY to $9.12B, vs. $8.99B est., net income up 43% to $2.54B, and forecasts Q4 revenue above estimates &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p53#a260813p53)
+ - [Google’s New Pixel 11 Phones Get Higher Starting Prices — Blame the RAM Shortage](https://www.cnet.com/tech/mobile/googles-new-pixel-11-phones-got-higher-starting-prices-blame-the-ram-shortage/)
  - [Charter receives final state approval to buy Cox for $21.9B after making concessions to California regulators, including low-cost internet for some households &lpar;Patience Haggin/Wall Street Journal&rpar;](https://www.techmeme.com/260813/p52#a260813p52)
- - [We Spotted So Many Workarounds for Flock’s New Rules on Police Camera Surveillance](https://www.cnet.com/news/privacy/we-spotted-so-many-workarounds-for-flocks-new-rules-on-police-camera-surveillance/)
- - [Epic v. Apple: Apple proposes commissions on US linked-out purchases of 15% for standard apps, 10% for partner programs and renewals, 5% for Small Business apps &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260813/p51#a260813p51)
- - [A judge orders Kalshi to stop offering most of its prediction contracts in Washington state, after finding it likely violated state gambling-related laws &lpar;J.J. McCorvey/Bloomberg&rpar;](https://www.techmeme.com/260813/p50#a260813p50)
- - [Apple&#39;s latest commission rates for external App Store purchases haven&#39;t satisfied Epic](https://appleinsider.com/articles/26/08/13/apples-latest-commission-rates-for-external-app-store-purchases-havent-satisfied-epic?utm_source=rss)<!-- TECH:END -->
+ - [We Spotted So Many Workarounds for Flock’s New Rules on Police Camera Surveillance](https://www.cnet.com/news/privacy/we-spotted-so-many-workarounds-for-flocks-new-rules-on-police-camera-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

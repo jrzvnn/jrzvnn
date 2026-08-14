@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260814/p25#a260814p25)
+ - [The Next Big Influencer Is This 4-Foot-Tall Robot From China](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)
+ - [Judge Tells Google to Make It Easier to Install Third-Party App Stores](https://www.cnet.com/tech/services-and-software/judge-tells-google-to-make-it-easier-to-install-third-party-app-stores/)
  - [The US OCC conditionally approves a bank charter application for Trump family&#39;s World Liberty Financial, allowing it to directly issue its USD1 stablecoin &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p24#a260814p24)
- - [Investor letter: Thrive&#39;s 2022 early-stage $516M fund that invested in OpenAI and SpaceX was worth $3.7B+ as of the end of June, net of fees and other charges &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260814/p23#a260814p23)
- - [Missing the bigger picture: Apple pulls down ad in Milan after children&#39;s rights group complains](https://appleinsider.com/articles/26/08/14/missing-the-bigger-picture-apple-pulls-down-ad-in-milan-after-childrens-rights-group-complains?utm_source=rss)
- - [Apple’s Once-Futuristic iPhone X Is Now ‘Obsolete’](https://www.cnet.com/tech/mobile/apples-once-futuristic-iphone-x-is-now-obsolete/)
- - [Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260814/p22#a260814p22)<!-- TECH:END -->
+ - [Investor letter: Thrive&#39;s 2022 early-stage $516M fund that invested in OpenAI and SpaceX was worth $3.7B+ as of the end of June, net of fees and other charges &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260814/p23#a260814p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

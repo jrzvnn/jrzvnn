@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
- - 😝 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)
- - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [Something&#39;s wrong with you guys over there](http://9gag.com/gag/a87P8Z1)
- - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
+ - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 😝 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 

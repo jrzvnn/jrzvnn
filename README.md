@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 😝 [Not all dinosaurs are able to slay](https://www.reddit.com/r/funny/comments/1vola4i/not_all_dinosaurs_are_able_to_slay/)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 💣 [No homo](http://9gag.com/gag/apRypZ9)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [The Walking dead](http://9gag.com/gag/aQzw38w)
- - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
+ - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
 
 ---
 

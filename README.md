@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
- - 😝 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
- - 💣 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)
- - 😝 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 😝 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Falling Down MMXXVI](http://9gag.com/gag/aGy3er6)
+ - 👉 [And u worm get to work](http://9gag.com/gag/adBZX4V)<!-- MEMES:END -->
 
 ---
 

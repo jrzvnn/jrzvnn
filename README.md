@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Back-to-School Deals Can Be Complicated, but Some Discounted MacBooks Don’t Need a Student ID](https://www.cnet.com/tech/apples-back-to-school-deals-can-be-complicated-but-some-discounted-macbooks-dont-need-a-student-id/)
+ - [France&#39;s top court blocks a bill banning social media for under-15s, citing freedom of expression; Macron asks his government to re-work the bill &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p13#a260814p13)
+ - [Black Hole Stars Are Apparently Real and Help Explain a Long-Standing Mystery](https://www.cnet.com/science/space/black-hole-star-mom-bh-1-space-science-research/)
+ - [You Don’t Always Need a Student ID for Apple’s Back-to-School Deals](https://www.cnet.com/tech/apple-back-to-school-deals-discounted-macbooks-student-id/)
  - [Life on Mars? It Remains a Tantalizing Topic for Scientific Study](https://www.cnet.com/science/space/mars-science-seeking-signs-of-life/)
- - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)
- - [Google’s Pixel Phones Are Getting a Tap-to-Share Feature for Contact Info and More](https://www.cnet.com/tech/google-pixel-phones-get-airdrop-like-feature-share-files-contacts/)
- - [CMF hit the balance between cheap and good clip earbuds](https://www.theverge.com/tech/979928/cmf-clip-pro-review)<!-- TECH:END -->
+ - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

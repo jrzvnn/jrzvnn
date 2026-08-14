@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)
  - [Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5&#39;s 83.8%, and its most sensitive cybersecurity functions will only be available to verified users &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p28#a260814p28)
  - [Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260814/p27#a260814p27)
  - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
- - [Docs: Anthropic told investors it generated $11.5B+ in revenue, with positive adjusted operating income, in Q2, up from $787M in Q2 2025 and $4.73B in Q1 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p26#a260814p26)
- - [The Best Movies to Stream This Month &lpar;August 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)<!-- TECH:END -->
+ - [Docs: Anthropic told investors it generated $11.5B+ in revenue, with positive adjusted operating income, in Q2, up from $787M in Q2 2025 and $4.73B in Q1 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p26#a260814p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

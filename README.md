@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe the insurance will cover that](http://9gag.com/gag/amoj9Ko)
- - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
- - 💣 [Nice show](http://9gag.com/gag/aPANWgw)
- - 😝 [Hold my tentacle while I kiss you, hooman!](https://www.reddit.com/r/funny/comments/1vnsx8a/hold_my_tentacle_while_i_kiss_you_hooman/)
- - 👉 [Never saw Emo Girls fighting before](http://9gag.com/gag/a0eAjYL)<!-- MEMES:END -->
+ - 😝 [Better dont touch a strangers man dog](http://9gag.com/gag/aQzwxEq)
+ - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 💣 [Olivia Munn as psylocke in x men apocalypse](http://9gag.com/gag/aPANWYP)
+ - 😝 [Those damn onion cutting ninjas at it again](http://9gag.com/gag/a0eAdDq)
+ - 👉 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad idea at the beach](http://9gag.com/gag/aVvnDbM)
- - 😝 [I\u2019m gen X](http://9gag.com/gag/a4PejQ6)
- - 💣 [When your friend becomes your enemy](http://9gag.com/gag/aqy3bZ7)
- - 😝 [Those damn onion cutting ninjas at it again](http://9gag.com/gag/a0eAdDq)
- - 👉 [Hero without cape](http://9gag.com/gag/avyYnXd)<!-- MEMES:END -->
+ - 😝 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)
+ - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
+ - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
+ - 👉 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)<!-- MEMES:END -->
 
 ---
 

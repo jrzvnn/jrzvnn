@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s Once-Futuristic iPhone X Is Now ‘Obsolete’](https://www.cnet.com/tech/mobile/apples-once-futuristic-iphone-x-is-now-obsolete/)
+ - [Sources: PayPal is in talks to sell itself to a group including Stripe and Advent, which proposed paying $60.50/share in July; PayPal is seeking a higher price &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260814/p22#a260814p22)
  - [Risk report: Anthropic raises misalignment risk estimate from very low to low and says it doesn&#39;t plan to release a stronger internal model called &quot;Model 2&quot; &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260814/p21#a260814p21)
  - [Source: OpenAI CFO told investors that enterprise business now generates more revenue than ChatGPT-led consumer business; enterprise customers grew 32% in July &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/260814/p20#a260814p20)
- - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)
- - [‘The Mandalorian and Grogu’ Gets Disney Plus Streaming Release Date](https://www.cnet.com/culture/entertainment/the-mandalorian-and-grogu-gets-disney-plus-streaming-release-date/)
- - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)<!-- TECH:END -->
+ - [Samsung has new Galaxy headphones in the works](https://www.theverge.com/gadgets/980547/samsung-galaxy-h1-over-ear-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of those nights](http://9gag.com/gag/azxNAWZ)
- - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
- - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Falling Down MMXXVI](http://9gag.com/gag/aGy3er6)
- - 👉 [And u worm get to work](http://9gag.com/gag/adBZX4V)<!-- MEMES:END -->
+ - 😝 [Hero without cape](http://9gag.com/gag/avyYnXd)
+ - 😝 [Based Teal&#39;c](http://9gag.com/gag/aVvnen8)
+ - 💣 [Crazy world](http://9gag.com/gag/aKG02Vg)
+ - 😝 [Hiring someone just because they have certification](http://9gag.com/gag/aQzweBK)
+ - 👉 [No homo](http://9gag.com/gag/apRypZ9)<!-- MEMES:END -->
 
 ---
 

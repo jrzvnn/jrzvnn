@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
  - 😝 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
+ - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [This sounds promising](http://9gag.com/gag/aXPDvQ9)
+ - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
 
 ---
 

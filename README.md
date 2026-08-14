@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
- - [Apple’s Warnings About Spyware Are Real, Don’t Ignore Them](https://www.cnet.com/tech/apples-warnings-about-spyware-are-real-dont-ignore-them/)
- - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)
- - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
- - [Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260814/p17#a260814p17)<!-- TECH:END -->
+ - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
+ - [Nevada granted Tesla a robotaxi permit, but capped the fleet at 10 vehicles, not 5,000 that Tesla sought, banned airport pickups, and ordered other restrictions &lpar;Joann Muller/Axios&rpar;](https://www.techmeme.com/260814/p19#a260814p19)
+ - [A RAMageddon guide to back-to-school laptop shopping](https://www.theverge.com/tech/979996/best-laptops-students-middle-high-school)
+ - [Lamborghini’s flagship Revuelto levels up with SV trim](https://www.theverge.com/transportation/979807/lamborghini-revuelto-sv-specs-performance)
+ - [The X-Files creator Chris Carter wanted to make a more horrific movie](https://www.theverge.com/entertainment/979925/the-x-files-chris-carter-vrach-frankenshteyn-interview-hulu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

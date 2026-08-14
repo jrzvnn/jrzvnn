@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [One of those nights](http://9gag.com/gag/azxNAWZ)
+ - 😝 [No homo](http://9gag.com/gag/apRypZ9)
+ - 💣 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)
  - 😝 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)
- - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
- - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
- - 😝 [Nice show](http://9gag.com/gag/aPANWgw)
- - 👉 [Bro is fighting for his life down there.](http://9gag.com/gag/aZZApZ0)<!-- MEMES:END -->
+ - 👉 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)<!-- MEMES:END -->
 
 ---
 

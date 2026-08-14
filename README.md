@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s top court blocks a bill banning social media for under-15s, citing freedom of expression; Macron asks his government to re-work the bill &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p13#a260814p13)
- - [Black Hole Stars Are Apparently Real and Help Explain a Long-Standing Mystery](https://www.cnet.com/science/space/black-hole-star-mom-bh-1-space-science-research/)
- - [You Don’t Always Need a Student ID for Apple’s Back-to-School Deals](https://www.cnet.com/tech/apple-back-to-school-deals-discounted-macbooks-student-id/)
- - [Life on Mars? It Remains a Tantalizing Topic for Scientific Study](https://www.cnet.com/science/space/mars-science-seeking-signs-of-life/)
- - [Best Wireless Chargers &lpar;2026&rpar;: My Picks After Testing 100+](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
+ - [Tech Visionary Says the Big AI Labs Don’t Get What People Want](https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/)
+ - [AirPods Pro rumor roundup: Infrared cameras, gesture recognition, more](https://appleinsider.com/articles/26/08/14/airpods-pro-rumor-roundup-infrared-cameras-gesture-recognition-more?utm_source=rss)
+ - [2025 GOTY Clair Obscur: Expedition 33 is down to $33](https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale)
+ - [Source: Greg Brockman is &quot;in founder mode&quot; and getting more involved across every level of OpenAI to build out a leadership team ahead of an expected IPO &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260814/p14#a260814p14)
+ - [France&#39;s top court blocks a bill banning social media for under-15s, saying it infringed upon freedom of expression; Macron orders the PM to re-work the bill &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p13#a260814p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

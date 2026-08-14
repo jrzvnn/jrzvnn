@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [This sounds promising](http://9gag.com/gag/aXPDvQ9)
- - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
+ - 😝 [He finally lost the battle. He was a 16 and 0 professional boxer but his career was ended after being illegally punched by his opponent Terrell Williams which caused brain bleeding and permanent neurological damage. RIP man, you fought hard.](http://9gag.com/gag/an7pbV0)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 

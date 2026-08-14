@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 Pro MacBook Pro with 48GB RAM gets $300 price cut](https://appleinsider.com/articles/26/08/14/apples-m5-pro-macbook-pro-with-48gb-ram-gets-300-price-cut?utm_source=rss)
- - [In Q2, &quot;other income&quot;, mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p15#a260814p15)
- - [Tech Visionary Says the Big AI Labs Don’t Get What People Want](https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/)
- - [AirPods Pro rumor roundup: Infrared cameras, gesture recognition, more](https://appleinsider.com/articles/26/08/14/airpods-pro-rumor-roundup-infrared-cameras-gesture-recognition-more?utm_source=rss)
- - [2025 GOTY Clair Obscur: Expedition 33 is down to $33](https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale)<!-- TECH:END -->
+ - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)
+ - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
+ - [Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260814/p17#a260814p17)
+ - [You can now turn off Google Gemini&amp;#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
+ - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

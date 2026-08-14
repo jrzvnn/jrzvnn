@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip equipment maker Lam Research plans to invest $3B+ over five years to expand its global R&amp;D network, aiming to increase its experiment capacity by 50%+ &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260814/p11#a260814p11)
- - [FTC Strikes Deals to Ignore Unlawful Credit Discrimination](https://www.wired.com/story/ftc-strikes-deals-to-ignore-unlawful-credit-discrimination/)
- - [The MSI Claw EX is the most important handheld since Steam Deck — I still wouldn’t buy one](https://www.theverge.com/games/977646/msi-claw-8-ex-review-intel-panther-lake-handheld)
- - [Hoto’s new cordless soldering iron heats up in three seconds](https://www.theverge.com/tech/979576/hoto-i-a06-cordless-soldering-iron-snapbloq-rechargeable)
- - [These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI](https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/)<!-- TECH:END -->
+ - [iPhone Ultra, OpenAI&#39;s Alexa Dot, &amp; AI costs on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/14/iphone-ultra-openais-alexa-dot-ai-costs-on-the-appleinsider-podcast?utm_source=rss)
+ - [The 4 Best Planners of 2026: Roterunner, Hobonichi, Cloth &amp; Paper](https://www.wired.com/story/best-paper-planners/)
+ - [Apple has trained its own AI for China rather than using Gemini](https://appleinsider.com/articles/26/08/14/apple-has-trained-its-own-ai-for-china-rather-than-using-gemini?utm_source=rss)
+ - [How to use Continuity to make your Apple devices work better together](https://appleinsider.com/inside/icloud/tips/how-to-use-continuity-to-make-your-apple-devices-work-better-together?utm_source=rss)
+ - [Sources: stablecoin payments company RedotPay delays plans for a US IPO to 2027 or later, as it seeks regulatory approvals and deals with legal issues &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p12#a260814p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

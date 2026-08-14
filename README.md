@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)
+ - [Google&amp;#8217;s best new camera feature is only for the Pixel 11 series](https://www.theverge.com/tech/980467/google-pixel-11-camera-looks-older-phones)
+ - [Apple’s Warnings About Spyware Are Real, Don’t Ignore Them](https://www.cnet.com/tech/apples-warnings-about-spyware-are-real-dont-ignore-them/)
+ - [Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260814/p18#a260814p18)
  - [Mark Zuckerberg has an Instagzam](https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast)
- - [Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260814/p17#a260814p17)
- - [You can now turn off Google Gemini&amp;#8217;s visible watermarks](https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal)
- - [It&#39;s begun - US and Canadian firms can now buy ads on Apple Maps](https://appleinsider.com/articles/26/08/14/its-begun---us-and-canadian-firms-can-now-buy-ads-on-apple-maps?utm_source=rss)<!-- TECH:END -->
+ - [Apple officially opens ad bookings for businesses on Apple Maps ahead of an upcoming full rollout across the US and Canada &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/260814/p17#a260814p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

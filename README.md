@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That’s not where it goes…](https://www.reddit.com/r/funny/comments/1vomxrq/thats_not_where_it_goes/)
- - 😝 [Wife asked for a No Soliciting sign](https://www.reddit.com/r/funny/comments/1vomwcf/wife_asked_for_a_no_soliciting_sign/)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 😝 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 👉 [I can wait..](http://9gag.com/gag/aAyWDWZ)<!-- MEMES:END -->
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 💣 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
+ - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a9yQpyW)
+ - 👉 [NASA shows what a total solar eclipse looks like from space](http://9gag.com/gag/amojYD4)<!-- MEMES:END -->
 
 ---
 

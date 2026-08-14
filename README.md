@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M5 Pro MacBook Pro with 48GB RAM gets $300 price cut](https://appleinsider.com/articles/26/08/14/apples-m5-pro-macbook-pro-with-48gb-ram-gets-300-price-cut?utm_source=rss)
+ - [In Q2, &quot;other income&quot;, mostly from investment gains, at Amazon and Alphabet totaled ~$121B after taxes and made up 66% and 71%, respectively, of profits &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p15#a260814p15)
  - [Tech Visionary Says the Big AI Labs Don’t Get What People Want](https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/)
  - [AirPods Pro rumor roundup: Infrared cameras, gesture recognition, more](https://appleinsider.com/articles/26/08/14/airpods-pro-rumor-roundup-infrared-cameras-gesture-recognition-more?utm_source=rss)
- - [2025 GOTY Clair Obscur: Expedition 33 is down to $33](https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale)
- - [Source: Greg Brockman is &quot;in founder mode&quot; and getting more involved across every level of OpenAI to build out a leadership team ahead of an expected IPO &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260814/p14#a260814p14)
- - [France&#39;s top court blocks a bill banning social media for under-15s, saying it infringed upon freedom of expression; Macron orders the PM to re-work the bill &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p13#a260814p13)<!-- TECH:END -->
+ - [2025 GOTY Clair Obscur: Expedition 33 is down to $33](https://www.theverge.com/gadgets/980261/clair-obscur-pixel-11-gaming-laptop-4k-bluray-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

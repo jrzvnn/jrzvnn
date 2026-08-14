@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260814/p27#a260814p27)
+ - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)
  - [Docs: Anthropic told investors it generated $11.5B+ in revenue, with positive adjusted operating income, in Q2, up from $787M in Q2 2025 and $4.73B in Q1 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p26#a260814p26)
  - [The Best Movies to Stream This Month &lpar;August 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
- - [Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260814/p25#a260814p25)
- - [ChatGPT Can Now Add Your Mac Activity to Its Memories](https://www.cnet.com/tech/services-and-software/chatgpt-mac-activity-computer-history/)
- - [The Next Big Influencer Is This 4-Foot-Tall Robot From China](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)<!-- TECH:END -->
+ - [Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260814/p25#a260814p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

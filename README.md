@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Let&#39;s go to the comment section...](http://9gag.com/gag/aMVRwx1)
- - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
- - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [Well! That backfired](http://9gag.com/gag/amojrP9)
+ - 😝 [High school teacher broke down in tears in class after realizing his students couldn\u2019t read or write](http://9gag.com/gag/avyYGnE)
+ - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [Something&#39;s wrong with you guys over there](http://9gag.com/gag/a87P8Z1)
  - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
 
 ---

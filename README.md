@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Anthropic told investors it generated $11.5B+ in revenue, with positive adjusted operating income, in Q2, up from $787M in Q2 2025 and $4.73B in Q1 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p26#a260814p26)
+ - [The Best Movies to Stream This Month &lpar;August 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
  - [Amazon adds a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against it, after removing a similar clause in 2021 &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/260814/p25#a260814p25)
- - [The Next Big Influencer Is This 4-Foot-Tall Robot From China](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)
- - [Judge Tells Google to Make It Easier to Install Third-Party App Stores](https://www.cnet.com/tech/services-and-software/judge-tells-google-to-make-it-easier-to-install-third-party-app-stores/)
- - [The US OCC conditionally approves a bank charter application for Trump family&#39;s World Liberty Financial, allowing it to directly issue its USD1 stablecoin &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p24#a260814p24)
- - [Investor letter: Thrive&#39;s 2022 early-stage $516M fund that invested in OpenAI and SpaceX was worth $3.7B+ as of the end of June, net of fees and other charges &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260814/p23#a260814p23)<!-- TECH:END -->
+ - [ChatGPT Can Now Add Your Mac Activity to Its Memories](https://www.cnet.com/tech/services-and-software/chatgpt-mac-activity-computer-history/)
+ - [The Next Big Influencer Is This 4-Foot-Tall Robot From China](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

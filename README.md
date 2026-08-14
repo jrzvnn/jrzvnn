@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [I can wait..](http://9gag.com/gag/aAyWDWZ)
- - 😝 [This sounds promising](http://9gag.com/gag/aXPDvQ9)
- - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
+ - 😝 [That’s not where it goes…](https://www.reddit.com/r/funny/comments/1vomxrq/thats_not_where_it_goes/)
+ - 😝 [Wife asked for a No Soliciting sign](https://www.reddit.com/r/funny/comments/1vomwcf/wife_asked_for_a_no_soliciting_sign/)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
+ - 👉 [I can wait..](http://9gag.com/gag/aAyWDWZ)<!-- MEMES:END -->
 
 ---
 

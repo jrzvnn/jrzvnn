@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 😝 [This sounds promising](http://9gag.com/gag/aXPDvQ9)
- - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
+ - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [The Walking dead](http://9gag.com/gag/aQzw38w)
+ - 👉 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)<!-- MEMES:END -->
 
 ---
 

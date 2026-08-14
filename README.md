@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
+ - 😝 [Let&#39;s go to the comment section...](http://9gag.com/gag/aMVRwx1)
+ - 💣 [One of those nights](http://9gag.com/gag/azxNAWZ)
  - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [No reception party for you!!!](http://9gag.com/gag/avyYrq5)
- - 💣 [Marketing failed this movie. I didn\u2019t even know it\u2019s out already.](http://9gag.com/gag/aE0rRpp)
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 👉 [Yes, OK, you can fix her... but you can choose only one and choose wisely.](http://9gag.com/gag/a5QmrvG)<!-- MEMES:END -->
+ - 👉 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)<!-- MEMES:END -->
 
 ---
 

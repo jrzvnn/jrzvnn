@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Snuck in and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why](https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/)
+ - [A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online &lpar;Washington Post&rpar;](https://www.techmeme.com/260815/p12#a260815p12)
  - [Starfighter Trailer, Ahsoka and Anakin: Biggest Star Wars News Out of D23](https://www.cnet.com/tech/services-and-software/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d23/)
  - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)
- - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
- - [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)
- - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)<!-- TECH:END -->
+ - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

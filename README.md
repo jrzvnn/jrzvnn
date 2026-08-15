@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Ester Z\u00e1rate won first place in her category at the Trail de las Culturas Tlaxiaco, a 14 kilometre course without shoes.](http://9gag.com/gag/aW4KY4K)
- - 👉 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
+ - 😝 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 👉 [This sounds promising](http://9gag.com/gag/aXPDvQ9)<!-- MEMES:END -->
 
 ---
 

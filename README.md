@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio &lpar;The Information&rpar;](https://www.techmeme.com/260815/p14#a260815p14)
  - [Lego Star Wars: The Mandalorian Is Packed With Laughs, Flashbacks and Lots of Grogu](https://www.cnet.com/culture/entertainment/lego-star-wars-the-mandalorian-is-packed-with-laughs-flashbacks-and-lots-of-grogu/)
  - [X-Men Cast, VisionQuest Trailer: All the Big Marvel News Out of D23](https://www.cnet.com/tech/services-and-software/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23/)
  - [Disney D23 Movies and Streaming Lineup: Biggest Surprises and Everything Else](https://www.cnet.com/tech/services-and-software/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everything-else/)
- - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)
- - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)<!-- TECH:END -->
+ - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

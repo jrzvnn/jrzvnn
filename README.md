@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
  - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
  - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---

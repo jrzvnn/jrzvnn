@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
+ - 😝 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
  - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 😝 [Ester Z\u00e1rate won first place in her category at the Trail de las Culturas Tlaxiaco, a 14 kilometre course without shoes.](http://9gag.com/gag/aW4KY4K)
  - 👉 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)
  - [Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)
  - [Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B from LB Investment, Arm, Maverick Silicon, and others &lpar;Giacomo Lee/SDxCentral&rpar;](https://www.techmeme.com/260815/p6#a260815p6)
  - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)
- - [Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260815/p4#a260815p4)
- - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)<!-- TECH:END -->
+ - [Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260815/p4#a260815p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pho king good](https://www.reddit.com/r/funny/comments/1vphy2v/pho_king_good/)
  - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
- - 😝 [Bright future for the USA](http://9gag.com/gag/aRB510B)
- - 💣 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 👉 [That was deep](http://9gag.com/gag/apRymoB)<!-- MEMES:END -->
+ - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

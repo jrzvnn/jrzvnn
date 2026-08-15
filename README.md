@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
- - 😝 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
- - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 👉 [A lost celebrity spotted in the wild](http://9gag.com/gag/aYQ8gb0)<!-- MEMES:END -->
+ - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
+ - 😝 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
 
 ---
 

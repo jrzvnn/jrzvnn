@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego Star Wars: The Mandalorian Is Packed With Laughs, Flashbacks and Lots of Grogu](https://www.cnet.com/culture/entertainment/lego-star-wars-the-mandalorian-is-packed-with-laughs-flashbacks-and-lots-of-grogu/)
+ - [X-Men Cast, VisionQuest Trailer: All the Big Marvel News Out of D23](https://www.cnet.com/tech/services-and-software/x-men-cast-visionquest-trailer-all-the-big-marvel-news-out-of-d23/)
  - [Disney D23 Movies and Streaming Lineup: Biggest Surprises and Everything Else](https://www.cnet.com/tech/services-and-software/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everything-else/)
  - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)
- - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)
- - [Don&amp;#8217;t overlook Elektron&amp;#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
- - [Disney Snuck In and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why](https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/)<!-- TECH:END -->
+ - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

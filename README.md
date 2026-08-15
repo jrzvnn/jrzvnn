@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
  - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
  - 😝 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
  - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
 
 ---

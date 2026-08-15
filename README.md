@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney D23 Movies and Streaming Lineup: Biggest Surprises and Everything Else](https://www.cnet.com/tech/services-and-software/disney-d23-movies-and-streaming-lineup-biggest-surprises-and-everything-else/)
  - [Sources: Mercor and other firms gathering data for AI labs are driving demand to buy or license internal datasets from startups shutting down or being acquired &lpar;Alix Coutures/The Information&rpar;](https://www.techmeme.com/260815/p13#a260815p13)
  - [Patent Filing Suggests Meta’s Facial Recognition Glasses Are Coming](https://www.cnet.com/news/privacy/patent-filing-suggests-metas-facial-recognition-glasses-are-coming/)
  - [Don&amp;#8217;t overlook Elektron&amp;#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
- - [Disney Snuck In and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why](https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/)
- - [A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online &lpar;Washington Post&rpar;](https://www.techmeme.com/260815/p12#a260815p12)<!-- TECH:END -->
+ - [Disney Snuck In and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why](https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

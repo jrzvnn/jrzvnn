@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 💣 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
+ - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 💣 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
+ - 👉 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)<!-- MEMES:END -->
 
 ---
 

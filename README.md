@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source and letter: the US plans to tell 35 partner countries they&#39;ll be excluded from the US-led Pax Silica initiative if they also join China&#39;s rival framework &lpar;Michael Martina/Reuters&rpar;](https://www.techmeme.com/260814/p35#a260814p35)
  - [How dual-valuation deals became pervasive in the current frenzied AI funding cycle, with prestige VC firms monetizing their brand names by getting better prices &lpar;M. Sriram/Newcomer&rpar;](https://www.techmeme.com/260814/p34#a260814p34)
  - [Commerce Secretary Howard Lutnick says the US is &quot;not in favor&quot; of Apple buying Chinese memory chips, and there have to be &quot;other solutions to the memory issue&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260814/p33#a260814p33)
  - [Sources: Anthropic projects 2028 revenue of ~$190B-$200B, vs. a revenue run rate of $47B in May, as bankers and investors price the company ahead of an IPO &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260814/p32#a260814p32)
- - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)
- - [Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p30#a260814p30)<!-- TECH:END -->
+ - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

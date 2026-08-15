@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [BCG: enterprise users spent a total of $300M on quantum computing in 2025, outranking the combined spending of research labs and governments for the first time &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](https://www.techmeme.com/260815/p8#a260815p8)
  - [Puerto Rico Is Rationing Water. It Could’ve Avoided It by Harvesting Rainwater](https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/)
  - [Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out](https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/)
- - [Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)<!-- TECH:END -->
+ - [Effective altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

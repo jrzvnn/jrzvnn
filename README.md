@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)
- - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
- - [Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade](https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/)
- - [6 Best Apple Watch Accessories to Upgrade Your Watch &lpar;2026&rpar;](https://www.wired.com/story/best-apple-watch-accessories/)
- - [Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts](https://www.wired.com/review/auk-mini-2-indoor-smart-garden/)
- - [Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever](https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/)<!-- TECH:END -->
+ - [Seven years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss)
+ - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
+ - [This Beautifully Weird Necklace Is Secretly a USB Drive](https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/)
+ - [Retrospec Joe Rev 2 Review &lpar;2026&rpar;: Putting the ‘Joy’ in Joyride](https://www.wired.com/review/retrospec-joe-rev-2/)
+ - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

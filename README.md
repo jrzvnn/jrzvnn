@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Do your thing](http://9gag.com/gag/aNDxz6w)
- - 💣 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)
- - 😝 [This is a formal petition to make Hollywood pig shaped](http://9gag.com/gag/azxNXGB)
- - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
 
 ---
 

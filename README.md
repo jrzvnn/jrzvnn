@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
- - 💣 [Sound on](http://9gag.com/gag/aW4KqVx)
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a9yQpyW)
+ - 😝 [A lost celebrity spotted in the wild](http://9gag.com/gag/aYQ8gb0)
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
  - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
 
 ---

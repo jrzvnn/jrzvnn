@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Talent is off the charts](https://www.reddit.com/r/funny/comments/1vp20v1/talent_is_off_the_charts/)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
+ - 😝 [Sound on](http://9gag.com/gag/aW4KqVx)
+ - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Gaming is life](http://9gag.com/gag/aQzwR3w)
+ - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
 
 ---
 

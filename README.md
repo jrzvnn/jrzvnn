@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No homo](http://9gag.com/gag/apRypZ9)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 💣 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
- - 😝 [Is it possible to learn this power?](http://9gag.com/gag/a9yQpyW)
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
  - 👉 [NASA shows what a total solar eclipse looks like from space](http://9gag.com/gag/amojYD4)<!-- MEMES:END -->
 
 ---

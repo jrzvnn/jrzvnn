@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
  - 😝 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
  - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [We were too young to understand](http://9gag.com/gag/avyYOYO)
- - 👉 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)<!-- MEMES:END -->
+ - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
+ - 👉 [A lost celebrity spotted in the wild](http://9gag.com/gag/aYQ8gb0)<!-- MEMES:END -->
 
 ---
 

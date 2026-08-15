@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This photo I just found of me sitting on “Santa”’s lap, Christmas 1983](https://www.reddit.com/r/funny/comments/1vpd7nd/this_photo_i_just_found_of_me_sitting_on_santas/)
  - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
  - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 👉 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)<!-- MEMES:END -->
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [But but muh free plasteline?!](http://9gag.com/gag/aqy3KDZ)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

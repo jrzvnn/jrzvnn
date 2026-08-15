@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney D23 2026: Everything announced for Star Wars, Marvel, and more](https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23)
- - [I finally found a magnetic phone grip I never want to remove](https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review)
- - [Marvel reveals the new X-Men cast, including Inde Navarrette and Adam Driver](https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast)
- - [Xteink’s tiny e-readers are getting access to free books through Libby](https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader)
- - [Shanghai&#39;s tech-focused Star 50 index is up 29% in 2026, and its P/E ratio is 150+, above Nasdaq 100&#39;s 35, fueled by Beijing&#39;s tech push and an investor frenzy &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260815/p9#a260815p9)<!-- TECH:END -->
+ - [Alibaba&#39;s open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260815/p10#a260815p10)
+ - [Shanghai&#39;s tech-focused Star 50 index is up 29% in 2026, and its P/E ratio is 150+, above Nasdaq 100&#39;s 35, fueled by Beijing&#39;s tech push and an investor frenzy &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260815/p9#a260815p9)
+ - [U.S. Commerce Secretary warns Apple against buying Chinese memory](https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss)
+ - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
+ - [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

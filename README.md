@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 😝 [Do your thing](http://9gag.com/gag/aNDxz6w)
+ - 💣 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)
+ - 😝 [This is a formal petition to make Hollywood pig shaped](http://9gag.com/gag/azxNXGB)
  - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
- - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
+ - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
+ - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
+ - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
 
 ---
 

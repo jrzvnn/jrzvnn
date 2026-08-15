@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Commerce Secretary Howard Lutnick says the US is &quot;not in favor&quot; of Apple buying Chinese memory chips, and there have to be &quot;other solutions to the memory issue&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260814/p33#a260814p33)
+ - [Sources: Anthropic projects 2028 revenue of ~$190B-$200B, vs. a revenue run rate of $47B in May, as bankers and investors price the company ahead of an IPO &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260814/p32#a260814p32)
+ - [Waymo receives approval from the California Public Utilities Commission to expand across 18 counties, including Sacramento and San Diego &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/260814/p31#a260814p31)
  - [Sources: Nvidia has reworked a deal to finance an OpenAI Ohio data center campus so that it would initially guarantee only half of its planned $250B backstop &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260814/p30#a260814p30)
- - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)
- - [Z.ai says GLM-5.3 scores 84.5% on CyberGym, vs. Mythos 5&#39;s 83.8%, and its most sensitive cybersecurity functions will only be available to verified users &lpar;Reuters&rpar;](https://www.techmeme.com/260814/p28#a260814p28)
- - [Filing: Nvidia has a nearly $21B stake in SpaceX and a $30B stake in Intel; Nvidia invested as much as $2B in xAI in 2025 and $5B in Intel &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/260814/p27#a260814p27)
- - [New York City Lawmakers Push to ‘Ban the Scan’ at MSG](https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/)<!-- TECH:END -->
+ - [SpaceX closes its $60B acquisition of Cursor, two months after SpaceX formally announced it had agreed to acquire the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260814/p29#a260814p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&amp;#8217;t overlook Elektron&amp;#8217;s budget electronic music instruments](https://www.theverge.com/gadgets/980275/elektron-model-cycles-model-samples-groovebox-electronic-music-instruments-review)
  - [Disney Snuck in and Overhauled the Millennium Falcon While You Were Sleeping. Here’s Why](https://www.cnet.com/culture/entertainment/disney-snuck-in-and-overhauled-the-millennium-falcon-while-you-were-sleeping-heres-why/)
  - [A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online &lpar;Washington Post&rpar;](https://www.techmeme.com/260815/p12#a260815p12)
  - [Starfighter Trailer, Ahsoka and Anakin: Biggest Star Wars News Out of D23](https://www.cnet.com/tech/services-and-software/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d23/)
- - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)
- - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)<!-- TECH:END -->
+ - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

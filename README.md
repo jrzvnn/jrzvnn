@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No homo](http://9gag.com/gag/apRypZ9)
  - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
+ - 💣 [NASA shows what a total solar eclipse looks like from space](http://9gag.com/gag/amojYD4)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 👉 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)<!-- MEMES:END -->
 
 ---
 

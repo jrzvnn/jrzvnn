@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood math at its finest](http://9gag.com/gag/ae9oemB)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
- - 👉 [This sounds promising](http://9gag.com/gag/aXPDvQ9)<!-- MEMES:END -->
+ - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

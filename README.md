@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)
  - [Instapaper, the Original Read-It-Later App, Just Got a Huge Upgrade](https://www.wired.com/story/instapaper-the-original-read-it-later-app-just-got-a-huge-upgrade/)
  - [6 Best Apple Watch Accessories to Upgrade Your Watch &lpar;2026&rpar;](https://www.wired.com/story/best-apple-watch-accessories/)
  - [Auk Mini 2 Indoor Smart Garden Review: Better Where It Counts](https://www.wired.com/review/auk-mini-2-indoor-smart-garden/)
- - [Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever](https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/)
- - [5 Best Apple Watch Bands: Nike, Nomad, and Hermés &lpar;2026&rpar;](https://www.wired.com/story/best-apple-watch-bands/)<!-- TECH:END -->
+ - [Zyzz Was the Original Looksmaxxer. His Rise and Untimely Death Feel More Relevant Than Ever](https://www.wired.com/story/a-young-bodybuilders-rise-preceded-the-looksmaxxing-movement-his-legacy-feels-more-relevant-than-ever/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

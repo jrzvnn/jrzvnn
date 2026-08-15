@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
+ - 😝 [What the fu... I&#39;ve spent 786.3M seconds on earth 🤯 I just checked mine and what the hell 😂 786M+ seconds already. How many are yours? 🌍](https://www.reddit.com/r/funny/comments/1vovyap/what_the_fu_ive_spent_7863m_seconds_on_earth_i/)
+ - 😝 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)
+ - 💣 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 👉 [Magic trapped in plastic](http://9gag.com/gag/aqy3rqR)<!-- MEMES:END -->
 
 ---
 

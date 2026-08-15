@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
- - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Talent is off the charts](https://www.reddit.com/r/funny/comments/1vp20v1/talent_is_off_the_charts/)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 💣 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
  - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
+ - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---
 

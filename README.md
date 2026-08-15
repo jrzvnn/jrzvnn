@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seven years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss)
- - [How classic console games are coming to the Mac without emulation](https://appleinsider.com/articles/26/08/14/how-classic-console-games-are-coming-to-the-mac-without-emulation?utm_source=rss)
- - [This Beautifully Weird Necklace Is Secretly a USB Drive](https://www.wired.com/story/this-beautifully-weird-necklace-is-secretly-a-usb-drive/)
- - [Retrospec Joe Rev 2 Review &lpar;2026&rpar;: Putting the ‘Joy’ in Joyride](https://www.wired.com/review/retrospec-joe-rev-2/)
- - [When housing is unaffordable, this artist’s device makes pedaling harder](https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal)<!-- TECH:END -->
+ - [Shanghai&#39;s tech-focused Star 50 index is up 29% in 2026, and its P/E ratio is 150+, above Nasdaq 100&#39;s 35, fueled by Beijing&#39;s tech push and an investor frenzy &lpar;William Sandlund/Financial Times&rpar;](https://www.techmeme.com/260815/p9#a260815p9)
+ - [U.S. Commerce Secretary warns Apple against buying Chinese memory](https://appleinsider.com/articles/26/08/15/us-commerce-secretary-warns-apple-against-buying-chinese-memory?utm_source=rss)
+ - [We’re reaching peak camera with the Sony A7R VI](https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review)
+ - [The surprise must-see movie of the summer](https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer)
+ - [Seven years later, the Apple Card is a huge but controversial success](https://appleinsider.com/articles/20/08/20/one-year-later-the-apple-card-is-a-huge-but-controversial-success?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
+ - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
+ - 💣 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)
  - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
- - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
+ - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [This photo I just found of me sitting on “Santa”’s lap, Christmas 1983](https://www.reddit.com/r/funny/comments/1vpd7nd/this_photo_i_just_found_of_me_sitting_on_santas/)
  - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
+ - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 👉 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)<!-- MEMES:END -->
 
 ---
 

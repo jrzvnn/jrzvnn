@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
+ - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
+ - 😝 [Collector tears are the best accessory](http://9gag.com/gag/avyY7Qq)
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [We were too young to understand](http://9gag.com/gag/avyYOYO)
+ - 👉 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound on](http://9gag.com/gag/aW4KqVx)
- - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
  - 💣 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
+ - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
+ - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
 
 ---
 

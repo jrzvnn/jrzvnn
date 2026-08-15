@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
  - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 💣 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)
+ - 💣 [Thirsty](http://9gag.com/gag/a0eAbnB)
  - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
+ - 👉 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)<!-- MEMES:END -->
 
 ---
 

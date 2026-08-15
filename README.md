@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thirsty](http://9gag.com/gag/a0eAbnB)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
  - 💣 [\u201dHe most be\u201d](http://9gag.com/gag/ae9obD5)
  - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
- - 👉 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)<!-- MEMES:END -->
+ - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
 
 ---
 

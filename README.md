@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound on](http://9gag.com/gag/aW4KqVx)
- - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 💣 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
  - 😝 [Gaming is life](http://9gag.com/gag/aQzwR3w)
- - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
+ - 👉 [Missing Case Footage](http://9gag.com/gag/a6ZvbBR)<!-- MEMES:END -->
 
 ---
 

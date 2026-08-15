@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 💣 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
+ - 😝 [Air Force landing vs Navy landing](http://9gag.com/gag/aMVRjzA)
+ - 😝 [Now that electricity will think twice before attacking another representation of god](http://9gag.com/gag/a6ZvbeA)
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [Ester Z\u00e1rate won first place in her category at the Trail de las Culturas Tlaxiaco, a 14 kilometre course without shoes.](http://9gag.com/gag/aW4KY4K)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Effective Altruism, hit by the SBF turmoil, is drawing record funding as Anthropic and OpenAI IPOs are set to mint new millionaires wedded to &quot;effective giving&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p7#a260815p7)
+ - [Point2 Technology, which develops RF-based data center interconnection tech, raised a $136M Series B from LB Investment, Arm, Maverick Silicon, and others &lpar;Giacomo Lee/SDxCentral&rpar;](https://www.techmeme.com/260815/p6#a260815p6)
  - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)
  - [Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260815/p4#a260815p4)
- - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)
- - [Frozen 3 Trailer Reveals Anna’s Royal Wedding and A New Icy Magic](https://www.cnet.com/culture/entertainment/frozen-3-trailer-reveals-annas-royal-wedding-and-a-new-icy-magic/)
- - [Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260815/p2#a260815p2)<!-- TECH:END -->
+ - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

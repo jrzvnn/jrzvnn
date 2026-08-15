@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [But but muh free plasteline?!](http://9gag.com/gag/aqy3KDZ)
- - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
+ - 😝 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 💣 [This sounds promising](http://9gag.com/gag/aXPDvQ9)
+ - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
+ - 👉 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)<!-- MEMES:END -->
 
 ---
 

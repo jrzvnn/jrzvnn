@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bull operator knew what they were doing.](http://9gag.com/gag/aoyrOZe)
  - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
  - 💣 [Dad of the year right here](http://9gag.com/gag/ayNgxEX)
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 👉 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SF-based Vals, which develops evaluations and benchmarks to test AI models on real-world tasks, raised a $40M Series A led by a16z at a $400M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](https://www.techmeme.com/260815/p5#a260815p5)
+ - [Sources: China plans to soon lift a travel ban on Manus founders as the company unwinds its $2B acquisition by Meta; CEO Xiao Hong plans to return to Singapore &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260815/p4#a260815p4)
  - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)
- - [Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260815/p2#a260815p2)
- - [Sources: OpenAI&#39;s repeated exec reshuffles and departures have frustrated some staff as it prepares for an IPO; it disbanded its &quot;preparedness&quot; team in July &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p1#a260815p1)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [The Incredibles 3 Confirmed as Disney Kicks Off D23 Entertainment Showcase](https://www.cnet.com/culture/entertainment/the-incredibles-3-confirmed-as-disney-kicks-off-d23-entertainment-showcase/)<!-- TECH:END -->
+ - [Frozen 3 Trailer Reveals Anna’s Royal Wedding and A New Icy Magic](https://www.cnet.com/culture/entertainment/frozen-3-trailer-reveals-annas-royal-wedding-and-a-new-icy-magic/)
+ - [Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260815/p2#a260815p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

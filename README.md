@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Uber and Rapido discussed merging their India ride-hailing operations in May; talks collapsed after disagreements over the proposed deal&#39;s structure &lpar;The Economic Times&rpar;](https://www.techmeme.com/260815/p3#a260815p3)
  - [Dynatrace agrees to acquire Arize, which specializes in AI observability and the AI development lifecycle, for $915M, including ~$815M in cash &lpar;Larry Dignan/Constellation Research&rpar;](https://www.techmeme.com/260815/p2#a260815p2)
  - [Sources: OpenAI&#39;s repeated exec reshuffles and departures have frustrated some staff as it prepares for an IPO; it disbanded its &quot;preparedness&quot; team in July &lpar;Financial Times&rpar;](https://www.techmeme.com/260815/p1#a260815p1)
  - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)
- - [The Incredibles 3 Confirmed as Disney Kicks Off D23 Entertainment Showcase](https://www.cnet.com/culture/entertainment/the-incredibles-3-confirmed-as-disney-kicks-off-d23-entertainment-showcase/)
- - [Source and letter: the US plans to tell 35 partner countries they&#39;ll be excluded from the US-led Pax Silica initiative if they also join China&#39;s rival framework &lpar;Michael Martina/Reuters&rpar;](https://www.techmeme.com/260814/p35#a260814p35)<!-- TECH:END -->
+ - [The Incredibles 3 Confirmed as Disney Kicks Off D23 Entertainment Showcase](https://www.cnet.com/culture/entertainment/the-incredibles-3-confirmed-as-disney-kicks-off-d23-entertainment-showcase/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

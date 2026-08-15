@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starfighter Trailer, Ahsoka and Anakin: Biggest Star Wars News Out of D23](https://www.cnet.com/tech/services-and-software/starfighter-trailer-ahsoka-and-anakin-biggest-star-wars-news-out-of-d23/)
  - [Anthropic details Claude&#39;s text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite &lpar;Anthropic&rpar;](https://www.techmeme.com/260815/p11#a260815p11)
  - [Switched on Pop’s Nate Sloan and Charlie Harding love fresh vegetables and guitar pedals](https://www.theverge.com/report/980288/switched-on-pop-nate-sloan-charlie-harding-podcast-netflix-interview)
  - [Star Wars: Ahsoka season 2 and Starfighter get teased at D23](https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23)
- - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
- - [Alibaba&#39;s open-weight models have accumulated 3B+ global downloads in the past six months; Hugging Face: Google had 418M downloads while Meta had 227M in 2026 &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260815/p10#a260815p10)<!-- TECH:END -->
+ - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

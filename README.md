@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [Stitches get b*tches](http://9gag.com/gag/aW4KxB6)
- - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [Masterful manipulation for a delicious result](http://9gag.com/gag/awyRooR)
+ - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 ---
 

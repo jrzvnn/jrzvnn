@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 😝 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
- - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
- - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
- - 👉 [Masterful manipulation for a delicious result](http://9gag.com/gag/awyRooR)<!-- MEMES:END -->
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
+ - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

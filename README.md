@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Air Force landing vs Navy landing](http://9gag.com/gag/aMVRjzA)
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
- - 😝 [Doctor ordered some supplements](http://9gag.com/gag/a9yQRPW)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
  - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---

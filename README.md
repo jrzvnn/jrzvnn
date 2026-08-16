@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)
  - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)
  - [French PM Lecornu will hold a crisis meeting Monday over a June-July cyberattack on France&#39;s tax agency that compromised 678K individual and business accounts &lpar;Phil Serafino/Bloomberg&rpar;](https://www.techmeme.com/260816/p10#a260816p10)
  - [Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece](https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review)
- - [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May &lpar;Bloomberg&rpar;](https://www.techmeme.com/260816/p9#a260816p9)
- - [Jony Ive-designed Ferrari Luce sells for $40M at auction](https://appleinsider.com/articles/26/08/16/jony-ive-designed-ferrari-luce-sells-for-40m-at-auction?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May &lpar;Bloomberg&rpar;](https://www.techmeme.com/260816/p9#a260816p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

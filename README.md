@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
  - 💣 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 😝 [From the archives](http://9gag.com/gag/aoyr5qn)
- - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
+ - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
+ - 👉 [I can has Whynona?](http://9gag.com/gag/a2vBZbd)<!-- MEMES:END -->
 
 ---
 

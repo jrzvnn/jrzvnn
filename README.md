@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)
- - 😝 [Doctor ordered some supplements](http://9gag.com/gag/a9yQRPW)
- - 👉 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
+ - 😝 [Found by Poppie&#39;s in Scotland](https://www.reddit.com/r/funny/comments/1vpuunl/found_by_poppies_in_scotland/)
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 💣 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 👉 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)<!-- MEMES:END -->
 
 ---
 

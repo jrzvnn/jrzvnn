@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sound on](http://9gag.com/gag/aW4KqVx)
- - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 💣 [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
+ - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 😝 [Smooth landing despite the circumstances](http://9gag.com/gag/aZZALAQ)
+ - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
 
 ---
 

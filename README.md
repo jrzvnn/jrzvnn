@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall](https://www.wired.com/gallery/best-cat-water-fountains/)
  - [Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs &lpar;Timothy Gowers/Gowers&#39;s Weblog&rpar;](https://www.techmeme.com/260816/p4#a260816p4)
  - [Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem &lpar;Hugging Face&rpar;](https://www.techmeme.com/260816/p3#a260816p3)
  - [BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products &lpar;Ilya Gridneff/Financial Times&rpar;](https://www.techmeme.com/260816/p2#a260816p2)
- - [Pathway, which is developing AI models based on what it calls its &quot;Post-Transformer&quot; BDH architecture, raised a $30M seed at a $500M valuation &lpar;Antoine Tardif/Unite.AI&rpar;](https://www.techmeme.com/260816/p1#a260816p1)
- - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)<!-- TECH:END -->
+ - [Pathway, which is developing AI models based on what it calls its &quot;Post-Transformer&quot; BDH architecture, raised a $30M seed at a $500M valuation &lpar;Antoine Tardif/Unite.AI&rpar;](https://www.techmeme.com/260816/p1#a260816p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

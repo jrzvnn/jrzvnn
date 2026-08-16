@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape](https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/)
+ - [Astronomers Discover the Existence of a Black Hole Star](https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/)
  - [It’s Never Too Early to Start Planning for the Next Two Solar Eclipses](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/)
  - [Someone Finally Fixed Installing Apps on a Mac](https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/)
- - [TerraMow V1000 Review: Show Your Lawn Some Love](https://www.wired.com/review/terramow-v1000/)
- - [Inside the Experimental Traps Scientists Set for Ghostly Neutrinos](https://www.wired.com/story/inside-experimental-traps-scientists-set-for-neutrinos/)
- - [Malaysia&#39;s 6% Q2 GDP growth was powered by 7.5% manufacturing growth, driven by chipmaking, and 6.6% construction growth, supported by data center development &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260816/p5#a260816p5)<!-- TECH:END -->
+ - [TerraMow V1000 Review: Show Your Lawn Some Love](https://www.wired.com/review/terramow-v1000/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

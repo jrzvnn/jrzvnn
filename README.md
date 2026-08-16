@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
+ - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
  - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 😝 [Witches are real and Epstein didnt kill himself.](http://9gag.com/gag/ajPb5pp)
+ - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 ---
 

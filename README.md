@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
- - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
- - 💣 [That was deep](http://9gag.com/gag/apRymoB)
- - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 👉 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)<!-- MEMES:END -->
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
+ - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---
 

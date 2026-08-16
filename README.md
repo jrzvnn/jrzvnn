@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dario Amodei shares his view on AI regulation, says open-weights aren&#39;t a &quot;sufficient&quot; solution, defends testing, highlights a &quot;crisis of trust&quot; in AI, and more &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
+ - [Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards](https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/)
  - [How Congressional lawmakers and aides are using AI tools with little oversight to write speeches and news releases, sort constituent mail, and more &lpar;Anna Liss-Roy/Washington Post&rpar;](https://www.techmeme.com/260815/p16#a260815p16)
  - [Matt Groening lets slip that Simpsons: Hit &amp;#038; Run might be making a comeback](https://www.theverge.com/entertainment/980720/matt-groening-simpsons-hit-run-d23)
- - [A look at Unitree&#39;s G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260815/p15#a260815p15)
- - [Have a laugh at AI’s expense by roleplaying as a chatbot](https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot)
- - [Sources: Nvidia in talks to invest up to $3B in SoftBank-backed data center developer SB Energy that aims to IPO soon and is behind a huge OpenAI campus in Ohio &lpar;The Information&rpar;](https://www.techmeme.com/260815/p14#a260815p14)<!-- TECH:END -->
+ - [A look at Unitree&#39;s G1 and R1, the humanoid robots behind viral influencer accounts worldwide, as Unitree shipped 5,500+ units in 2025 and readies its China IPO &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260815/p15#a260815p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

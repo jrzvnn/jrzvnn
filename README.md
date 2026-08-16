@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)
- - 👉 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 😝 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
+ - 💣 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
+ - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
+ - 👉 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)<!-- MEMES:END -->
 
 ---
 

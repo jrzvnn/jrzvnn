@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
  - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 💣 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
- - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 👉 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)<!-- MEMES:END -->
+ - 💣 [I can has Whynona?](http://9gag.com/gag/a2vBZbd)
+ - 😝 [The lactation consultant was actually her real husband.](http://9gag.com/gag/aqy3g4v)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

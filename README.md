@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May &lpar;Bloomberg&rpar;](https://www.techmeme.com/260816/p9#a260816p9)
+ - [Jony Ive-designed Ferrari Luce sells for $40M at auction](https://appleinsider.com/articles/26/08/16/jony-ive-designed-ferrari-luce-sells-for-40m-at-auction?utm_source=rss)
  - [Sunday Reboot: Failed delays, late homework, and Fortnite](https://appleinsider.com/articles/26/08/16/sunday-reboot-failed-delays-late-homework-and-fortnite?utm_source=rss)
  - [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions)
- - [Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &lpar;Alex Janin/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p8#a260816p8)
- - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)
- - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)<!-- TECH:END -->
+ - [Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &lpar;Alex Janin/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p8#a260816p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

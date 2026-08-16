@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)
  - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)
  - [How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &lpar;Washington Post&rpar;](https://www.techmeme.com/260816/p7#a260816p7)
  - [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)
- - [A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p6#a260816p6)
- - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)<!-- TECH:END -->
+ - [A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p6#a260816p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

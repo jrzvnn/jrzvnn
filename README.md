@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
+ - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 💣 [That was deep](http://9gag.com/gag/apRymoB)
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
 
 ---
 

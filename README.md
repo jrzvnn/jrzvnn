@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 💣 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [Stitches get b*tches](http://9gag.com/gag/aW4KxB6)
- - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
+ - 😝 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
+ - 💣 [Butter fly](http://9gag.com/gag/aoyr5Dg)
+ - 😝 [Still very hypnotising...](http://9gag.com/gag/aAyWerg)
+ - 👉 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
 
 ---
 

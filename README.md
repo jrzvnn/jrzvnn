@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
+ - 💣 [Lobster? And steak? This is bad..](http://9gag.com/gag/aD2p1QO)
+ - 😝 [Smooth landing despite the circumstances](http://9gag.com/gag/aZZALAQ)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

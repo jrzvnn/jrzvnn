@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 😝 [Air Force landing vs Navy landing](http://9gag.com/gag/aMVRjzA)
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [Lobster? And steak? This is bad..](http://9gag.com/gag/aD2p1QO)
- - 😝 [Smooth landing despite the circumstances](http://9gag.com/gag/aZZALAQ)
- - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
+ - 💣 [Mexican army mistakenly shoots citizens in food-for-guns program.](http://9gag.com/gag/azxNqyp)
+ - 😝 [Doctor ordered some supplements](http://9gag.com/gag/a9yQRPW)
+ - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---
 

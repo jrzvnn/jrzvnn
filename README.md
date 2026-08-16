@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bright future for the USA](http://9gag.com/gag/aRB510B)
- - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
- - 💣 [Butter fly](http://9gag.com/gag/aoyr5Dg)
- - 😝 [Stitches get b*tches](http://9gag.com/gag/aW4KxB6)
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Masterful manipulation for a delicious result](http://9gag.com/gag/awyRooR)
  - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---

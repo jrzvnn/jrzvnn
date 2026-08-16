@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
- - 💣 [That was deep](http://9gag.com/gag/apRymoB)
- - 😝 [Killer Kitty](http://9gag.com/gag/aByq0MP)
- - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 💣 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [Would](http://9gag.com/gag/aoyrNm2)
+ - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 ---
 

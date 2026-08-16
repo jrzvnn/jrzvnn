@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Guys the superior healtcare system strikes again, her first video can be found here too, to summarize the first video united healtcare wanted her to stop operating on a patient with breastcancer since they deemed the surgery unnecessary](http://9gag.com/gag/a9yQpQW)
  - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
  - 💣 [That was deep](http://9gag.com/gag/apRymoB)
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
  - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
 
 ---

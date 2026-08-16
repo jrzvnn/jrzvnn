@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [Friday... This girl must have grandkids now](http://9gag.com/gag/axyx1EY)
  - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 💣 [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)
- - 👉 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)<!-- MEMES:END -->
+ - 💣 [Would](http://9gag.com/gag/aoyrNm2)
+ - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

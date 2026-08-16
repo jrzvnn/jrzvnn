@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sound on](http://9gag.com/gag/aW4KqVx)
  - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 💣 [Full package](http://9gag.com/gag/azxN9zq)
  - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Life In Norway](http://9gag.com/gag/aNDxYNG)
- - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
+ - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 ---
 

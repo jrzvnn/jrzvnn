@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
  - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 💣 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
+ - 💣 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)
+ - 😝 [Doctor ordered some supplements](http://9gag.com/gag/a9yQRPW)
+ - 👉 [Would](http://9gag.com/gag/aoyrNm2)<!-- MEMES:END -->
 
 ---
 

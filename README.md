@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
  - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 😝 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
- - 💣 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
- - 😝 [We all know why they don&#39;t, there is even a word for that moviment](http://9gag.com/gag/a0eARwz)
+ - 💣 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
+ - 😝 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)
  - 👉 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)<!-- MEMES:END -->
 
 ---

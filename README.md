@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)
  - [How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &lpar;Washington Post&rpar;](https://www.techmeme.com/260816/p7#a260816p7)
  - [ChatGPT’s Computer History tracks your clicks and keystrokes](https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes)
  - [A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p6#a260816p6)
- - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
- - [Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape](https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/)<!-- TECH:END -->
+ - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

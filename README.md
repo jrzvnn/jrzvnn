@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Sony CEO Hiroki Totoki, who aims to transform the company into a business focused on music, movies, video games, and the tech that underpins them &lpar;Jason Douglas/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p6#a260816p6)
+ - [Rogue AI aren’t science fiction anymore](https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai)
  - [Samsung Galaxy Z Fold8 and Galaxy Z Fold8 Ultra Review: The Right Shape](https://www.wired.com/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/)
  - [Astronomers Discover the Existence of a Black Hole Star](https://www.wired.com/story/black-hole-stars-are-becoming-less-hypothetical/)
- - [It’s Never Too Early to Start Planning for the Next Two Solar Eclipses](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/)
- - [Someone Finally Fixed Installing Apps on a Mac](https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/)
- - [TerraMow V1000 Review: Show Your Lawn Some Love](https://www.wired.com/review/terramow-v1000/)<!-- TECH:END -->
+ - [It’s Never Too Early to Start Planning for the Next Two Solar Eclipses](https://www.wired.com/story/its-never-too-early-to-start-planning-for-the-next-two-solar-eclipses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
- - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
- - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
+ - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
+ - 💣 [Random](http://9gag.com/gag/a5QmMrL)
+ - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
 
 ---
 

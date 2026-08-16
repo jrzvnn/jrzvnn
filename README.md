@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/aoyrNm2)
- - 😝 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)
+ - 😝 [Looks terrifying but she makes it look easy](http://9gag.com/gag/amoj2xV)
+ - 😝 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
  - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Dumbest man](http://9gag.com/gag/agmMn0g)
+ - 😝 [Life In Norway](http://9gag.com/gag/aNDxYNG)
  - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 ---

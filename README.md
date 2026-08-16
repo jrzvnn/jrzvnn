@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fields Medalist Timothy Gowers says most famous mathematics problems solved by LLMs so far have almost all been with counterexamples rather than proofs &lpar;Timothy Gowers/Gowers&#39;s Weblog&rpar;](https://www.techmeme.com/260816/p4#a260816p4)
+ - [Hugging Face says developers made 151K+ derivatives based on Qwen models, topping others, making Qwen one of the largest foundations in the open model ecosystem &lpar;Hugging Face&rpar;](https://www.techmeme.com/260816/p3#a260816p3)
+ - [BlackBerry posted a positive cash position in Q1, its first cash-positive first quarter in any fiscal year since 2017, driven by its QNX and Secusmart products &lpar;Ilya Gridneff/Financial Times&rpar;](https://www.techmeme.com/260816/p2#a260816p2)
  - [Pathway, which is developing AI models based on what it calls its &quot;Post-Transformer&quot; BDH architecture, raised a $30M seed at a $500M valuation &lpar;Antoine Tardif/Unite.AI&rpar;](https://www.techmeme.com/260816/p1#a260816p1)
- - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
- - [Chinese citizens are more optimistic about AI than Americans because AI is seen as a practical tool in China that disrupts a smaller share of its population &lpar;Grace Shao/Bloomberg&rpar;](https://www.techmeme.com/260815/p18#a260815p18)
- - [Kingdom Hearts 4 Fans Are Well Fed After 2 Days of Great Trailers](https://www.cnet.com/tech/gaming/kingdom-hearts-4-fans-are-well-fed-after-2-days-of-great-trailers/)
- - [Dario Amodei defends his policy proposals, warns open weights won&#39;t decentralize power, endorses pre-launch vetting, says real accomplishments will earn trust &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)<!-- TECH:END -->
+ - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

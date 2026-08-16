@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 💣 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [It&#39;s just..](http://9gag.com/gag/a9yQRgj)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
+ - 😝 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
+ - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
+ - 👉 [Masterful manipulation for a delicious result](http://9gag.com/gag/awyRooR)<!-- MEMES:END -->
 
 ---
 

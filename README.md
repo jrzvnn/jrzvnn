@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 😝 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - 😝 [Witches are real and Epstein didnt kill himself.](http://9gag.com/gag/ajPb5pp)
- - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
+ - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
+ - 😝 [Nothing dampens the spirit of this vulture](http://9gag.com/gag/aByq0ND)
+ - 💣 [Bright future for the USA](http://9gag.com/gag/aRB510B)
+ - 😝 [\u201cI\u2019m surrounded by animals!\u201d](http://9gag.com/gag/a7o43nz)
+ - 👉 [Random](http://9gag.com/gag/a5QmMrL)<!-- MEMES:END -->
 
 ---
 

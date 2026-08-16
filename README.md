@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Polaroid’s tiny instant camera is $72 and includes a free pack of film](https://www.theverge.com/gadgets/980448/polaroid-go-second-generation-film-pack-bundle-deal-sale)
  - [Chinese citizens are more optimistic about AI than Americans because AI is seen as a practical tool in China that disrupts a smaller share of its population &lpar;Grace Shao/Bloomberg&rpar;](https://www.techmeme.com/260815/p18#a260815p18)
  - [Kingdom Hearts 4 Fans Are Well Fed After 2 Days of Great Trailers](https://www.cnet.com/tech/gaming/kingdom-hearts-4-fans-are-well-fed-after-2-days-of-great-trailers/)
- - [Dario Amodei shares his view on AI regulation, says open-weights aren&#39;t a &quot;sufficient&quot; solution, defends testing, highlights a &quot;crisis of trust&quot; in AI, and more &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
+ - [Dario Amodei defends his policy proposals, warns open weights won&#39;t decentralize power, endorses pre-launch vetting, says real accomplishments will earn trust &lpar;Dario Amodei/@darioamodei&rpar;](https://www.techmeme.com/260815/p17#a260815p17)
  - [Disney’s Millennium Falcon Ride Activates Fortnite In-Game Rewards](https://www.cnet.com/tech/gaming/disneys-millennium-falcon-ride-activates-fortnite-in-game-rewards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

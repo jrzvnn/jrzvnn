@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
- - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 💣 [I can has Whynona?](http://9gag.com/gag/a2vBZbd)
- - 😝 [The lactation consultant was actually her real husband.](http://9gag.com/gag/aqy3g4v)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 😝 [Random](http://9gag.com/gag/a5QmMrL)
+ - 💣 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 😝 [From the archives](http://9gag.com/gag/aoyr5qn)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

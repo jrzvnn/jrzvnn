@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 💣 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)
  - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
  - 👉 [Music festival in Portugal, there are no white men, only white liberal women](http://9gag.com/gag/a9yQAQZ)<!-- MEMES:END -->
 
 ---

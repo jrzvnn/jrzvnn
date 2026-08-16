@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Reboot: Failed delays, late homework, and Fortnite](https://appleinsider.com/articles/26/08/16/sunday-reboot-failed-delays-late-homework-and-fortnite?utm_source=rss)
  - [Amazon is trying to crush class-action suits before they get started](https://www.theverge.com/tech/980752/amazon-class-action-arbitration-terms-and-conditions)
  - [Patients, families, doctors, and nurses are increasingly turning to AI tools, such as Face2Gene, to help identify rare and hard-to-diagnose diseases &lpar;Alex Janin/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p8#a260816p8)
  - [Deals: AirPods 4 with ANC plunge to $134, AirTag returns to $24.99](https://appleinsider.com/articles/26/08/16/deals-airpods-4-with-anc-plunge-to-134-airtag-returns-to-2499?utm_source=rss)
- - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)
- - [How concerns about AI became an important midterms issue, with candidates adding AI and data center policies to their websites in ~40% of races across the US &lpar;Washington Post&rpar;](https://www.techmeme.com/260816/p7#a260816p7)<!-- TECH:END -->
+ - [Mozilla gradually rolls out an ad-blocker built into Firefox for iOS](https://appleinsider.com/articles/26/08/16/mozilla-gradually-rolls-out-an-ad-blocker-built-into-firefox-for-ios?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

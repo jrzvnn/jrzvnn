@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone has that one friend.](http://9gag.com/gag/aByqxQP)
- - 😝 [Random](http://9gag.com/gag/a5QmMrL)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [Smooth landing despite the circumstances](http://9gag.com/gag/aZZALAQ)
- - 👉 [Ricki-ticki-tee, ricki-ticki-taa.](http://9gag.com/gag/agmMXyW)<!-- MEMES:END -->
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
+ - 💣 [That was deep](http://9gag.com/gag/apRymoB)
+ - 😝 [Killer Kitty](http://9gag.com/gag/aByq0MP)
+ - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
 
 ---
 

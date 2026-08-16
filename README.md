@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I&#39;m empty](http://9gag.com/gag/aAyWxQp)
  - 💣 [That was deep](http://9gag.com/gag/apRymoB)
  - 😝 [He dodged the spit-bullet](http://9gag.com/gag/aGy3jMG)
- - 👉 [Bright future for the USA](http://9gag.com/gag/aRB510B)<!-- MEMES:END -->
+ - 👉 [In case your daddy didn&#39;t teach you](http://9gag.com/gag/aqy375L)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Iguazu Falls, between Brazil and Argentina following heavy rains](http://9gag.com/gag/aMVRjEV)
  - 😝 [Air Force landing vs Navy landing](http://9gag.com/gag/aMVRjzA)
- - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 💣 [Go sports!](http://9gag.com/gag/azxNXPB)
- - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 👉 [Go sports!](http://9gag.com/gag/azxNXPB)<!-- MEMES:END -->
 
 ---
 

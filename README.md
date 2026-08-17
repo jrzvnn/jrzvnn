@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 💣 [Dumbest man](http://9gag.com/gag/agmMn0g)
- - 😝 [Own the game, make the rules](http://9gag.com/gag/ajPb9q8)
- - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
+ - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 💣 [FAFO!](http://9gag.com/gag/a6ZvNy8)
+ - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
- - 😝 [I didn&#39;t know being super cute was a disability](http://9gag.com/gag/aXPDY56)
- - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - 😝 [Gotta do what you gotta do!](http://9gag.com/gag/aNDxg5b)
- - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 💣 [Optical illusion wins the game](http://9gag.com/gag/aoyr5w2)
+ - 😝 [Another ending](http://9gag.com/gag/azxN10K)
+ - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
 
 ---
 

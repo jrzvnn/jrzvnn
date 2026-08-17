@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - 😝 [Spin around and around](http://9gag.com/gag/ajPbmAq)
+ - 😝 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
+ - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 😝 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
  - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
 
 ---

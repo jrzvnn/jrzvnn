@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260817/p19#a260817p19)
- - [It’s about ethics in journalism, with Ben Smith](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)
- - [Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks &lpar;Lawrence Delevingne/Reuters&rpar;](https://www.techmeme.com/260817/p18#a260817p18)
- - [Uber and Zipline partner to launch Uber Eats drone deliveries in Dallas and Houston by late 2026, aiming to scale nationwide and hit 1M daily deliveries in 2029 &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p17#a260817p17)
- - [Natural language robot cues, Apple Intelligence limits, &amp; Mophie 4-in-1 review on Smart Home Insider](https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
+ - [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
+ - [Filing: Nvidia agrees to spend up to $105B to support SB Energy&#39;s new data center campus in Ohio set to be leased by OpenAI; Nvidia invests $1.5B in SB Energy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p21#a260817p21)
+ - [Uber partners with Zipline on Eats drone deliveries](https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment)
+ - [AirPods Max 2 just dropped to $429, save $120](https://appleinsider.com/articles/26/08/17/airpods-max-2-just-dropped-to-429-save-120?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

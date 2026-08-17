@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
  - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 😝 [I didn&#39;t know being super cute was a disability](http://9gag.com/gag/aXPDY56)
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 😝 [Puberty](http://9gag.com/gag/ajPb9Qq)
- - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
+ - 💣 [Dumbest man](http://9gag.com/gag/agmMn0g)
+ - 😝 [Own the game, make the rules](http://9gag.com/gag/ajPb9q8)
+ - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
 
 ---
 

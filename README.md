@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
  - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 😝 [Masterful manipulation for a delicious result](http://9gag.com/gag/awyRooR)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 💣 [Full package](http://9gag.com/gag/azxN9zq)
+ - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 ---
 

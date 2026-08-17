@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
  - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
+ - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
  - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
 
 ---

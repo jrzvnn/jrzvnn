@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $100 to $150 on Apple&#39;s M4 iPad Air after Amazon issues steeper markdowns](https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss)
+ - [A German regulator says Apple will make changes to ATT after finding it gave Apple&#39;s apps more favorable consent prompts than those of third-party developers &lpar;Reuters&rpar;](https://www.techmeme.com/260817/p23#a260817p23)
+ - [Apple ordered to stop scaring iPhone and iPad users away from third-party apps](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)
  - [Microsoft says GitHub is down worldwide, with its website, API, Actions, Pull Requests, and other services impacted; GitHub confirmed the outage at 13:40 UTC &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260817/p22#a260817p22)
- - [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [Filing: Nvidia agrees to spend up to $105B to support SB Energy&#39;s new data center campus in Ohio set to be leased by OpenAI; Nvidia invests $1.5B in SB Energy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p21#a260817p21)
- - [Uber partners with Zipline on Eats drone deliveries](https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment)<!-- TECH:END -->
+ - [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

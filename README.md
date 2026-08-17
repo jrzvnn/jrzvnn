@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just American thing](http://9gag.com/gag/aLnY06x)
- - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
- - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
+ - 😝 [Wave After Wave](http://9gag.com/gag/azxNMEK)
+ - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
+ - 💣 [Just American thing](http://9gag.com/gag/aLnY06x)
+ - 😝 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
+ - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
 
 ---
 

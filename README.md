@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
- - [Amazon joins the list of companies destroying rare books to feed to the AI machine](https://appleinsider.com/articles/26/08/17/amazon-joins-the-list-of-companies-destroying-rare-books-to-feed-to-the-ai-machine?utm_source=rss)
- - [Sources: Anthropic&#39;s revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p31#a260817p31)
- - [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale)
- - [Latest macOS Golden Gate beta adds unique dynamic wallpapers](https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Crusoe is in IPO talks with at least four Wall Street banks, including JPMorgan, which is advising on its $3B pre-IPO fundraise set to value it at $35B &lpar;Alan Neuhauser/Axios&rpar;](https://www.techmeme.com/260817/p34#a260817p34)
+ - [Opening arguments begin Tuesday in the state AGs&#39; social media addiction lawsuit against Meta; New Mexico AG says the consequences could be &quot;astronomical&quot; &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260817/p33#a260817p33)
+ - [BNPL lenders like Flex, Zip, and Affirm are now pitching loans for basic household needs; Americans spent $160B through pay-later loans in 2025, up 2x from 2023 &lpar;Stacy Cowley/New York Times&rpar;](https://www.techmeme.com/260817/p32#a260817p32)
+ - [ABC&amp;#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show)
+ - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

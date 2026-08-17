@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)
  - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 💣 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
  - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
- - 👉 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)<!-- MEMES:END -->
+ - 👉 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 😝 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - 💣 [Optical illusion wins the game](http://9gag.com/gag/aoyr5w2)
- - 😝 [Another ending](http://9gag.com/gag/azxN10K)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 💣 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 

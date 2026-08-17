@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
  - [Cook teases revitalization of US manufacturing ghost towns](https://appleinsider.com/articles/26/08/17/cook-teases-revitalization-of-us-manufacturing-ghost-towns?utm_source=rss)
  - [7 Best Cheap Laptops to Buy in 2026 &lpar;and Some to Avoid&rpar;](https://www.wired.com/gallery/best-cheap-laptops/)
  - [Voice AI startup Wispr raised a $280M Series B led by Menlo Ventures at a $2B valuation, taking its total funding to $361M, and now has 100K business customers &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260817/p12#a260817p12)
- - [Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss)
- - [CookUnity Prepared Meal Delivery Review &lpar;2026&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)<!-- TECH:END -->
+ - [Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

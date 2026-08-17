@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260817/p13#a260817p13)
- - [Michigan women sue Apple over AirTag anti-stalking protection failures](https://appleinsider.com/articles/26/08/17/michigan-women-sue-apple-over-airtag-anti-stalking-protection-failures?utm_source=rss)
- - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
- - [7 Best Cheap Laptops to Buy in 2026 &lpar;and Some to Avoid&rpar;](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Voice AI startup Wispr raised a $280M Series B led by Menlo Ventures at a $2B valuation, taking its total funding to $361M, and now has 100K business customers &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/260817/p12#a260817p12)<!-- TECH:END -->
+ - [Greg Brockman calls the OpenAI-Hugging Face incident &quot;a watershed moment&quot; and discusses how OpenAI and other organizations can use AI to improve cyber defenses &lpar;Greg Brockman&rpar;](https://www.techmeme.com/260817/p16#a260817p16)
+ - [The best Apple-related books in AppleInsider&#39;s video studio](https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss)
+ - [OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank&#39;s SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p15#a260817p15)
+ - [Groq raised $350M led by Disruptive at a $3.5B valuation, down from $6.9B in September 2025 before Nvidia struck a licensing deal and hired much of its talent &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260817/p14#a260817p14)
+ - [Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260817/p13#a260817p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

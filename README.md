@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Greg Brockman calls the OpenAI-Hugging Face incident &quot;a watershed moment&quot; and discusses how OpenAI and other organizations can use AI to improve cyber defenses &lpar;Greg Brockman&rpar;](https://www.techmeme.com/260817/p16#a260817p16)
- - [The best Apple-related books in AppleInsider&#39;s video studio](https://appleinsider.com/articles/26/08/17/the-best-apple-related-books-in-appleinsiders-video-studio?utm_source=rss)
- - [OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank&#39;s SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p15#a260817p15)
- - [Groq raised $350M led by Disruptive at a $3.5B valuation, down from $6.9B in September 2025 before Nvidia struck a licensing deal and hired much of its talent &lpar;Natasha Mascarenhas/Bloomberg&rpar;](https://www.techmeme.com/260817/p14#a260817p14)
- - [Chip giants participated in startup funding rounds collectively surpassing $250B YTD; Nvidia leads the sector in deal volume with a record 59 funding rounds &lpar;Joanna Glasner/Crunchbase News&rpar;](https://www.techmeme.com/260817/p13#a260817p13)<!-- TECH:END -->
+ - [ETH Zurich spinout Gravis Robotics raised a $200M Series A from SoftBank to scale Gravis Rack, a retrofit autonomous control appliance that mounts on excavators &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260817/p19#a260817p19)
+ - [It’s about ethics in journalism, with Ben Smith](https://www.theverge.com/podcast/980759/ben-smith-semafor-ethics-journalism-ai-events-buzzfeed-media-news)
+ - [Trump-backed WLF is collaborating with Hong Kong-based AI platform WorldClaw; 43 of its 90 AI models are developed by Chinese entities flagged as security risks &lpar;Lawrence Delevingne/Reuters&rpar;](https://www.techmeme.com/260817/p18#a260817p18)
+ - [Uber and Zipline partner to launch Uber Eats drone deliveries in Dallas and Houston by late 2026, aiming to scale nationwide and hit 1M daily deliveries in 2029 &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p17#a260817p17)
+ - [Natural language robot cues, Apple Intelligence limits, &amp; Mophie 4-in-1 review on Smart Home Insider](https://appleinsider.com/articles/26/08/17/natural-language-robot-cues-apple-intelligence-limits-mophie-4-in-1-review-on-smart-home-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

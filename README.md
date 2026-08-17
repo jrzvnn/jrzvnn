@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [Butter fly](http://9gag.com/gag/aoyr5Dg)
+ - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
  - 💣 [Random](http://9gag.com/gag/a5QmMrL)
  - 😝 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)
- - 👉 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)<!-- MEMES:END -->
+ - 👉 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)<!-- MEMES:END -->
 
 ---
 

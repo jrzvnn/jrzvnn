@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
- - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
- - [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit)
- - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
- - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)<!-- TECH:END -->
+ - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)
+ - [Cursor says it is rolling out its code hosting service Origin in early beta on all paid plans, featuring support for repos, pull requests, GitHub sync, and more &lpar;Cursor&rpar;](https://www.techmeme.com/260817/p28#a260817p28)
+ - [YouTube will start counting a view as soon as a video starts to play, from August 24, lining up with the system used by Instagram, TikTok, and its Shorts videos &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260817/p27#a260817p27)
+ - [Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models &lpar;James Nani/Bloomberg Law&rpar;](https://www.techmeme.com/260817/p26#a260817p26)
+ - [YouTube is changing how it counts views to give the numbers a boost](https://www.theverge.com/streaming/981105/youtube-video-view-counting-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

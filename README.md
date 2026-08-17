@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
  - 😝 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
+ - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
  - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
+ - 😝 [Another ending](http://9gag.com/gag/azxN10K)
+ - 👉 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)<!-- MEMES:END -->
 
 ---
 

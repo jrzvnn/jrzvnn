@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta and BlackRock&#39;s $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p11#a260817p11)
+ - [Skylight Buddy Review &lpar;2026&rpar;: Kid Routines Just Got Easy](https://www.wired.com/review/skylight-buddy/)
+ - [Russian law enforcement docs: Binance provided Russia with transaction records and passport copies of IT specialist Yuri Belenkiy, leading to terrorism charges &lpar;Anton Zverev/Reuters&rpar;](https://www.techmeme.com/260817/p10#a260817p10)
  - [An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p9#a260817p9)
- - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)
- - [Sources: Singapore-based Shein is aiming to hit a ~$25B valuation in its Hong Kong IPO, down from its $30B-$40B goal earlier in August after investor meetings &lpar;Reuters&rpar;](https://www.techmeme.com/260817/p8#a260817p8)
- - [Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p7#a260817p7)
- - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)<!-- TECH:END -->
+ - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

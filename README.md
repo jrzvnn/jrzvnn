@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)
+ - [Pornhub&#39;s parent company, Aylo, will pay $120M to settle two 2021 class action lawsuits in California and Alabama alleging it profited from child abuse material &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260817/p35#a260817p35)
+ - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
  - [Sources: Crusoe is in IPO talks with at least four Wall Street banks, including JPMorgan, which is advising on its $3B pre-IPO fundraise set to value it at $35B &lpar;Alan Neuhauser/Axios&rpar;](https://www.techmeme.com/260817/p34#a260817p34)
- - [Opening arguments begin Tuesday in the state AGs&#39; social media addiction lawsuit against Meta; New Mexico AG says the consequences could be &quot;astronomical&quot; &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/260817/p33#a260817p33)
- - [BNPL lenders like Flex, Zip, and Affirm are now pitching loans for basic household needs; Americans spent $160B through pay-later loans in 2025, up 2x from 2023 &lpar;Stacy Cowley/New York Times&rpar;](https://www.techmeme.com/260817/p32#a260817p32)
- - [ABC&amp;#8217;s livestreamed news show is powered by trending topics](https://www.theverge.com/streaming/981209/abc-news-searched-livestreamed-show)
- - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)<!-- TECH:END -->
+ - [Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones](https://www.cnet.com/tech/mobile/google-pixel-11-pro-xl-vs-iphone-17-pro-max-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

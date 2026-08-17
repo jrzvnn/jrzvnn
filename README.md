@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
- - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
  - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
- - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
+ - 👉 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)<!-- MEMES:END -->
 
 ---
 

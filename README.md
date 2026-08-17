@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo Expands Its Math Services for More Advanced and Personalized Learning](https://www.cnet.com/uncategorized/duolingo-expands-its-math-services-for-more-advanced-and-personalized-learning/)
  - [Apple has shipped iOS 26.6.1, and you should install it soon](https://appleinsider.com/articles/26/08/17/apple-has-shipped-ios-2661-and-you-should-install-it-soon?utm_source=rss)
  - [Sources: the US DOJ has been investigating a16z for nearly a year over whether its partners are improperly serving on the boards of competing AI companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p29#a260817p29)
  - [Apple&#39;s sixth 27-gen developer betas arrive as the fall release draws closer](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)
- - [Cursor says it is rolling out its code hosting service Origin in early beta on all paid plans, featuring support for repos, pull requests, GitHub sync, and more &lpar;Cursor&rpar;](https://www.techmeme.com/260817/p28#a260817p28)
- - [YouTube will start counting a view as soon as a video starts to play, from August 24, lining up with the system used by Instagram, TikTok, and its Shorts videos &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260817/p27#a260817p27)<!-- TECH:END -->
+ - [Cursor says it is rolling out its code hosting service Origin in early beta on all paid plans, featuring support for repos, pull requests, GitHub sync, and more &lpar;Cursor&rpar;](https://www.techmeme.com/260817/p28#a260817p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

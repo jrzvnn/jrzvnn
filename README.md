@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users](https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss)
+ - [Apple&#39;s sixth developer betas arrive for iOS 27, macOS 27, and more](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)
+ - [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts)
  - [New Lucid Gravity GT-S Hits 60 MPH in 3.1 Seconds, Seats 7](https://www.cnet.com/home/electric-vehicles/new-lucid-gravity-gt-s-hits-60-mph-in-3-1-seconds-seats-seven/)
- - [David Sacks says &quot;Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize&quot; after Amodei shared policy ideas &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260817/p36#a260817p36)
- - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)
- - [Pornhub&#39;s parent company, Aylo, will pay $120M to settle two 2021 class action lawsuits in California and Alabama alleging it profited from child abuse material &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260817/p35#a260817p35)
- - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)<!-- TECH:END -->
+ - [David Sacks says &quot;Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize&quot; after Amodei shared policy ideas &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260817/p36#a260817p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

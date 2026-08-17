@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bright future for the USA](http://9gag.com/gag/aRB510B)
- - 😝 [Another ending](http://9gag.com/gag/azxN10K)
- - 💣 [Butter fly](http://9gag.com/gag/aoyr5Dg)
- - 😝 [Stitches get b*tches](http://9gag.com/gag/aW4KxB6)
- - 👉 [Full package](http://9gag.com/gag/azxN9zq)<!-- MEMES:END -->
+ - 😝 [Classic neighborly exchange](http://9gag.com/gag/aRB51wQ)
+ - 😝 [I didn&#39;t know being super cute was a disability](http://9gag.com/gag/aXPDY56)
+ - 💣 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Puberty](http://9gag.com/gag/ajPb9Qq)
+ - 👉 [The Forest Grump](http://9gag.com/gag/aVvnY1y)<!-- MEMES:END -->
 
 ---
 

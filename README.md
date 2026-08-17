@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full package](http://9gag.com/gag/azxN9zq)
- - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 💣 [Tis but a scratch!](http://9gag.com/gag/aLnYgvW)
- - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
- - 👉 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)<!-- MEMES:END -->
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
+ - 😝 [Another ending](http://9gag.com/gag/azxN10K)
+ - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
 
 ---
 

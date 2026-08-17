@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis sues the US government over ICE&#39;s $94.6M contract to buy forensic software and services from its competitor TRM Labs, calling the deal &quot;arbitrary&quot; &lpar;Ezra Reguerra/Cointelegraph&rpar;](https://www.techmeme.com/260817/p2#a260817p2)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Aug. 17, #693](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-17-693/)
+ - [Anthropic&#39;s text watermark alters word probabilities to embed a fingerprint, which could degrade Claude&#39;s writing, despite its claim of no impact on quality &lpar;John Gruber/Daring Fireball&rpar;](https://www.techmeme.com/260817/p1#a260817p1)
  - [Singapore hopes access to advanced AI models will stem the flow of finance talent to Hong Kong, where financial firms struggle to access the latest US AI models &lpar;Financial Times&rpar;](https://www.techmeme.com/260816/p13#a260816p13)
- - [D23: All the New Lands and Rides Revealed for Disneyland and Disney World](https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/)
- - [A look at companies like Inception Point creating AI personas for media, fashion, film, and music industries that could host podcasts, model clothes, and more &lpar;Reggie Ugwu/New York Times&rpar;](https://www.techmeme.com/260816/p12#a260816p12)
- - [How a Claude model made a math breakthrough during its unsuccessful 54-hour attempt to solve the Riemann hypothesis after a user repeatedly encouraged it &lpar;Ben Cohen/Wall Street Journal&rpar;](https://www.techmeme.com/260816/p11#a260816p11)
- - [OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)<!-- TECH:END -->
+ - [D23: All the New Lands and Rides Revealed for Disneyland and Disney World](https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

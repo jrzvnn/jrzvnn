@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wave After Wave](http://9gag.com/gag/azxNMEK)
- - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
- - 💣 [Just American thing](http://9gag.com/gag/aLnY06x)
- - 😝 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)
- - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
+ - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 😝 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
 
 ---
 

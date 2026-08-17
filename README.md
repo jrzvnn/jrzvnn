@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta and BlackRock&#39;s $14B El Paso data center project is not insured against total loss, exposing lenders to credit risks and big potential liabilities &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p11#a260817p11)
- - [Skylight Buddy Review &lpar;2026&rpar;: Kid Routines Just Got Easy](https://www.wired.com/review/skylight-buddy/)
- - [Russian law enforcement docs: Binance provided Russia with transaction records and passport copies of IT specialist Yuri Belenkiy, leading to terrorism charges &lpar;Anton Zverev/Reuters&rpar;](https://www.techmeme.com/260817/p10#a260817p10)
- - [An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p9#a260817p9)
- - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)<!-- TECH:END -->
+ - [Apple Watch Series 11 vs Google Pixel Watch 5: Flagship smartwatches, compared](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-google-pixel-watch-5-flagship-smartwatches-compared?utm_source=rss)
+ - [CookUnity Prepared Meal Delivery Review &lpar;2026&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery-2026/)
+ - [How to take better photos of your pets](https://www.theverge.com/tech/970021/how-to-take-better-pet-photos)
+ - [Whisker’s AI-powered litter robot thinks my cats swapped bodies](https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review)
+ - [Anthropic explains how Claude&amp;#8217;s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

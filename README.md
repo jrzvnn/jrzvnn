@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Sacks says &quot;Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize&quot; after Amodei shared policy ideas &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260817/p36#a260817p36)
  - [Epic doesn&#39;t believe in compromise unless it is with Google](https://appleinsider.com/articles/26/08/17/epic-doesnt-believe-in-compromise-unless-it-is-with-google?utm_source=rss)
  - [Pornhub&#39;s parent company, Aylo, will pay $120M to settle two 2021 class action lawsuits in California and Alabama alleging it profited from child abuse material &lpar;Samantha Cole/404 Media&rpar;](https://www.techmeme.com/260817/p35#a260817p35)
  - [What Is El Niño? Here’s What It Means for Weather, Water, and Global Economy](https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/)
- - [Sources: Crusoe is in IPO talks with at least four Wall Street banks, including JPMorgan, which is advising on its $3B pre-IPO fundraise set to value it at $35B &lpar;Alan Neuhauser/Axios&rpar;](https://www.techmeme.com/260817/p34#a260817p34)
- - [Pixel 11 Pro XL vs. iPhone 17 Pro Max: I Compared Google and Apple’s Flagship Phones](https://www.cnet.com/tech/mobile/google-pixel-11-pro-xl-vs-iphone-17-pro-max-buying-guide/)<!-- TECH:END -->
+ - [Sources: Crusoe is in IPO talks with at least four Wall Street banks, including JPMorgan, which is advising on its $3B pre-IPO fundraise set to value it at $35B &lpar;Alan Neuhauser/Axios&rpar;](https://www.techmeme.com/260817/p34#a260817p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

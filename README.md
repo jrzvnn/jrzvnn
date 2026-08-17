@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of 60 of the largest planned US data centers: they could together produce 101.5M tons of CO2 per year, or ~7% of US power sector emissions in 2025 &lpar;Financial Times&rpar;](https://www.techmeme.com/260817/p9#a260817p9)
+ - [El Niño and Saharan Dust Silence Atlantic Hurricane Season](https://www.wired.com/story/el-nino-quiets-atlantic-hurricane-season/)
+ - [Sources: Singapore-based Shein is aiming to hit a ~$25B valuation in its Hong Kong IPO, down from its $30B-$40B goal earlier in August after investor meetings &lpar;Reuters&rpar;](https://www.techmeme.com/260817/p8#a260817p8)
  - [Analysis: nine top tech companies including Alphabet and Meta had ~$3T of AI-related off-balance-sheet commitments, far exceeding their $600B in reported capex &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p7#a260817p7)
- - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)
- - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
- - [AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260817/p6#a260817p6)
- - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)<!-- TECH:END -->
+ - [Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms](https://www.wired.com/story/election-officials-are-preparing-for-prediction-markets-to-sow-chaos-in-the-midterms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

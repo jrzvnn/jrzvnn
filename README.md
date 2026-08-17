@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a New Link Between Gut Health and Alzheimer’s Disease](https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/)
+ - [AI film startups are setting up studios in Hollywood, using US and Chinese AI models while touting lower production costs and a way around traditional financing &lpar;Robert Booth/The Guardian&rpar;](https://www.techmeme.com/260817/p6#a260817p6)
  - [How US industrial companies like Caterpillar, Cummins, Eaton, and Ford are pivoting their businesses to feed a booming AI data-center market for power equipment &lpar;Bob Tita/Wall Street Journal&rpar;](https://www.techmeme.com/260817/p5#a260817p5)
  - [I’m hooked on Peak Design’s new City bags](https://www.theverge.com/tech/980137/peak-design-city-line-review)
- - [Qwen 3.8 27B shows a 17GB open-weight general purpose model can have long context, effective tool calling, strong vision ability, and competent code generation &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260817/p4#a260817p4)
- - [AI video generation startup Higgsfield raised $400M from DST, Goldman Sachs, Liberty Global, Intel, and others at a $5.4B valuation, up from $1.3B in January &lpar;James Fontanella-Khan/Financial Times&rpar;](https://www.techmeme.com/260817/p3#a260817p3)
- - [Chainalysis sues the US government over ICE&#39;s $94.6M contract to buy forensic software and services from its competitor TRM Labs, calling the deal &quot;arbitrary&quot; &lpar;Ezra Reguerra/Cointelegraph&rpar;](https://www.techmeme.com/260817/p2#a260817p2)<!-- TECH:END -->
+ - [Qwen 3.8 27B shows a 17GB open-weight general purpose model can have long context, effective tool calling, strong vision ability, and competent code generation &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](https://www.techmeme.com/260817/p4#a260817p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

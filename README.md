@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Analogue Pocket gets a Supreme makeover in red or gold](https://www.theverge.com/games/981054/analogue-pocket-supreme-red-gold-fall-winter-2026-collection)
+ - [Sonos finally added Live Activities controls for your iPhone lockscreen](https://www.theverge.com/tech/981008/sonos-mobile-ios-iphone-app-live-activities)
  - [Trump’s dumb border wall](https://www.theverge.com/report/980933/trump-border-wall-big-bend-arizona-cottonwood-tree-sit)
  - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
- - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)
- - [Save $100 to $150 on Apple&#39;s M4 iPad Air after Amazon issues steeper markdowns](https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss)
- - [A German regulator says Apple will make changes to ATT after finding it gave Apple&#39;s apps more favorable consent prompts than those of third-party developers &lpar;Reuters&rpar;](https://www.techmeme.com/260817/p23#a260817p23)<!-- TECH:END -->
+ - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

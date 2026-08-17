@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 😝 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
- - 💣 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
+ - 😝 [100% True](http://9gag.com/gag/aYQ8yMV)
+ - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 💣 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
+ - 😝 [It always gets better on the greener grasser side](http://9gag.com/gag/aW4Kjjq)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 

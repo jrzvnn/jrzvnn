@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 😝 [Just American thing](http://9gag.com/gag/aLnY06x)
- - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - 😝 [Gotta do what you gotta do!](http://9gag.com/gag/aNDxg5b)
- - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
+ - 😝 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
+ - 😝 [Full package](http://9gag.com/gag/azxN9zq)
+ - 💣 [Optical illusion wins the game](http://9gag.com/gag/aoyr5w2)
+ - 😝 [Hard pass on that logic](http://9gag.com/gag/aoyrPVA)
+ - 👉 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 😝 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
- - 💣 [Wave After Wave](http://9gag.com/gag/azxNMEK)
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Just American thing](http://9gag.com/gag/aLnY06x)
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
  - 😝 [Who wants to be a millionaire](http://9gag.com/gag/amojPW6)
- - 👉 [I wonder how many times he goes up on her](http://9gag.com/gag/a5QmReE)<!-- MEMES:END -->
+ - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
 
 ---
 

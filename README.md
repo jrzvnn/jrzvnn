@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How German regulators are cracking down on App Tracking Transparency](https://appleinsider.com/articles/26/08/17/how-german-regulators-are-cracking-down-on-app-tracking-transparency?utm_source=rss)
+ - [Monzo chair Gary Hoffman is leaving after some of Monzo&#39;s biggest shareholders called for his removal following the board&#39;s decision to remove TS Anil as CEO &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260817/p24#a260817p24)
  - [Save $100 to $150 on Apple&#39;s M4 iPad Air after Amazon issues steeper markdowns](https://appleinsider.com/articles/26/08/17/save-100-to-150-on-apples-m4-ipad-air-after-amazon-issues-steeper-markdowns?utm_source=rss)
  - [A German regulator says Apple will make changes to ATT after finding it gave Apple&#39;s apps more favorable consent prompts than those of third-party developers &lpar;Reuters&rpar;](https://www.techmeme.com/260817/p23#a260817p23)
- - [Apple ordered to stop scaring iPhone and iPad users away from third-party apps](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)
- - [Microsoft says GitHub is down worldwide, with its website, API, Actions, Pull Requests, and other services impacted; GitHub confirmed the outage at 13:40 UTC &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260817/p22#a260817p22)
- - [WiiM’s capable HomePod-esque smart speaker is almost $50 off](https://www.theverge.com/gadgets/980916/wiim-sound-speaker-lite-airpods-max-2-deal-sale)<!-- TECH:END -->
+ - [Apple ordered to stop scaring iPhone and iPad users away from third-party apps](https://www.theverge.com/tech/980977/apple-app-tracking-transparency-settlement-germany)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

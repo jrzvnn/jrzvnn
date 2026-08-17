@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
  - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
+ - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
  - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
- - 😝 [Another ending](http://9gag.com/gag/azxN10K)
- - 👉 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)<!-- MEMES:END -->
+ - 😝 [Gotta do what you gotta do!](http://9gag.com/gag/aNDxg5b)
+ - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->
 
 ---
 

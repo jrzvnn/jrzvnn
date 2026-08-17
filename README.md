@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumbest man](http://9gag.com/gag/agmMn0g)
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 💣 [Dr. Evil practice.](http://9gag.com/gag/aNDxY23)
- - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
- - 👉 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
+ - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 💣 [Fu3k around and find out](http://9gag.com/gag/aD2pgWO)
+ - 😝 [FAFO!](http://9gag.com/gag/a6ZvNy8)
+ - 👉 [Dumbest man](http://9gag.com/gag/agmMn0g)<!-- MEMES:END -->
 
 ---
 

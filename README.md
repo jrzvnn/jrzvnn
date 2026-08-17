@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This R-Rated Film Studio Wants to Be the HBO of AI](https://www.wired.com/story/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/)
+ - [Amazon joins the list of companies destroying rare books to feed to the AI machine](https://appleinsider.com/articles/26/08/17/amazon-joins-the-list-of-companies-destroying-rare-books-to-feed-to-the-ai-machine?utm_source=rss)
+ - [Sources: Anthropic&#39;s revenue run rate reached $65B by the end of July, up from $47B in May and $9B in late 2025 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260817/p31#a260817p31)
  - [This compact Glorious mechanical keyboard is just $35](https://www.theverge.com/gadgets/981134/glorious-gmmk-3-mechanical-keyboard-deal-sale)
- - [Latest macOS Golden Gate beta adds unique dynamic wallpapers](https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss)
- - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
- - [Acura Nexera Vision Concept Previews Future Hybrid Headlight Design](https://www.cnet.com/roadshow/automobiles/acura-nexera-vision-concept-previews-future-hybrid-headlight-design/)
- - [African defense tech company Terra Industries, founded in 2024, raised a $52M seed round from 8VC and others, and says it&#39;s on track to book $100M in contracts &lpar;Dominic-Madori Davis/TechCrunch&rpar;](https://www.techmeme.com/260817/p30#a260817p30)<!-- TECH:END -->
+ - [Latest macOS Golden Gate beta adds unique dynamic wallpapers](https://appleinsider.com/articles/26/08/17/latest-macos-golden-gate-beta-adds-unique-dynamic-wallpapers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

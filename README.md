@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Forest Grump](http://9gag.com/gag/aVvnY1y)
- - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
+ - 😝 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
+ - 😝 [I didn&#39;t know being super cute was a disability](http://9gag.com/gag/aXPDY56)
  - 💣 [I don&#39;t understand what the purpose of this was](http://9gag.com/gag/aXPDgYD)
  - 😝 [Gotta do what you gotta do!](http://9gag.com/gag/aNDxg5b)
  - 👉 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)<!-- MEMES:END -->

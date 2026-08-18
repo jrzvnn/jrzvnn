@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 😝 [100% True](http://9gag.com/gag/aYQ8yMV)
  - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 💣 [100% True](http://9gag.com/gag/aYQ8yMV)
- - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
+ - 💣 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
+ - 😝 [Be more like AI!](http://9gag.com/gag/a6ZvEpe)
  - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---

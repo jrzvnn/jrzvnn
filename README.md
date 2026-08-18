@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Siri Remote may be in the works, but don&#39;t get excited](https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss)
- - [Meta Ran Ads for an App That Promised to Nudify Female Politicians](https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/)
- - [Save up to $600 on M5 Max MacBook Pro with today&#39;s best deals](https://appleinsider.com/articles/26/08/18/save-up-to-600-on-m5-max-macbook-pro-with-todays-best-deals?utm_source=rss)
- - [Google quietly rolled out a new program to let verified political campaigns more easily bypass Gmail&#39;s spam filter, after years of complaints from the GOP &lpar;Shane Goldmacher/New York Times&rpar;](https://www.techmeme.com/260818/p20#a260818p20)
- - [Velaura AI, which is developing low-power chips for data centers and physical AI applications, like robotics, raised a $110M Series A at a $1B+ valuation &lpar;Prathik Jayaprakash/Reuters&rpar;](https://www.techmeme.com/260818/p19#a260818p19)<!-- TECH:END -->
+ - [Francisco Partners plans to take patient engagement software company Weave Communications private for ~$650M; Weave went public at a ~$1.5B valuation in 2021 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260818/p23#a260818p23)
+ - [Apple may be considering adding a Camera Control button to a future iPad](https://appleinsider.com/articles/26/08/18/apple-may-be-considering-adding-a-camera-control-button-to-a-future-ipad?utm_source=rss)
+ - [Meta ran ads for a nudify app featuring a porn video with a deepfake closely resembling a prominent US politician; Apple removed the app from the App Store &lpar;Wired&rpar;](https://www.techmeme.com/260818/p22#a260818p22)
+ - [Palona, which uses AI agents to automate real-time workflows in brick-and-mortar businesses, raised a $20M Series A, following a $10M seed in 2025 &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260818/p21#a260818p21)
+ - [A new Siri Remote may be in the works, but don&#39;t get excited](https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

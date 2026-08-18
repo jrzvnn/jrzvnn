@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s EU App Store changes are big, and a preview of what&#39;s coming in the US](https://appleinsider.com/articles/26/08/18/apples-eu-app-store-changes-are-big-and-a-preview-of-whats-coming-in-the-us?utm_source=rss)
+ - [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
  - [VC funding in physical AI companies totaled $47.4B across 521 deals in H1, up 80% from H1 2025, and more than the $41.9B invested from 2022 to 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260818/p30#a260818p30)
  - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
- - [Garmin Watches Are Up to $250 Off Right Now On Amazon &lpar;2026&rpar;](https://www.wired.com/story/garmin-deals-august-2026/)
- - [OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
- - [Apple pledges relief after deadly Indonesia earthquake](https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss)<!-- TECH:END -->
+ - [Garmin Watches Are Up to $250 Off Right Now On Amazon &lpar;2026&rpar;](https://www.wired.com/story/garmin-deals-august-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

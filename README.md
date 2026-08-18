@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VC funding in physical AI companies totaled $47.4B across 521 deals in H1, up 80% from H1 2025, and more than the $41.9B invested from 2022 to 2024 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](https://www.techmeme.com/260818/p30#a260818p30)
+ - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
+ - [Garmin Watches Are Up to $250 Off Right Now On Amazon &lpar;2026&rpar;](https://www.wired.com/story/garmin-deals-august-2026/)
  - [OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue](https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/)
- - [Apple pledges relief after deadly Indonesia earthquake](https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss)
- - [OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260818/p29#a260818p29)
- - [There is a good reason to praise AirPods with cameras, and not fear them](https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss)
- - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)<!-- TECH:END -->
+ - [Apple pledges relief after deadly Indonesia earthquake](https://appleinsider.com/articles/26/08/18/apple-pledges-relief-after-deadly-indonesia-earthquake?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

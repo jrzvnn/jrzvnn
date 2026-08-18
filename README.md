@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;m told this is real CCTV from the Venezuelan earthquake.... I&#39;ve never seen anything like this](http://9gag.com/gag/aYQ8oVv)
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
  - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
  - 😝 [\ud83c\udfae \ud835\udde2\ud835\udddf\ud835\uddd8\ud835\uddd7 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddda\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud83d\udce2 The AORUS Falcon is heading to Gamescom and here&#39;s your chance to level up your setup! Enter the Gveaway on 9GAG Instagram!](http://9gag.com/gag/aXPDrZD)
- - 👉 [Racial Profiling](http://9gag.com/gag/a1mz1Nw)<!-- MEMES:END -->
+ - 👉 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)<!-- MEMES:END -->
 
 ---
 

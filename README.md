@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock is raising prices by up to $3](https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026)
- - [You can now make a bid on Steve Jobs&#39; 8th-grade science fair project](https://appleinsider.com/articles/26/08/18/you-can-now-make-a-bid-on-steve-jobs-8th-grade-science-fair-project?utm_source=rss)
- - [Apple&#39;s App Store revenue in danger of being regulated away](https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss)
- - [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)
- - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)<!-- TECH:END -->
+ - [A new Siri Remote may be in the works, but don&#39;t get excited](https://appleinsider.com/articles/26/08/18/a-new-siri-remote-may-be-in-the-works-but-dont-get-excited?utm_source=rss)
+ - [Meta Ran Ads for an App That Promised to Nudify Female Politicians](https://www.wired.com/story/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/)
+ - [Save up to $600 on M5 Max MacBook Pro with today&#39;s best deals](https://appleinsider.com/articles/26/08/18/save-up-to-600-on-m5-max-macbook-pro-with-todays-best-deals?utm_source=rss)
+ - [Google quietly rolled out a new program to let verified political campaigns more easily bypass Gmail&#39;s spam filter, after years of complaints from the GOP &lpar;Shane Goldmacher/New York Times&rpar;](https://www.techmeme.com/260818/p20#a260818p20)
+ - [Velaura AI, which is developing low-power chips for data centers and physical AI applications, like robotics, raised a $110M Series A at a $1B+ valuation &lpar;Prathik Jayaprakash/Reuters&rpar;](https://www.techmeme.com/260818/p19#a260818p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

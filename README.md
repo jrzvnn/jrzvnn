@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI inference chip startup Etched raised $700M led by its new server rack customer Jane Street at a $21B valuation, up from $10.3B after raising $300M in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260818/p8#a260818p8)
- - [Sources: China orders some state-linked entities to uninstall a government-tailored version of Windows 10, ahead of its February 2027 retirement timeline &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p7#a260818p7)
- - [Google unveils Operation Blue Skies, a £5M trial to re-route North Atlantic aircraft to reduce contrail-induced warming using Google&#39;s AI atmospheric forecasts &lpar;Madeleine Cuff/New Scientist&rpar;](https://www.techmeme.com/260818/p6#a260818p6)
- - [The Cop Who Took On Flock](https://www.wired.com/story/the-cop-who-took-on-flock/)
- - [Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p5#a260818p5)<!-- TECH:END -->
+ - [Reddit launches an early experiment to convert select text posts and comments into short videos with AI voiceovers, rolling out on the web, iOS, and Android &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260818/p10#a260818p10)
+ - [Alibaba&#39;s Alipay launches a new &quot;all-in-one&quot; platform for businesses to use AI agents to automate tasks; Alibaba&#39;s stock jumps 5%+ and is up 40%+ since June &lpar;Jeanny Yu/Bloomberg&rpar;](https://www.techmeme.com/260818/p9#a260818p9)
+ - [Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/)
+ - [Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To](https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/)
+ - [AI inference chip startup Etched raised $700M led by its new server rack customer Jane Street at a $21B valuation, up from $10.3B after raising $300M in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260818/p8#a260818p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

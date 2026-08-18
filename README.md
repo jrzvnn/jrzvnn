@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic details two experiments showing how Claude can accelerate protein design and analytical chemistry, and says it plans an access program for scientists &lpar;Anthropic&rpar;](https://www.techmeme.com/260818/p39#a260818p39)
+ - [Fairphone’s Repairable Smartphones Debut in the US With the 6 Plus](https://www.cnet.com/tech/mobile/fairphones-repairable-smartphones-debut-in-the-us-with-the-6-plus/)
  - [Sources: OpenAI&#39;s Q2 revenue grew 18% QoQ to $6.7B, but its operating margin sank further; Anthropic more than doubled its revenue to $11.6B in the same period &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260818/p38#a260818p38)
  - [Z.ai&#39;s GLM-5.3 with max reasoning scores 60 on the Artificial Analysis Intelligence Index, on par with Kimi K3 but below Opus 5 at 63 and Fable 5 at 62 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260818/p37#a260818p37)
- - [Apple services outage hit iCloud, Game Center, Find My, and more](https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss)
- - [Internal memo: ICE bars its employees from wearing Meta&#39;s AI glasses, saying they &quot;could unintentionally capture, record, or transmit sensitive information&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260818/p36#a260818p36)
- - [Pennsylvania Governor Josh Shapiro signs an executive order imposing new requirements on data center projects, including getting approval from local officials &lpar;Allan Smith/NBC News&rpar;](https://www.techmeme.com/260818/p35#a260818p35)<!-- TECH:END -->
+ - [Apple services outage hit iCloud, Game Center, Find My, and more](https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

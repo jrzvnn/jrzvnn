@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: ICE bars its employees from wearing Meta&#39;s AI glasses, saying they &quot;could unintentionally capture, record, or transmit sensitive information&quot; &lpar;New York Times&rpar;](https://www.techmeme.com/260818/p36#a260818p36)
  - [Apple services outage hits iCloud, Game Center, Find My, and more](https://appleinsider.com/articles/26/08/18/apple-services-outage-hits-icloud-game-center-find-my-and-more?utm_source=rss)
  - [Pennsylvania Governor Josh Shapiro signs an executive order imposing new requirements on data center projects, including getting approval from local officials &lpar;Allan Smith/NBC News&rpar;](https://www.techmeme.com/260818/p35#a260818p35)
  - [In opening arguments, US state AGs said Meta intentionally sought to addict children to Facebook and Instagram in pursuit of profit; Meta rejected the claims &lpar;Reuters&rpar;](https://www.techmeme.com/260818/p34#a260818p34)
- - [Sam Altman says OpenAI&#39;s decision to pace its AI development was caused by a collection of research observations showing &quot;various degrees of misalignment&quot; &lpar;Alex Heath/Time&rpar;](https://www.techmeme.com/260818/p33#a260818p33)
- - [Sources: Anthropic has been preparing to give its co-founders shares with extra voting power to help insulate them from outside pressure, ahead of a planned IPO &lpar;The Information&rpar;](https://www.techmeme.com/260818/p32#a260818p32)<!-- TECH:END -->
+ - [Sam Altman says OpenAI&#39;s decision to pace its AI development was caused by a collection of research observations showing &quot;various degrees of misalignment&quot; &lpar;Alex Heath/Time&rpar;](https://www.techmeme.com/260818/p33#a260818p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

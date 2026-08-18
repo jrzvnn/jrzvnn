@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission)
  - [The EU says it &quot;welcomes Apple&#39;s changes&quot; and they follow a &quot;close dialogue&quot;; IAP fees are 26%, alt payment processing fees are 20%, and link-out fees are 15% &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p26#a260818p26)
  - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
  - [Tesla is finally launching the Cybercab — let’s hope it’s ready](https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready)
- - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)
- - [Harvey announces Harvey Tenet, its first in-house, proprietary model for legal work, trained on mock disputes and case files using a version of Kimi K3 &lpar;Melia Robinson/Business Insider&rpar;](https://www.techmeme.com/260818/p24#a260818p24)<!-- TECH:END -->
+ - [Apple unveils new EU business terms from October 1, resolving disputes with the EU, including a new Core Technology Commission and App Store commission tiers &lpar;Apple&rpar;](https://www.techmeme.com/260818/p25#a260818p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

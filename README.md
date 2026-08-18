@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
  - 😝 [I&#39;m told this is real CCTV from the Venezuelan earthquake.... I&#39;ve never seen anything like this](http://9gag.com/gag/aYQ8oVv)
- - 😝 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 💣 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
+ - 💣 [Wave After Wave](http://9gag.com/gag/azxNMEK)
  - 😝 [\ud83c\udfae \ud835\udde2\ud835\udddf\ud835\uddd8\ud835\uddd7 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddda\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud83d\udce2 The AORUS Falcon is heading to Gamescom and here&#39;s your chance to level up your setup! Enter the Gveaway on 9GAG Instagram!](http://9gag.com/gag/aXPDrZD)
- - 👉 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)<!-- MEMES:END -->
+ - 👉 [Girls when I arrive](http://9gag.com/gag/axyxM71)<!-- MEMES:END -->
 
 ---
 

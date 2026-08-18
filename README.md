@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC proposes exempting certain digital asset offerings from securities registration statements, with exemptions for offerings up to $5M and $75M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p31#a260818p31)
+ - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
+ - [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)
  - [Robin Williams’ Instagram account brought back to fight ‘AI abuse’](https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai)
- - [Gemini in Chrome Now Available for Android Users](https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/)
- - [Apple&#39;s EU App Store changes are big, and a preview of what&#39;s coming in the US](https://appleinsider.com/articles/26/08/18/apples-eu-app-store-changes-are-big-and-a-preview-of-whats-coming-in-the-us?utm_source=rss)
- - [OpenAI lays out new security changes after its AI hacked Hugging Face](https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack)
- - [Resonance: A Plague Tale Legacy Lead Xbox Game Pass’s August 2026 Second Batch](https://www.cnet.com/tech/gaming/resonance-a-plague-tale-legacy-lead-xbox-game-passs-august-2026-second-batch/)<!-- TECH:END -->
+ - [Gemini in Chrome Is Now Available for Android Users](https://www.cnet.com/tech/services-and-software/gemini-in-chrome-now-available-for-android-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

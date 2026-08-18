@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
  - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 💣 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 💣 [Wave After Wave](http://9gag.com/gag/azxNMEK)
  - 😝 [\ud83c\udfae \ud835\udde2\ud835\udddf\ud835\uddd8\ud835\uddd7 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddda\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud83d\udce2 The AORUS Falcon is heading to Gamescom and here&#39;s your chance to level up your setup! Enter the Gveaway on 9GAG Instagram!](http://9gag.com/gag/aXPDrZD)
- - 👉 [Like a badass game](http://9gag.com/gag/aE0r8Ex)<!-- MEMES:END -->
+ - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
 
 ---
 

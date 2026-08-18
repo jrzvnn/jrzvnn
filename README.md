@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI&#39;s decision to pace its AI development was caused by a collection of research observations showing &quot;various degrees of misalignment&quot; &lpar;Alex Heath/Time&rpar;](https://www.techmeme.com/260818/p33#a260818p33)
  - [Sources: Anthropic has been preparing to give its co-founders shares with extra voting power to help insulate them from outside pressure, ahead of a planned IPO &lpar;The Information&rpar;](https://www.techmeme.com/260818/p32#a260818p32)
  - [ChatGPT Launches a Version of Its Model for Teens](https://www.cnet.com/tech/services-and-software/chatgpt-launches-version-of-its-model-for-teens/)
  - [The US SEC proposes exempting certain digital asset offerings from securities registration statements, with exemptions for offerings up to $5M and $75M &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p31#a260818p31)
- - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)
- - [SteelSeries’ comfy wireless gaming headset is nearly half off](https://www.theverge.com/gadgets/981611/steelseries-arctis-nova-3p-deal-sale)<!-- TECH:END -->
+ - [Squeeze More Juice Out of a Dead Battery!](https://www.wired.com/story/squeeze-more-juice-out-of-a-dead-battery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

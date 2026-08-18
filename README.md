@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Yemen, 90% of men and half of women chew khat daily. A quarter of all their household income is spent on this plant. Alcohol is haram, but they are all drug addicts. Make it make sense.](http://9gag.com/gag/an7pQ9n)
- - 😝 [She&#39;s a. defensive. mum](http://9gag.com/gag/aByqgMN)
- - 💣 [Skydiver couldn\u2019t deploy her parachute](http://9gag.com/gag/a9yQR46)
- - 😝 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
+ - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - 😝 [Modern office life in a nutshell](http://9gag.com/gag/ae9oAWm)
  - 👉 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)<!-- MEMES:END -->
 
 ---

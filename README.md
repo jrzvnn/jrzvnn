@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can fix her](http://9gag.com/gag/aoyrMx2)
- - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 💣 [Touch\u00e9](http://9gag.com/gag/aNDxpPb)
  - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 👉 [Cancer killed by frog blood](http://9gag.com/gag/awyRM0R)<!-- MEMES:END -->
+ - 😝 [Proper Self defense](http://9gag.com/gag/aMVRY0R)
+ - 💣 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
+ - 😝 [In Yemen, 90% of men and half of women chew khat daily. A quarter of all their household income is spent on this plant. Alcohol is haram, but they are all drug addicts. Make it make sense.](http://9gag.com/gag/an7pQ9n)
+ - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
 
 ---
 

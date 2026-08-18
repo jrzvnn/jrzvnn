@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock is raising prices by up to $3](https://www.theverge.com/streaming/981418/peacock-price-increase-august-2026)
+ - [You can now make a bid on Steve Jobs&#39; 8th-grade science fair project](https://appleinsider.com/articles/26/08/18/you-can-now-make-a-bid-on-steve-jobs-8th-grade-science-fair-project?utm_source=rss)
  - [Apple&#39;s App Store revenue in danger of being regulated away](https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss)
  - [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)
- - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)
- - [Shark’s Answer to the PencilWash Has an Extendable Wand to Clean Tight Spots](https://www.cnet.com/home/kitchen-and-household/sharks-answer-to-the-pencilwash-has-an-extendable-wand-to-clean-tight-spots/)
- - [Comcast is turning millions of its routers into motion detectors](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)<!-- TECH:END -->
+ - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

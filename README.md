@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls when I arrive](http://9gag.com/gag/axyxM71)
+ - 😝 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
  - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 💣 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 😝 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 👉 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)<!-- MEMES:END -->
+ - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
+ - 😝 [Another ending](http://9gag.com/gag/azxN10K)
+ - 👉 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dutch company Fairphone launches its $650 flagship repairable Fairphone &lpar;Gen 6+&rpar; in the US and plans to keep launching new phone generations every two years &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260818/p14#a260818p14)
- - [Oops! My cat is an iPad kid](https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube)
- - [Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p13#a260818p13)
- - [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech)
- - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [Lindsay Clancy murder trial prosecutors leaning on iPhone &amp; Apple Watch forensics](https://appleinsider.com/articles/26/08/18/lindsay-clancy-murder-trial-prosecutors-leaning-on-iphone-apple-watch-forensics?utm_source=rss)
+ - [Google&amp;#8217;s Pet Memory forgot who my cats are](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)
+ - [The Verge Guide to Pets](https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale)
+ - [My parrot ate my keyboard](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect)
+ - [How a bipartisan coalition of US states fought to present a united case against Meta; Judge Rogers established a hybrid structure for the multi-week trial &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260818/p15#a260818p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lindsay Clancy murder trial prosecutors leaning on iPhone &amp; Apple Watch forensics](https://appleinsider.com/articles/26/08/18/lindsay-clancy-murder-trial-prosecutors-leaning-on-iphone-apple-watch-forensics?utm_source=rss)
- - [Google&amp;#8217;s Pet Memory forgot who my cats are](https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review)
- - [The Verge Guide to Pets](https://www.theverge.com/tech/975556/pets-tech-autofeeder-litter-robot-scale)
- - [My parrot ate my keyboard](https://www.theverge.com/tech/978402/parrot-ate-keyboard-protect)
- - [How a bipartisan coalition of US states fought to present a united case against Meta; Judge Rogers established a hybrid structure for the multi-week trial &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260818/p15#a260818p15)<!-- TECH:END -->
+ - [Q&amp;A with Proton CEO Andy Yen on Proton&#39;s story, dislodging &quot;a hundred million people&quot; from Google, AI backlash, privacy, US politics, EU Chat Control, and more &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260818/p17#a260818p17)
+ - [Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?](https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/)
+ - [Firefox’s AI Window Gets New Features Meant to Help You Stay on Task and Organized](https://www.cnet.com/tech/services-and-software/copy-of-firefoxs-ai-window-gets-new-features-meant-to-help-you-stay-on-task-and-organized/)
+ - [Polaroid’s new Pokémon collection captures memories, not Pikachus](https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film)
+ - [Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users](https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

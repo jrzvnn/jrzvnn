@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 😝 [Good thing this guy did the right thing, now he can work digging sewers the rest of his life](http://9gag.com/gag/aW4KEr2)
- - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 😝 [Modern office life in a nutshell](http://9gag.com/gag/ae9oAWm)
- - 👉 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)<!-- MEMES:END -->
+ - 😝 [I can fix her](http://9gag.com/gag/aoyrMx2)
+ - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 💣 [Touch\u00e9](http://9gag.com/gag/aNDxpPb)
+ - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
+ - 👉 [Cancer killed by frog blood](http://9gag.com/gag/awyRM0R)<!-- MEMES:END -->
 
 ---
 

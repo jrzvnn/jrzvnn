@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
  - 😝 [Just American thing](http://9gag.com/gag/aLnY06x)
  - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 😝 [Who wants to be a millionaire](http://9gag.com/gag/amojPW6)
- - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
+ - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [We failed! R.I.P Hayden Panettiere](http://9gag.com/gag/agmMA41)<!-- MEMES:END -->
 
 ---
 

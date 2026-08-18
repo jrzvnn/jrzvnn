@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wave After Wave](http://9gag.com/gag/azxNMEK)
- - 😝 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)
- - 💣 [Found this in Delhi](https://www.reddit.com/r/funny/comments/1vrf72x/found_this_in_delhi/)
- - 😝 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 👉 [Be more like AI!](http://9gag.com/gag/a6ZvEpe)<!-- MEMES:END -->
+ - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 💣 [100% True](http://9gag.com/gag/aYQ8yMV)
+ - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 

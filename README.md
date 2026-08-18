@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)
- - [Sources: Anthropic&#39;s revolving credit facility is set to surpass its roughly $10B target as banks compete for roles on the company&#39;s upcoming IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p27#a260818p27)
- - [Apple squashes EU beef with new App Store rules](https://www.theverge.com/tech/981504/apple-app-store-eu-rules-core-technology-commission)
- - [The EU says it &quot;welcomes Apple&#39;s changes&quot;; Apple will reduce its fees in the EU, charging 26% for apps with IAP, 20% for alt payments, and 15% for link-outs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p26#a260818p26)
- - [Tesla is finally launching the Cybercab — let’s hope it’s ready](https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready)<!-- TECH:END -->
+ - [There is a good reason to praise AirPods with cameras, and not fear them](https://appleinsider.com/articles/26/08/18/there-is-a-good-reason-to-praise-airpods-with-cameras-and-not-fear-them?utm_source=rss)
+ - [Samsung’s Galaxy Buds 3 Pro are almost half off today](https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale)
+ - [Comcast is rolling out Wi-Fi motion sensing to its Xfinity gateways, a free opt-in feature that allows its routers to detect movement at home &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](https://www.techmeme.com/260818/p28#a260818p28)
+ - [PlayStation&amp;#8217;s wireless gaming speakers launch in November](https://www.theverge.com/tech/981562/sony-playstation-pulse-elevate-wireless-gaming-speakers-launch-date-preorder)
+ - [New EU App Store terms lower both costs and bar to entry for external payments](https://appleinsider.com/articles/26/08/18/new-eu-app-store-terms-lower-both-costs-and-bar-to-entry-for-external-payments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

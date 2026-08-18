@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
- - 😝 [Racial Profiling](http://9gag.com/gag/a1mz1Nw)
- - 💣 [The main star](http://9gag.com/gag/ayNg9Or)
+ - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 💣 [Girls when I arrive](http://9gag.com/gag/axyxM71)
  - 😝 [\ud83c\udfae \ud835\udde2\ud835\udddf\ud835\uddd8\ud835\uddd7 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddda\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud83d\udce2 The AORUS Falcon is heading to Gamescom and here&#39;s your chance to level up your setup! Enter the Gveaway on 9GAG Instagram!](http://9gag.com/gag/aXPDrZD)
- - 👉 [Neighbor catches evading thief getting stuck on the safety gate.](http://9gag.com/gag/a0eA4Lz)<!-- MEMES:END -->
+ - 👉 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)<!-- MEMES:END -->
 
 ---
 

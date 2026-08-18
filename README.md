@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dutch company Fairphone launches its $650 flagship repairable Fairphone &lpar;Gen 6+&rpar; in the US and plans to keep launching new phone generations every two years &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260818/p14#a260818p14)
+ - [Oops! My cat is an iPad kid](https://www.theverge.com/tech/980226/cat-ipad-kid-pet-tech-games-youtube)
  - [Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p13#a260818p13)
  - [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech)
- - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
- - [OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260818/p12#a260818p12)
- - [Only iPhone 18 Pro Max rumored to get variable aperture](https://appleinsider.com/articles/26/08/18/only-iphone-18-pro-max-rumored-to-get-variable-aperture?utm_source=rss)<!-- TECH:END -->
+ - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

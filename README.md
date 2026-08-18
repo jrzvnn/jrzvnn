@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
- - 😝 [From the other side of culture...](http://9gag.com/gag/a1mzRGR)
- - 💣 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
- - 😝 [Another ending](http://9gag.com/gag/azxN10K)
- - 👉 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)<!-- MEMES:END -->
+ - 😝 [We all need someone to hold us](http://9gag.com/gag/aO8g0zr)
+ - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
+ - 💣 [100% True](http://9gag.com/gag/aYQ8yMV)
+ - 😝 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
+ - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
 
 ---
 

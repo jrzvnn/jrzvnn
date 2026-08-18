@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Situational Awareness offered part of its $5B Anthropic stake at a 20% discount as it scrambled for cash; word of its trouble left it &quot;being hunted&quot; &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260817/p37#a260817p37)
+ - [macOS Tahoe 26.7 beta references several unreleased products like Home Hub](https://appleinsider.com/articles/26/08/18/macos-tahoe-267-beta-references-several-unreleased-products-like-home-hub?utm_source=rss)
+ - [Planned US Data Centers Set to Produce 24M Cars’ Worth Of Carbon Dioxide](https://www.cnet.com/tech/tech-industry/planned-us-data-centers-set-to-produce-24m-cars-worth-of-co2/)
  - [Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users](https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss)
- - [Apple&#39;s sixth developer betas arrive for iOS 27, macOS 27, and more](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)
- - [Reddit’s AI is turning posts into podcasts and short videos](https://www.theverge.com/tech/981289/reddit-ai-text-video-posts)
- - [New Lucid Gravity GT-S Hits 60 MPH in 3.1 Seconds, Seats 7](https://www.cnet.com/home/electric-vehicles/new-lucid-gravity-gt-s-hits-60-mph-in-3-1-seconds-seats-seven/)
- - [David Sacks says &quot;Dario Amodei believes frontier AI is too powerful to distribute; we believe it is too powerful to centralize&quot; after Amodei shared policy ideas &lpar;David Sacks/@davidsacks&rpar;](https://www.techmeme.com/260817/p36#a260817p36)<!-- TECH:END -->
+ - [Apple&#39;s sixth developer betas arrive for iOS 27, macOS 27, and more](https://appleinsider.com/articles/26/08/17/apples-sixth-27-gen-developer-betas-arrive-as-the-fall-release-draws-closer?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

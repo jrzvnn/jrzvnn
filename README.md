@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100% True](http://9gag.com/gag/aYQ8yMV)
- - 😝 [Rip Hayden](http://9gag.com/gag/aoyrPog)
- - 💣 [Stealing shopping cart goes right](http://9gag.com/gag/ae9oDWQ)
- - 😝 [Be more like AI!](http://9gag.com/gag/a6ZvEpe)
- - 👉 [The little girl\u2019s reaction to having her first truly nice meal with her new adoptive family](http://9gag.com/gag/a349wdr)<!-- MEMES:END -->
+ - 😝 [No sound because it is censored by North Korean goverment](http://9gag.com/gag/amojvEy)
+ - 😝 [When they hired you to fix vibecoded program](http://9gag.com/gag/a1mzWL6)
+ - 💣 [European Maid?](http://9gag.com/gag/aNDx0Y3)
+ - 😝 [Not a poll. Do you find this recipe easier to read/use than what is normally used?](http://9gag.com/gag/aYQ8y27)
+ - 👉 [Proper Self defense](http://9gag.com/gag/aMVRY0R)<!-- MEMES:END -->
 
 ---
 

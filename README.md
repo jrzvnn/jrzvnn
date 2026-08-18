@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit launches an early experiment to convert select text posts and comments into short videos with AI voiceovers, rolling out on the web, iOS, and Android &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260818/p10#a260818p10)
- - [Alibaba&#39;s Alipay launches a new &quot;all-in-one&quot; platform for businesses to use AI agents to automate tasks; Alibaba&#39;s stock jumps 5%+ and is up 40%+ since June &lpar;Jeanny Yu/Bloomberg&rpar;](https://www.techmeme.com/260818/p9#a260818p9)
- - [Exclusive: You Can Finally Buy a Fairphone—a Sustainable, Repairable Smartphone—in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/)
- - [Can AI Coexist With Privacy? Proton’s Andy Yen Says It Will Have To](https://www.wired.com/story/the-big-interview-podcast-andy-yen-proton/)
- - [AI inference chip startup Etched raised $700M led by its new server rack customer Jane Street at a $21B valuation, up from $10.3B after raising $300M in July &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260818/p8#a260818p8)<!-- TECH:END -->
+ - [Xiaomi reports Q2 revenue down 6.1% YoY to ~$16.2B and net income down 21% to ~$1.4B, above est., amid a persistent memory shortage and weaker smartphone demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p13#a260818p13)
+ - [How I turned my fish tank high tech](https://www.theverge.com/tech/978229/fish-tank-tech)
+ - [I Put the Best Digital Notebooks to the Test. Here Are My Favorites &lpar;2026&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
+ - [OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260818/p12#a260818p12)
+ - [Only iPhone 18 Pro Max rumored to get variable aperture](https://appleinsider.com/articles/26/08/18/only-iphone-18-pro-max-rumored-to-get-variable-aperture?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

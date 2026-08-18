@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Proton CEO Andy Yen on Proton&#39;s story, dislodging &quot;a hundred million people&quot; from Google, AI backlash, privacy, US politics, EU Chat Control, and more &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260818/p17#a260818p17)
- - [Can the Upcoming ‘Expanse’ Game Avoid ‘Mass Effect’s’ Biggest Mistake?](https://www.wired.com/story/the-upcoming-expanse-game-has-to-make-some-hard-choices/)
- - [Firefox’s AI Window Gets New Features Meant to Help You Stay on Task and Organized](https://www.cnet.com/tech/services-and-software/copy-of-firefoxs-ai-window-gets-new-features-meant-to-help-you-stay-on-task-and-organized/)
- - [Polaroid’s new Pokémon collection captures memories, not Pikachus](https://www.theverge.com/tech/981141/polaroid-pokemon-pikachu-now-go-generation-3-instant-camera-film)
- - [Dell UltraSharp 32 4K QD-OLED review: Excellent color-calibration, not perfect for Mac users](https://appleinsider.com/articles/26/08/17/dell-ultrasharp-32-4k-qd-oled-review-excellent-color-calibration-not-perfect-for-mac-users?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s App Store revenue in danger of being regulated away](https://appleinsider.com/articles/26/08/18/apples-app-store-revenue-in-danger-of-being-regulated-away?utm_source=rss)
+ - [Coyote vs. Acme is even funnier because Warner Bros. Discovery tried to kill it](https://www.theverge.com/entertainment/981131/coyote-vs-acme-david-zaslac-warner-bros-discovery)
+ - [A demo video of AirPods with cameras has leaked via a macOS Tahoe RC](https://appleinsider.com/articles/26/08/18/a-demo-video-of-airpods-with-cameras-has-leaked-via-a-macos-tahoe-rc?utm_source=rss)
+ - [Shark’s Answer to the PencilWash Has an Extendable Wand to Clean Tight Spots](https://www.cnet.com/home/kitchen-and-household/sharks-answer-to-the-pencilwash-has-an-extendable-wand-to-clean-tight-spots/)
+ - [Comcast is turning millions of its routers into motion detectors](https://www.theverge.com/news/981381/comcast-xfinity-shield-wifi-motion-sensing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

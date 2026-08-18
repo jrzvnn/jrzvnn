@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&amp;#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)
+ - [The Powerful Chinese Model Experts Warned About—and Waited for—Is Here](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/)
+ - [Best Merino Wool Clothing &lpar;2026&rpar;: Base Layers, Hoodies, Jackets](https://www.wired.com/story/best-merino-wool-clothes/)
  - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
- - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)
- - [Sources: AI-drafted bills are swamping the US House&#39;s Legislative Counsel, which now spends more time fixing them than it would spend to draft them from scratch &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/260818/p1#a260818p1)
- - [Noom Promo Codes: 50% Off Best Deals &amp; Free Trials for August 2026](https://www.wired.com/story/noom-promo-code/)
- - [Hydrow Discount Code: Save Up to $150 | August 2026](https://www.wired.com/story/hydrow-discount-code/)<!-- TECH:END -->
+ - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

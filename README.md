@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p5#a260818p5)
+ - [Apple&#39;s macOS Tahoe 26.7 RC has references to unreleased products: a Home Hub, home accessories, new Beats, AirPods Pro 4, Apple Intelligence in China, and more &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260818/p4#a260818p4)
  - [Apple&amp;#8217;s camera-equipped AirPods appear in leaked video](https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak)
  - [The Powerful Chinese Model Experts Warned About—and Waited for—Is Here](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/)
- - [Best Merino Wool Clothing &lpar;2026&rpar;: Base Layers, Hoodies, Jackets](https://www.wired.com/story/best-merino-wool-clothes/)
- - [In filings, Apple acknowledges App Store regulatory changes are weighing on its $100B+ services business; US App Store spend fell 6% in Q2, per Sensor Tower &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/260818/p3#a260818p3)
- - [Rogue Studio, which calls itself a &quot;playground for creative ethical mischief&quot;, launches Rogue 1.0, an AI video tool to make adult content of Hollywood quality &lpar;Jason Parham/Wired&rpar;](https://www.techmeme.com/260818/p2#a260818p2)<!-- TECH:END -->
+ - [Best Merino Wool Clothing &lpar;2026&rpar;: Base Layers, Hoodies, Jackets](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

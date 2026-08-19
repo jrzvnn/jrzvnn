@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
+ - [Epic Games disagrees with Apples&#39; &#39;junk&#39; EU fee changes](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
  - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)
  - [Cybersecurity data company Prevalent AI raised $22M from Integrity Growth Partners, marking the nine-year-old startup&#39;s first-ever outside capital raise &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260819/p19#a260819p19)
- - [Apple&#39;s home automation hardware might work more like Apple Watch than a HomePod](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss)
- - [Amazon appears to have leaked Jason Statham&#39;s new film Mutiny, streaming it in full on Prime Video in the US, two days before it was supposed to hit theaters &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260819/p18#a260819p18)
- - [Amazon seemingly leaked Jason Statham’s entire Mutiny movie](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak)<!-- TECH:END -->
+ - [Apple&#39;s home automation hardware might work more like Apple Watch than a HomePod](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

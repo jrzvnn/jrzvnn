@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai prices GLM-5.3 API access at $1.40 per million input tokens and $4.40 per million output tokens, unchanged from GLM-5.2 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p2#a260819p2)
- - [Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260819/p1#a260819p1)
- - [OpenAI says new monitoring and security safeguards will add 20% compute overhead to monitored inference workloads; costs will not be passed on to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)
- - [Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260818/p45#a260818p45)
- - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)<!-- TECH:END -->
+ - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
+ - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
+ - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
+ - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
+ - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

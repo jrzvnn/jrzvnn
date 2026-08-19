@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)
- - [This robot vacuum solves my kitchen stool problem](https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review)
- - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
- - [Epic Games disagrees with Apples&#39; &#39;junk&#39; EU fee changes](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
- - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)<!-- TECH:END -->
+ - [Apple&#39;s M5 MacBook Pro with 96W adapter plunges to $1,699 &lpar;$320 off&rpar;](https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss)
+ - [Amazon Fire TV devices are getting a free Alexa Plus upgrade](https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free)
+ - [Sources: Nvidia is working as a matchmaker to connect companies holding its GPUs with Nordic data center operators that have available capacity to deploy them &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260819/p22#a260819p22)
+ - [Why Is It Absolute Hell to Buy a Movie Ticket Now?](https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/)
+ - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

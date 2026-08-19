@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
  - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 💣 [Throw back to this legendary moment.](http://9gag.com/gag/a9yQyOL)
- - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
  - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
 
 ---

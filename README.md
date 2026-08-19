@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Digital Wall Calendar &lpar;2026&rpar;: Skylight, Everblog, Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
- - [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
- - [UK-based automotive dealership software maker Pinewood agrees to a £545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through &lpar;Financial Times&rpar;](https://www.techmeme.com/260819/p16#a260819p16)
- - [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including suburban Chicago and Atlanta &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260819/p15#a260819p15)
- - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)<!-- TECH:END -->
+ - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)
+ - [Cybersecurity data company Prevalent AI raised $22M from Integrity Growth Partners, marking the nine-year-old startup&#39;s first-ever outside capital raise &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260819/p19#a260819p19)
+ - [Apple&#39;s home automation hardware might work more like Apple Watch than a HomePod](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss)
+ - [Amazon appears to have leaked Jason Statham&#39;s new film Mutiny, streaming it in full on Prime Video in the US, two days before it was supposed to hit theaters &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260819/p18#a260819p18)
+ - [Amazon seemingly leaked Jason Statham’s entire Mutiny movie](https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

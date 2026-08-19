@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Digital Wall Calendar &lpar;2026&rpar;: Skylight, Everblog, Apolosign](https://www.wired.com/story/are-digital-wall-calendars-worth-it/)
+ - [The everyday tech I use to track my corgi](https://www.theverge.com/gadgets/981143/airtag-corgi-pet-tech-tracking)
  - [UK-based automotive dealership software maker Pinewood agrees to a £545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through &lpar;Financial Times&rpar;](https://www.techmeme.com/260819/p16#a260819p16)
  - [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including suburban Chicago and Atlanta &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260819/p15#a260819p15)
- - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)
- - [PSA: Do not buy iPhone 18 Pro cases before Apple&#39;s launch](https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss)
- - [OpenAI expands its ad pilot program across 31 European markets, including Germany, France, Spain, and Italy; the pilot launched in the US, the UK, and others &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260819/p14#a260819p14)<!-- TECH:END -->
+ - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

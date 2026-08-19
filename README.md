@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asian math](http://9gag.com/gag/aVvnx9P)
- - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
- - 💣 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
- - 😝 [In honor of national photography day....](http://9gag.com/gag/amojoov)
- - 👉 [Yeah. But first you need to pay for the Microsoft Word.](http://9gag.com/gag/a9yQ1XZ)<!-- MEMES:END -->
+ - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
+ - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
 
 ---
 

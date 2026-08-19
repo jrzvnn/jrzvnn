@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260818/p45#a260818p45)
+ - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)
  - [Chinese humanoid robot maker Unitree&#39;s stock surged 629% in early trading in its Shanghai debut on Wednesday, after raising ~$904M in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p44#a260818p44)
  - [Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p43#a260818p43)
- - [Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260818/p42#a260818p42)
- - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)
- - [New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?](https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/)<!-- TECH:END -->
+ - [Rillet, which is developing an AI-native accounting platform, raised a $100M Series C at a $1B valuation led by Iconiq, bringing its total funding to $200M+ &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260818/p42#a260818p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

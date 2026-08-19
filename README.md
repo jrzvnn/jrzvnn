@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung raises prices for advanced 4nm and 5nm chipmaking services by up to 15% for new orders in July, driven by AI demand and TSMC&#39;s tight capacity &lpar;Reuters&rpar;](https://www.techmeme.com/260819/p9#a260819p9)
- - [Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending &lpar;Denny Thomas/Bloomberg&rpar;](https://www.techmeme.com/260819/p8#a260819p8)
- - [Hot or Not Built the Internet We’re Still Swiping Through](https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/)
- - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
- - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)<!-- TECH:END -->
+ - [Kuaishou reports Q2 revenue flat at ~$5.2B, meeting est., net income down 36% YoY to ~$467M, the biggest drop since 2021, and Kling AI sales up 200% &lpar;Rachel Yeo/Bloomberg&rpar;](https://www.techmeme.com/260819/p12#a260819p12)
+ - [Dell XPS 13 vs. MacBook Neo: A Surprising Upset](https://www.wired.com/story/macbook-neo-vs-dell-xps-13/)
+ - [There’s a Very Simple Reason Why You Love the Slate Truck](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/)
+ - [Google Cloud is deploying context-creating AI agents within its tools to automate tasks handled by forward-deployed engineers; Google is hiring hundreds of FDEs &lpar;Kevin McLaughlin/The Information&rpar;](https://www.techmeme.com/260819/p11#a260819p11)
+ - [WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260819/p10#a260819p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

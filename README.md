@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
  - 😝 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
+ - 😝 [My son is now in 5th grade. My time has come. Goodbye](http://9gag.com/gag/aByqmbA)
  - 💣 [Asking the real questions here](http://9gag.com/gag/ae9ogGj)
  - 😝 [\ud83c\udfae \ud835\udde2\ud835\udddf\ud835\uddd8\ud835\uddd7 \ud835\uddda\ud835\uddee\ud835\uddfa\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddfc\ud835\uddfb\ud835\uddf6\ud835\ude01\ud835\uddfc\ud835\uddff \ud835\uddda\ud835\uddf6\ud835\ude03\ud835\uddf2\ud835\uddee\ud835\ude04\ud835\uddee\ud835\ude06 \ud83d\udce2 The AORUS Falcon is heading to Gamescom and here&#39;s your chance to level up your setup! Enter the Gveaway on 9GAG Instagram!](http://9gag.com/gag/aXPDrZD)
- - 👉 [10,000 beers. You&#39;d think he lost a son.](http://9gag.com/gag/azxN28N)<!-- MEMES:END -->
+ - 👉 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)<!-- MEMES:END -->
 
 ---
 

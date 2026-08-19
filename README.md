@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)
+ - [This robot vacuum solves my kitchen stool problem](https://www.theverge.com/tech/981874/mova-v70-ultra-robot-vacuum-mop-arm-hands-on-review)
  - [Epic Games vs Apple -- The continuing six-year App Store saga](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_source=rss)
  - [Epic Games disagrees with Apples&#39; &#39;junk&#39; EU fee changes](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
- - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)
- - [Cybersecurity data company Prevalent AI raised $22M from Integrity Growth Partners, marking the nine-year-old startup&#39;s first-ever outside capital raise &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/260819/p19#a260819p19)
- - [Apple&#39;s home automation hardware might work more like Apple Watch than a HomePod](https://appleinsider.com/articles/26/08/19/apples-home-automation-hardware-will-work-more-like-an-apple-watch-than-a-homepod?utm_source=rss)<!-- TECH:END -->
+ - [Marvell and Google expand their chip development deal, with Marvell granting Google a warrant to buy up to 58M+ shares at $206.58 each, totaling up to $12.2B &lpar;Dana Wollman/Bloomberg&rpar;](https://www.techmeme.com/260819/p20#a260819p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

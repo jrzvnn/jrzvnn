@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI chip startup Fractile is in talks to raise ~$600M at a $6.5B pre-money valuation, up from ~$1B in May, and has an initial ~$250M deal with Anthropic &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p41#a260819p41)
+ - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
  - [Source: Nvidia has discussed an investment in Mercor as part of a round valuing the startup at $20B; Nvidia paid Mercor tens of millions of dollars last quarter &lpar;The Information&rpar;](https://www.techmeme.com/260819/p40#a260819p40)
  - [Beats 360 retail leak spills almost everything about the over-ear headphones](https://appleinsider.com/articles/26/08/19/beats-360-retail-leak-spills-almost-everything-about-the-over-ear-headphones?utm_source=rss)
- - [Meta brings its personal assistant app to Mac, for better and worse](https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss)
- - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
- - [Stripe agrees to acquire New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to its investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)<!-- TECH:END -->
+ - [Peacock Is Testing Out a Rewards Program for Subscribers](https://www.cnet.com/tech/services-and-software/peacock-is-testing-out-rewards-program-for-subscribers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cerebras unveils CS-4, a server rack powered by three WSE-3 Turbo chips and built around its new Nexus architecture, with first shipments starting this quarter &lpar;Max A. Cherney/Reuters&rpar;](https://www.techmeme.com/260818/p41#a260818p41)
+ - [New Google Ad Shows a Mysterious Wearable. Is It the Next Fitbit?](https://www.cnet.com/tech/mobile/new-google-ad-never-before-seen-device-next-fitbit/)
+ - [Survey: 52% of Americans say they are more concerned than excited about increased AI use in daily life, up from 37% in 2021, including 55% of those under 30 &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260818/p40#a260818p40)
  - [Polaroid Put Pikachu on a $100 Camera Because Nostalgia Works](https://www.cnet.com/tech/gaming/polaroid-put-pikachu-on-a-100-camera-because-nostalgia-works/)
- - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)
- - [Anthropic details two experiments showing how Claude can accelerate protein design and analytical chemistry, and says it plans an access program for scientists &lpar;Anthropic&rpar;](https://www.techmeme.com/260818/p39#a260818p39)
- - [Fairphone’s Repairable Smartphones Debut in the US With the 6 Plus](https://www.cnet.com/tech/mobile/fairphones-repairable-smartphones-debut-in-the-us-with-the-6-plus/)
- - [Sources: OpenAI&#39;s Q2 revenue grew 18% QoQ to $6.7B, but its operating margin sank further; Anthropic more than doubled its revenue to $11.6B in the same period &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260818/p38#a260818p38)<!-- TECH:END -->
+ - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

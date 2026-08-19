@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
+ - 😝 [The Plot](http://9gag.com/gag/aByqd31)
  - 💣 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
+ - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
 

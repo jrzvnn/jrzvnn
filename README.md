@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls when I arrive](http://9gag.com/gag/axyxM71)
- - 😝 [Minnesota, USA, 2026.](http://9gag.com/gag/aD2pDYx)
- - 💣 [I should start excercising.](http://9gag.com/gag/amojgv9)
- - 😝 [The Plot](http://9gag.com/gag/aByqd31)
- - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
+ - 😝 [Ox before NoS](http://9gag.com/gag/aqy3egY)
+ - 😝 [Asian math](http://9gag.com/gag/aVvnx9P)
+ - 💣 [Not legal because the Govt can&#39;t tax it...](http://9gag.com/gag/an7pgBo)
+ - 😝 [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
+ - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
 
 ---
 

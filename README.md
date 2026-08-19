@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ceramic Apple Watch Series 12 is getting more rumor mill traction](https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss)
  - [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
  - [Letter: Stripe told investors January 1 marked the &quot;beginning of the singularity&quot;, a major inflection point in long-term trends, and H1 revenue rose 41% YoY &lpar;Axios&rpar;](https://www.techmeme.com/260819/p44#a260819p44)
- - [Sources: SpaceX approached Cognition about a potential acquisition; Cognition CEO Scott Wu says the company is &quot;not for sale and we haven&#39;t been talking&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)<!-- TECH:END -->
+ - [Sources: SpaceX approached Cognition about a potential acquisition, but Cognition didn&#39;t engage; Cognition CEO Scott Wu says the company is &quot;not for sale&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

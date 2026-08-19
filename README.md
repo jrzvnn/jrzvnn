@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 😝 [Ojichan](http://9gag.com/gag/aLnYpgx)
- - 💣 [The Plot](http://9gag.com/gag/aByqd31)
- - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
+ - 😝 [Not legal because the Govt can&#39;t tax it...](http://9gag.com/gag/an7pgBo)
+ - 😝 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
+ - 💣 [Asian math](http://9gag.com/gag/aVvnx9P)
+ - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
+ - 👉 [Yeah. But first you need to pay for the Microsoft Word.](http://9gag.com/gag/a9yQ1XZ)<!-- MEMES:END -->
 
 ---
 

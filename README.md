@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans &lpar;Amanda Caswell/Tom&#39;s Guide&rpar;](https://www.techmeme.com/260819/p45#a260819p45)
  - [New Apple Store to open in Meridian, Idaho just outside of Boise](https://appleinsider.com/articles/26/08/19/new-apple-store-to-open-in-meridian-idaho-just-outside-of-boise?utm_source=rss)
  - [Ceramic Apple Watch Series 12 is getting more rumor mill traction](https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss)
  - [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
- - [Letter: Stripe told investors January 1 marked the &quot;beginning of the singularity&quot;, a major inflection point in long-term trends, and H1 revenue rose 41% YoY &lpar;Axios&rpar;](https://www.techmeme.com/260819/p44#a260819p44)
- - [Sources: SpaceX approached Cognition about a potential acquisition, but Cognition didn&#39;t engage; Cognition CEO Scott Wu says the company is &quot;not for sale&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)<!-- TECH:END -->
+ - [Letter: Stripe told investors January 1 marked the &quot;beginning of the singularity&quot;, a major inflection point in long-term trends, and H1 revenue rose 41% YoY &lpar;Axios&rpar;](https://www.techmeme.com/260819/p44#a260819p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

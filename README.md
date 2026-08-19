@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX approached AI coding startup Cognition about a potential acquisition; deal talks are inactive, but the companies are discussing working together &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)
+ - [Sources: OpenAI CFO Sarah Friar told employees at an all-hands that OpenAI &quot;will be a public company in 2027&quot;, or sooner if &quot;our business continues to inflect&quot; &lpar;CNBC&rpar;](https://www.techmeme.com/260819/p42#a260819p42)
+ - [I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)
  - [Sources: AI chip startup Fractile is in talks to raise ~$600M at a $6.5B pre-money valuation, up from ~$1B in May, and has an initial ~$250M deal with Anthropic &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p41#a260819p41)
- - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)
- - [Source: Nvidia has discussed an investment in Mercor as part of a round valuing the startup at $20B; Nvidia paid Mercor tens of millions of dollars last quarter &lpar;The Information&rpar;](https://www.techmeme.com/260819/p40#a260819p40)
- - [Beats 360 retail leak spills almost everything about the over-ear headphones](https://appleinsider.com/articles/26/08/19/beats-360-retail-leak-spills-almost-everything-about-the-over-ear-headphones?utm_source=rss)
- - [Peacock Is Testing Out a Rewards Program for Subscribers](https://www.cnet.com/tech/services-and-software/peacock-is-testing-out-rewards-program-for-subscribers/)<!-- TECH:END -->
+ - [Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

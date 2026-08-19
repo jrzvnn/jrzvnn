@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Predictable as the tides, Epic Games hates the new EU App Store fees](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
- - [Flipkart co-founder Sachin Bansal&#39;s fintech startup Navi raised $100M from Prosus, its first institutional capital raise, sources say at a ~$1.3B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260819/p25#a260819p25)
- - [The best look into Apple&#39;s past comes from this &#39;MacWeek&#39; archive](https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss)
- - [Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don&#39;t subscribe to Prime &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260819/p24#a260819p24)
- - [Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical &lpar;Murad Hemmadi/The Logic&rpar;](https://www.techmeme.com/260819/p23#a260819p23)<!-- TECH:END -->
+ - [The Pixel 11 Pro is a great phone, no thanks to its flashiest new features](https://www.theverge.com/tech/981713/google-pixel-11-pro-review)
+ - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
+ - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
+ - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
+ - [Rivian spinout Also, which is developing autonomous driving tech, raised a $150M Series D led by Prysm Capital, after announcing a $200M round in March 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260819/p27#a260819p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

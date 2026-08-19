@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
- - [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/)
- - [The US CFTC bans Caroline Ellison and FTX co-founder Gary Wang from trading for five years, as part of a settlement over their roles at FTX &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260819/p34#a260819p34)
- - [Nielsen rolls out changes to make its ratings more accurate, including using data from smartwatch-like devices worn by its panelists without requiring logins &lpar;Loree Seitz/The Wrap&rpar;](https://www.techmeme.com/260819/p33#a260819p33)
- - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)<!-- TECH:END -->
+ - [Stripe agrees to buy New York-based OpenRouter for an undisclosed amount; Stripe had reportedly agreed to pay more than $7B for OpenRouter &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p37#a260819p37)
+ - [What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!](https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss)
+ - [Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260819/p36#a260819p36)
+ - [OpenAI is testing Private Safety Processing, a new technique to identify misuse patterns while preserving zero data retention protections, with early customers &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260819/p35#a260819p35)
+ - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
+ - 😝 [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 😝 [The Plot](http://9gag.com/gag/aByqd31)
+ - 👉 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)<!-- MEMES:END -->
 
 ---
 

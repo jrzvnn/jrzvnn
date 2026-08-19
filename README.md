@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods with cameras not coming till 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
  - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)
- - [Elon Musk Is Expected to Point His Money Machine at Texas](https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/)
+ - [Elon Musk Is Expected to Point His Money Machine at Texas Politics](https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/)
  - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
- - [Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently &lpar;Lucas Shaw/Bloomberg&rpar;](https://www.techmeme.com/260819/p47#a260819p47)
- - [Former Meta engineering director Arturo Béjar testifies that Mark Zuckerberg prioritized growth and engagement over child safety on Facebook and Instagram &lpar;Reuters&rpar;](https://www.techmeme.com/260819/p46#a260819p46)<!-- TECH:END -->
+ - [Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently &lpar;Lucas Shaw/Bloomberg&rpar;](https://www.techmeme.com/260819/p47#a260819p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

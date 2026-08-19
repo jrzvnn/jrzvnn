@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I should start excercising.](http://9gag.com/gag/amojgv9)
- - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 💣 [The Plot](http://9gag.com/gag/aByqd31)
+ - 😝 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
+ - 😝 [The Plot](http://9gag.com/gag/aByqd31)
+ - 💣 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
  - 😝 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)
- - 👉 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)<!-- MEMES:END -->
+ - 👉 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)<!-- MEMES:END -->
 
 ---
 

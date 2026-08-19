@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC says businesses must disclose when they use personalized pricing and it will &quot;deploy enforcement resources&quot; against companies that do not disclose it &lpar;Dave Michaels/Wall Street Journal&rpar;](https://www.techmeme.com/260819/p38#a260819p38)
  - [Stripe agrees to buy New York-based OpenRouter for an undisclosed amount; Stripe had reportedly agreed to pay more than $7B for OpenRouter &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p37#a260819p37)
  - [What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!](https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss)
  - [Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260819/p36#a260819p36)
- - [OpenAI is testing Private Safety Processing, a new technique to identify misuse patterns while preserving zero data retention protections, with early customers &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260819/p35#a260819p35)
- - [OpenAI hit the brakes. Now what?](https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai)<!-- TECH:END -->
+ - [OpenAI is testing Private Safety Processing, a new technique to identify misuse patterns while preserving zero data retention protections, with early customers &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260819/p35#a260819p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

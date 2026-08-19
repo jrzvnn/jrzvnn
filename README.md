@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC says businesses must disclose when they use personalized pricing and it will &quot;deploy enforcement resources&quot; against companies that do not disclose it &lpar;Dave Michaels/Wall Street Journal&rpar;](https://www.techmeme.com/260819/p38#a260819p38)
- - [Stripe agrees to buy New York-based OpenRouter for an undisclosed amount; Stripe had reportedly agreed to pay more than $7B for OpenRouter &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p37#a260819p37)
- - [What to expect from the 2026 Apple TV 4K: Siri AI, Siri Remote, better networking, more!](https://appleinsider.com/articles/26/08/19/what-to-expect-from-the-2026-apple-tv-4k-siri-ai-siri-remote-better-networking-more?utm_source=rss)
- - [Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260819/p36#a260819p36)
- - [OpenAI is testing Private Safety Processing, a new technique to identify misuse patterns while preserving zero data retention protections, with early customers &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260819/p35#a260819p35)<!-- TECH:END -->
+ - [Meta brings its personal assistant app to Mac, for better and worse](https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss)
+ - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
+ - [Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)
+ - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
+ - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

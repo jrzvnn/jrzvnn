@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)
+ - [SMR startup Oklo is currently building its reactor in Idaho, a step towards supplying Meta with power; there are an estimated 22 active US reactor projects &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260819/p13#a260819p13)
+ - [We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It](https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/)
  - [Kuaishou reports Q2 revenue flat at ~$5.2B, meeting est., net income down 36% YoY to ~$467M, the biggest drop since 2021, and Kling AI sales up 200% &lpar;Rachel Yeo/Bloomberg&rpar;](https://www.techmeme.com/260819/p12#a260819p12)
- - [Dell XPS 13 vs. MacBook Neo: A Surprising Upset](https://www.wired.com/story/macbook-neo-vs-dell-xps-13/)
- - [There’s a Very Simple Reason Why You Love the Slate Truck](https://www.wired.com/story/theres-a-very-simple-reason-why-you-love-the-slate-truck/)
- - [Google Cloud is deploying context-creating AI agents within its tools to automate tasks handled by forward-deployed engineers; Google is hiring hundreds of FDEs &lpar;Kevin McLaughlin/The Information&rpar;](https://www.techmeme.com/260819/p11#a260819p11)
- - [WiseTech says Australian antitrust authorities raided its office, seeking documents and data as part of an alleged competition law breach probe; WTC falls 8%+ &lpar;Angus Whitley/Bloomberg&rpar;](https://www.techmeme.com/260819/p10#a260819p10)<!-- TECH:END -->
+ - [Dell XPS 13 vs. MacBook Neo: A Surprising Upset](https://www.wired.com/story/macbook-neo-vs-dell-xps-13/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

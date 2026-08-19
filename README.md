@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 11 Pro is a great phone, no thanks to its flashiest new features](https://www.theverge.com/tech/981713/google-pixel-11-pro-review)
- - [Google’s Pixel 11 Pro Fold feels like the end of an era](https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review)
- - [Google’s Pixel Watch 5 is promising — but it isn’t finished](https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch)
- - [The Pixel 11 isn’t the best Pixel of 2026, but it’s the smartest buy](https://www.theverge.com/tech/982190/google-pixel-11-review)
- - [Rivian spinout Also, which is developing autonomous driving tech, raised a $150M Series D led by Prysm Capital, after announcing a $200M round in March 2026 &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260819/p27#a260819p27)<!-- TECH:END -->
+ - [Nielsen rolls out changes to make its ratings more accurate, including using data from smartwatch-like devices worn by its panelists without requiring logins &lpar;Loree Seitz/The Wrap&rpar;](https://www.techmeme.com/260819/p33#a260819p33)
+ - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)
+ - [Apple Maps ads will be tasteful and minimal, might even help your local businesses](https://appleinsider.com/articles/26/08/19/apple-maps-ads-will-be-tasteful-and-minimal-might-even-help-your-local-businesses?utm_source=rss)
+ - [Google Pixel 11 review: great design, nice camera features, and shares many features of the Pro phone but the hardware is unchanged and very expensive at $899 &lpar;Cameron Faulkner/The Verge&rpar;](https://www.techmeme.com/260819/p32#a260819p32)
+ - [Google Pixel 11 Pro review: Magic Capture and the voice-to-text Rambler features are very useful but subpar gaming performance and HiLight is useless &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260819/p31#a260819p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

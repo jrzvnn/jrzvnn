@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Nvidia has discussed an investment in Mercor as part of a round valuing the startup at $20B; Nvidia paid Mercor tens of millions of dollars last quarter &lpar;The Information&rpar;](https://www.techmeme.com/260819/p40#a260819p40)
+ - [Beats 360 retail leak spills almost everything about the over-ear headphones](https://appleinsider.com/articles/26/08/19/beats-360-retail-leak-spills-almost-everything-about-the-over-ear-headphones?utm_source=rss)
  - [Meta brings its personal assistant app to Mac, for better and worse](https://appleinsider.com/articles/26/08/19/meta-brings-its-personal-assistant-app-to-mac-for-better-and-worse?utm_source=rss)
  - [Watch Valve set up the Steam Frame in its own leaked videos](https://www.theverge.com/games/982406/valve-steam-frame-setup-unboxing-leaked-videos)
- - [Stripe agrees to buy New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)
- - [The wearable future is stuck in weird, experimental, existential limbo](https://www.theverge.com/column/982359/optimizer-wearable-future-google-ai)
- - [Grab an iPad Air M4 for its lowest price since the June increase](https://www.theverge.com/gadgets/982242/ipad-air-m4-garmin-inreach-deal-sale)<!-- TECH:END -->
+ - [Stripe agrees to acquire New York-based OpenRouter; a source says Stripe is paying $7.5B, with $1.5B going to the startup&#39;s founders and $6B to its investors &lpar;Erin Griffith/New York Times&rpar;](https://www.techmeme.com/260819/p39#a260819p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

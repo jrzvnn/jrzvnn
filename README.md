@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says the changes to its model training will increase compute overhead by 20% of observed inference workload; the increase will not be handed to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)
+ - [Z.ai prices GLM-5.3 API access at $1.40 per million input tokens and $4.40 per million output tokens, unchanged from GLM-5.2 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p2#a260819p2)
+ - [Austin-based Smack Technologies, which is developing AI decision-making tools for the US military, raised a $61M Series B led by Costanoa and First In &lpar;Mike Stone/Reuters&rpar;](https://www.techmeme.com/260819/p1#a260819p1)
+ - [OpenAI says new monitoring and security safeguards will add 20% compute overhead to monitored inference workloads; costs will not be passed on to customers &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260818/p46#a260818p46)
  - [Sources: Beijing allowed ByteDance and Tencent to each receive about 10,000 Nvidia H200 chips at their mainland China facilities in recent weeks &lpar;Zijing Wu/Financial Times&rpar;](https://www.techmeme.com/260818/p45#a260818p45)
- - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)
- - [Chinese humanoid robot maker Unitree&#39;s stock surged 629% in early trading in its Shanghai debut on Wednesday, after raising ~$904M in its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p44#a260818p44)
- - [Sources: Temporal is in talks for a fresh funding round that would give the open-source orchestration platform developer a ~$500M raise at a $12B+ valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260818/p43#a260818p43)<!-- TECH:END -->
+ - [What&#39;s new with the Camera app in iOS 27: Siri mode, enhanced controls, &amp; more](https://appleinsider.com/articles/26/08/19/whats-new-with-the-camera-app-in-ios-27-siri-mode-enhanced-controls-more?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
  - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that generate 3%-5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)
  - [Uber Eats Promo Codes: $15 Off│August 2026](https://www.wired.com/story/uber-eats-promo-code/)
  - [Hotels.com Coupon Codes for August 2026](https://www.wired.com/story/hotels-com-coupon/)
- - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)
- - [50% Off DoorDash Promo Code | August 2026](https://www.wired.com/story/doordash-promo-code/)<!-- TECH:END -->
+ - [Wayfair Coupons: Up to 80% Off August 2026](https://www.wired.com/story/wayfair-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

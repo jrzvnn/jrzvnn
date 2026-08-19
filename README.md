@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Store to open in Meridian, Idaho just outside of Boise](https://appleinsider.com/articles/26/08/19/new-apple-store-to-open-in-meridian-idaho-just-outside-of-boise?utm_source=rss)
+ - [Ceramic Apple Watch Series 12 is getting more rumor mill traction](https://appleinsider.com/articles/26/08/19/ceramic-apple-watch-series-12-is-getting-more-rumor-mill-traction?utm_source=rss)
+ - [Nielsen is leaning more on wearables to hear what people are watching](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)
  - [Letter: Stripe told investors January 1 marked the &quot;beginning of the singularity&quot;, a major inflection point in long-term trends, and H1 revenue rose 41% YoY &lpar;Axios&rpar;](https://www.techmeme.com/260819/p44#a260819p44)
- - [Sources: SpaceX approached AI coding startup Cognition about a potential acquisition; deal talks are inactive, but the companies are discussing working together &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)
- - [Sources: OpenAI CFO Sarah Friar told employees at an all-hands that OpenAI &quot;will be a public company in 2027&quot;, or sooner if &quot;our business continues to inflect&quot; &lpar;CNBC&rpar;](https://www.techmeme.com/260819/p42#a260819p42)
- - [I Saw the Future of AI in a Robot That Can Learn on the Spot](https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/)
- - [Sources: AI chip startup Fractile is in talks to raise ~$600M at a $6.5B pre-money valuation, up from ~$1B in May, and has an initial ~$250M deal with Anthropic &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p41#a260819p41)<!-- TECH:END -->
+ - [Sources: SpaceX approached Cognition about a potential acquisition; Cognition CEO Scott Wu says the company is &quot;not for sale and we haven&#39;t been talking&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p43#a260819p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

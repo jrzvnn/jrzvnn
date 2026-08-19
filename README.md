@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
  - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)
  - [AI evaluation lab Irregular&#39;s report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260819/p6#a260819p6)
  - [Nvidia, with quarterly free cash flow up 18x over the past three years to $48.5B, is using its balance sheet and credit rating to build an AI capital moat &lpar;Ari Levy/CNBC&rpar;](https://www.techmeme.com/260819/p5#a260819p5)
- - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)
- - [FDM CCS Insight: ~134M travel eSIMs will be used in 2026, up from 101.8M in 2025, challenging established carriers that make 3% to 5% of revenue from roaming &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260819/p3#a260819p3)<!-- TECH:END -->
+ - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

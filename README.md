@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Samsung raises prices for advanced 4nm and 5nm chipmaking services by up to 15% for new orders in July, driven by AI demand and TSMC&#39;s tight capacity &lpar;Reuters&rpar;](https://www.techmeme.com/260819/p9#a260819p9)
+ - [Filing: SK Hynix plans a ~$29B share buyback, repurchasing and canceling up to 24M treasury shares, in a bid to calm worries about the durability of AI spending &lpar;Denny Thomas/Bloomberg&rpar;](https://www.techmeme.com/260819/p8#a260819p8)
+ - [Hot or Not Built the Internet We’re Still Swiping Through](https://www.wired.com/story/hot-or-not-built-the-internet-were-still-swiping-through/)
  - [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/)
- - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)
- - [AI evaluation lab Irregular&#39;s report on its role in hacking incidents involving OpenAI, Anthropic, and Meta models faces criticism over unanswered questions &lpar;Alexander Martin/The Record&rpar;](https://www.techmeme.com/260819/p6#a260819p6)
- - [Nvidia, with quarterly free cash flow up 18x over the past three years to $48.5B, is using its balance sheet and credit rating to build an AI capital moat &lpar;Ari Levy/CNBC&rpar;](https://www.techmeme.com/260819/p5#a260819p5)
- - [Block releases Berd, a desktop app it built to give its employees a single environment for working with AI agents across different models, under Apache 2.0 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260819/p4#a260819p4)<!-- TECH:END -->
+ - [US tech companies are offering community investments, guaranteed jobs, and hosting open houses to address concerns and win public support for AI data centers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p7#a260819p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lexar Armor 700 8TB review: Impressive capacity, good speeds, with a catch](https://appleinsider.com/articles/26/08/18/lexar-armor-700-8tb-review-impressive-capacity-good-speeds-with-a-catch?utm_source=rss)
- - [SMR startup Oklo is currently building its reactor in Idaho, a step towards supplying Meta with power; there are an estimated 22 active US reactor projects &lpar;Jennifer Hiller/Wall Street Journal&rpar;](https://www.techmeme.com/260819/p13#a260819p13)
- - [We Bought a $500 Counterfeit Rolex So Good, Even Rolex Didn’t Spot It](https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/)
- - [Kuaishou reports Q2 revenue flat at ~$5.2B, meeting est., net income down 36% YoY to ~$467M, the biggest drop since 2021, and Kling AI sales up 200% &lpar;Rachel Yeo/Bloomberg&rpar;](https://www.techmeme.com/260819/p12#a260819p12)
- - [Dell XPS 13 vs. MacBook Neo: A Surprising Upset](https://www.wired.com/story/macbook-neo-vs-dell-xps-13/)<!-- TECH:END -->
+ - [UK-based automotive dealership software maker Pinewood agrees to a £545M cash takeover by US private equity firm Ridgeview, after an Apax takeover fell through &lpar;Financial Times&rpar;](https://www.techmeme.com/260819/p16#a260819p16)
+ - [Amazon plans to expand Prime Air drone deliveries to cities in at least five more US states in the coming months, including suburban Chicago and Atlanta &lpar;Matt Day/Bloomberg&rpar;](https://www.techmeme.com/260819/p15#a260819p15)
+ - [I Tried a Window-Cleaning Robot: Do Not Recommend](https://www.wired.com/story/window-cleaning-robots-are-kinda-terrible/)
+ - [PSA: Do not buy iPhone 18 Pro cases before Apple&#39;s launch](https://appleinsider.com/articles/26/08/19/psa-do-not-buy-iphone-18-pro-cases-before-apples-launch?utm_source=rss)
+ - [OpenAI expands its ad pilot program across 31 European markets, including Germany, France, Spain, and Italy; the pilot launched in the US, the UK, and others &lpar;Trishla Ostwal/Adweek&rpar;](https://www.techmeme.com/260819/p14#a260819p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

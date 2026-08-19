@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 MacBook Pro with 96W adapter plunges to $1,699 &lpar;$320 off&rpar;](https://appleinsider.com/articles/26/08/19/apples-m5-macbook-pro-with-96w-adapter-plunges-to-1699-320-off?utm_source=rss)
- - [Amazon Fire TV devices are getting a free Alexa Plus upgrade](https://www.theverge.com/tech/982166/amazon-alexa-plus-fire-tv-free)
- - [Sources: Nvidia is working as a matchmaker to connect companies holding its GPUs with Nordic data center operators that have available capacity to deploy them &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260819/p22#a260819p22)
- - [Why Is It Absolute Hell to Buy a Movie Ticket Now?](https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/)
- - [A hacker known as Cyberleek leaks two GTA VI gameplay clips and the full map in protest of Rockstar Games&#39; digital-only release; Rockstar issues DMCA takedowns &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260819/p21#a260819p21)<!-- TECH:END -->
+ - [Predictable as the tides, Epic Games hates the new EU App Store fees](https://appleinsider.com/articles/26/08/19/epic-games-disagrees-with-apples-junk-eu-fee-changes?utm_source=rss)
+ - [Flipkart co-founder Sachin Bansal&#39;s fintech startup Navi raised $100M from Prosus, its first institutional capital raise, sources say at a ~$1.3B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260819/p25#a260819p25)
+ - [The best look into Apple&#39;s past comes from this &#39;MacWeek&#39; archive](https://appleinsider.com/articles/26/08/19/the-best-look-into-apples-past-comes-from-this-macweek-archive?utm_source=rss)
+ - [Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don&#39;t subscribe to Prime &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260819/p24#a260819p24)
+ - [Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical &lpar;Murad Hemmadi/The Logic&rpar;](https://www.techmeme.com/260819/p23#a260819p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

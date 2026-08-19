@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
- - 😝 [Woman gets dumped in the airport for cheating.](http://9gag.com/gag/aO8gxYE)
+ - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
+ - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 😝 [The Plot](http://9gag.com/gag/aByqd31)
  - 👉 [Ojichan](http://9gag.com/gag/aLnYpgx)<!-- MEMES:END -->
 
 ---

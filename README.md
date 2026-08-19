@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta AI is getting a Mac app](https://www.theverge.com/tech/982270/meta-ai-mac-app)
+ - [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/)
+ - [The US CFTC bans Caroline Ellison and FTX co-founder Gary Wang from trading for five years, as part of a settlement over their roles at FTX &lpar;Nicola M White/Bloomberg&rpar;](https://www.techmeme.com/260819/p34#a260819p34)
  - [Nielsen rolls out changes to make its ratings more accurate, including using data from smartwatch-like devices worn by its panelists without requiring logins &lpar;Loree Seitz/The Wrap&rpar;](https://www.techmeme.com/260819/p33#a260819p33)
- - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)
- - [Apple Maps ads will be tasteful and minimal, might even help your local businesses](https://appleinsider.com/articles/26/08/19/apple-maps-ads-will-be-tasteful-and-minimal-might-even-help-your-local-businesses?utm_source=rss)
- - [Google Pixel 11 review: great design, nice camera features, and shares many features of the Pro phone but the hardware is unchanged and very expensive at $899 &lpar;Cameron Faulkner/The Verge&rpar;](https://www.techmeme.com/260819/p32#a260819p32)
- - [Google Pixel 11 Pro review: Magic Capture and the voice-to-text Rambler features are very useful but subpar gaming performance and HiLight is useless &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260819/p31#a260819p31)<!-- TECH:END -->
+ - [Google Pixel Watch 5 Review: More Health, More AI](https://www.wired.com/review/google-pixel-watch-5/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

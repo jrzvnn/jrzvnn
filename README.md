@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
  - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 💣 [Ojichan](http://9gag.com/gag/aLnYpgx)
- - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 👉 [Biggest scientific mystery on earth is the great unconformity, which is a barrier that has been observed globally where the rocks above a certain point are 500 million years old and the rocks below that line are 1.7 billion years old. 1.2 billion years of rock layers are missing](http://9gag.com/gag/aByq23P)<!-- MEMES:END -->
+ - 💣 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 😝 [Woman gets dumped in the airport for cheating.](http://9gag.com/gag/aO8gxYE)
+ - 👉 [Ojichan](http://9gag.com/gag/aLnYpgx)<!-- MEMES:END -->
 
 ---
 

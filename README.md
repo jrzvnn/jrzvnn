@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He slept for 5 hours](https://www.reddit.com/r/funny/comments/1vsoz0g/he_slept_for_5_hours/)
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 💣 [Girls when I arrive](http://9gag.com/gag/axyxM71)
  - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
- - 👉 [Drought](http://9gag.com/gag/a0eA4EX)<!-- MEMES:END -->
+ - 😝 [Magneto over here](http://9gag.com/gag/aByq26Z)
+ - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
+ - 😝 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
+ - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
 
 ---
 

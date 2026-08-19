@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
  - 😝 [Ojichan](http://9gag.com/gag/aLnYpgx)
- - 😝 [Booked a YEAR in India. Lasted 2 WEEKS.](http://9gag.com/gag/aE0rq5x)
- - 💣 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 😝 [Rust is legit the worst game to play if you&#39;re employed](http://9gag.com/gag/apRyR2M)
- - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
+ - 💣 [The Plot](http://9gag.com/gag/aByqd31)
+ - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
+ - 👉 [Didn\u2019t she get fired from her job and banned for life?](http://9gag.com/gag/aVvnxRy)<!-- MEMES:END -->
 
 ---
 

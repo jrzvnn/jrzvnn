@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods with cameras not coming till 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
- - [Trump urges Congress to pass the Clarity Act at a White House event with execs including the CEOs of Coinbase and Robinhood; the bill has stalled in the Senate &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p48#a260819p48)
- - [Elon Musk Is Expected to Point His Money Machine at Texas Politics](https://www.wired.com/story/elon-musk-is-expected-to-point-his-money-machine-at-texas/)
- - [Does giving a camera wings dodge the FCC’s drone ban?](https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo)
- - [Sources: YouTube is offering top creators millions to post videos exclusively on YouTube for a period and will penalize those that post to Netflix concurrently &lpar;Lucas Shaw/Bloomberg&rpar;](https://www.techmeme.com/260819/p47#a260819p47)<!-- TECH:END -->
+ - [Distortion &amp; speculation warrant denying OpenAI request for lawsuit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
+ - [Samsung announces a virtual Galaxy event for August 27 at 8am ET, where the Galaxy S26 FE is expected &lpar;Alan Friedman/PhoneArena&rpar;](https://www.techmeme.com/260819/p50#a260819p50)
+ - [Comcast Xfinity Wants to Use Your Wi-Fi as a Motion Sensor in Your Home](https://www.cnet.com/home/security/comcast-xfinity-wants-to-use-your-wi-fi-as-a-motion-sensor-in-your-home/)
+ - [German insurance giant Munich Re agrees to acquire cyber insurance provider At-Bay for $575M; At-Bay has raised $276M and was last valued at $1.35B in 2021 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260819/p49#a260819p49)
+ - [Schlage Sense Pro review: UWB Home Key proves itself again on this sleek smart lock](https://appleinsider.com/articles/26/08/20/schlage-sense-pro-review-uwb-home-key-proves-itself-again-on-this-sleek-smart-lock?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

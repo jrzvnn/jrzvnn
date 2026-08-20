@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A bankruptcy court delays Google&#39;s $10M purchase of Spirit Airlines&#39; data after former flight attendants sought assurances that their info would be removed &lpar;Alexander Gladstone/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p24#a260820p24)
- - [B&amp;H slashes M5 MacBook Pro further, now just $1,669](https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss)
- - [Waymo says it has built an ASIC chip that will improve its robotaxis&#39; reflexes and navigational skills and help it diversify away from companies like Nvidia &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260820/p23#a260820p23)
- - [Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch](https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker)
- - [Here’s what data Comcast says its motion-detecting routers collect](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response)<!-- TECH:END -->
+ - [Filing: in 2025, TikTok posted its first net profit of $702.5M in Europe, Africa, and Latin America on $9.1B in revenue, up 45.7% YoY &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260820/p25#a260820p25)
+ - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)
+ - [Amazon&amp;#8217;s drone deliveries are landing in pools and ponds](https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds)
+ - [A bankruptcy court delays Google&#39;s $10M purchase of Spirit Airlines&#39; data after former flight attendants objected, seeking assurance their info would be removed &lpar;Alexander Gladstone/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p24#a260820p24)
+ - [B&amp;H slashes M5 MacBook Pro further, now just $1,669](https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

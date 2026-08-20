@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea media: SK Hynix and its union reach a tentative deal on a 6.3% wage hike and paying out 60% of profit-sharing bonuses in shares and 40% in cash &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260820/p9#a260820p9)
- - [How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager](https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/)
- - [The All-New Sennheiser Momentum True Wireless 5 Look Like Serious Earbud Contenders](https://www.cnet.com/tech/mobile/the-all-new-sennheiser-momentum-true-wireless-5-look-like-serious-earbuds-contenders/)
- - [Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries](https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries)
- - [Uber, Verne, and Pony.ai launch autonomous rides in Zagreb, making the Croatian capital the first European city where users can book such rides via Uber&#39;s app &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260820/p8#a260820p8)<!-- TECH:END -->
+ - [Muon Space, which is building a spacecraft platform for orbital data centers and AI computing, raised a $250M Series C, with participation from Google &lpar;Yash Roy/Bloomberg&rpar;](https://www.techmeme.com/260820/p13#a260820p13)
+ - [The 3 Best USB Phone Chargers &lpar;2026&rpar;: Anker, DeWalt](https://www.wired.com/story/best-usb-car-chargers/)
+ - [Stripe&#39;s OpenRouter deal, its largest-ever acquisition, is a bet on a future where users turn to a mix of AI models and gives it a foothold in the token market &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p12#a260820p12)
+ - [A MAGA County’s Top Election Official Wants to Hire Election Denial Superstar Tina Peters](https://www.wired.com/story/a-maga-countys-top-election-official-wants-to-hire-election-denial-superstar-tina-peters/)
+ - [Alibaba reports Q1 revenue up 9% YoY to ~$40B, meeting est., and net income down 75% to ~$1.6B due to heavy AI spending and weak domestic retail consumption &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260820/p11#a260820p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

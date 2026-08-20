@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion)
+ - [This app makes the Pixel 11&amp;#8217;s HiLight feature actually useful](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful)
+ - [The EX60 Is Volvo’s Most Important Car, and It’s Glorious](https://www.cnet.com/roadshow/the-ex60-is-volvos-most-important-car-and-its-glorious/)
  - [Filing: in 2025, TikTok posted its first net profit of $702.5M in Europe, Africa, and Latin America on $9.1B in revenue, up 45.7% YoY &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260820/p25#a260820p25)
- - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)
- - [Amazon&amp;#8217;s drone deliveries are landing in pools and ponds](https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds)
- - [A bankruptcy court delays Google&#39;s $10M purchase of Spirit Airlines&#39; data after former flight attendants objected, seeking assurance their info would be removed &lpar;Alexander Gladstone/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p24#a260820p24)
- - [B&amp;H slashes M5 MacBook Pro further, now just $1,669](https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss)<!-- TECH:END -->
+ - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

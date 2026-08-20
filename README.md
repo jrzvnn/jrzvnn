@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
- - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 💣 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
  - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
- - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
+ - 👉 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)<!-- MEMES:END -->
 
 ---
 

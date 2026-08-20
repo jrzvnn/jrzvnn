@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CarPlay the driving force deciding the choice between two nearly identical cars](https://appleinsider.com/articles/26/08/20/carplay-the-driving-force-deciding-the-choice-between-two-nearly-identical-cars?utm_source=rss)
+ - [Charter closes its $34.5B Cox acquisition, announced in May 2025, uniting two of the biggest US cable and broadband providers, and completes its Liberty deal &lpar;Georg Szalai/The Hollywood Reporter&rpar;](https://www.techmeme.com/260820/p35#a260820p35)
+ - [Marley Spoon, Blue Apron Face Delivery Issues After Food Supplier Bankruptcy](https://www.cnet.com/health/nutrition/marley-spoon-blue-apron-delivery-issues-food-supplier-bankruptcy/)
  - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
- - [Silicon Valley Doesn&#39;t Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
- - [Meta rolls out Pocket, an experimental vibe-coding app that lets users create and share small games, in the US, after launching it in Brazil last month &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260820/p34#a260820p34)
- - [Sources: Anthropic expects to match or beat the size of SpaceX&#39;s record-setting IPO, as it prepares to file publicly for its IPO as soon as the end of August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p33#a260820p33)
- - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)<!-- TECH:END -->
+ - [Silicon Valley Doesn&#39;t Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

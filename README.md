@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
+ - [Slack is launching collaborative vibe coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
+ - [Samsung and Apple are now neck and neck in Europe&#39;s declining smartphone market](https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss)
  - [OpenAI&#39;s distortion &amp; speculation warrant denying suit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
- - [Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft&#39;s largest AI customers &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260820/p17#a260820p17)
- - [AirPods with cameras not coming until 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
- - [Sources: Trump officials expect Elon Musk to spend $100M to $200M in the November midterm elections, with a focus on voter turnout in key races, including Texas &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260820/p16#a260820p16)
- - [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign)<!-- TECH:END -->
+ - [Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft&#39;s largest AI customers &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260820/p17#a260820p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

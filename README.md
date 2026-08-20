@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I turn now? Good luck everybody else!`](http://9gag.com/gag/aNDxPOw)
- - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [What happened to Derpixon?](http://9gag.com/gag/aByqnoD)
  - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 💣 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
  - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---

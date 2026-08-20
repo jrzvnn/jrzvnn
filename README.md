@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260820/p28#a260820p28)
- - [Two US senators demand answers from TikTok about a &quot;depraved&quot; test that withheld a safety feature from 10% of US users, including a teenager who died by suicide &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/260820/p27#a260820p27)
- - [Triathlon runner credits Apple Watch for saving his life](https://appleinsider.com/articles/26/08/20/triathlon-runner-credits-apple-watch-for-saving-his-life?utm_source=rss)
- - [The FTC Wants Companies to Tell You When They Set Personalized Prices](https://www.cnet.com/news/privacy/the-ftc-personalized-pricing-act/)
- - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)<!-- TECH:END -->
+ - [Amazon slashes iPads down to as low as $399 for the weekend](https://appleinsider.com/articles/26/08/20/amazon-slashes-ipads-down-to-as-low-as-399-for-the-weekend?utm_source=rss)
+ - [Google DeepMind says its Gemma family of open models has surpassed 1B downloads and developers have published 100K+ Gemma model variants over the past two years &lpar;Google&rpar;](https://www.techmeme.com/260820/p31#a260820p31)
+ - [Sources: Nvidia plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026; the chip complies with US export control rules &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260820/p30#a260820p30)
+ - [Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260820/p29#a260820p29)
+ - [Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260820/p28#a260820p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

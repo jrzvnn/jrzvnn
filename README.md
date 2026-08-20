@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
  - 😝 [Girl rides horse](http://9gag.com/gag/ae9ogzm)
+ - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
  - 💣 [I should start excercising.](http://9gag.com/gag/amojgv9)
- - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 😝 [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
+ - 👉 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)<!-- MEMES:END -->
 
 ---
 

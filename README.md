@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl rides horse](http://9gag.com/gag/ae9ogzm)
- - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 💣 [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 😝 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
+ - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
  - 😝 [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
- - 👉 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)<!-- MEMES:END -->
+ - 👉 [I should start excercising.](http://9gag.com/gag/amojgv9)<!-- MEMES:END -->
 
 ---
 

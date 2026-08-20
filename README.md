@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI Osmo fans are breaking the shackles of its closed-source camera app](https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement)
- - [Circana: US video game hardware spending fell 29% YoY in July to $282M, the lowest since COVID; unit shipments fell 39% as average console prices hit $542 &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260820/p22#a260820p22)
- - [Anthropic-backed enterprise AI venture Ode is acquiring four-year-old AI consultancy Casper for an undisclosed fee; Ode has 100+ staff after buying Fractional &lpar;Julia Hornstein/The Information&rpar;](https://www.techmeme.com/260820/p21#a260820p21)
- - [NASA gives up on trying to rescue the Swift telescope](https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update)
- - [No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools](https://www.cnet.com/tech/services-and-software/adobe-ai-audio-soundtrack-music-speech-general-release-2026/)<!-- TECH:END -->
+ - [A bankruptcy court delays Google&#39;s $10M purchase of Spirit Airlines&#39; data after former flight attendants sought assurances that their info would be removed &lpar;Alexander Gladstone/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p24#a260820p24)
+ - [B&amp;H slashes M5 MacBook Pro further, now just $1,669](https://appleinsider.com/articles/26/08/20/bh-slashes-m5-macbook-pro-further-now-just-1669?utm_source=rss)
+ - [Waymo says it has built an ASIC chip that will improve its robotaxis&#39; reflexes and navigational skills and help it diversify away from companies like Nvidia &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260820/p23#a260820p23)
+ - [Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch](https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker)
+ - [Here’s what data Comcast says its motion-detecting routers collect](https://www.theverge.com/tech/982689/comcast-xfinity-wifi-motion-privacy-concerns-response)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

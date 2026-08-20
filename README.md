@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)
- - [Tested: Amazon&#39;s drone delivery service is fast, free, and loud](https://appleinsider.com/articles/26/08/20/tested-amazons-drone-delivery-service-is-fast-free-and-loud?utm_source=rss)
- - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)
- - [Sources: Poolside struck a non-exclusive $6B licensing deal with Nvidia, plus a $1B investment at a $12B pre-money valuation; 109 staffers get Nvidia job offers &lpar;Newcomer&rpar;](https://www.techmeme.com/260820/p36#a260820p36)
- - [CarPlay the driving force deciding the choice between two nearly identical cars](https://appleinsider.com/articles/26/08/20/carplay-the-driving-force-deciding-the-choice-between-two-nearly-identical-cars?utm_source=rss)<!-- TECH:END -->
+ - [Google rolls out an embeddable &quot;Preferred Sources&quot; button, natural language Discover controls, and custom audio briefings in the Google News app on Android &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260820/p38#a260820p38)
+ - [San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260820/p37#a260820p37)
+ - [China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?](https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready/)
+ - [Riot is ending development on its League of Legends fighting game](https://www.theverge.com/games/982986/riot-games-league-of-legends-fighting-game-2xko-end-development)
+ - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

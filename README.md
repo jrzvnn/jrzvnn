@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)
+ - [Australia says Roblox hasn&amp;#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
  - [Amazon slashes iPads down to as low as $399 for the weekend](https://appleinsider.com/articles/26/08/20/amazon-slashes-ipads-down-to-as-low-as-399-for-the-weekend?utm_source=rss)
- - [Google DeepMind says its Gemma family of open models has surpassed 1B downloads and developers have published 100K+ Gemma model variants over the past two years &lpar;Google&rpar;](https://www.techmeme.com/260820/p31#a260820p31)
- - [Sources: Nvidia plans to begin small-batch shipments of an LPU tailored for Chinese customers by the end of 2026; the chip complies with US export control rules &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260820/p30#a260820p30)
- - [Astromech, which uses genomic data to build predictive AI models of biological change, raised $20M at a $3.8B valuation, bringing its total funding to $60M &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/260820/p29#a260820p29)
- - [Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/260820/p28#a260820p28)<!-- TECH:END -->
+ - [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
+ - [Google DeepMind says its Gemma family of open models has surpassed 1B downloads and developers have published 100K+ Gemma model variants over the past two years &lpar;Google&rpar;](https://www.techmeme.com/260820/p31#a260820p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

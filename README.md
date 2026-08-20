@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
  - [OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260820/p43#a260820p43)
+ - [Oura Faces Lawsuit Over Alleged Innacurate AI Sleep Tracking](https://www.cnet.com/tech/mobile/oura-class-action-lawsuit-ai-sleep-tracking/)
  - [Some New Samsung Device Owners Are Running Into RCS Messaging Issues](https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/)
- - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)
- - [HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More](https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more/)
- - [Apple Music&#39;s AI disclosure labels will soon be mandatory, rather than optional](https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss)<!-- TECH:END -->
+ - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

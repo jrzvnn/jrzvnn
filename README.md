@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
- - 😝 [What happened to Derpixon?](http://9gag.com/gag/aByqnoD)
- - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
- - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
+ - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 😝 [I voted D](http://9gag.com/gag/aByqnqO)
+ - 💣 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
+ - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poolease X1 Pool Robot Review: How Bad Can It Be?](https://www.wired.com/review/poolease-x1-pool-robot/)
- - [PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined &lpar;Paul Kiernan/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p14#a260820p14)
- - [Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead](https://www.wired.com/story/bumble-women-first-rule-change/)
- - [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder)
- - [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review)<!-- TECH:END -->
+ - [OpenAI&#39;s distortion &amp; speculation warrant denying suit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
+ - [Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft&#39;s largest AI customers &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260820/p17#a260820p17)
+ - [AirPods with cameras not coming until 2027, won&#39;t take photos](https://appleinsider.com/articles/26/08/19/airpods-with-cameras-not-coming-till-2027-wont-take-photos?utm_source=rss)
+ - [Sources: Trump officials expect Elon Musk to spend $100M to $200M in the November midterm elections, with a focus on voter turnout in key races, including Texas &lpar;Hugo Lowell/Wired&rpar;](https://www.techmeme.com/260820/p16#a260820p16)
+ - [I ruined my cats’ toilet time with a motion-activated neon litter box sign](https://www.theverge.com/gadgets/978782/cat-litterbox-motion-activated-neon-on-air-sign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

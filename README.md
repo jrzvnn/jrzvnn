@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
- - [Virginia&#39;s Loudoun County hosts more than 250 data centers generating huge tax revenues, as it moves to slow construction in response to pushback from residents &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260820/p6#a260820p6)
+ - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)
+ - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, the UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
+ - [Virginia&#39;s Loudoun County hosts 250+ data centers, generating huge tax revenues, as it moves to slow construction in response to pushback from residents &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260820/p6#a260820p6)
  - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)
- - [China&#39;s humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/260820/p4#a260820p4)
- - [Sources: China is restricting or delaying exports to Taiwan of germanium- and quartz-based materials used in fiber optics, photonics, and chip manufacturing &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260820/p3#a260820p3)<!-- TECH:END -->
+ - [China&#39;s humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/260820/p4#a260820p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

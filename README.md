@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CarPlay the driving force deciding the choice between two nearly identical cars](https://appleinsider.com/articles/26/08/20/carplay-the-driving-force-deciding-the-choice-between-two-nearly-identical-cars?utm_source=rss)
- - [Charter closes its $34.5B Cox acquisition, announced in May 2025, uniting two of the biggest US cable and broadband providers, and completes its Liberty deal &lpar;Georg Szalai/The Hollywood Reporter&rpar;](https://www.techmeme.com/260820/p35#a260820p35)
- - [Marley Spoon, Blue Apron Face Delivery Issues After Food Supplier Bankruptcy](https://www.cnet.com/health/nutrition/marley-spoon-blue-apron-delivery-issues-food-supplier-bankruptcy/)
- - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
- - [Silicon Valley Doesn&#39;t Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)<!-- TECH:END -->
+ - [The Genesis GV90 blows the bloody doors off what’s possible in EV design](https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor)
+ - [Tested: Amazon&#39;s drone delivery service is fast, free, and loud](https://appleinsider.com/articles/26/08/20/tested-amazons-drone-delivery-service-is-fast-free-and-loud?utm_source=rss)
+ - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)
+ - [Sources: Poolside struck a non-exclusive $6B licensing deal with Nvidia, plus a $1B investment at a $12B pre-money valuation; 109 staffers get Nvidia job offers &lpar;Newcomer&rpar;](https://www.techmeme.com/260820/p36#a260820p36)
+ - [CarPlay the driving force deciding the choice between two nearly identical cars](https://appleinsider.com/articles/26/08/20/carplay-the-driving-force-deciding-the-choice-between-two-nearly-identical-cars?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Muon Space, which is building a spacecraft platform for orbital data centers and AI computing, raised a $250M Series C, with participation from Google &lpar;Yash Roy/Bloomberg&rpar;](https://www.techmeme.com/260820/p13#a260820p13)
- - [The 3 Best USB Phone Chargers &lpar;2026&rpar;: Anker, DeWalt](https://www.wired.com/story/best-usb-car-chargers/)
- - [Stripe&#39;s OpenRouter deal, its largest-ever acquisition, is a bet on a future where users turn to a mix of AI models and gives it a foothold in the token market &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p12#a260820p12)
- - [A MAGA County’s Top Election Official Wants to Hire Election Denial Superstar Tina Peters](https://www.wired.com/story/a-maga-countys-top-election-official-wants-to-hire-election-denial-superstar-tina-peters/)
- - [Alibaba reports Q1 revenue up 9% YoY to ~$40B, meeting est., and net income down 75% to ~$1.6B due to heavy AI spending and weak domestic retail consumption &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260820/p11#a260820p11)<!-- TECH:END -->
+ - [Poolease X1 Pool Robot Review: How Bad Can It Be?](https://www.wired.com/review/poolease-x1-pool-robot/)
+ - [PitchBook: California-based startups have raised ~$366B in 2026 so far across 4,000+ companies, more than triple the total of all other 49 states combined &lpar;Paul Kiernan/Wall Street Journal&rpar;](https://www.techmeme.com/260820/p14#a260820p14)
+ - [Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead](https://www.wired.com/story/bumble-women-first-rule-change/)
+ - [The piano that taught my cat to play for her supper](https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder)
+ - [The Audi S6 Sportback E-tron proves that sedans still matter](https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

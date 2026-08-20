@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)
+ - [HP Introduces First HyperX Open-Back Headset, Lightweight Carbon Fiber Mouse and More](https://www.cnet.com/tech/computing/hp-introduces-first-hyperx-open-back-headset-lightweight-carbon-fiber-mouse-and-more/)
  - [Apple Music&#39;s AI disclosure labels will soon be mandatory, rather than optional](https://appleinsider.com/articles/26/08/20/apple-musics-ai-disclosure-labels-will-soon-be-mandatory-rather-than-optional?utm_source=rss)
  - [Google Discover is getting an AI chatbot-tuned feed](https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed)
- - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)
- - [Email: Apple Music tells industry partners that songs tagged as &quot;materially generated using AI&quot; by content providers will be visibly labeled on the service &lpar;Kristin Robinson/Billboard&rpar;](https://www.techmeme.com/260820/p41#a260820p41)
- - [The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole](https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/)<!-- TECH:END -->
+ - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

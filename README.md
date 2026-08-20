@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)
- - [Australia says Roblox hasn&amp;#8217;t fixed its child predator problem](https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety)
- - [Amazon slashes iPads down to as low as $399 for the weekend](https://appleinsider.com/articles/26/08/20/amazon-slashes-ipads-down-to-as-low-as-399-for-the-weekend?utm_source=rss)
- - [FCC officially decides gigabit speeds are too good for you](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)
- - [Google DeepMind says its Gemma family of open models has surpassed 1B downloads and developers have published 100K+ Gemma model variants over the past two years &lpar;Google&rpar;](https://www.techmeme.com/260820/p31#a260820p31)<!-- TECH:END -->
+ - [Mark Zuckerberg bought an Irish castle](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)
+ - [Silicon Valley Doesn&#39;t Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/)
+ - [Meta rolls out Pocket, an experimental vibe-coding app that lets users create and share small games, in the US, after launching it in Brazil last month &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260820/p34#a260820p34)
+ - [Sources: Anthropic expects to match or beat the size of SpaceX&#39;s record-setting IPO, as it prepares to file publicly for its IPO as soon as the end of August &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p33#a260820p33)
+ - [Source: Anthropic plans a safety system this year requiring enterprises to retain data for 30 days, with an option to do so on their own cloud infrastructure &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/260820/p32#a260820p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

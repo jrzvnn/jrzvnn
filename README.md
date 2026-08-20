@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
- - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
- - 💣 [The Slingzooka](http://9gag.com/gag/a9yQz1W)
- - 😝 [The Plot](http://9gag.com/gag/aByqd31)
- - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
+ - 😝 [What happened to Derpixon?](http://9gag.com/gag/aByqnoD)
+ - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 💣 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - 👉 [The Plot](http://9gag.com/gag/aByqd31)<!-- MEMES:END -->
 
 ---
 

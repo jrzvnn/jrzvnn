@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 😝 [I voted D](http://9gag.com/gag/aByqnqO)
- - 💣 [Wait I seen this somewhere...](http://9gag.com/gag/aLnYvyW)
- - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 😝 [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
+ - 😝 [Paying more for less](http://9gag.com/gag/apRyRGB)
+ - 💣 [The main star](http://9gag.com/gag/ayNg9Or)
+ - 😝 [10,000 beers. You&#39;d think he lost a son.](http://9gag.com/gag/azxN28N)
+ - 👉 [Ox before NoS](http://9gag.com/gag/aqy3egY)<!-- MEMES:END -->
 
 ---
 

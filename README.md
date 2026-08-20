@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
  - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)
  - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, the UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
  - [Virginia&#39;s Loudoun County hosts 250+ data centers, generating huge tax revenues, as it moves to slow construction in response to pushback from residents &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260820/p6#a260820p6)
- - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)
- - [China&#39;s humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/260820/p4#a260820p4)<!-- TECH:END -->
+ - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

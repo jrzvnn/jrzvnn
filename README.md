@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good old times video Smoking a Carolina Reaper](http://9gag.com/gag/a9yQynZ)
- - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
- - 💣 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
+ - 😝 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
+ - 💣 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
  - 😝 [The Plot](http://9gag.com/gag/aByqd31)
- - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
+ - 👉 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)<!-- MEMES:END -->
 
 ---
 

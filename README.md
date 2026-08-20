@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old times video Smoking a Carolina Reaper](http://9gag.com/gag/a9yQynZ)
- - 😝 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
- - 💣 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 😝 [The Plot](http://9gag.com/gag/aByqd31)
- - 👉 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)<!-- MEMES:END -->
+ - 😝 [Hadouken!](http://9gag.com/gag/a1mz7ZR)
+ - 😝 [Carrying this much hardware really built character](http://9gag.com/gag/aZZAZO6)
+ - 💣 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)
+ - 😝 [10,000 beers. You&#39;d think he lost a son.](http://9gag.com/gag/azxN28N)
+ - 👉 [Stop it...get some help.](http://9gag.com/gag/aPANxyK)<!-- MEMES:END -->
 
 ---
 

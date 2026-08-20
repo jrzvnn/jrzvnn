@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Unitree&#39;s Go series, which helped the company dominate the quadruped robot market, drew on openly published US university research funded by the US military &lpar;Michael Martina/Reuters&rpar;](https://www.techmeme.com/260820/p2#a260820p2)
- - [Pornhub says the UK&#39;s new internet age checks have boosted non-compliant porn sites, which occupied seven of the top 10 search results for &quot;free porn&quot; in June &lpar;Daniel Thomas/Financial Times&rpar;](https://www.techmeme.com/260820/p1#a260820p1)
- - [The EU appears to be shifting from outsized regulatory fines against Big Tech to technical DMA orders that force compliance, such as sharing search data &lpar;Jacob Parry/Politico&rpar;](https://www.techmeme.com/260819/p53#a260819p53)
- - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)
- - [Genesis GV90 SUV Debuts With Coach Doors, 310-Mile Range](https://www.cnet.com/home/electric-vehicles/genesis-gv90-suv-coach-doors-310-mile-range/)<!-- TECH:END -->
+ - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [Peacock Promo Codes: 40% Off August 2026](https://www.wired.com/story/peacock-promo-code/)
+ - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)
+ - [Dell Coupon Codes: 20% Off for August 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [Booking.com Promo Codes: 20% Off | August 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

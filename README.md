@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who wants to live forever?](http://9gag.com/gag/apRygB9)
- - 😝 [The country that shuts it down with one word at the border](http://9gag.com/gag/azxNMQK)
- - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
- - 😝 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 😝 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [I should start excercising.](http://9gag.com/gag/amojgv9)
+ - 💣 [The Plot](http://9gag.com/gag/aByqd31)
+ - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
+ - 👉 [Young Beyonce sitting on producer&#39;s lap](http://9gag.com/gag/an7pgjV)<!-- MEMES:END -->
 
 ---
 

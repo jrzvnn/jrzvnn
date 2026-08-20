@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new OLED breakthrough can boost display lifespans](https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology)
- - [Salmonella Is Everywhere](https://www.wired.com/story/salmonella-is-everywhere/)
- - [London-based Callosum, whose software matches AI tasks with different models and chips, raised a $100M seed from Atomico, the UK Sovereign AI Fund, and others &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p7#a260820p7)
- - [Virginia&#39;s Loudoun County hosts 250+ data centers, generating huge tax revenues, as it moves to slow construction in response to pushback from residents &lpar;Cecilia Kang/New York Times&rpar;](https://www.techmeme.com/260820/p6#a260820p6)
- - [A look at Backstory, an experimental AI image authentication tool from Google DeepMind, offered for testing to journalists, researchers, and other fact checkers &lpar;Andrew Deck/Nieman Lab&rpar;](https://www.techmeme.com/260820/p5#a260820p5)<!-- TECH:END -->
+ - [South Korea media: SK Hynix and its union reach a tentative deal on a 6.3% wage hike and paying out 60% of profit-sharing bonuses in shares and 40% in cash &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260820/p9#a260820p9)
+ - [How Teen ‘After-Prom’ Kings in LA Monetized the High School Rager](https://www.wired.com/myplots-jack-schwartz-zane-harwin-teen-parties-after-prom/)
+ - [The All-New Sennheiser Momentum True Wireless 5 Look Like Serious Earbud Contenders](https://www.cnet.com/tech/mobile/the-all-new-sennheiser-momentum-true-wireless-5-look-like-serious-earbuds-contenders/)
+ - [Sennheiser’s new Momentum 5 earbuds feature easily replaceable batteries](https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries)
+ - [Uber, Verne, and Pony.ai launch autonomous rides in Zagreb, making the Croatian capital the first European city where users can book such rides via Uber&#39;s app &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260820/p8#a260820p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

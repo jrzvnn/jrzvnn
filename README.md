@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
  - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 💣 [Yeah, why not?](http://9gag.com/gag/apRy1wE)
+ - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
+ - 💣 [Good move](http://9gag.com/gag/a4Pe6Y1)
  - 😝 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---
 

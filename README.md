@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC Wants Companies to Tell You When They Set Personalized Prices](https://www.cnet.com/news/privacy/the-ftc-personalized-pricing-act/)
+ - [The Chinese city of Hangzhou deploys traffic-control robots that operate autonomously, using cameras and radar to signal traffic and flag violations &lpar;Reuters&rpar;](https://www.techmeme.com/260820/p26#a260820p26)
  - [It’s Greg Brockman’s OpenAI now](https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion)
  - [This app makes the Pixel 11&amp;#8217;s HiLight feature actually useful](https://www.theverge.com/tech/982791/this-app-makes-the-pixel-11s-hilight-feature-actually-useful)
- - [The EX60 Is Volvo’s Most Important Car, and It’s Glorious](https://www.cnet.com/roadshow/the-ex60-is-volvos-most-important-car-and-its-glorious/)
- - [Filing: in 2025, TikTok posted its first net profit of $702.5M in Europe, Africa, and Latin America on $9.1B in revenue, up 45.7% YoY &lpar;Iain Martin/Forbes&rpar;](https://www.techmeme.com/260820/p25#a260820p25)
- - [LG’s 65-inch B6 OLED is $300 lower than its previous best price](https://www.theverge.com/gadgets/982695/lg-b6-65-inch-oled-doordash-digital-game-deal-sale)<!-- TECH:END -->
+ - [The EX60 Is Volvo’s Most Important Car, and It’s Glorious](https://www.cnet.com/roadshow/the-ex60-is-volvos-most-important-car-and-its-glorious/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

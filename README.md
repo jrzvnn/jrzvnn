@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)
+ - [The Galaxy’s Fastest Star Could Reveal the Secrets of a Supermassive Black Hole](https://www.wired.com/story/the-galaxys-fastest-star-could-reveal-the-secrets-of-a-supermassive-black-hole/)
  - [GitHub says its 7+ hour August 17 outage was caused by a capacity failure when peak traffic overwhelmed an infrastructure component in a Central US data center &lpar;Vlad Fedorov/The GitHub Blog&rpar;](https://www.techmeme.com/260820/p40#a260820p40)
  - [Sources: Broadcom is in talks with a group of lenders to raise $60B+ in debt for an AI chip financing deal that will benefit Anthropic and other companies &lpar;Bloomberg&rpar;](https://www.techmeme.com/260820/p39#a260820p39)
- - [Apple Watches With Ceramic Finish Reportedly Returning This Year](https://www.cnet.com/tech/mobile/apple-watch-ceramic-reportedly-returning/)
- - [Google rolls out an embeddable &quot;Preferred Sources&quot; button, natural language Discover controls, and custom audio briefings in the Google News app on Android &lpar;Matt G. Southern/Search Engine Journal&rpar;](https://www.techmeme.com/260820/p38#a260820p38)
- - [San Mateo-based Twin1 AI, which creates professional digital twins that integrate with tools like Slack, launches from stealth with a $20M seed &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260820/p37#a260820p37)<!-- TECH:END -->
+ - [Apple Watches With Ceramic Finish Reportedly Returning This Year](https://www.cnet.com/tech/mobile/apple-watch-ceramic-reportedly-returning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

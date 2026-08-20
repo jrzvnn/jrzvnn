@@ -160,9 +160,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [China&#39;s humanoid robot makers derive much of their revenue from government-backed training centers that sell training data back to them, raising demand concerns &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/260820/p4#a260820p4)
  - [Sources: China is restricting or delaying exports to Taiwan of germanium- and quartz-based materials used in fiber optics, photonics, and chip manufacturing &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260820/p3#a260820p3)
+ - [Chewy Promo Codes: $20 Off August 2026](https://www.wired.com/story/chewy-promo-code/)
  - [Peacock Promo Codes: 40% Off August 2026](https://www.wired.com/story/peacock-promo-code/)
- - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)
- - [Dell Coupon Codes: 20% Off for August 2026](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [TurboTax Full Service Coupons This August](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

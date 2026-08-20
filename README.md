@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case men of culture one day they need to change the plane tyre](http://9gag.com/gag/aXPDnGD)
- - 😝 [You are no longer depressed and very happy. Have a nice day.](http://9gag.com/gag/aVvnxxM)
- - 💣 [The main star](http://9gag.com/gag/ayNg9Or)
- - 😝 [The ancient way](http://9gag.com/gag/aD2p2yO)
- - 👉 [10,000 beers. You&#39;d think he lost a son.](http://9gag.com/gag/azxN28N)<!-- MEMES:END -->
+ - 😝 [`I turn now? Good luck everybody else!`](http://9gag.com/gag/aNDxPOw)
+ - 😝 [If your life is a hardcore game with no save option, you might be an Indian electrician.](http://9gag.com/gag/azxN25b)
+ - 💣 [Rick Charls - American high diver who currently holds the World Record for the Highest Dive from 172 ft](http://9gag.com/gag/aAyWGWg)
+ - 😝 [3 feet.](http://9gag.com/gag/an7pzRL)
+ - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---
 

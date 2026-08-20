@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)
- - [Slack is launching collaborative vibe coding channels](https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch)
- - [Samsung and Apple are now neck and neck in Europe&#39;s declining smartphone market](https://appleinsider.com/articles/26/08/20/samsung-and-apple-are-now-neck-and-neck-in-europes-declining-smartphone-market?utm_source=rss)
- - [OpenAI&#39;s distortion &amp; speculation warrant denying suit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)
- - [Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft&#39;s largest AI customers &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260820/p17#a260820p17)<!-- TECH:END -->
+ - [I bought DJI’s banned camera — it was cheap and easy](https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market)
+ - [Study: 150+ Polymarket wallets may have traded on inside US military information, attracting copycat bets and making $8M overall, with a 97.2% average win rate &lpar;Douglas Gillison/Reuters&rpar;](https://www.techmeme.com/260820/p20#a260820p20)
+ - [GTA 6 leaker CyberLeek releases more footage, including a video of a character spelling &quot;leek&quot; with bullet holes in a wall, suggesting direct access to the game &lpar;Robert Purchese/Eurogamer.net&rpar;](https://www.techmeme.com/260820/p19#a260820p19)
+ - [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents &quot;like teammates&quot; across all Slack plans &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260820/p18#a260820p18)
+ - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

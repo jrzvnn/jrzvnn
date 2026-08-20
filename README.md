@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I bought DJI’s banned camera — it was cheap and easy](https://www.theverge.com/tech/981669/dji-osmo-pocket-4-pro-us-ban-black-market)
- - [Study: 150+ Polymarket wallets may have traded on inside US military information, attracting copycat bets and making $8M overall, with a 97.2% average win rate &lpar;Douglas Gillison/Reuters&rpar;](https://www.techmeme.com/260820/p20#a260820p20)
- - [GTA 6 leaker CyberLeek releases more footage, including a video of a character spelling &quot;leek&quot; with bullet holes in a wall, suggesting direct access to the game &lpar;Robert Purchese/Eurogamer.net&rpar;](https://www.techmeme.com/260820/p19#a260820p19)
- - [Slack launches Slack Code, adding dedicated, project-specific channels that let teams collaborate with AI coding agents &quot;like teammates&quot; across all Slack plans &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260820/p18#a260820p18)
- - [Meta glasses are a workplace menace](https://www.theverge.com/report/982414/meta-glasses-work-surveillance-labor-security)<!-- TECH:END -->
+ - [DJI Osmo fans are breaking the shackles of its closed-source camera app](https://www.theverge.com/tech/981852/osmosis-app-download-dji-osmo-camera-video-mimo-replacement)
+ - [Circana: US video game hardware spending fell 29% YoY in July to $282M, the lowest since COVID; unit shipments fell 39% as average console prices hit $542 &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/260820/p22#a260820p22)
+ - [Anthropic-backed enterprise AI venture Ode is acquiring four-year-old AI consultancy Casper for an undisclosed fee; Ode has 100+ staff after buying Fractional &lpar;Julia Hornstein/The Information&rpar;](https://www.techmeme.com/260820/p21#a260820p21)
+ - [NASA gives up on trying to rescue the Swift telescope](https://www.theverge.com/science/982661/nasa-katalyst-swift-rescue-mission-failure-update)
+ - [No Mic Needed: You Can Create Music and Speech With Adobe’s AI Audio Tools](https://www.cnet.com/tech/services-and-software/adobe-ai-audio-soundtrack-music-speech-general-release-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU appears to be shifting from outsized regulatory fines against Big Tech to technical DMA orders that force compliance, such as sharing search data &lpar;Jacob Parry/Politico&rpar;](https://www.techmeme.com/260819/p53#a260819p53)
  - [Hyperliquid Strategies shares jumped 31% after Trump said CFTC Chair Michael Selig is working to bring crypto platform Hyperliquid onshore in a compliant manner &lpar;Bloomberg&rpar;](https://www.techmeme.com/260819/p52#a260819p52)
  - [Genesis GV90 SUV Debuts With Coach Doors, 310-Mile Range](https://www.cnet.com/home/electric-vehicles/genesis-gv90-suv-coach-doors-310-mile-range/)
  - [The US Army is phasing out its drone assault battalion, as part of a &quot;back-to-basics&quot; approach; it was created in January to learn from the conflict in Ukraine &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260819/p51#a260819p51)
- - [European Commission approves of Apple&#39;s new App Store terms even if Epic doesn&#39;t](https://appleinsider.com/articles/26/08/20/european-commission-approves-of-apples-new-app-store-terms-even-if-epic-doesnt?utm_source=rss)
- - [Distortion &amp; speculation warrant denying OpenAI request for lawsuit dismissal, says Apple](https://appleinsider.com/articles/26/08/20/distortion-speculation-warrant-denying-openai-request-for-lawsuit-dismissal-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [European Commission approves of Apple&#39;s new App Store terms even if Epic doesn&#39;t](https://appleinsider.com/articles/26/08/20/european-commission-approves-of-apples-new-app-store-terms-even-if-epic-doesnt?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

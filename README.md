@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 😝 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
- - 💣 [Good move](http://9gag.com/gag/a4Pe6Y1)
+ - 😝 [Wamen](http://9gag.com/gag/an7pO75)
+ - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 💣 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [A helping foot](http://9gag.com/gag/a6ZvXnA)<!-- MEMES:END -->
+ - 👉 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)<!-- MEMES:END -->
 
 ---
 

@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
  - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)

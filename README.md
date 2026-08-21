@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)
+ - [The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/)
  - [Samsung unveils a $65.1B-$79.5B shareholder return package for 2026, combining dividends and share buybacks, calling it &quot;the largest ever by a Korean company&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260821/p5#a260821p5)
  - [5 Best Electric Toothbrushes &lpar;2026&rpar;: Philips, Oral-B, Quip, More](https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/)
- - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)
- - [Sources: Nvidia is in early talks with South Korean AI chip maker Rebellions for a potential deal, including a partnership, an investment, or an acquisition &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260821/p4#a260821p4)
- - [China grants Geely a two-year permit for the country&#39;s first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260821/p3#a260821p3)<!-- TECH:END -->
+ - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sign of the times.](http://9gag.com/gag/aRB5B9M)
- - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 😝 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
+ - 💣 [Good move](http://9gag.com/gag/a4Pe6Y1)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
+ - 👉 [A helping foot](http://9gag.com/gag/a6ZvXnA)<!-- MEMES:END -->
 
 ---
 

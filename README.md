@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)
+ - [Walmart, which has long resisted contactless Tap to Pay payments, says it will soon start rolling out the tech, which supports Apple Pay, Google Pay, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260821/p15#a260821p15)
+ - [Researchers Seem to Have Figured Out Why It’s Harder to Poop in Space](https://www.cnet.com/science/space/researchers-seem-to-have-figured-out-why-its-harder-to-poop-in-space/)
  - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)
- - [iPhone sales rise in Latin America even as smartphone market shrinks](https://appleinsider.com/articles/26/08/21/iphone-sales-rise-in-latin-america-even-as-smartphone-market-shrinks?utm_source=rss)
- - [Uber is set to be fined €825M by the Dutch data watchdog over its use of automated systems to deactivate driver accounts, in the second largest fine under GDPR &lpar;Financial Times&rpar;](https://www.techmeme.com/260821/p13#a260821p13)
- - [Apple paid Ireland a staggering $17 billion in taxes in 2025](https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss)
- - [Space data center startup Starcloud raised a $250M extension, at a $2.3B valuation, to its March $170M Series A; source: Nvidia invested $25M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260821/p12#a260821p12)<!-- TECH:END -->
+ - [iPhone sales rise in Latin America even as smartphone market shrinks](https://appleinsider.com/articles/26/08/21/iphone-sales-rise-in-latin-america-even-as-smartphone-market-shrinks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

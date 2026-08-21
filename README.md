@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels &lpar;Terry Chen/NVIDIA Technical Blog&rpar;](https://www.techmeme.com/260821/p24#a260821p24)
+ - [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/)
  - [Anthropic hires Amir Salek, who ran Google&#39;s TPU business until 2022, to join its compute team as part of a push to develop its own chips &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260821/p23#a260821p23)
  - [You Can Soon Use the Tap-to-Pay Option at Walmart and Sam’s Club](https://www.cnet.com/everyday-needs/you-can-soon-use-the-tap-to-pay-option-at-walmart-and-sams-club/)
- - [DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others &lpar;Omarchy News&rpar;](https://www.techmeme.com/260821/p22#a260821p22)
- - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)<!-- TECH:END -->
+ - [DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others &lpar;Omarchy News&rpar;](https://www.techmeme.com/260821/p22#a260821p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

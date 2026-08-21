@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10,000 beers. You&#39;d think he lost a son.](http://9gag.com/gag/azxN28N)
- - 😝 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)
- - 💣 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)
- - 😝 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
- - 👉 [Stop it...get some help.](http://9gag.com/gag/aPANxyK)<!-- MEMES:END -->
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
+ - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
 
 ---
 

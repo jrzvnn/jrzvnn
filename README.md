@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools &lpar;Claude&rpar;](https://www.techmeme.com/260821/p18#a260821p18)
  - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)
  - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)
  - [M6 MacBook Pro rumors: Improved performance, in a familiar form factor](https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss)
- - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
- - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)<!-- TECH:END -->
+ - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

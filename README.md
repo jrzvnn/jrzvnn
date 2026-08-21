@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)
- - [The Patrick Clancy Conspiracy Theories Are Rooted in the Harsh Realities of Motherhood](https://www.wired.com/story/the-patrick-clancy-conspiracy-theories-are-rooted-in-the-harsh-realities-of-motherhood/)
- - [Samsung unveils a $65.1B-$79.5B shareholder return package for 2026, combining dividends and share buybacks, calling it &quot;the largest ever by a Korean company&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260821/p5#a260821p5)
- - [5 Best Electric Toothbrushes &lpar;2026&rpar;: Philips, Oral-B, Quip, More](https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/)
- - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)<!-- TECH:END -->
+ - [I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
+ - [When to reuse, sell or recycle an old iPhone or iPad](https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss)
+ - [AirPod cameras will detect people, and warn about image capture with a status light](https://appleinsider.com/articles/26/08/21/airpod-cameras-will-detect-people-and-warn-about-image-capture-with-a-status-light?utm_source=rss)
+ - [CBRE: NYC becomes the top tech talent market for the first time with ~394K jobs, beating the Bay Area&#39;s ~375K, amid SF job cuts and finance sector tech hiring &lpar;Diana Olick/CNBC&rpar;](https://www.techmeme.com/260821/p6#a260821p6)
+ - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

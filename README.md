@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepSeek unveils an experimental version of its V4 Flash model that can understand visual prompts, saying it nears the performance of Anthropic&#39;s Opus 4.8 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260821/p9#a260821p9)
- - [Layoffs in Apple&#39;s Vision Products Group prove slow progress in spatial computing](https://appleinsider.com/articles/26/08/20/layoffs-in-apples-vision-products-group-prove-slow-progress-in-spatial-computing?utm_source=rss)
- - [Patreon announces new and overhauled features, including changes to its recommendation system to make it easier for smaller creators to get discovered &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260821/p8#a260821p8)
- - [This iOS 27 Shortcut Stopped My Mindless Scrolling](https://www.cnet.com/tech/mobile/this-ios-27-shortcut-stopped-my-mindless-scrolling/)
- - [AirPods with cameras leak, Apple Maps ads, &amp; Siri AI on the AppleInsider Podcast](https://appleinsider.com/articles/26/08/21/airpods-with-cameras-leak-apple-maps-ads-siri-ai-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Kakao plans to spin off its chat app-based platform business into a new company tentatively named KakaoAI, which it expects to relist in Korea in 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p11#a260821p11)
+ - [Blue Eye Samurai’s second season will hit Netflix in January](https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal)
+ - [Filings: China-based chipmaker YMTC&#39;s application to list its shares on Shanghai&#39;s STAR Market has been accepted, setting the stage for a $4.9B share sale &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p10#a260821p10)
+ - [Amazon slashes LG 27&quot; UltraGear OLED monitor to $468, lowest price ever](https://appleinsider.com/articles/26/08/21/amazon-slashes-lg-27-ultragear-oled-monitor-to-468-lowest-price-ever?utm_source=rss)
+ - [DeepSeek unveils an experimental multimodal version of its V4 Flash model, saying it nears the performance of Anthropic&#39;s Opus 4.8 on multimodal benchmarks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260821/p9#a260821p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

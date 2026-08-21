@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels &lpar;Terry Chen/NVIDIA Technical Blog&rpar;](https://www.techmeme.com/260821/p24#a260821p24)
  - [Anthropic hires Amir Salek, who ran Google&#39;s TPU business until 2022, to join its compute team as part of a push to develop its own chips &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260821/p23#a260821p23)
+ - [You Can Soon Use the Tap-to-Pay Option at Walmart and Sam’s Club](https://www.cnet.com/everyday-needs/you-can-soon-use-the-tap-to-pay-option-at-walmart-and-sams-club/)
  - [DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others &lpar;Omarchy News&rpar;](https://www.techmeme.com/260821/p22#a260821p22)
- - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)
- - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
- - [The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260821/p20#a260821p20)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

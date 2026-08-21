@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [10/10](http://9gag.com/gag/aKG0151)
- - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
  - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 💣 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 😝 [10/10](http://9gag.com/gag/aKG0151)
  - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---

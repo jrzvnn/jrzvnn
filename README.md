@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cOw!\u201d](http://9gag.com/gag/aqy3X9Z)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [Those are the facts.](http://9gag.com/gag/azxNPDx)
+ - 😝 [Good move](http://9gag.com/gag/a4Pe6Y1)
+ - 😝 [She&#39;d need to gain some weight](http://9gag.com/gag/azxNdLN)
+ - 💣 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
+ - 👉 [Please ,please shock them !](http://9gag.com/gag/a6Zv9oe)<!-- MEMES:END -->
 
 ---
 

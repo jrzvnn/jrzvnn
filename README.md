@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sign of the times.](http://9gag.com/gag/aRB5B9M)
- - 😝 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
- - 💣 [Wamen](http://9gag.com/gag/an7pO75)
+ - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)<!-- MEMES:END -->
+ - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
 
 ---
 

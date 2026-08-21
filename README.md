@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)
+ - [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)
  - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
  - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
- - [30% Off Canon Promo Codes | August 2026](https://www.wired.com/story/canon-promo-code/)
- - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)<!-- TECH:END -->
+ - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT can now control Messages on the Mac for some reason](https://appleinsider.com/articles/26/08/21/chatgpt-can-now-control-messages-on-the-mac-for-some-reason?utm_source=rss)
  - [I Tried the Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame](https://www.wired.com/story/best-pool-cleaning-robots/)
  - [When to reuse, sell or recycle an old iPhone or iPad](https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss)
- - [AirPod cameras will detect people, and warn about image capture with a status light](https://appleinsider.com/articles/26/08/21/airpod-cameras-will-detect-people-and-warn-about-image-capture-with-a-status-light?utm_source=rss)
- - [CBRE: NYC becomes the top tech talent market for the first time with ~394K jobs, beating the Bay Area&#39;s ~375K, amid SF job cuts and finance sector tech hiring &lpar;Diana Olick/CNBC&rpar;](https://www.techmeme.com/260821/p6#a260821p6)
- - [Nyrius Phoenix Home True 4K60 &lpar;2026&rpar;: A Solution for Cord Clutter](https://www.wired.com/review/nyrius-phoenix-home-true-4k60/)<!-- TECH:END -->
+ - [My cats hate each other, but this automatic feeder is helping](https://www.theverge.com/gadgets/982897/automatic-feeder-cat-enemies)
+ - [AirPod cameras will detect people, and warn about image capture with a status light](https://appleinsider.com/articles/26/08/21/airpod-cameras-will-detect-people-and-warn-about-image-capture-with-a-status-light?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

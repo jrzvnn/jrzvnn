@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China grants Geely a two-year permit for the country&#39;s first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260821/p3#a260821p3)
- - [The Super El Niño Won’t Fix the West’s Water Crisis](https://www.wired.com/story/the-super-el-nino-wont-fix-the-wests-water-crisis/)
- - [Best Early Tech Labor Day Sales I’d Shop Myself &lpar;2026&rpar;: AirTags, Dyson, and More](https://www.wired.com/story/early-tech-labor-day-sales-2026/)
- - [How the memory boom is reshaping Micron&#39;s hometown of Boise, Idaho, with new millionaires, job growth, rising housing costs, and uneven wealth distribution &lpar;CNBC&rpar;](https://www.techmeme.com/260821/p2#a260821p2)
- - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)<!-- TECH:END -->
+ - [Samsung unveils a $65.1B-$79.5B shareholder return package for 2026, combining dividends and share buybacks, calling it &quot;the largest ever by a Korean company&quot; &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/260821/p5#a260821p5)
+ - [5 Best Electric Toothbrushes &lpar;2026&rpar;: Philips, Oral-B, Quip, More](https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/)
+ - [Influencers and Resellers Are Turning Empty Boxes Into Big Cash](https://www.wired.com/story/when-the-packaging-is-the-product-empty-boxes-influencers/)
+ - [Sources: Nvidia is in early talks with South Korean AI chip maker Rebellions for a potential deal, including a partnership, an investment, or an acquisition &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/260821/p4#a260821p4)
+ - [China grants Geely a two-year permit for the country&#39;s first private satellite IoT trial, letting Geely offer connectivity to sectors like transport and energy &lpar;Ben Jiang/South China Morning Post&rpar;](https://www.techmeme.com/260821/p3#a260821p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

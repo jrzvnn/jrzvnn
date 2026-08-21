@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260821/p25#a260821p25)
- - [Over one million people have clicked LinkedIn’s AI slop button](https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message)
- - [Nvidia says its general-purpose coding agent system AVO scored 100% across all 25 environments in the ARC-AGI-3 public set, completing all 183 levels &lpar;Terry Chen/NVIDIA Technical Blog&rpar;](https://www.techmeme.com/260821/p24#a260821p24)
- - [The Dead Internet Theory May Be Coming True, Pew Research Findings Show](https://www.cnet.com/tech/services-and-software/dead-internet-theory-pew-research/)
- - [Anthropic hires Amir Salek, who ran Google&#39;s TPU business until 2022, to join its compute team as part of a push to develop its own chips &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260821/p23#a260821p23)<!-- TECH:END -->
+ - [OpenAI cuts GPT-5.6 Sol&#39;s API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260821/p26#a260821p26)
+ - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
+ - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
+ - [GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data](https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/)
+ - [Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260821/p25#a260821p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

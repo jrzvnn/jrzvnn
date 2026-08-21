@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ray-Ban Promo Codes: Save 50% in August 2026](https://www.wired.com/story/ray-ban-promo-code/)
+ - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)
  - [30% Off Canon Promo Codes | August 2026](https://www.wired.com/story/canon-promo-code/)
  - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [Lenovo Coupon Codes: 15% Off in August 2026](https://www.wired.com/story/lenovo-coupon-code/)
- - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)
- - [Meta Quest Promo Codes and Coupons for August 2026](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
+ - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

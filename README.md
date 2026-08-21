@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/260821/p17#a260821p17)
+ - [M6 MacBook Pro rumors: Improved performance, in a familiar form factor](https://appleinsider.com/articles/26/08/21/m6-macbook-pro-rumors-improved-performance-in-a-familiar-form-factor?utm_source=rss)
  - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
  - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
- - [Sources: US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260821/p16#a260821p16)
- - [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed)
- - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)<!-- TECH:END -->
+ - [Sources: US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260821/p16#a260821p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

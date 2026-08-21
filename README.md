@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finally, Apple Pay is coming to WalMart stores in the US](https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us?utm_source=rss)
  - [Kakao plans to spin off its chat app-based platform business into a new company tentatively named KakaoAI, which it expects to relist in Korea in 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p11#a260821p11)
+ - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)
  - [Blue Eye Samurai’s second season will hit Netflix in January](https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal)
- - [Filings: China-based chipmaker YMTC&#39;s application to list its shares on Shanghai&#39;s STAR Market has been accepted, setting the stage for a $4.9B share sale &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p10#a260821p10)
- - [Amazon slashes LG 27&quot; UltraGear OLED monitor to $468, lowest price ever](https://appleinsider.com/articles/26/08/21/amazon-slashes-lg-27-ultragear-oled-monitor-to-468-lowest-price-ever?utm_source=rss)
- - [DeepSeek unveils an experimental multimodal version of its V4 Flash model, saying it nears the performance of Anthropic&#39;s Opus 4.8 on multimodal benchmarks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260821/p9#a260821p9)<!-- TECH:END -->
+ - [Filings: China-based chipmaker YMTC&#39;s application to list its shares on Shanghai&#39;s STAR Market has been accepted, setting the stage for a $4.9B share sale &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p10#a260821p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

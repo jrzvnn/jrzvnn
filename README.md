@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &lpar;Rashika Singh/Reuters&rpar;](https://www.techmeme.com/260821/p27#a260821p27)
+ - [Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers](https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/)
  - [OpenAI cuts GPT-5.6 Sol&#39;s API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260821/p26#a260821p26)
  - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
- - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)
- - [GTA 6 Leaks Prompt Take-Two to Seek Subpoenas for Microsoft,  Discord Data](https://www.cnet.com/tech/gta-6-take-two-subpoenas-for-microsoft-discord-data/)
- - [Sources: Devoted Health, which uses AI to help coordinate medical care for those enrolled in Medicare Advantage, is raising new funding at a $25B valuation &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260821/p25#a260821p25)<!-- TECH:END -->
+ - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the memory boom is reshaping Micron&#39;s hometown of Boise, Idaho, with new millionaires, job growth, rising housing costs, and uneven wealth distribution &lpar;CNBC&rpar;](https://www.techmeme.com/260821/p2#a260821p2)
  - [How crypto, AI, and online betting companies emerged as the biggest industries shaping the 2026 US midterm races, as corporate spending reaches a record $517M &lpar;Dawn Kopecki/Reuters&rpar;](https://www.techmeme.com/260821/p1#a260821p1)
  - [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/)
- - [B&amp;H Photo Promo Codes and Deals This August 2026](https://www.wired.com/story/bh-photo-coupon/)
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in August 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Home Depot Promo Codes: 30% Off in August 2026](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Paramount+ Coupon Codes and Deals for August 2026](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Zoro Coupon Codes: 55% Off August](https://www.wired.com/story/zoro-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

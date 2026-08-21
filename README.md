@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic hires Amir Salek, who ran Google&#39;s TPU business until 2022, to join its compute team as part of a push to develop its own chips &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260821/p23#a260821p23)
+ - [DHH launches Omacom Foundation, a non-profit supporting his Omarchy Linux distro, with $8M in funding from Michael Dell, Jack Dorsey, Patrick Collison, others &lpar;Omarchy News&rpar;](https://www.techmeme.com/260821/p22#a260821p22)
  - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)
  - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
- - [The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260821/p20#a260821p20)
- - [Apple&#39;s latest layoffs extend past just Vision Pro development teams](https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss)
- - [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260821/p19#a260821p19)<!-- TECH:END -->
+ - [The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260821/p20#a260821p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

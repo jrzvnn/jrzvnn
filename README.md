@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260821/p28#a260821p28)
  - [Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &lpar;Rashika Singh/Reuters&rpar;](https://www.techmeme.com/260821/p27#a260821p27)
  - [Inside Jason Kelce’s Potty Humor Marketing Ploy Against AI Data Centers](https://www.cnet.com/tech/services-and-software/jason-kelce-liquid-death-marketing-stunt-ai-data-centers/)
  - [OpenAI cuts GPT-5.6 Sol&#39;s API and credit prices by over 20% for the next three months, to $4/1M input tokens and $20/1M output tokens &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260821/p26#a260821p26)
- - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)
- - [TikTok will pay $400 million to settle DOJ child privacy lawsuit](https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa)<!-- TECH:END -->
+ - [HoverAir’s transforming modular drone has already been halted in the US](https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

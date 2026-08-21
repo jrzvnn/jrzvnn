@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control)
- - [Google’s Pixel 10A is a great deal at 15 percent off](https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale)
- - [Finally, Apple Pay is coming to WalMart stores in the US](https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us?utm_source=rss)
- - [Kakao plans to spin off its chat app-based platform business into a new company tentatively named KakaoAI, which it expects to relist in Korea in 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p11#a260821p11)
- - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)<!-- TECH:END -->
+ - [iPhone sales rise in Latin America even as smartphone market shrinks](https://appleinsider.com/articles/26/08/21/iphone-sales-rise-in-latin-america-even-as-smartphone-market-shrinks?utm_source=rss)
+ - [Uber is set to be fined €825M by the Dutch data watchdog over its use of automated systems to deactivate driver accounts, in the second largest fine under GDPR &lpar;Financial Times&rpar;](https://www.techmeme.com/260821/p13#a260821p13)
+ - [Apple paid Ireland a staggering $17 billion in taxes in 2025](https://appleinsider.com/articles/26/08/21/apple-paid-ireland-a-staggering-17-billion-in-taxes-in-2025?utm_source=rss)
+ - [Space data center startup Starcloud raised a $250M extension, at a $2.3B valuation, to its March $170M Series A; source: Nvidia invested $25M &lpar;Tim Fernholz/TechCrunch&rpar;](https://www.techmeme.com/260821/p12#a260821p12)
+ - [Meta’s Big Reckoning Is Here](https://www.wired.com/story/metas-big-reckoning-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

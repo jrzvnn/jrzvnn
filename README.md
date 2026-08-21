@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professionalism](http://9gag.com/gag/a349495)
- - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 💣 [Don\u2019t read headlines only](http://9gag.com/gag/aD2pnX9)
+ - 😝 [Know what you do, do what to know](http://9gag.com/gag/adBZOWQ)
+ - 😝 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
+ - 💣 [Please ,please shock them !](http://9gag.com/gag/a6Zv9oe)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
+ - 👉 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
 
 ---
 

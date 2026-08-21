@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
- - 😝 [Nathan Cofnas, the academic who initially accused former Cambridge Prof. Jason Arday of plagiarism, has been suspended by Ghent University &lpar;Universiteit Gent&rpar; for `discrimination` and `racism.`](http://9gag.com/gag/aoyr3D2)
+ - 😝 [Wamen](http://9gag.com/gag/an7pO75)
+ - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 💣 [Ooo mooi Rockstar is mad](http://9gag.com/gag/agmM1Br)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
  - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->

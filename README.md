@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 😝 [Wamen](http://9gag.com/gag/an7pO75)
+ - 😝 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
  - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
+ - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
 
 ---
 

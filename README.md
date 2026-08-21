@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
- - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 💣 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)
- - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
- - 👉 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)<!-- MEMES:END -->
+ - 😝 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)
+ - 😝 [Hadouken!](http://9gag.com/gag/a1mz7ZR)
+ - 💣 [She&#39;d need to gain some weight](http://9gag.com/gag/azxNdLN)
+ - 😝 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)
+ - 👉 [Stop it...get some help.](http://9gag.com/gag/aPANxyK)<!-- MEMES:END -->
 
 ---
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
  - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Women vs men after getting driver&#39;s license](http://9gag.com/gag/a349A21)<!-- MEMES:END -->
+ - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
 
 ---
 

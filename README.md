@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - 😝 [10/10](http://9gag.com/gag/aKG0151)
+ - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 💣 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)
- - 😝 [Sword master meets his match](http://9gag.com/gag/aPANPGQ)
- - 👉 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)<!-- MEMES:END -->
+ - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
+ - 👉 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)<!-- MEMES:END -->
 
 ---
 

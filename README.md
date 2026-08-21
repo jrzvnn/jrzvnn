@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good move](http://9gag.com/gag/a4Pe6Y1)
- - 😝 [She&#39;d need to gain some weight](http://9gag.com/gag/azxNdLN)
- - 💣 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
+ - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
+ - 💣 [Professionalism](http://9gag.com/gag/a349495)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Please ,please shock them !](http://9gag.com/gag/a6Zv9oe)<!-- MEMES:END -->
+ - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
 
 ---
 

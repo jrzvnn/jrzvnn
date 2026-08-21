@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why does it seem like food recalls are out of control this year?](https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control)
+ - [Google’s Pixel 10A is a great deal at 15 percent off](https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale)
  - [Finally, Apple Pay is coming to WalMart stores in the US](https://appleinsider.com/articles/26/08/21/finally-apple-pay-is-coming-to-walmart-stores-in-the-us?utm_source=rss)
  - [Kakao plans to spin off its chat app-based platform business into a new company tentatively named KakaoAI, which it expects to relist in Korea in 2027 &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p11#a260821p11)
- - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)
- - [Blue Eye Samurai’s second season will hit Netflix in January](https://www.theverge.com/streaming/983203/blue-eye-samurai-season-2-release-date-renewal)
- - [Filings: China-based chipmaker YMTC&#39;s application to list its shares on Shanghai&#39;s STAR Market has been accepted, setting the stage for a $4.9B share sale &lpar;Reuters&rpar;](https://www.techmeme.com/260821/p10#a260821p10)<!-- TECH:END -->
+ - [Major YouTube creators are facing backlash for accepting AI money](https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

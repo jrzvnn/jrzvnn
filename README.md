@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
  - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
- - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
- - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
- - 😝 [The more you know, the dumber you thinks others are](http://9gag.com/gag/a4Peo6Z)
- - 👉 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)<!-- MEMES:END -->
+ - 💣 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)
+ - 😝 [Southpark s13e14](http://9gag.com/gag/a2vBK0Y)
+ - 👉 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)<!-- MEMES:END -->
 
 ---
 

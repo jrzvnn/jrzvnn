@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know what you do, do what to know](http://9gag.com/gag/adBZOWQ)
- - 😝 [So Sad in this Humanity](http://9gag.com/gag/aO8geqr)
- - 💣 [Please ,please shock them !](http://9gag.com/gag/a6Zv9oe)
+ - 😝 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
+ - 😝 [Nathan Cofnas, the academic who initially accused former Cambridge Prof. Jason Arday of plagiarism, has been suspended by Ghent University &lpar;Universiteit Gent&rpar; for `discrimination` and `racism.`](http://9gag.com/gag/aoyr3D2)
+ - 💣 [Ooo mooi Rockstar is mad](http://9gag.com/gag/agmM1Br)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)<!-- MEMES:END -->
+ - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
 
 ---
 

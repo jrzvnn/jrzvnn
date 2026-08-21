@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)
- - [OpenAI rolls out an Apple Messages plugin for ChatGPT on macOS, letting ChatGPT read, search, and analyze chats, prepare and send messages, and more &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260820/p43#a260820p43)
- - [Oura Faces Lawsuit Over Alleged Innacurate AI Sleep Tracking](https://www.cnet.com/tech/mobile/oura-class-action-lawsuit-ai-sleep-tracking/)
- - [Some New Samsung Device Owners Are Running Into RCS Messaging Issues](https://www.cnet.com/tech/services-and-software/samsung-device-rcs-messaging-issues/)
- - [Super Micro says its independent probe found no evidence its CEO or senior management knew of an alleged scheme to smuggle $2.5B worth of Nvidia chips to China &lpar;Amanda Gerut/Fortune&rpar;](https://www.techmeme.com/260820/p42#a260820p42)<!-- TECH:END -->
+ - [A NJ teenager drops her lawsuit against Meta, Google, and Snap over alleged social media addiction, without any payment; TikTok previously settled her claims &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260820/p45#a260820p45)
+ - [A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260820/p44#a260820p44)
+ - [Hisense TopLift dehumidifier review: Matter-enabled for hot summer months](https://appleinsider.com/articles/26/08/21/hisense-toplift-dehumidifier-review-matter-enabled-for-hot-summer-months?utm_source=rss)
+ - [Netflix Drops Trailers for ‘Blue Eye Samurai’ Season 2, Cyberpunk: Edgerunners 2 and More at Anime NYC 2026](https://www.cnet.com/tech/services-and-software/netflix-drops-trailers-for-blue-eye-samurai-season-2-cyberpunk-edgerunners-2-and-more-at-anime-nyc-2026/)
+ - [Google Pixel 11 Review: Minor Upgrade](https://www.wired.com/review/google-pixel-11/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

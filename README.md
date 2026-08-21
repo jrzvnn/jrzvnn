@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)
- - [Walmart, which has long resisted contactless Tap to Pay payments, says it will soon start rolling out the tech, which supports Apple Pay, Google Pay, and more &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260821/p15#a260821p15)
- - [Researchers Seem to Have Figured Out Why It’s Harder to Poop in Space](https://www.cnet.com/science/space/researchers-seem-to-have-figured-out-why-its-harder-to-poop-in-space/)
- - [Filings: Apple paid Ireland $17B in taxes last year, after an EU court ordered it to pay €13B in back taxes; Apple paid $43B in corporate income taxes globally &lpar;Jamie John/Financial Times&rpar;](https://www.techmeme.com/260821/p14#a260821p14)
- - [iPhone sales rise in Latin America even as smartphone market shrinks](https://appleinsider.com/articles/26/08/21/iphone-sales-rise-in-latin-america-even-as-smartphone-market-shrinks?utm_source=rss)<!-- TECH:END -->
+ - [App Store review is broken in a time where it is needed the most](https://appleinsider.com/articles/26/08/13/app-store-review-is-broken-in-a-time-where-it-is-needed-the-most?utm_source=rss)
+ - [Walmart is finally adding Apple Pay and Google Pay](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)
+ - [Sources: US Department of Energy is investigating whether Chinese lidar sensors might pose a security risk if they become widely used on vehicles in the US &lpar;Sean O&#39;Kane/TechCrunch&rpar;](https://www.techmeme.com/260821/p16#a260821p16)
+ - [Microsoft and Discord subpoenaed over GTA VI gameplay leaks](https://www.theverge.com/games/983323/grand-theft-auto-vi-gta-leaks-microsoft-discord-subpoenaed)
+ - [Pixel 11 gets in on the digicam trend](https://www.theverge.com/podcast/983288/pixel-11-gets-in-on-the-digicam-trend)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 💣 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
+ - 😝 [\u201cOw!\u201d](http://9gag.com/gag/aqy3X9Z)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Those are the facts.](http://9gag.com/gag/azxNPDx)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)<!-- MEMES:END -->
+ - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
 
 ---
 

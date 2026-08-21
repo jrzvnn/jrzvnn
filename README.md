@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 💣 [Professionalism](http://9gag.com/gag/a349495)
+ - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 💣 [Don\u2019t read headlines only](http://9gag.com/gag/aD2pnX9)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
+ - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
 
 ---
 

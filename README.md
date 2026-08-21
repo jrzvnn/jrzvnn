@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)
  - 😝 [Wait a minut...](http://9gag.com/gag/aoyry6g)
- - 😝 [Professionalism](http://9gag.com/gag/a349495)
- - 💣 [Guys....](http://9gag.com/gag/aE0r0Pe)
- - 😝 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)
+ - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - 😝 [Guys....](http://9gag.com/gag/aE0r0Pe)
  - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---

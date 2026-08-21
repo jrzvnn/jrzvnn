@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI&#39;s VP of sales in the Americas, Kaylin Voss, resigned a week after Denise Dresser left, prompting others on the sales team to consider resigning &lpar;Laura Bratton/The Information&rpar;](https://www.techmeme.com/260821/p21#a260821p21)
+ - [Apple is laying off staffers working on the Vision Pro and Siri](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)
  - [The US DOJ and TikTok reach a $400M settlement to resolve allegations TikTok violated COPPA; the DOJ filed the lawsuit in 2024 &lpar;Ashley Gold/Axios&rpar;](https://www.techmeme.com/260821/p20#a260821p20)
  - [Apple&#39;s latest layoffs extend past just Vision Pro development teams](https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams?utm_source=rss)
- - [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260821/p19#a260821p19)
- - [Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools &lpar;Claude&rpar;](https://www.techmeme.com/260821/p18#a260821p18)
- - [$100 Best Buy gift cards will be $60 at stores Saturday](https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal)<!-- TECH:END -->
+ - [Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260821/p19#a260821p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

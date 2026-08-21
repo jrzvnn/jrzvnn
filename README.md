@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil announces ~$444.2M in AI investments split between US and Chinese companies, including ~$250.3M for a supercomputing project with Huawei and iFlytek &lpar;Marcela Ayres/Reuters&rpar;](https://www.techmeme.com/260820/p48#a260820p48)
  - [Source: AI training data startup Micro1&#39;s gross annual run rate grew from $100M to $500M in the past eight months, putting net annual run rate at $150M-$200M &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260820/p47#a260820p47)
  - [Genki’s new customizable controller has a big screen and adjustable buttons](https://www.theverge.com/tech/981536/genki-manta-wireless-customizable-controller-tmr-screen)
  - [Nevada approves permits letting Tesla deploy up to 5,000 robotaxis in the Las Vegas area over the next year, while Waymo and Uber are each allowed up to 1,000 &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260820/p46#a260820p46)
- - [A NJ teenager drops her lawsuit against Meta, Google, and Snap over alleged social media addiction, without any payment; TikTok previously settled her claims &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260820/p45#a260820p45)
- - [A US judge tosses part of the conviction of ex-Google engineer Linwei Ding, who was found guilty of stealing AI trade secrets to benefit two Chinese companies &lpar;Tom Hals/Reuters&rpar;](https://www.techmeme.com/260820/p44#a260820p44)<!-- TECH:END -->
+ - [A NJ teenager drops her lawsuit against Meta, Google, and Snap over alleged social media addiction, without any payment; TikTok previously settled her claims &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260820/p45#a260820p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 😝 [10/10](http://9gag.com/gag/aKG0151)
- - 💣 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)
+ - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 💣 [Wamen](http://9gag.com/gag/an7pO75)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Please ,please shock them !](http://9gag.com/gag/a6Zv9oe)<!-- MEMES:END -->
+ - 👉 [Sick eagle](http://9gag.com/gag/awyRm44)<!-- MEMES:END -->
 
 ---
 

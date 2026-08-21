@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultimate archival dedication](http://9gag.com/gag/aQzwgod)
- - 😝 [English is easy](http://9gag.com/gag/aXPDLw2)
- - 💣 [Hadouken!](http://9gag.com/gag/a1mz7ZR)
- - 😝 [Good move](http://9gag.com/gag/a4Pe6Y1)
- - 👉 [How to beat your nephew in mario kart!!](http://9gag.com/gag/a2vBvre)<!-- MEMES:END -->
+ - 😝 [Just comply with the Law](http://9gag.com/gag/ary6yMK)
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 💣 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
+ - 😝 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)
+ - 👉 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)<!-- MEMES:END -->
 
 ---
 

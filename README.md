@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harley quinn tv series](http://9gag.com/gag/a1mzPnD)
- - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
- - 💣 [There&#39;s happiness in many other places](http://9gag.com/gag/aYQ8G9v)
  - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 👉 [Guys....](http://9gag.com/gag/aE0r0Pe)<!-- MEMES:END -->
+ - 😝 [Gabe went from obese 3 to obese 2. May he live for another 1000 years!](http://9gag.com/gag/a87P6d1)
+ - 💣 [Hard truth for your camera roll](http://9gag.com/gag/a0eAXqZ)
+ - 😝 [Albania is the only European country that discharges all of its raw, untreated sewage directly into the sea, near tourist beaches. Example here at Gjiri i Lalzit\u2019s `elite resort` in the middle of high season.](http://9gag.com/gag/aoyry8e)
+ - 👉 [Well guys, let&#39;s see the worst you can do](http://9gag.com/gag/aQzwz2e)<!-- MEMES:END -->
 
 ---
 

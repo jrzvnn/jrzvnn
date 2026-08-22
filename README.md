@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
- - 💣 [Quack](http://9gag.com/gag/ae9o19W)
+ - 😝 [Quack](http://9gag.com/gag/ae9o19W)
+ - 💣 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
  - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
  - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
 

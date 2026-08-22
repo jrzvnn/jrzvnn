@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
  - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 😝 [Any thought?](http://9gag.com/gag/aPANmnG)
  - 💣 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Poland](http://9gag.com/gag/ae9oV4q)
- - 👉 [Good solution, I think](http://9gag.com/gag/aPANm8Q)<!-- MEMES:END -->
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 👉 [Any thought?](http://9gag.com/gag/aPANmnG)<!-- MEMES:END -->
 
 ---
 

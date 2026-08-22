@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [English is hard](http://9gag.com/gag/apRy32p)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [Soon](http://9gag.com/gag/aVvnENd)
- - 😝 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)
- - 👉 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)<!-- MEMES:END -->
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
+ - 💣 [Quack](http://9gag.com/gag/ae9o19W)
+ - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
+ - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
 
 ---
 

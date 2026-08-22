@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [Neuron activation](http://9gag.com/gag/amojGMj)
+ - 💣 [Quack](http://9gag.com/gag/ae9o19W)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
  - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 

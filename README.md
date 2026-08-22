@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 👉 [Soon](http://9gag.com/gag/aVvnENd)<!-- MEMES:END -->
+ - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
+ - 😝 [Know what you do, do what to know](http://9gag.com/gag/adBZOWQ)
+ - 💣 [Those are the facts.](http://9gag.com/gag/azxNPDx)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 👉 [Coke lover](http://9gag.com/gag/ary6Xjy)<!-- MEMES:END -->
 
 ---
 

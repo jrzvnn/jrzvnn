@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia informed some of its biggest customers of price hikes of 15%+ on its systems, including Vera Rubin and Grace Blackwell, starting in early 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p11#a260822p11)
+ - [Sources: some of Nvidia&#39;s top customers have been told that prices will jump 15%+ on systems, including Vera Rubin and Grace Blackwell, starting in early 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p11#a260822p11)
  - [Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns &lpar;Sonja Wind/Bloomberg&rpar;](https://www.techmeme.com/260822/p10#a260822p10)
  - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)
  - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)

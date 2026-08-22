@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 💣 [Neuron activation](http://9gag.com/gag/amojGMj)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Scary](http://9gag.com/gag/aNDxvb6)<!-- MEMES:END -->
+ - 👉 [Actual journalism](http://9gag.com/gag/azxNKxq)<!-- MEMES:END -->
 
 ---
 

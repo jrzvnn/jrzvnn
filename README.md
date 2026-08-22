@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 😝 [Professionalism](http://9gag.com/gag/a349495)
- - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 😝 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
+ - 👉 [Our Sweet digital nightmares](http://9gag.com/gag/a7o4ejw)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
- - 😝 [English is hard](http://9gag.com/gag/apRy32p)
- - 💣 [Neuron activation](http://9gag.com/gag/amojGMj)
+ - 😝 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [A helping foot](http://9gag.com/gag/a6ZvXnA)<!-- MEMES:END -->
+ - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
 
 ---
 

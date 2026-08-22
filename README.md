@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260822/p9#a260822p9)
+ - [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p8#a260822p8)
  - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
  - [Ox Alpha, a &quot;stealth model&quot; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &lpar;Rohail Saleem/Wccftech&rpar;](https://www.techmeme.com/260822/p7#a260822p7)
- - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)
- - [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
- - [Saily Ultra eSIM Premum Plan Review: Packed With Perks](https://www.wired.com/review/saily-ultra-esim/)<!-- TECH:END -->
+ - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

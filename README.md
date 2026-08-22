@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)
  - [Sources: some of Nvidia&#39;s top customers have been told that prices will jump 15%+ on systems, including Vera Rubin and Grace Blackwell, starting in early 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p11#a260822p11)
  - [Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns &lpar;Sonja Wind/Bloomberg&rpar;](https://www.techmeme.com/260822/p10#a260822p10)
  - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)
- - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
- - [Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260822/p9#a260822p9)<!-- TECH:END -->
+ - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Quack](http://9gag.com/gag/ae9o19W)
- - 💣 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
- - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
- - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
+ - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
+ - 😝 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

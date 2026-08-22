@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
+ - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [Professionalism](http://9gag.com/gag/a349495)
+ - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
+ - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
 
 ---
 

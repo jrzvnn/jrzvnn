@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
  - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)<!-- MEMES:END -->
+ - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 ---
 

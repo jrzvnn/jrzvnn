@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NASA Cancels Its Rescue Mission for the Aging Swift Telescope](https://www.wired.com/story/nasa-cancels-its-rescue-mission-for-the-aging-swift-telescope/)
- - [With each successive era of AI, from early scaling, to reasoning, to agentic, open models have taken half as long to catch up to the first closed model &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260822/p4#a260822p4)
+ - [With each successive era of LLMs, from early scaling, to reasoning, to agentic, open models have taken half as long to catch up to the first closed model &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260822/p4#a260822p4)
  - [Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260822/p3#a260822p3)
  - [OpenAI President Greg Brockman&#39;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260822/p2#a260822p2)
  - [Following abandoned IPO attempts in NYC and London, Shein is struggling to grow as it nears a Hong Kong listing at a fraction of its peak valuation of $100B &lpar;Sui-Lee Wee/New York Times&rpar;](https://www.techmeme.com/260822/p1#a260822p1)<!-- TECH:END -->

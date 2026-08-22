@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I tell my flat-chested girlfriend our future baby will starve until it learns to chew](http://9gag.com/gag/avyY1P5)
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [What\u2019s the point of having all this if you spend all your time at work just to afford it?](http://9gag.com/gag/azxNdpb)
+ - 😝 [English is hard](http://9gag.com/gag/apRy32p)
+ - 💣 [Neuron activation](http://9gag.com/gag/amojGMj)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Our Sweet digital nightmares](http://9gag.com/gag/a7o4ejw)<!-- MEMES:END -->
+ - 👉 [A helping foot](http://9gag.com/gag/a6ZvXnA)<!-- MEMES:END -->
 
 ---
 

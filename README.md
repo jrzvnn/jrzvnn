@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Unlikely Place at the Center of China’s AI Boom](https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/)
- - [OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks &lpar;Chase DiFeliciantonio/Politico&rpar;](https://www.techmeme.com/260821/p29#a260821p29)
- - [Tesla’s Door Handles Lead to Its Biggest Recall Yet](https://www.wired.com/story/teslas-door-handles-lead-to-its-biggest-recall-yet/)
- - [Gurman: as part of Vision Pro cuts, Apple is largely shutting down a team focused on gaming and reducing the size of a unit producing immersive video content &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260821/p28#a260821p28)
- - [Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites &lpar;Rashika Singh/Reuters&rpar;](https://www.techmeme.com/260821/p27#a260821p27)<!-- TECH:END -->
+ - [Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260821/p31#a260821p31)
+ - [Xbox Series X Special Edition Pricing Confirms 2026 Is a Bad Year for Gamers](https://www.cnet.com/tech/gaming/xbox-series-x-special-edition-price-2026-bad-year-for-gamers/)
+ - [Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada&#39;s Growth Venture Fund at a CA$250M valuation &lpar;Madison McLauchlan/BetaKit&rpar;](https://www.techmeme.com/260821/p30#a260821p30)
+ - [ChatGPT Can Take Over Your iMessages. But Do You Really Want That?](https://www.cnet.com/tech/services-and-software/chatgpt-take-over-imessage/)
+ - [Grok Had a ‘Generation Glitch’ That Caused It to Send Users Pure Nonsense](https://www.cnet.com/tech/services-and-software/grok-had-a-generation-glitch-that-caused-it-to-send-users-pure-nonsense/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

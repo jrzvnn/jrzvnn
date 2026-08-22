@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
  - 😝 [Quack](http://9gag.com/gag/ae9o19W)
- - 💣 [Some truth here.](http://9gag.com/gag/awyR3pD)
+ - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
+ - 💣 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
  - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
  - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
 

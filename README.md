@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
- - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
- - 💣 [Know what you do, do what to know](http://9gag.com/gag/adBZOWQ)
- - 😝 [Those are the facts.](http://9gag.com/gag/azxNPDx)
- - 👉 [Coke lover](http://9gag.com/gag/ary6Xjy)<!-- MEMES:END -->
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 😝 [Soon](http://9gag.com/gag/aVvnENd)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 ---
 

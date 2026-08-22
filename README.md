@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quack](http://9gag.com/gag/ae9o19W)
  - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
- - 💣 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
+ - 😝 [Coke lover](http://9gag.com/gag/ary6Xjy)
+ - 💣 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
+ - 😝 [Know what you do, do what to know](http://9gag.com/gag/adBZOWQ)
  - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
 
 ---

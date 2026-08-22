@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
+ - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)<!-- MEMES:END -->
+ - 👉 [Sprinting to the breakroom like my life depends on it](http://9gag.com/gag/aYQ8DYN)<!-- MEMES:END -->
 
 ---
 

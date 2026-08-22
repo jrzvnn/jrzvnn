@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
- - 👉 [Soon](http://9gag.com/gag/aVvnENd)<!-- MEMES:END -->
+ - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
+ - 😝 [Those are the facts.](http://9gag.com/gag/azxNPDx)
+ - 💣 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)
+ - 😝 [Poland](http://9gag.com/gag/ae9oV4q)
+ - 👉 [Coke lover](http://9gag.com/gag/ary6Xjy)<!-- MEMES:END -->
 
 ---
 

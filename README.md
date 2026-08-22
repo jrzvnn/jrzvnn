@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Soon](http://9gag.com/gag/aVvnENd)
  - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
  - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [The blue hair probably gave it away](http://9gag.com/gag/axyx6pL)<!-- MEMES:END -->
+ - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
 
 ---
 

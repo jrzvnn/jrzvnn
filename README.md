@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)
  - [Saily Ultra eSIM Premum Plan Review: Packed With Perks](https://www.wired.com/review/saily-ultra-esim/)
  - [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)
  - [Two great new repairable gadgets](https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2)
- - [The 4 Best Monitor Arms to Clear Up Your Desk Space &lpar;2026&rpar;](https://www.wired.com/gallery/best-monitor-arms/)
- - [Set Up a Separate Work Profile on Your Android Phone](https://www.wired.com/story/set-up-a-separate-work-profile-on-your-android-phone/)<!-- TECH:END -->
+ - [The 4 Best Monitor Arms to Clear Up Your Desk Space &lpar;2026&rpar;](https://www.wired.com/gallery/best-monitor-arms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

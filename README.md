@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
  - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)<!-- MEMES:END -->
+ - 👉 [Soon](http://9gag.com/gag/aVvnENd)<!-- MEMES:END -->
 
 ---
 

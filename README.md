@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With each successive era of AI, from early scaling, to reasoning, to agentic, open models have taken half as long to catch up to the first closed model &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260822/p4#a260822p4)
+ - [Rundoo, a provider of AI-powered business operations software for independent supply stores, raised a $30M Series B led by Battery Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260822/p3#a260822p3)
  - [OpenAI President Greg Brockman&#39;s role has expanded significantly, giving him control over its product and scaling teams following a wave of executive departures &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260822/p2#a260822p2)
  - [Following abandoned IPO attempts in NYC and London, Shein is struggling to grow as it nears a Hong Kong listing at a fraction of its peak valuation of $100B &lpar;Sui-Lee Wee/New York Times&rpar;](https://www.techmeme.com/260822/p1#a260822p1)
- - [How politicians who once championed data centers, including Greg Abbott and Josh Shapiro, are now slowing their development as the issue becomes a liability &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260821/p33#a260821p33)
- - [Sources: Anthropic&#39;s bankers said the company could raise $100B+ in its IPO, which could value it at $2T, in recent discussions with potential investors &lpar;New York Times&rpar;](https://www.techmeme.com/260821/p32#a260821p32)
- - [Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260821/p31#a260821p31)<!-- TECH:END -->
+ - [How politicians who once championed data centers, including Greg Abbott and Josh Shapiro, are now slowing their development as the issue becomes a liability &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260821/p33#a260821p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

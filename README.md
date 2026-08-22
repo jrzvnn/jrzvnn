@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [When you have a very very very very very serious hobby](http://9gag.com/gag/a87P0nO)<!-- MEMES:END -->
+ - 👉 [The blue hair probably gave it away](http://9gag.com/gag/axyx6pL)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [English is hard](http://9gag.com/gag/apRy32p)
- - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 💣 [Neuron activation](http://9gag.com/gag/amojGMj)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
  - 👉 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)<!-- MEMES:END -->
 

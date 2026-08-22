@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)
  - [Doodle generative compositions in your browser with Musical Spirograph](https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition)
  - [Carrier Pidge hit 75K users and Roost 650K downloads, as slow messaging apps delivering texts at pigeon speeds attract users tired of constant notifications &lpar;Emmett Lindner/New York Times&rpar;](https://www.techmeme.com/260822/p9#a260822p9)
  - [A look at the narrowing US-China AI gap, as a spate of compelling, low-cost releases makes Chinese AI models increasingly attractive to businesses &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p8#a260822p8)
- - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
- - [Ox Alpha, a &quot;stealth model&quot; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &lpar;Rohail Saleem/Wccftech&rpar;](https://www.techmeme.com/260822/p7#a260822p7)<!-- TECH:END -->
+ - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

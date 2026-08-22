@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soon](http://9gag.com/gag/aVvnENd)
- - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
- - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
+ - 😝 [English is hard](http://9gag.com/gag/apRy32p)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 💣 [Soon](http://9gag.com/gag/aVvnENd)
+ - 😝 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)
+ - 👉 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)<!-- MEMES:END -->
 
 ---
 

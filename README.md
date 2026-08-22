@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A helping foot](http://9gag.com/gag/a6ZvXnA)
- - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [English is hard](http://9gag.com/gag/apRy32p)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 💣 [A helping foot](http://9gag.com/gag/a6ZvXnA)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Sprinting to the breakroom like my life depends on it](http://9gag.com/gag/aYQ8DYN)<!-- MEMES:END -->
+ - 👉 [Neuron activation](http://9gag.com/gag/amojGMj)<!-- MEMES:END -->
 
 ---
 

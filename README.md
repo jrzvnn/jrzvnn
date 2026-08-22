@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How politicians who once championed data centers, including Greg Abbott and Josh Shapiro, are now slowing their development as the issue becomes a liability &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260821/p33#a260821p33)
  - [Sources: Anthropic&#39;s bankers said the company could raise $100B+ in its IPO, which could value it at $2T, in recent discussions with potential investors &lpar;New York Times&rpar;](https://www.techmeme.com/260821/p32#a260821p32)
  - [Amazon raises prices for its Echo smart speakers, Fire TV line, Kindle devices, and eero mesh networking systems to offset increases in memory and storage costs &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/260821/p31#a260821p31)
  - [Xbox Series X Special Edition Pricing Confirms 2026 Is a Bad Year for Gamers](https://www.cnet.com/tech/gaming/xbox-series-x-special-edition-price-2026-bad-year-for-gamers/)
- - [Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada&#39;s Growth Venture Fund at a CA$250M valuation &lpar;Madison McLauchlan/BetaKit&rpar;](https://www.techmeme.com/260821/p30#a260821p30)
- - [ChatGPT Can Take Over Your iMessages. But Do You Really Want That?](https://www.cnet.com/tech/services-and-software/chatgpt-take-over-imessage/)<!-- TECH:END -->
+ - [Helcim, a payments processor for SMBs, raised a CA$53M Series C led by Business Development Bank of Canada&#39;s Growth Venture Fund at a CA$250M valuation &lpar;Madison McLauchlan/BetaKit&rpar;](https://www.techmeme.com/260821/p30#a260821p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

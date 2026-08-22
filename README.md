@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Behold the end of mankind](http://9gag.com/gag/azxNd8K)
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Scary](http://9gag.com/gag/aNDxvb6)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
+ - 👉 [Good solution, I think](http://9gag.com/gag/aPANm8Q)<!-- MEMES:END -->
 
 ---
 

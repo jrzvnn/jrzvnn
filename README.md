@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
- - 😝 [Those are the facts.](http://9gag.com/gag/azxNPDx)
- - 💣 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 😝 [Any thought?](http://9gag.com/gag/aPANmnG)
+ - 💣 [Scary](http://9gag.com/gag/aNDxvb6)
  - 😝 [Poland](http://9gag.com/gag/ae9oV4q)
- - 👉 [Coke lover](http://9gag.com/gag/ary6Xjy)<!-- MEMES:END -->
+ - 👉 [Good solution, I think](http://9gag.com/gag/aPANm8Q)<!-- MEMES:END -->
 
 ---
 

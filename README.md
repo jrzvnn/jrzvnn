@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Neuron activation](http://9gag.com/gag/amojGMj)
- - 💣 [Quack](http://9gag.com/gag/ae9o19W)
+ - 😝 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
+ - 👉 [When you have a very very very very very serious hobby](http://9gag.com/gag/a87P0nO)<!-- MEMES:END -->
 
 ---
 

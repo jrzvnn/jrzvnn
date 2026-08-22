@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wamen](http://9gag.com/gag/an7pO75)
- - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
- - 💣 [Ooo mooi Rockstar is mad](http://9gag.com/gag/agmM1Br)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)<!-- MEMES:END -->
+ - 👉 [Some truth here.](http://9gag.com/gag/awyR3pD)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
  - 😝 [Quack](http://9gag.com/gag/ae9o19W)
- - 😝 [Some truth here.](http://9gag.com/gag/awyR3pD)
- - 💣 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
+ - 💣 [Some truth here.](http://9gag.com/gag/awyR3pD)
+ - 😝 [Atleast he is self aware](http://9gag.com/gag/aAyWK30)
  - 👉 [Those are the facts.](http://9gag.com/gag/azxNPDx)<!-- MEMES:END -->
 
 ---

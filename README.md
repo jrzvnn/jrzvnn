@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [Neuron activation](http://9gag.com/gag/amojGMj)
+ - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 💣 [Good solution, I think](http://9gag.com/gag/aPANm8Q)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Actual journalism](http://9gag.com/gag/azxNKxq)<!-- MEMES:END -->
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [W. Kamau Bell has the most practical ‘most indispensable tool’](https://www.theverge.com/report/980452/w-kamau-bell-whos-with-me-comedy-interview)
  - [Ox Alpha, a &quot;stealth model&quot; from an unknown AI lab with a 1M-token multimodal context and capacity for 100T tokens/day, goes viral after launching on OpenRouter &lpar;Rohail Saleem/Wccftech&rpar;](https://www.techmeme.com/260822/p7#a260822p7)
  - [Cheap energy, abundant land, and proximity to Beijing have made Ulanqab, Inner Mongolia, a data center hub, with ~100 data centers built or under construction &lpar;Zeyi Yang/Wired&rpar;](https://www.techmeme.com/260822/p6#a260822p6)
  - [Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)
- - [Saily Ultra eSIM Premum Plan Review: Packed With Perks](https://www.wired.com/review/saily-ultra-esim/)
- - [An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it](https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review)<!-- TECH:END -->
+ - [Saily Ultra eSIM Premum Plan Review: Packed With Perks](https://www.wired.com/review/saily-ultra-esim/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

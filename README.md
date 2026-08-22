@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 💣 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 😝 [Soon](http://9gag.com/gag/aVvnENd)
+ - 😝 [The type of bird that shows up in your life one week after getting a girlfriend](http://9gag.com/gag/abAPeKv)
+ - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
  - 😝 [\ud83d\udce3 gamescom 2026 is almost here](http://9gag.com/gag/avyYWnn)
- - 👉 [Soon](http://9gag.com/gag/aVvnENd)<!-- MEMES:END -->
+ - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
 
 ---
 

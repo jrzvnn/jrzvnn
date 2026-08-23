@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
- - 💣 [Who hurt u lol](http://9gag.com/gag/aByqV6P)
- - 😝 [Cats](http://9gag.com/gag/aW4Kom6)
- - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
+ - 😝 [Who hurt u lol](http://9gag.com/gag/aByqV6P)
+ - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 👉 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
 
 ---
 

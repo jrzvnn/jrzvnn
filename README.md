@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
- - 💣 [Heroic save of the day](http://9gag.com/gag/aqy36jj)
- - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
- - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
+ - 😝 [My Lord became Valverine.](http://9gag.com/gag/aW4KLw6)
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 👉 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
  - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
- - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
- - 😝 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
+ - 💣 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
  - 👉 [Spoiled brats](http://9gag.com/gag/aVvnmzv)<!-- MEMES:END -->
 
 ---

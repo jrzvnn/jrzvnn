@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those are the facts.](http://9gag.com/gag/azxNPDx)
- - 😝 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)
- - 💣 [Coke lover](http://9gag.com/gag/ary6Xjy)
- - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)<!-- MEMES:END -->
+ - 😝 [Did i just see what I think i saw](http://9gag.com/gag/amojGD9)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 👉 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)<!-- MEMES:END -->
 
 ---
 

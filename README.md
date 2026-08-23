@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
- - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

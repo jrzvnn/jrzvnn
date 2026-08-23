@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
- - 💣 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 👉 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)<!-- MEMES:END -->
+ - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
+ - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 👉 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
 
 ---
 

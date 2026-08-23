@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Hugging Face has been exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to gauge bidders&#39; interest &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260823/p9#a260823p9)
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
  - [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260823/p8#a260823p8)
  - [M6 iMac refresh expected before the end of 2026](https://appleinsider.com/articles/26/08/23/m6-imac-refresh-expected-before-the-end-of-2026?utm_source=rss)
- - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)
- - [Apple Stores refresh prepares to push a big smart home revamp](https://appleinsider.com/articles/26/08/23/apple-stores-refresh-aims-to-push-a-big-smart-home-revamp?utm_source=rss)
- - [It&#39;s anyone&#39;s guess how high iPhone prices might go, but $100 more might be enough](https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss)<!-- TECH:END -->
+ - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

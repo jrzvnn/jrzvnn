@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [the name&#39;s tyler](https://www.reddit.com/r/funny/comments/1vvz7f4/the_names_tyler/)
- - 😝 [Poland](http://9gag.com/gag/ae9oV4q)
- - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
+ - 😝 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 👉 [Remember those two?](http://9gag.com/gag/apRyDxE)<!-- MEMES:END -->
 
 ---
 

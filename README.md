@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 😝 [Did i just see what I think i saw](http://9gag.com/gag/amojGD9)
  - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 😝 [Core memory unlocked](http://9gag.com/gag/aPAN85R)
- - 👉 [Is Hugh Jackman Gabe on Your 2026 Bingo Card?](http://9gag.com/gag/ajPbOxQ)<!-- MEMES:END -->
+ - 💣 [Remember those two?](http://9gag.com/gag/apRyDxE)
+ - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
+ - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
 
 ---
 

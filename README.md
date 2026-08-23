@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
  - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
  - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 😝 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
  - 👉 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)<!-- MEMES:END -->
 
 ---

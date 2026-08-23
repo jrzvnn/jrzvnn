@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
  - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
  - 👉 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)<!-- MEMES:END -->
 
 ---

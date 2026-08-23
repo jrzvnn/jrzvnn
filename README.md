@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
- - 👉 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)<!-- MEMES:END -->
+ - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
 
 ---
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
- - 😝 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
- - 💣 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 😝 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
  - 😝 [Core memory unlocked](http://9gag.com/gag/aPAN85R)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)<!-- MEMES:END -->
+ - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
 
 ---
 

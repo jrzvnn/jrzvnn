@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The careers of Z.ai&#39;s Tang Jie and Moonshot AI&#39;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&#39;s AI leap is no sudden development &lpar;Raffaele Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260823/p5#a260823p5)
+ - [Grand Theft Auto VI exists in its own universe](https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe)
  - [Crime blotter: Bail revoked in Hingham Apple Store crash case](https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss)
  - [What’s the Best Kindle of 2026? &lpar;So Far&rpar;](https://www.wired.com/gallery/best-kindle/)
- - [Transistors Changed Everything. Here’s How They Work](https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/)
- - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
- - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)<!-- TECH:END -->
+ - [Transistors Changed Everything. Here’s How They Work](https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

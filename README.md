@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who hurt u lol](http://9gag.com/gag/aByqV6P)
- - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
  - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 👉 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
+ - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
+ - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
 
 ---
 

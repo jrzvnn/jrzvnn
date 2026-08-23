@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents detail how Tether&#39;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &lpar;Reuters&rpar;](https://www.techmeme.com/260822/p14#a260822p14)
  - [AI agents&#39; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p13#a260822p13)
  - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)
  - [Sources: some of Nvidia&#39;s top customers have been told that prices will jump 15%+ on systems, including Vera Rubin and Grace Blackwell, starting in early 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p11#a260822p11)
- - [Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns &lpar;Sonja Wind/Bloomberg&rpar;](https://www.techmeme.com/260822/p10#a260822p10)
- - [This Star Whips Around the Milky Way’s Black Hole Faster and Closer Than Any Other Known Star](https://www.cnet.com/science/space/s301-star-speed-sagittarius-a-black-hole/)<!-- TECH:END -->
+ - [Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns &lpar;Sonja Wind/Bloomberg&rpar;](https://www.techmeme.com/260822/p10#a260822p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

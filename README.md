@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 😝 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 👉 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)<!-- MEMES:END -->
 
 ---
 

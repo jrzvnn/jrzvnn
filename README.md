@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
  - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
  - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
  - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---

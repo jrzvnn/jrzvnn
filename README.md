@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
  - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
  - 💣 [Who hurt u lol](http://9gag.com/gag/aByqV6P)
  - 😝 [Cats](http://9gag.com/gag/aW4Kom6)
  - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->

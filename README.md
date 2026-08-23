@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba plans to raise ~$10B in a follow-on share offering to fund AI investments; sources: it plans to offer 710M shares at a 3.6% discount to Friday&#39;s close &lpar;Reuters&rpar;](https://www.techmeme.com/260823/p7#a260823p7)
  - [Apple Stores refresh prepares to push a big smart home revamp](https://appleinsider.com/articles/26/08/23/apple-stores-refresh-aims-to-push-a-big-smart-home-revamp?utm_source=rss)
  - [It&#39;s anyone&#39;s guess how high iPhone prices might go, but $100 more might be enough](https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss)
  - [We’re All Going to the World’s Fair is an intimate coming-of-age horror film](https://www.theverge.com/entertainment/983177/jane-schoenbrun-were-all-going-to-the-worlds-fair-horror-movie-review)
- - [Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260823/p6#a260823p6)
- - [Some people outside of Apple have already used the folding iPhone](https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260823/p6#a260823p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

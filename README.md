@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 😝 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)
- - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
- - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
- - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
+ - 😝 [Those are the facts.](http://9gag.com/gag/azxNPDx)
+ - 😝 [How can microSD Cards Store So Much Data](http://9gag.com/gag/azxNPyN)
+ - 💣 [Coke lover](http://9gag.com/gag/ary6Xjy)
+ - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)<!-- MEMES:END -->
 
 ---
 

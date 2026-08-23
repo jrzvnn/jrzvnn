@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
  - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
+ - 💣 [Heroic save of the day](http://9gag.com/gag/aqy36jj)
  - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
  - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 

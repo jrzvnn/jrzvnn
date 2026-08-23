@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
- - 💣 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 👉 [Don&#39;t ignore money cat](http://9gag.com/gag/a9yQ5jL)<!-- MEMES:END -->
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 💣 [Who hurt u lol](http://9gag.com/gag/aByqV6P)
+ - 😝 [Cats](http://9gag.com/gag/aW4Kom6)
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

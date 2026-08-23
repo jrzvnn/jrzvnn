@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
  - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)
+ - [Get Excited for Grand Theft Auto 6 By Watching an Extended Preview on Aug. 27](https://www.cnet.com/tech/gaming/get-excited-for-grand-theft-auto-6-by-watching-an-extended-preview-on-aug-27/)
  - [Greg Abbott says data center companies &quot;dug their own grave&quot; by moving into communities without first gaining support, signaling growing Republican backlash &lpar;Axios&rpar;](https://www.techmeme.com/260823/p10#a260823p10)
- - [Sunday Reboot: AirPods will be the best smart glasses](https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss)
- - [Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&#39; interest &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260823/p9#a260823p9)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
+ - [Sunday Reboot: AirPods will be the best smart glasses](https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

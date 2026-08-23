@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
- - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
+ - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
+ - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 💣 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 😝 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
+ - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 ---
 

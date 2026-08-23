@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did i just see what I think i saw](http://9gag.com/gag/amojGD9)
  - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [Remember those two?](http://9gag.com/gag/apRyDxE)
- - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
+ - 😝 [Remember those two?](http://9gag.com/gag/apRyDxE)
+ - 💣 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
+ - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
  - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
 
 ---

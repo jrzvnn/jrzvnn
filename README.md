@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone created a game where you need to find a needle in a haystack. There are 5,000,000 pieces of hay and one needle](http://9gag.com/gag/a1mz5nY)
- - 😝 [Don&#39;t bring a wrench into a car fight.](http://9gag.com/gag/an7pvKV)
- - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
- - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Someone created a game where you need to find a needle in a haystack. There are 5,000,000 pieces of hay and one needle](http://9gag.com/gag/a1mz5nY)
+ - 😝 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)
+ - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
 
 ---
 

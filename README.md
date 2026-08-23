@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 👉 [Any thought?](http://9gag.com/gag/aPANmnG)<!-- MEMES:END -->
+ - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

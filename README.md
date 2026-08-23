@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
  - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
  - 😝 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)
  - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->

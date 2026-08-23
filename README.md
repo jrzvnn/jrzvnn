@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
- - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
- - 😝 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
+ - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
+ - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
+ - 😝 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)
+ - 👉 [Spoiled brats](http://9gag.com/gag/aVvnmzv)<!-- MEMES:END -->
 
 ---
 

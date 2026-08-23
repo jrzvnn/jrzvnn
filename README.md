@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)
  - [Greg Abbott says data center companies &quot;dug their own grave&quot; by moving into communities without first gaining support, signaling growing Republican backlash &lpar;Axios&rpar;](https://www.techmeme.com/260823/p10#a260823p10)
  - [Sunday Reboot: AirPods will be the best smart glasses](https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss)
  - [Sources: Hugging Face is exploring a sale that could value it at $13B+, up from $4.5B in 2023, and has been working with a bank to evaluate bidders&#39; interest &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260823/p9#a260823p9)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
- - [Ramp data: Fable 5, launched in June, has plateaued at ~11% of spending on Anthropic tools, as companies shift to cheaper models; Opus 5 surpassed Fable 5 &lpar;George Hammond/Financial Times&rpar;](https://www.techmeme.com/260823/p8#a260823p8)<!-- TECH:END -->
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

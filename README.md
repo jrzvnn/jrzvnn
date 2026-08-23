@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My Lord became Valverine.](http://9gag.com/gag/aW4KLw6)
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
- - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
  - 👉 [Penalty for Playing the card.](http://9gag.com/gag/aAyWMbg)<!-- MEMES:END -->
 
 ---

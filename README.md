@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
  - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)
  - [Is Expensive Bottled Water Actually Better for You?](https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/)
  - [A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&#39; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial &lpar;Jeffrey Kopp/CNBC&rpar;](https://www.techmeme.com/260823/p4#a260823p4)
- - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)
- - [Sources: Flipkart Minutes, the quick commerce service of Walmart&#39;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260823/p2#a260823p2)<!-- TECH:END -->
+ - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

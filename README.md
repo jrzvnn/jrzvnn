@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
  - 😝 [Hhe whole court case was a comedy skit](http://9gag.com/gag/amojGR2)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
  - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
- - 👉 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
+ - 👉 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)<!-- MEMES:END -->
 
 ---
 

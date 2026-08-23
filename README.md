@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Someone created a game where you need to find a needle in a haystack. There are 5,000,000 pieces of hay and one needle](http://9gag.com/gag/a1mz5nY)
+ - 😝 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
  - 😝 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)
- - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 

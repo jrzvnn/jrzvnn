@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wont pass tho](http://9gag.com/gag/aGy3MKz)
- - 😝 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
- - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [Remember those two?](http://9gag.com/gag/apRyDxE)
- - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
+ - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [This is true btw](http://9gag.com/gag/a7o4VGw)
+ - 👉 [Remember those two?](http://9gag.com/gag/apRyDxE)<!-- MEMES:END -->
 
 ---
 

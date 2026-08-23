@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
- - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
- - 💣 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
- - 👉 [Spoiled brats](http://9gag.com/gag/aVvnmzv)<!-- MEMES:END -->
+ - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 😝 [Education based on more traditional pedagogical methods](http://9gag.com/gag/an7pxdB)
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 

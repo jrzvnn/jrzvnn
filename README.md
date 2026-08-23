@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)
+ - [Is Expensive Bottled Water Actually Better for You?](https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/)
  - [A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&#39; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial &lpar;Jeffrey Kopp/CNBC&rpar;](https://www.techmeme.com/260823/p4#a260823p4)
  - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)
- - [Sources: Flipkart Minutes, the quick commerce service of Walmart&#39;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260823/p2#a260823p2)
- - [Semiconductor cram schools are flourishing in Seoul as applications to Samsung and SK Hynix surge, fuelled by record earnings and eye-catching worker bonuses &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p1#a260823p1)
- - [Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p16#a260822p16)<!-- TECH:END -->
+ - [Sources: Flipkart Minutes, the quick commerce service of Walmart&#39;s Flipkart, is now delivering 1.1M-1.2M orders per day, up from ~390K-400K in November 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260823/p2#a260823p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

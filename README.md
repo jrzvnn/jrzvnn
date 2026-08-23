@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [Remember those two?](http://9gag.com/gag/apRyDxE)
- - 💣 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
- - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
+ - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)
+ - 💣 [No other option. Had to be done](http://9gag.com/gag/aXPDVxD)
+ - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 👉 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia plans to use its $6B deal with Poolside to build an open-weight AI model to compete with Chinese models like DeepSeek and Kimi &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p16#a260822p16)
+ - [Sources: Iran-linked hackers shut down a small UK power plant for four days, coinciding with a wave of Iran-affiliated attacks on US water utilities &lpar;Telegraph&rpar;](https://www.techmeme.com/260822/p15#a260822p15)
  - [Sources and documents detail how Tether&#39;s plan to build two bitcoin mining sites in Uruguay fell apart amid a dispute with state utility UTE over power supply &lpar;Reuters&rpar;](https://www.techmeme.com/260822/p14#a260822p14)
  - [AI agents&#39; growing capabilities are driving productivity FOMO among some startup founders, who feel compelled to work long hours managing and guiding the agents &lpar;Katherine Bindley/Wall Street Journal&rpar;](https://www.techmeme.com/260822/p13#a260822p13)
- - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)
- - [Sources: some of Nvidia&#39;s top customers have been told that prices will jump 15%+ on systems, including Vera Rubin and Grace Blackwell, starting in early 2027 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260822/p11#a260822p11)
- - [Apparel retailers like Zalando, Zara, and ASOS are betting on AI virtual fitting rooms to create a better online shopping experience and cut costly returns &lpar;Sonja Wind/Bloomberg&rpar;](https://www.techmeme.com/260822/p10#a260822p10)<!-- TECH:END -->
+ - [London-based Inherent, founded by DeepMind alumni and with $50M in seed funding, says its new Faraday agent beats GPT-5.5 at reproducing research paper findings &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260822/p12#a260822p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

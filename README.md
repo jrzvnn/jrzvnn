@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did i just see what I think i saw](http://9gag.com/gag/amojGD9)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 👉 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)<!-- MEMES:END -->
+ - 😝 [I wont pass tho](http://9gag.com/gag/aGy3MKz)
+ - 😝 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 💣 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
+ - 😝 [Remember those two?](http://9gag.com/gag/apRyDxE)
+ - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
 
 ---
 

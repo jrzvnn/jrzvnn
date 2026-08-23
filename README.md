@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 😝 [This is true btw](http://9gag.com/gag/a7o4VGw)
- - 👉 [Remember those two?](http://9gag.com/gag/apRyDxE)<!-- MEMES:END -->
+ - 😝 [the name&#39;s tyler](https://www.reddit.com/r/funny/comments/1vvz7f4/the_names_tyler/)
+ - 😝 [Poland](http://9gag.com/gag/ae9oV4q)
+ - 💣 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
+ - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
 
 ---
 

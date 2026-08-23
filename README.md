@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scary](http://9gag.com/gag/aNDxvb6)
- - 😝 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)
- - 💣 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
- - 😝 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
- - 👉 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)<!-- MEMES:END -->
+ - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [Is this the new smoke detector?](http://9gag.com/gag/a6ZvXgN)
+ - 💣 [It was already a little blurry](http://9gag.com/gag/a6Zv96e)
+ - 😝 [Christina Hendricks &amp; Friends](http://9gag.com/gag/aVvnEnd)
+ - 👉 [`Nobody touches our manager`](http://9gag.com/gag/ae9oVNB)<!-- MEMES:END -->
 
 ---
 

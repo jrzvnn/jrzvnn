@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Bail revoked in Hingham Apple Store crash case](https://appleinsider.com/articles/26/08/23/crime-blotter-bail-revoked-in-hingham-apple-store-crash-case?utm_source=rss)
+ - [What’s the Best Kindle of 2026? &lpar;So Far&rpar;](https://www.wired.com/gallery/best-kindle/)
+ - [Transistors Changed Everything. Here’s How They Work](https://www.wired.com/story/transistors-changed-everything-heres-how-they-work/)
  - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)
- - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)
- - [Is Expensive Bottled Water Actually Better for You?](https://www.wired.com/story/is-expensive-bottled-water-actually-better-for-you/)
- - [A profile of Judge Yvonne Gonzalez Rogers, who is presiding over US state AGs&#39; social media addiction lawsuit against Meta and oversaw the Musk v. Altman trial &lpar;Jeffrey Kopp/CNBC&rpar;](https://www.techmeme.com/260823/p4#a260823p4)
- - [The popularity of risky leveraged chip ETFs in South Korea prompted regulators to cap individual exposure and mandate a weeklong investor education course &lpar;Financial Times&rpar;](https://www.techmeme.com/260823/p3#a260823p3)<!-- TECH:END -->
+ - [7 Basic iPhone Tricks I Built With iOS 27’s Revamped Shortcuts App](https://www.wired.com/story/7-basic-iphone-tricks-i-built-with-ios-27s-revamped-shortcuts-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

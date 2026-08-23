@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)
+ - [Sources: foldable iPhone feels durable, fits well in a pocket, has useful iPad-like app layouts, excels as a camera viewfinder but lacks telephoto and Face ID &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260823/p6#a260823p6)
  - [Some people outside of Apple have already used the folding iPhone](https://appleinsider.com/articles/26/08/23/some-people-outside-of-apple-have-already-used-the-folding-iphone?utm_source=rss)
+ - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)
  - [It&#39;s anyone&#39;s guess how high iPhone prices might go, but $100 might be enough](https://appleinsider.com/articles/26/08/23/its-anyones-guess-how-high-iphone-prices-might-go-but-100-might-be-enough?utm_source=rss)
- - [Asus ROG Swift RGB Stripe OLED Review: Clarity King](https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/)
- - [The careers of Z.ai&#39;s Tang Jie and Moonshot AI&#39;s Yang Zhilin, once teacher and pupil at Tsinghua University, show that China&#39;s AI leap is no sudden development &lpar;Raffaele Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260823/p5#a260823p5)<!-- TECH:END -->
+ - [Asus ROG Swift RGB Stripe OLED Review: Clarity King](https://www.wired.com/review/asus-rog-swift-rgb-stripe-oled-pg27ucwm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

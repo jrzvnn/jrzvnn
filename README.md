@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
- - 😝 [When it&#39;s too wet.](http://9gag.com/gag/aLnYeDg)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 👉 [Remember those two?](http://9gag.com/gag/apRyDxE)<!-- MEMES:END -->
+ - 😝 [Fingers crossed](http://9gag.com/gag/aD2pZdw)
+ - 😝 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
+ - 💣 [The security guard every 711 deserves](http://9gag.com/gag/aByqP6D)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/aPAN85R)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #1743](http://9gag.com/gag/a6ZvnVL)<!-- MEMES:END -->
 
 ---
 

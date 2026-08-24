@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
- - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
  - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
- - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
+ - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
+ - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 ---
 

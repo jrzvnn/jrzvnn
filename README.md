@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump administration proposes a new $103,265 fee on H-1B applicants hired within the US after a court blocked a fee on workers from outside the country &lpar;Andrew Kreighbaum/Bloomberg&rpar;](https://www.techmeme.com/260824/p27#a260824p27)
- - [A look at startups like General Intuition working on large action models, aka world models, which are trained on videogames and simulations, to pilot robots &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p26#a260824p26)
- - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
- - [Apple smart home display rumors &amp; Sonos Gambit soundbar leak on Smart Home Insider](https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss)
- - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)<!-- TECH:END -->
+ - [Alabama AG Steve Marshall launches an investigation into OpenAI&#39;s security procedures following the Hugging Face breach in July &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/260824/p29#a260824p29)
+ - [Apple gearing up to start filming &#39;Ted Lasso&#39; season 5 in January](https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss)
+ - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
+ - [The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p28#a260824p28)
+ - [Seventh developer betas of iOS 27, macOS 27 land as releases loom](https://appleinsider.com/articles/26/08/24/seventh-developer-betas-of-ios-27-macos-27-land-as-releases-loom?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

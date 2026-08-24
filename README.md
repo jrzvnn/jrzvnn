@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: smart ring maker Oura and some of its backers seek to raise up to $3B in a US IPO that could take place as soon as September and value it at over $16B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p35#a260824p35)
+ - [OneRepublic headlines Tim Cook&#39;s going away party as he prepares to step down as CEO](https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss)
+ - [Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260824/p34#a260824p34)
  - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
- - [Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &lpar;Colin Campbell/Axios&rpar;](https://www.techmeme.com/260824/p33#a260824p33)
- - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
- - [If You Don’t Want Smart Glasses to Spy, Try a Bluetooth Detector App](https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/)
- - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)<!-- TECH:END -->
+ - [Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &lpar;Colin Campbell/Axios&rpar;](https://www.techmeme.com/260824/p33#a260824p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

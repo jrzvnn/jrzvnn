@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
  - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 👉 [Title](http://9gag.com/gag/a9yQ8mK)<!-- MEMES:END -->
+ - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 😝 [Party bags?](http://9gag.com/gag/aD2pVb9)
+ - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 ---
 

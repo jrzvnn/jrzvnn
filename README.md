@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
  - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 😝 [Peak evolution of a house cat](http://9gag.com/gag/aByqGxx)
+ - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 ---
 

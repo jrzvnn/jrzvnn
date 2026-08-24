@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
  - [New Zealand plans a bill to ban social media for under-16s, requiring &quot;high risk&quot; platforms to check user ages or face penalties of up to 10% of global revenue &lpar;Tracy Withers/Bloomberg&rpar;](https://www.techmeme.com/260824/p2#a260824p2)
  - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)
  - [Sources: Nvidia is in talks to invest in Perplexity&#39;s new equity round valuing it at $30B+; Nvidia considered a tech licensing deal and hiring some of its staff &lpar;The Information&rpar;](https://www.techmeme.com/260823/p18#a260823p18)
- - [Sources: Shein voluntarily sought the US Treasury&#39;s CFIUS national security review of its $80M deal to buy US clothing retailer Everlane, an unusual move &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260823/p17#a260823p17)
- - [At Beijing&#39;s World Humanoid Robot Games, a robot made by Honor ran 100m in 9.39s, and another Chinese robot finished 400m in 38.16s, both beating human records &lpar;Telegraph&rpar;](https://www.techmeme.com/260823/p16#a260823p16)<!-- TECH:END -->
+ - [Sources: Shein voluntarily sought the US Treasury&#39;s CFIUS national security review of its $80M deal to buy US clothing retailer Everlane, an unusual move &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260823/p17#a260823p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK PM backs Ofcom to take &quot;tough action&quot; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &lpar;Raphael Boyd/The Guardian&rpar;](https://www.techmeme.com/260824/p30#a260824p30)
- - [Alabama AG Steve Marshall launches an investigation into OpenAI&#39;s security procedures following the Hugging Face breach in July &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/260824/p29#a260824p29)
  - [Apple gearing up to start filming &#39;Ted Lasso&#39; season 5 in January](https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss)
- - [My Daily Driver Gaming Headset Is Super Cheap Right Now](https://www.wired.com/story/steelseries-arctis-nova-3p-august-2026/)
- - [The UK becomes the first foreign nation to gain access to Ukrainian combat data used to train AI models to strike Russian targets, as part of an AI partnership &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p28#a260824p28)<!-- TECH:END -->
+ - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)
+ - [ChatGPT vs. Gemini: Which Chatbot Is Better at Seeing the World Around You?](https://www.cnet.com/tech/services-and-software/chatgpt-vs-gemini-which-chatbot-is-best-at-seeing-the-world/)
+ - [UK PM backs Ofcom to take &quot;tough action&quot; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &lpar;Raphael Boyd/The Guardian&rpar;](https://www.techmeme.com/260824/p30#a260824p30)
+ - [Alabama AG Steve Marshall launches an investigation into OpenAI&#39;s security procedures following the Hugging Face breach in July &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/260824/p29#a260824p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

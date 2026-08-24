@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Handy disk image tool is to be removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
+ - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)
+ - [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
  - [Birdfy Nest Duo Review: My Own Private Nature Documentary](https://www.wired.com/review/birdfy-nest-duo/)
- - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)
- - [When to reuse, sell or recycle an old iPhone or iPad](https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss)
- - [The road to Steve Jobs&#39; resignation, and the rise of Tim Cook as his first successor](https://appleinsider.com/articles/18/08/24/the-road-to-steve-jobs-resignation-and-the-rise-of-tim-cook-as-his-successor?utm_source=rss)
- - [The Kindle Accessories I Never Want to Read Without &lpar;2026&rpar;](https://www.wired.com/story/best-kindle-accessories/)<!-- TECH:END -->
+ - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

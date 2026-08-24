@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
  - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 😝 [Equality for all](http://9gag.com/gag/aPANQmP)
  - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 ---

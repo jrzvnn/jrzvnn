@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
- - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Peak evolution of a house cat](http://9gag.com/gag/aByqGxx)
- - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
+ - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
+ - 💣 [Damn right we do](http://9gag.com/gag/aD2pbo7)
+ - 😝 [What about the Crusades?](http://9gag.com/gag/aO8g9yD)
+ - 👉 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)<!-- MEMES:END -->
 
 ---
 

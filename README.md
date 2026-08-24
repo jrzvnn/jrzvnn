@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the playbook tech giants like Google, Microsoft, and OpenAI use to shape American schools to their benefit, and the pushback against unproven AI tools &lpar;Natasha Singer/New York Times&rpar;](https://www.techmeme.com/260823/p14#a260823p14)
+ - [Trump says communities that oppose data centers are &quot;making a mistake&quot; as they create &quot;tremendous amounts of jobs and money&quot;, amid bipartisan backlash &lpar;Rebecca Falconer/Axios&rpar;](https://www.techmeme.com/260823/p13#a260823p13)
  - [Filing: Shein will debut on the Hong Kong exchange on Sept. 1, seeking up to $1.8B in its IPO with Goldman Sachs, Morgan Stanley, and JPMorgan as joint sponsors &lpar;Julia Fioretti/Bloomberg&rpar;](https://www.techmeme.com/260823/p12#a260823p12)
  - [Sam Altman says AI could end up controlled by a few powerful players, partly because AI fears could push people to trade &quot;a lot of liberty for safety&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260823/p11#a260823p11)
- - [Get Excited for Grand Theft Auto 6 By Watching an Extended Preview on Aug. 27](https://www.cnet.com/tech/gaming/get-excited-for-grand-theft-auto-6-by-watching-an-extended-preview-on-aug-27/)
- - [Greg Abbott says data center companies &quot;dug their own grave&quot; by moving into communities without first gaining support, signaling growing Republican backlash &lpar;Axios&rpar;](https://www.techmeme.com/260823/p10#a260823p10)
- - [Sunday Reboot: AirPods will be the best smart glasses](https://appleinsider.com/articles/26/08/23/sunday-reboot-airpods-will-be-the-best-smart-glasses?utm_source=rss)<!-- TECH:END -->
+ - [Get Excited for Grand Theft Auto 6 By Watching an Extended Preview on Aug. 27](https://www.cnet.com/tech/gaming/get-excited-for-grand-theft-auto-6-by-watching-an-extended-preview-on-aug-27/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

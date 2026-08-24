@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
  - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [Equality for all](http://9gag.com/gag/aPANQmP)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a9yQ8mK)<!-- MEMES:END -->
 
 ---
 

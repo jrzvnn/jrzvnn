@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I do the same thing when i get pulled over, but I dont have tourette&#39;s](http://9gag.com/gag/a7o4VAL)
  - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
  - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 😝 [Party bags?](http://9gag.com/gag/aD2pVb9)
  - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---

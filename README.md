@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Handy disk image tool is to be removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
- - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)
- - [De-Googled GrapheneOS is coming to Motorola’s foldables next year](https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11)
- - [Birdfy Nest Duo Review: My Own Private Nature Documentary](https://www.wired.com/review/birdfy-nest-duo/)
- - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Netflix discussed adding streamers like Peacock and Fox One as it seeks to compete with YouTube and Roku in becoming a one-stop shop for TV content &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260824/p15#a260824p15)
+ - [Amazon slashes AirTag 4-pack to $79.99, lowest price ever](https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss)
+ - [Handy disk image tool is getting removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
+ - [It Took Apple 8 Years to Listen to Me and Add This Killer Feature to the Apple TV](https://www.cnet.com/tech/home-entertainment/it-took-apple-8-years-to-listen-to-me-and-add-this-killer-feature-to-the-apple-tv/)
+ - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

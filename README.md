@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global central banks are pushing CBDCs to defend monetary sovereignty against USD stablecoins, but are struggling to find demand for the digital currencies &lpar;Jonathan Levin/Bloomberg&rpar;](https://www.techmeme.com/260824/p5#a260824p5)
- - [A look at the collapse of Zondacrypto, Eastern and Central Europe&#39;s biggest crypto exchange, which went dark in April and is facing money laundering allegations &lpar;Andrew Higgins/New York Times&rpar;](https://www.techmeme.com/260824/p4#a260824p4)
- - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
- - [New Zealand plans a bill to ban social media for under-16s, requiring &quot;high risk&quot; platforms to check user ages or face penalties of up to 10% of global revenue &lpar;Tracy Withers/Bloomberg&rpar;](https://www.techmeme.com/260824/p2#a260824p2)
- - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)<!-- TECH:END -->
+ - [US business schools are racing to prepare students to become chief AI officers, even as companies are still figuring out what the newest C-suite role entails &lpar;Rthvika Suvarna/Bloomberg&rpar;](https://www.techmeme.com/260824/p6#a260824p6)
+ - [They Dedicated Their Lives to Teaching. Then the Deepfakes Started](https://www.wired.com/story/teachers-deepfake-ai-students-content/)
+ - [Humanoid robots smash Usain Bolt&amp;#8217;s 100-meter record](https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026)
+ - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
+ - [Global central banks are pushing CBDCs to defend monetary sovereignty against USD stablecoins, but are struggling to find demand for the digital currencies &lpar;Jonathan Levin/Bloomberg&rpar;](https://www.techmeme.com/260824/p5#a260824p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

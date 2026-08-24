@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US business schools are racing to prepare students to become chief AI officers, even as companies are still figuring out what the newest C-suite role entails &lpar;Rthvika Suvarna/Bloomberg&rpar;](https://www.techmeme.com/260824/p6#a260824p6)
- - [They Dedicated Their Lives to Teaching. Then the Deepfakes Started](https://www.wired.com/story/teachers-deepfake-ai-students-content/)
- - [Humanoid robots smash Usain Bolt&amp;#8217;s 100-meter record](https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026)
- - [NASA’s New Space Telescope Is Poised to Discover Hidden Facets of the Universe](https://www.wired.com/story/nasa-nancy-grace-roman-space-telescope-hidden-facets-of-universe/)
- - [Global central banks are pushing CBDCs to defend monetary sovereignty against USD stablecoins, but are struggling to find demand for the digital currencies &lpar;Jonathan Levin/Bloomberg&rpar;](https://www.techmeme.com/260824/p5#a260824p5)<!-- TECH:END -->
+ - [Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p9#a260824p9)
+ - [Xiaomi launches the Xring O3, a 3nm SoC for its mobile devices, as the company seeks to reduce reliance on longtime suppliers Qualcomm and MediaTek &lpar;Gao Yuan/Bloomberg&rpar;](https://www.techmeme.com/260824/p8#a260824p8)
+ - [Alibaba launches Wan3.0, a video generation model that can generate 30-second videos from documents, spreadsheets, slides, and web pages &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p7#a260824p7)
+ - [The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame](https://www.wired.com/story/best-multi-use-air-purifiers/)
+ - [3 Years After Launch, Disney’s Lorcana Is Just Getting Started](https://www.cnet.com/culture/entertainment/3-years-after-launch-disneys-lorcana-is-just-getting-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

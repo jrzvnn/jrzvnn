@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 😝 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
+ - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 💣 [Turning pain into purpose for a brother](http://9gag.com/gag/a34986r)
  - 😝 [Party bags?](http://9gag.com/gag/aD2pVb9)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 👉 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump administration proposes a new $103,265 fee on H-1B applicants hired within the US after a court blocked a fee on workers from outside the country &lpar;Andrew Kreighbaum/Bloomberg&rpar;](https://www.techmeme.com/260824/p27#a260824p27)
+ - [A look at startups like General Intuition working on large action models, aka world models, which are trained on videogames and simulations, to pilot robots &lpar;Christopher Mims/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p26#a260824p26)
  - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
  - [Apple smart home display rumors &amp; Sonos Gambit soundbar leak on Smart Home Insider](https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss)
- - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
- - [Trump may use Apple Chinese RAM buy request as diplomatic tool](https://appleinsider.com/articles/26/08/24/trump-may-use-apple-chinese-ram-buy-request-as-diplomatic-tool?utm_source=rss)
- - [Nvidia says its Groq 3 LPX racks delivered 3,400 tokens per second in an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token input sequence &lpar;The Register&rpar;](https://www.techmeme.com/260824/p25#a260824p25)<!-- TECH:END -->
+ - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

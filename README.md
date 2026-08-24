@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s Been 20 Years Since Astronomers Decided Pluto Isn’t a Planet](https://www.cnet.com/science/space/20-years-since-astronomers-decided-pluto-isnt-a-planet/)
+ - [The cat-and-mouse game over 3D-printed guns has begun](https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul)
  - [Mercury Research: AMD&#39;s share of x86 client CPU shipments tops 30% for the first time, hitting 30.3% in Q2, up from 21.1% two years earlier, vs. Intel&#39;s 69.7% &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/260824/p31#a260824p31)
  - [Apple gearing up to start filming &#39;Ted Lasso&#39; season 5 in January](https://appleinsider.com/articles/26/08/24/apple-gearing-up-to-start-filming-ted-lasso-season-5-in-january?utm_source=rss)
- - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)
- - [ChatGPT vs. Gemini: Which Chatbot Is Better at Seeing the World Around You?](https://www.cnet.com/tech/services-and-software/chatgpt-vs-gemini-which-chatbot-is-best-at-seeing-the-world/)
- - [UK PM backs Ofcom to take &quot;tough action&quot; under the OSA against social media sites failing to remove dangerous driving videos after a crash killed seven people &lpar;Raphael Boyd/The Guardian&rpar;](https://www.techmeme.com/260824/p30#a260824p30)<!-- TECH:END -->
+ - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

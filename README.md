@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behind the Scenes of ESPN’s Animated Sports Alt-Casts](https://www.cnet.com/tech/services-and-software/behind-the-scenes-espn-animated-sports-alt-cast-disney-pixar/)
  - [Lenovo confirms Legion Go issues after gamers report bricked devices](https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked)
+ - [A New Interactive Tool Weighs Vaccine Risks for You](https://www.cnet.com/health/medical/a-new-interactive-tool-weighs-vaccine-risks-for-you/)
  - [Docs: Meta plans to launch its version of OpenClaw, codenamed Hatch, in late August or early September and its latest AI model, Watermelon, in October &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/260824/p37#a260824p37)
- - [Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260824/p36#a260824p36)
- - [Percy Jackson Cast Teases ‘Some People Get What They Deserve’ in Season 3](https://www.cnet.com/tech/services-and-software/percy-jackson-cast-teases-some-people-get-what-they-deserve-in-season-3/)
- - [Ambient sensing and cameras to power Apple Home Hub personalization](https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss)<!-- TECH:END -->
+ - [Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260824/p36#a260824p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Netflix discussed adding streamers like Peacock and Fox One as it seeks to compete with YouTube and Roku in becoming a one-stop shop for TV content &lpar;John Koblin/New York Times&rpar;](https://www.techmeme.com/260824/p15#a260824p15)
- - [Amazon slashes AirTag 4-pack to $79.99, lowest price ever](https://appleinsider.com/articles/26/08/24/amazon-slashes-airtag-4-pack-to-7999-lowest-price-ever?utm_source=rss)
- - [Handy disk image tool is getting removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
- - [It Took Apple 8 Years to Listen to Me and Add This Killer Feature to the Apple TV](https://www.cnet.com/tech/home-entertainment/it-took-apple-8-years-to-listen-to-me-and-add-this-killer-feature-to-the-apple-tv/)
- - [Irish lawmakers reconsider the country&#39;s 1999 ban on nuclear power as data centers&#39; growing power demands account for ~25% of the country&#39;s electricity use &lpar;Jude Webber/Financial Times&rpar;](https://www.techmeme.com/260824/p14#a260824p14)<!-- TECH:END -->
+ - [Netflix reportedly considers opening its app to other streamers](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one)
+ - [The FTC is settling its lawsuit against Zillow, resolving claims that Zillow violated antitrust law by paying Redfin $100M to stop competing in rental listings &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/260824/p17#a260824p17)
+ - [AI assistant is rolling out to the Apple Store app on iOS](https://appleinsider.com/articles/26/08/24/ai-assistant-is-rolling-out-to-the-apple-store-app-on-ios?utm_source=rss)
+ - [iPhone 20 will look like a rounder and thinner iPhone Air](https://appleinsider.com/articles/26/08/24/iphone-20-will-look-like-a-rounder-and-thinner-iphone-air?utm_source=rss)
+ - [Minimus, a cybersecurity startup started by Twistlock founders, shuts down after failing to gain enough commercial momentum; Minimus raised a $51M seed in 2023 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260824/p16#a260824p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

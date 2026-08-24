@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 😝 [Big &#39;ol Coon Boy](http://9gag.com/gag/ary6qrK)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 😝 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 💣 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 😝 [A little shoutout\u2026](http://9gag.com/gag/azxNRez)
+ - 👉 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)<!-- MEMES:END -->
 
 ---
 

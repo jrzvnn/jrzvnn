@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK&#39;s Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260824/p24#a260824p24)
- - [Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p23#a260824p23)
- - [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom)
- - [IBM says it is developing a dual-architecture processor for IBM Z and LinuxONE systems that can natively execute both IBM&#39;s z/OS workloads and Arm applications &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260824/p22#a260824p22)
- - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer, and SpaceX will deploy Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)<!-- TECH:END -->
+ - [Zillow and Redfin settle FTC antitrust case over their rental listings partnership](https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement)
+ - [Apple smart home display rumors &amp; Sonos Gambit soundbar leak on Smart Home Insider](https://appleinsider.com/articles/26/08/24/apple-smart-home-display-rumors-sonos-gambit-soundbar-leak-on-smart-home-insider?utm_source=rss)
+ - [Robotaxis are real now — so is the pushback](https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa)
+ - [Trump may use Apple Chinese RAM buy request as diplomatic tool](https://appleinsider.com/articles/26/08/24/trump-may-use-apple-chinese-ram-buy-request-as-diplomatic-tool?utm_source=rss)
+ - [Nvidia says its Groq 3 LPX racks delivered 3,400 tokens per second in an Artificial Analysis benchmark running Gemma 4 31B with a 100,000-token input sequence &lpar;The Register&rpar;](https://www.techmeme.com/260824/p25#a260824p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

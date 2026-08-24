@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese EV maker XPeng says its robotics business raised $900M+ led by IDG and Gaorong Ventures at a $6.3B valuation, with Tencent and Alibaba participating &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p9#a260824p9)
- - [Xiaomi launches the Xring O3, a 3nm SoC for its mobile devices, as the company seeks to reduce reliance on longtime suppliers Qualcomm and MediaTek &lpar;Gao Yuan/Bloomberg&rpar;](https://www.techmeme.com/260824/p8#a260824p8)
- - [Alibaba launches Wan3.0, a video generation model that can generate 30-second videos from documents, spreadsheets, slides, and web pages &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p7#a260824p7)
- - [The Best Multiuse Air Purifier for Home in 2026: BlueAir, Rabbit Air, Dreame](https://www.wired.com/story/best-multi-use-air-purifiers/)
- - [3 Years After Launch, Disney’s Lorcana Is Just Getting Started](https://www.cnet.com/culture/entertainment/3-years-after-launch-disneys-lorcana-is-just-getting-started/)<!-- TECH:END -->
+ - [Fasset, which offers stablecoin-powered banking services across Asia and other emerging markets, raised $68M at a $1B valuation, after raising $51M in May &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260824/p13#a260824p13)
+ - [The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More](https://www.wired.com/story/best-home-theater-projector/)
+ - [Sources: ByteDance is merging coding platform Trae and agent-building tool Coze into Doubao, and plans to launch Doubao Work to compete with Tencent&#39;s WorkBuddy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p12#a260824p12)
+ - [Ukraine says Russia used an Nvidia Jetson Orin computing module in its autonomous AI-guided drones; Nvidia says they are widely available on resale markets &lpar;Andrew E. Kramer/New York Times&rpar;](https://www.techmeme.com/260824/p11#a260824p11)
+ - [Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia &lpar;New York Times&rpar;](https://www.techmeme.com/260824/p10#a260824p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

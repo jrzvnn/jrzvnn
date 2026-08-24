@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 👉 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)<!-- MEMES:END -->
 
 ---
 

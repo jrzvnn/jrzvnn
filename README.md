@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actual journalism](http://9gag.com/gag/azxNKxq)
- - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 💣 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 👉 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)<!-- MEMES:END -->
+ - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 😝 [Wait a minute...?](http://9gag.com/gag/aqy3xBP)
+ - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
 
 ---
 

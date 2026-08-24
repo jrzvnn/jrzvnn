@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
- - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
- - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
- - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
+ - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
+ - 😝 [Lindsay Clancy&#39;s Gofundme money should be going to this hero.](http://9gag.com/gag/aQzwAre)
+ - 💣 [What about the Crusades?](http://9gag.com/gag/aO8g9yD)
+ - 😝 [Finally getting back to doing things that actually bring joy](http://9gag.com/gag/aYQ8M8x)
+ - 👉 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)<!-- MEMES:END -->
 
 ---
 

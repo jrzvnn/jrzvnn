@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitdefender VPN Review: Fast and Affordable Privacy](https://www.wired.com/review/bitdefender-vpn/)
+ - [Canada-based logistics software company Descartes acquires Tai, a California-based transportation management system provider, for $100M in cash &lpar;Colin Campbell/Axios&rpar;](https://www.techmeme.com/260824/p33#a260824p33)
+ - [Can You Kill Salmonella in Eggs Without Cooking Them? I Tried It](https://www.wired.com/story/sous-vide-salmonella-eggs/)
  - [If You Don’t Want Smart Glasses to Spy, Try a Bluetooth Detector App](https://www.cnet.com/tech/mobile/if-you-dont-want-smart-glasses-to-spy-try-a-bluetooth-detector-app/)
- - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)
- - [At his first Cursor all-hands, Musk said Grok needs to catch up, AI will become impossible for humans to control, Anthropic is leading the AI race, and more &lpar;Grace Kay/The Information&rpar;](https://www.techmeme.com/260824/p32#a260824p32)
- - [Handy disk image tool is getting removed from macOS](https://appleinsider.com/articles/26/08/24/handy-disk-image-tool-is-to-be-removed-from-macos?utm_source=rss)
- - [Hide My Email no longer changing domains, will keep iCloud.com](https://appleinsider.com/articles/26/08/24/hide-my-email-no-longer-changing-domains-will-keep-icloudcom?utm_source=rss)<!-- TECH:END -->
+ - [This is the first look at the inside of Apple&#39;s AI servers](https://appleinsider.com/articles/26/08/24/this-is-the-first-look-at-the-inside-of-apples-ai-servers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

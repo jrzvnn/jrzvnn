@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
- - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [A little shoutout\u2026](http://9gag.com/gag/azxNRez)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 😝 [How things can change with a ssmall pice of tape](http://9gag.com/gag/ary6x96)
+ - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Git rdy hmos](http://9gag.com/gag/azxNOdj)
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 💣 [Turning pain into purpose for a brother](http://9gag.com/gag/a34986r)
- - 😝 [Party bags?](http://9gag.com/gag/aD2pVb9)
- - 👉 [Xavier strikes again with the ultimate reality check](http://9gag.com/gag/aGy3M46)<!-- MEMES:END -->
+ - 😝 [I do the same thing when i get pulled over, but I dont have tourette&#39;s](http://9gag.com/gag/a7o4VAL)
+ - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---
 

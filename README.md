@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fasset, which offers stablecoin-powered banking services across Asia and other emerging markets, raised $68M at a $1B valuation, after raising $51M in May &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/260824/p13#a260824p13)
- - [The Best Home Theater Projectors in 2026: XGIMI, Hisense, Leica, and More](https://www.wired.com/story/best-home-theater-projector/)
- - [Sources: ByteDance is merging coding platform Trae and agent-building tool Coze into Doubao, and plans to launch Doubao Work to compete with Tencent&#39;s WorkBuddy &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p12#a260824p12)
- - [Ukraine says Russia used an Nvidia Jetson Orin computing module in its autonomous AI-guided drones; Nvidia says they are widely available on resale markets &lpar;Andrew E. Kramer/New York Times&rpar;](https://www.techmeme.com/260824/p11#a260824p11)
- - [Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia &lpar;New York Times&rpar;](https://www.techmeme.com/260824/p10#a260824p10)<!-- TECH:END -->
+ - [Birdfy Nest Duo Review: My Own Private Nature Documentary](https://www.wired.com/review/birdfy-nest-duo/)
+ - [How Apple leaked product plans and even a video in a beta](https://appleinsider.com/articles/26/08/23/how-apple-leaked-product-plans-and-even-a-video-in-a-beta?utm_source=rss)
+ - [When to reuse, sell or recycle an old iPhone or iPad](https://appleinsider.com/inside/ipad/tips/when-to-reuse-sell-or-recycle-an-old-iphone-or-ipad?utm_source=rss)
+ - [The road to Steve Jobs&#39; resignation, and the rise of Tim Cook as his first successor](https://appleinsider.com/articles/18/08/24/the-road-to-steve-jobs-resignation-and-the-rise-of-tim-cook-as-his-successor?utm_source=rss)
+ - [The Kindle Accessories I Never Want to Read Without &lpar;2026&rpar;](https://www.wired.com/story/best-kindle-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

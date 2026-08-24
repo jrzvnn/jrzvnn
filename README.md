@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s Office for National Statistics: UK digital infrastructure investment crossed £11B in 2025, hitting dot-com boom levels, amid an AI data center surge &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260824/p24#a260824p24)
+ - [Temu owner PDD reports Q2 revenue up 8.1% YoY to ~$16.72B, missing estimate of ~$17.17B, net profit down 12% YoY to ~$4.04B, above ~$3.63B estimate &lpar;Tracy Qu/Wall Street Journal&rpar;](https://www.techmeme.com/260824/p23#a260824p23)
+ - [The Witcher 4 developers target a 2028 release](https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom)
  - [IBM says it is developing a dual-architecture processor for IBM Z and LinuxONE systems that can natively execute both IBM&#39;s z/OS workloads and Arm applications &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260824/p22#a260824p22)
- - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer; SpaceXAI will adopt Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)
- - [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)
- - [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases)
- - [China&#39;s Bilibili relaunches its international app and plans an English-language site; it has been pushing MrBeast and others to post on its Chinese site &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260824/p20#a260824p20)<!-- TECH:END -->
+ - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer, and SpaceX will deploy Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

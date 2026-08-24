@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)
  - [Sources: Nvidia is in talks to invest in Perplexity valuing it at $30B+, after weighing a tech licensing deal and staff hires, as Perplexity hits $750M+ in ARR &lpar;The Information&rpar;](https://www.techmeme.com/260823/p18#a260823p18)
  - [Sources: Shein voluntarily sought the US Treasury&#39;s CFIUS national security review of its $80M deal to buy US clothing retailer Everlane, an unusual move &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](https://www.techmeme.com/260823/p17#a260823p17)
  - [At Beijing&#39;s World Humanoid Robot Games, a robot made by Honor ran 100m in 9.39s, and another Chinese robot finished 400m in 38.16s, both beating human records &lpar;Telegraph&rpar;](https://www.techmeme.com/260823/p16#a260823p16)
- - [SoftBank plans a $6.3B retail bond sale, a record for any Japanese issuer and its third this year, as the conglomerate raises funds for its OpenAI commitments &lpar;Bloomberg&rpar;](https://www.techmeme.com/260823/p15#a260823p15)
- - [A look at the playbook tech giants like Google, Microsoft, and OpenAI use to shape American schools to their benefit, and the pushback against unproven AI tools &lpar;Natasha Singer/New York Times&rpar;](https://www.techmeme.com/260823/p14#a260823p14)<!-- TECH:END -->
+ - [SoftBank plans a $6.3B retail bond sale, a record for any Japanese issuer and its third this year, as the conglomerate raises funds for its OpenAI commitments &lpar;Bloomberg&rpar;](https://www.techmeme.com/260823/p15#a260823p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reportedly considers opening its app to other streamers](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one)
- - [The FTC is settling its lawsuit against Zillow, resolving claims that Zillow violated antitrust law by paying Redfin $100M to stop competing in rental listings &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/260824/p17#a260824p17)
- - [AI assistant is rolling out to the Apple Store app on iOS](https://appleinsider.com/articles/26/08/24/ai-assistant-is-rolling-out-to-the-apple-store-app-on-ios?utm_source=rss)
- - [iPhone 20 will look like a rounder and thinner iPhone Air](https://appleinsider.com/articles/26/08/24/iphone-20-will-look-like-a-rounder-and-thinner-iphone-air?utm_source=rss)
- - [Minimus, a cybersecurity startup started by Twistlock founders, shuts down after failing to gain enough commercial momentum; Minimus raised a $51M seed in 2023 &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260824/p16#a260824p16)<!-- TECH:END -->
+ - [Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p19#a260824p19)
+ - [Apple’s four-pack of second-gen AirTags is $20 off](https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale)
+ - [Sources detail how the Trump admin bypassed the DOJ trial team and pushed to settle the Live Nation case, after CEO Michael Rapino met White House officials &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260824/p18#a260824p18)
+ - [How GoFundMe became America’s backup plan](https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses)
+ - [Netflix reportedly considers opening its app to other streamers](https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

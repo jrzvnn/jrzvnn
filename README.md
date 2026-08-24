@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reverses its plan to move iCloud+ Hide My Email addresses to private.icloud.com after user backlash; the feature will continue using the icloud.com domain &lpar;Juli Clover/MacRumors&rpar;](https://www.techmeme.com/260824/p36#a260824p36)
+ - [Percy Jackson Cast Teases ‘Some People Get What They Deserve’ in Season 3](https://www.cnet.com/tech/services-and-software/percy-jackson-cast-teases-some-people-get-what-they-deserve-in-season-3/)
  - [Ambient sensing and cameras to power Apple Home Hub personalization](https://appleinsider.com/articles/26/08/24/ambient-sensing-and-cameras-to-power-apple-home-hub-personalization?utm_source=rss)
- - [Sources: smart ring maker Oura and some of its backers seek to raise up to $3B in a US IPO that could take place as soon as September and value it at over $16B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p35#a260824p35)
- - [OneRepublic headlines Tim Cook&#39;s going away party as he prepares to step down as CEO](https://appleinsider.com/articles/26/08/24/onerepublic-headlines-tim-cooks-going-away-party-as-he-prepares-to-step-down-as-ceo?utm_source=rss)
- - [Apple Reportedly Will Raise iPhone Prices, but Just How Much?](https://www.cnet.com/tech/mobile/apple-reportedly-will-raise-iphone-prices-but-just-how-much/)
- - [Source: robotics startup Generalist, which released its GEN-1 model to complete physical tasks in April, raised ~$200M led by 8VC, after raising $400M in June &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/260824/p34#a260824p34)<!-- TECH:END -->
+ - [Privacy-Focused GrapheneOS Is Coming to Motorola Phones in 2027](https://www.cnet.com/tech/services-and-software/privacy-focused-grapheneos-is-coming-to-motorola-phones-in-2027/)
+ - [Sources: smart ring maker Oura and some of its backers seek to raise up to $3B in a US IPO that could take place as soon as September and value it at over $16B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p35#a260824p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

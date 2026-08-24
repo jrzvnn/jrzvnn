@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spoiled brats](http://9gag.com/gag/aVvnmzv)
- - 😝 [Now I can die peacefully](http://9gag.com/gag/aAyW4x9)
- - 💣 [Damn right we do](http://9gag.com/gag/aD2pbo7)
- - 😝 [What about the Crusades?](http://9gag.com/gag/aO8g9yD)
- - 👉 [Antivaxxers are a special type of retarded](http://9gag.com/gag/awyROOx)<!-- MEMES:END -->
+ - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 👉 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global central banks are pushing CBDCs to defend monetary sovereignty against USD stablecoins, but are struggling to find demand for the digital currencies &lpar;Jonathan Levin/Bloomberg&rpar;](https://www.techmeme.com/260824/p5#a260824p5)
  - [A look at the collapse of Zondacrypto, Eastern and Central Europe&#39;s biggest crypto exchange, which went dark in April and is facing money laundering allegations &lpar;Andrew Higgins/New York Times&rpar;](https://www.techmeme.com/260824/p4#a260824p4)
  - [Oxford Economics: US corporate spending on equipment and facilities is set to rise 40% between 2021 and 2027, over 3x faster than Europe, driven by the AI race &lpar;Financial Times&rpar;](https://www.techmeme.com/260824/p3#a260824p3)
  - [New Zealand plans a bill to ban social media for under-16s, requiring &quot;high risk&quot; platforms to check user ages or face penalties of up to 10% of global revenue &lpar;Tracy Withers/Bloomberg&rpar;](https://www.techmeme.com/260824/p2#a260824p2)
- - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)
- - [Sources: Nvidia is in talks to invest in Perplexity&#39;s new equity round valuing it at $30B+; Nvidia considered a tech licensing deal and hiring some of its staff &lpar;The Information&rpar;](https://www.techmeme.com/260823/p18#a260823p18)<!-- TECH:END -->
+ - [Source: AI researcher Luke Metz, who returned to OpenAI from TML earlier this year, joins Meta&#39;s Superintelligence Labs and will report to Alexandr Wang &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260824/p1#a260824p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

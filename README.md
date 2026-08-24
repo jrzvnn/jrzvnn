@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
- - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)
- - 👉 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)<!-- MEMES:END -->
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 😝 [Hot Take](http://9gag.com/gag/aZZAEVV)
+ - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
 
 ---
 

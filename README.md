@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
  - 😝 [A little shoutout\u2026](http://9gag.com/gag/azxNRez)
  - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 

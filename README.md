@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
  - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
- - 😝 [Hot Take](http://9gag.com/gag/aZZAEVV)
- - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
+ - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
+ - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 👉 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
 
 ---
 

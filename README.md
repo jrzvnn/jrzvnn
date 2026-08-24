@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [Wait a minute...?](http://9gag.com/gag/aqy3xBP)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
  - 👉 [The younger generation no longer wants a job.](http://9gag.com/gag/azxNG5B)<!-- MEMES:END -->
 
 ---

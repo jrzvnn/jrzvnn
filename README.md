@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Don&#39;t be her last option](http://9gag.com/gag/aByqPn1)
  - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
- - 👉 [Torta](http://9gag.com/gag/aVvnmoy)<!-- MEMES:END -->
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 💣 [Torta](http://9gag.com/gag/aVvnmoy)
+ - 😝 [Title](http://9gag.com/gag/a9yQ8mK)
+ - 👉 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)<!-- MEMES:END -->
 
 ---
 

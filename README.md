@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM says it is developing a dual-architecture processor for IBM Z and LinuxONE systems that can natively execute both IBM&#39;s z/OS workloads and Arm applications &lpar;Michael Nuñez/VentureBeat&rpar;](https://www.techmeme.com/260824/p22#a260824p22)
+ - [Nvidia says its inference accelerator Groq 3 LPX has entered full production and Nebius has signed on as the first customer; SpaceXAI will adopt Vera CPUs &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p21#a260824p21)
  - [ESPN streaming plans are getting more expensive](https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase)
  - [Raspberry Pi shares its official tutorial for making a cyberdeck](https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases)
- - [China&#39;s Bilibili relaunches its international app and plans an English-language site; it has been pushing MrBeast and others to post on its Chinese site &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260824/p20#a260824p20)
- - [Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China &lpar;Reuters&rpar;](https://www.techmeme.com/260824/p19#a260824p19)
- - [Apple’s four-pack of second-gen AirTags is $20 off](https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale)<!-- TECH:END -->
+ - [China&#39;s Bilibili relaunches its international app and plans an English-language site; it has been pushing MrBeast and others to post on its Chinese site &lpar;J.D. Capelouto/Semafor&rpar;](https://www.techmeme.com/260824/p20#a260824p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

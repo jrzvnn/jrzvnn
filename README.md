@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
  - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 😝 [Still better than Beyonce](http://9gag.com/gag/aByqXQO)
- - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---
 

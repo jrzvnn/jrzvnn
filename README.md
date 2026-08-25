@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 💣 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
- - 😝 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/awyRd61)
+ - 💣 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
+ - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/a9yQXmL)
+ - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
 
 ---
 

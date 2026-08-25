@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
+ - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 😝 [BTW: That&#39;s because it&#39;s deviled.](http://9gag.com/gag/aPANQqn)
+ - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom reports Q2 revenue up 4.9% YoY to $1.28B, vs. $1.27B est., enterprise revenue up 7.8% to $787.5M, and forecasts Q3 adjusted EPS below estimates &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260825/p42#a260825p42)
  - [At just $8, you owe it to yourself to grab Inscryption](https://www.theverge.com/gadgets/984677/inscryption-humble-daniel-mullins-pony-island-deal-sale)
  - [The Witcher 3 is getting a remaster](https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer)
  - [JetBrains local model won&#39;t cost any tokens, but needs a $2,700 Mac mini to run it](https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss)
- - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
- - [Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning &lpar;Skild AI&rpar;](https://www.techmeme.com/260825/p41#a260825p41)<!-- TECH:END -->
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

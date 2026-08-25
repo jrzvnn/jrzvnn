@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
- - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)
- - [Intuit reports Q4 revenue up 14% YoY to $4.35B, vs. $4.27B est., and forecasts FY 2027 revenue growth of 9% to 10%, below ~11% est.; INTU drops 8%+ after hours &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260825/p43#a260825p43)
- - [Trump is upping the price of Big Tech’s favorite visa](https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration)
- - [The Best Early Labor Day Kitchen Deals to Ease You Back Into Fall &lpar;2026&rpar;](https://www.wired.com/story/early-labor-day-kitchen-appliance-deals-2026/)<!-- TECH:END -->
+ - [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
+ - [Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260825/p44#a260825p44)
+ - [Sony Is Reminding Us &lpar;Again&rpar; That We Don’t Own Our PlayStation Games](https://www.cnet.com/tech/gaming/sony-is-reminding-us-again-that-we-dont-own-our-playstation-games/)
+ - [‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance](https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

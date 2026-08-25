@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please pay before self-servicing](https://www.reddit.com/r/funny/comments/1vxrp2h/please_pay_before_selfservicing/)
- - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 😝 [Lost in Conjugation](https://www.reddit.com/r/funny/comments/1vxslm8/lost_in_conjugation/)
+ - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
  - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
  - 😝 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
- - 👉 [How many toes does he have? All of them and I love him!](http://9gag.com/gag/aKG0YqN)<!-- MEMES:END -->
+ - 👉 [Yehaw. Good songs](http://9gag.com/gag/a7o4N7b)<!-- MEMES:END -->
 
 ---
 

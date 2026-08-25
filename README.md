@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook is set to step down on September 1, and a source says Apple hosted an intimate farewell party; sources say Cook&#39;s assistant will work with John Ternus &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260825/p8#a260825p8)
+ - [Optoma GT2400HDR Review: Ace Projector for Golf Simulation](https://www.wired.com/review/optoma-gt2400hdr/)
  - [Qustodio: 26% of Australian children aged 13 to 15 were on TikTok in July, just one percentage point below pre-ban levels, and 10-to-12-year-olds&#39; usage is up &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260825/p7#a260825p7)
  - [Q&amp;A with Dr. Dre and Jimmy Iovine on lessons from Apple&#39;s Beats acquisition, creativity, being pro-AI music creation, AI as a tool like drum machines, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260825/p6#a260825p6)
- - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)
- - [Bitcoin rises above $80K after jumping 20%+ last week, its biggest three-day gain since 2023; US spot bitcoin ETFs had $1.92B in net inflows last week &lpar;Lee Ying Shan/CNBC&rpar;](https://www.techmeme.com/260825/p5#a260825p5)
- - [UK filings: OnlyFans parent Fenix paid late owner Leonid Radvinsky $709M in the months leading up to his death in March; FY 2025 revenue rose 10% YoY to $1.55B &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/260825/p4#a260825p4)<!-- TECH:END -->
+ - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

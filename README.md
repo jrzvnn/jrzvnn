@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 😝 [Please pay before self-servicing](https://www.reddit.com/r/funny/comments/1vxrp2h/please_pay_before_selfservicing/)
  - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 💣 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
- - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 😝 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 👉 [How many toes does he have? All of them and I love him!](http://9gag.com/gag/aKG0YqN)<!-- MEMES:END -->
 
 ---
 

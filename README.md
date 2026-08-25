@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 😝 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
  - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
  - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 😝 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
  - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
 
 ---

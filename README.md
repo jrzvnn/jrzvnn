@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
  - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 😝 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 💣 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Only Halfway](https://www.reddit.com/r/funny/comments/1vy7mac/only_halfway/)
  - 😝 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
  - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 😝 [Sinister](http://9gag.com/gag/aLnYmXz)
- - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
+ - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---
 

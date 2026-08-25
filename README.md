@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 💣 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
+ - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 💣 [Sinister](http://9gag.com/gag/aLnYmXz)
  - 😝 [Homer lego meme](http://9gag.com/gag/aVvn25w)
- - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
+ - 👉 [Granny was ready](http://9gag.com/gag/a1mzLD2)<!-- MEMES:END -->
 
 ---
 

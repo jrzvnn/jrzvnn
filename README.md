@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit co-founders James Park and Eric Friedman unveil the $250 Luffu Link, a screenless, jewelry-inspired LTE health and safety band, set to ship in early 2027 &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260825/p15#a260825p15)
- - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)
- - [OpenAI bans a cluster of Russian ChatGPT accounts that used VPNs to evade restrictions and run an influence operation, including creating social media comments &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260825/p13#a260825p13)
- - [CNET Finds 75% of US Adults Couldn’t Care Less About a Foldable iPhone](https://www.cnet.com/tech/mobile/foldable-phone-survey/)
- - [You&#39;ll have to wait in line for Siri AI in iOS 27](https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss)<!-- TECH:END -->
+ - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
+ - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
+ - [Apple says M5 Ultra uses a quad-die 3nm architecture, &quot;a first for Apple silicon&quot;, with inter-die bandwidth of 4.4TB/s+ and up to a 36-core CPU and 80-core GPU &lpar;Steve Dent/Engadget&rpar;](https://www.techmeme.com/260825/p21#a260825p21)
+ - [Apple unveils M6, a 2nm chip with a 12-core CPU and GPU, and up to 32GB of unified memory, saying it provides &quot;the world&#39;s fastest single-threaded performance&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260825/p20#a260825p20)
+ - [Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro &lpar;Apple&rpar;](https://www.techmeme.com/260825/p19#a260825p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

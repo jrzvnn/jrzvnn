@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 💣 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 😝 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
  - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 😝 [Now That&#39;s Magic Debee McGee...!](http://9gag.com/gag/aO8g1pv)
+ - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
 
 ---
 

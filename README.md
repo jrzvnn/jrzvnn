@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
+ - [New M6 Mac mini keeps the three-display limit but raises refresh rates](https://appleinsider.com/articles/26/08/25/new-m6-mac-mini-keeps-the-three-display-limit-but-raises-refresh-rates?utm_source=rss)
  - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
- - [Apple says M5 Ultra uses a quad-die 3nm architecture, &quot;a first for Apple silicon&quot;, with inter-die bandwidth of 4.4TB/s+ and up to a 36-core CPU and 80-core GPU &lpar;Steve Dent/Engadget&rpar;](https://www.techmeme.com/260825/p21#a260825p21)
- - [Apple unveils M6, a 2nm chip with a 12-core CPU and GPU, and up to 32GB of unified memory, saying it provides &quot;the world&#39;s fastest single-threaded performance&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260825/p20#a260825p20)
- - [Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro &lpar;Apple&rpar;](https://www.techmeme.com/260825/p19#a260825p19)<!-- TECH:END -->
+ - [OpenAI says its Jalapeño chip can power faster AI responses than the competition](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks)
+ - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
+ - [Apple raises Mac mini and Studio prices: the M6 and M5 Pro Mac mini are $899+ and $1,699+, $100 above M4 models, and the M5 Ultra Mac Studio is $5,499+, up $200 &lpar;Nicole Nguyen/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p23#a260825p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

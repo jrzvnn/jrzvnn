@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook is set to step down on September 1, and a source says Apple hosted an intimate farewell party; sources say Cook&#39;s assistant will work with John Ternus &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260825/p8#a260825p8)
- - [Optoma GT2400HDR Review: Ace Projector for Golf Simulation](https://www.wired.com/review/optoma-gt2400hdr/)
- - [Qustodio: 26% of Australian children aged 13 to 15 were on TikTok in July, just one percentage point below pre-ban levels, and 10-to-12-year-olds&#39; usage is up &lpar;Newley Purnell/Bloomberg&rpar;](https://www.techmeme.com/260825/p7#a260825p7)
- - [Q&amp;A with Dr. Dre and Jimmy Iovine on lessons from Apple&#39;s Beats acquisition, creativity, being pro-AI music creation, AI as a tool like drum machines, and more &lpar;Jordyn Holman/New York Times&rpar;](https://www.techmeme.com/260825/p6#a260825p6)
- - [Border Wall Construction Threatens 6,000 Years of History on Private Lands](https://www.wired.com/story/border-wall-construction-threatens-6000-years-of-history/)<!-- TECH:END -->
+ - [Google is rolling out Motion Assist, a feature to reduce motion sickness by showing visual cues on the screen, to Android 17, starting with select Pixel devices &lpar;Adamya Sharma/Android Authority&rpar;](https://www.techmeme.com/260825/p10#a260825p10)
+ - [A profile of French software maker ChapsVision, which won a contract to replace Palantir at France&#39;s domestic intel agency in June and targets an IPO by 2030 &lpar;Adrienne Klasa/Financial Times&rpar;](https://www.techmeme.com/260825/p9#a260825p9)
+ - [The 4 Best Car Phone Mounts I’ve Tried &lpar;2026&rpar;: Belkin, Andery, Andobil](https://www.wired.com/story/best-car-phone-mounts-and-holders/)
+ - [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)
+ - [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

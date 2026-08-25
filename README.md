@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
  - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - 😝 [Jeffrey Epstein is probably sunbathing next to a teenager right now](http://9gag.com/gag/a0eAMLO)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 

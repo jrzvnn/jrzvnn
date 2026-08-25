@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only Halfway](https://www.reddit.com/r/funny/comments/1vy7mac/only_halfway/)
- - 😝 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
- - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
+ - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/a9yQXmL)
+ - 💣 [Old but gold](http://9gag.com/gag/awyRd61)
+ - 😝 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
+ - 👉 [Gehmailing successful!](http://9gag.com/gag/azxNZWN)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
- - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
- - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 😝 [Don&#39;t use this knowledge for evil...maybe...](http://9gag.com/gag/aAyWX19)
- - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
+ - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
+ - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
+ - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
 
 ---
 

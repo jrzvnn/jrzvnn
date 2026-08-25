@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You&#39;ll have to wait in line for Siri AI in iOS 27](https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss)
- - [Accelerated Understanding launches an enterprise-focused physics AI model that uses neural operators and handled 5T pieces of data in a single prompt in tests &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260825/p12#a260825p12)
- - [Xiaomi unveils the Xring O100, a 6nm AI accelerator to boost its MiMo models when paired with its O3 mobile chip, and the 3nm Xring D100 for autonomous driving &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260825/p11#a260825p11)
- - [Google is rolling out Motion Assist, a feature to reduce motion sickness by showing visual cues on the screen, to Android 17, starting with select Pixel devices &lpar;Adamya Sharma/Android Authority&rpar;](https://www.techmeme.com/260825/p10#a260825p10)
- - [I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
+ - [Fitbit co-founders James Park and Eric Friedman unveil the $250 Luffu Link, a screenless, jewelry-inspired LTE health and safety band, set to ship in early 2027 &lpar;Aisha Malik/TechCrunch&rpar;](https://www.techmeme.com/260825/p15#a260825p15)
+ - [Emerald AI, which uses AI to optimize data center power consumption based on grid demands, raised $150M led by DCVC and Energize Capital at a $1.05B valuation &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260825/p14#a260825p14)
+ - [OpenAI bans a cluster of Russian ChatGPT accounts that used VPNs to evade restrictions and run an influence operation, including creating social media comments &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/260825/p13#a260825p13)
+ - [CNET Finds 75% of US Adults Couldn’t Care Less About a Foldable iPhone](https://www.cnet.com/tech/mobile/foldable-phone-survey/)
+ - [You&#39;ll have to wait in line for Siri AI in iOS 27](https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

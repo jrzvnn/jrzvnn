@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers &lpar;Maxine Joselow/New York Times&rpar;](https://www.techmeme.com/260825/p35#a260825p35)
- - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
- - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
- - [Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX&#39;s $28.5T; Uber predicted $6T in 2019 &lpar;Corrie Driebusch/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p33#a260825p33)
- - [Why the new Mac Studio can support up to eight screens](https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss)<!-- TECH:END -->
+ - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
+ - [Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260825/p36#a260825p36)
+ - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
+ - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
+ - [The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers &lpar;Maxine Joselow/New York Times&rpar;](https://www.techmeme.com/260825/p35#a260825p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

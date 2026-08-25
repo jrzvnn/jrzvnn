@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very crucial update YouTube! &lpar;Follow arrow&rpar;](https://www.reddit.com/r/funny/comments/1vy3tz9/very_crucial_update_youtube_follow_arrow/)
- - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
- - 😝 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
- - 👉 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)<!-- MEMES:END -->
+ - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 💣 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
+ - 😝 [Homer lego meme](http://9gag.com/gag/aVvn25w)
+ - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 💣 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
- - 😝 [BTW: That&#39;s because it&#39;s deviled.](http://9gag.com/gag/aPANQqn)
- - 👉 [Core strength level expert](http://9gag.com/gag/aLnYG7M)<!-- MEMES:END -->
+ - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 😝 [Still better than Beyonce](http://9gag.com/gag/aByqXQO)
+ - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
 
 ---
 

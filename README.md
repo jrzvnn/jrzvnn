@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New M6 Mac mini keeps the three-display limit but raises refresh rates](https://appleinsider.com/articles/26/08/25/new-m6-mac-mini-keeps-the-three-display-limit-but-raises-refresh-rates?utm_source=rss)
+ - [Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen&#39;s ride via the driver&#39;s front-facing phone camera &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260825/p30#a260825p30)
+ - [Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst &lpar;Kylie Madry/Reuters&rpar;](https://www.techmeme.com/260825/p29#a260825p29)
  - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
- - [OpenAI says its Jalapeño chip can power faster AI responses than the competition](https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks)
  - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
- - [Apple raises Mac mini and Studio prices: the M6 and M5 Pro Mac mini are $899+ and $1,699+, $100 above M4 models, and the M5 Ultra Mac Studio is $5,499+, up $200 &lpar;Nicole Nguyen/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p23#a260825p23)<!-- TECH:END -->
+ - [Smart TV analytics look dire for Apple TV F1 viewership, but not whole story](https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

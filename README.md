@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July &lpar;Cam Wilson/ABC&rpar;](https://www.techmeme.com/260825/p3#a260825p3)
  - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
  - [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260825/p2#a260825p2)
  - [Unitree shares fell 45% after surging more than 5x in their August 19 Shanghai debut, cutting its valuation from $66B to $36B, raising robotics bubble concerns &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p1#a260825p1)
- - [Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)
- - [Sources: Nvidia-backed neocloud Lambda is in talks to raise up to $3B at a $12B+ valuation; its revenue this year is estimated to reach $1.5B+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p42#a260824p42)<!-- TECH:END -->
+ - [Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

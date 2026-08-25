@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
  - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 💣 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
+ - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
  - 😝 [Gehmailing successful!](http://9gag.com/gag/azxNZWN)
- - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 

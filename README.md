@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s ‘First Draft’ trims your Reels clips for you](https://www.theverge.com/tech/984463/instagram-first-draft-edit-reels)
- - [Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out &lpar;David Gewirtz/ZDNET&rpar;](https://www.techmeme.com/260825/p36#a260825p36)
- - [Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen](https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17)
- - [GeForce Now is getting support for the Steam Controller](https://www.theverge.com/games/984422/nvidia-geforce-now-steam-controller-machine-support)
- - [The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers &lpar;Maxine Joselow/New York Times&rpar;](https://www.techmeme.com/260825/p35#a260825p35)<!-- TECH:END -->
+ - [An ex-Meta staffer testified that less than 1% of teens used Instagram&#39;s opt-in &quot;Take a Break&quot; tool when it launched; the feature is now on by default for teens &lpar;Madlin Mekelburg/Bloomberg&rpar;](https://www.techmeme.com/260825/p38#a260825p38)
+ - [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
+ - [Adding AppleCare to Mac Studio &amp; Mac mini is later in the purchase process than before](https://appleinsider.com/articles/26/08/25/adding-applecare-to-mac-studio-mac-mini-is-later-in-the-purchase-process-than-before?utm_source=rss)
+ - [UK filing: in FY 2025, OnlyFans paid out $6.3B to creators, net revenue rose 10% YoY to $1.55B, and creator accounts hit 5M; 5,076 creators made $1M+ since 2016 &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260825/p37#a260825p37)
+ - [These Cookies Are 3D-Printed and Made of Recycled Plastic](https://www.cnet.com/science/cookies-from-recycled-plastic-siu-carbondale-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

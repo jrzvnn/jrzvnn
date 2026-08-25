@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber launches an optional safety feature allowing parents or guardians to watch a livestream of their teen&#39;s ride via the driver&#39;s front-facing phone camera &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260825/p30#a260825p30)
- - [Mexico-based Primero, which aims to modernize legacy software used by Latin American companies with AI, raised a $12M seed co-led by Kaszek and General Catalyst &lpar;Kylie Madry/Reuters&rpar;](https://www.techmeme.com/260825/p29#a260825p29)
- - [Mac Studio gets update to M5 Max and M5 Ultra](https://appleinsider.com/articles/26/08/25/mac-studio-gets-update-to-m5-max-and-m5-ultra?utm_source=rss)
- - [M6 Mac mini arrives with a new record-high starting price](https://appleinsider.com/articles/26/08/25/m6-mac-mini-arrives-in-ram-and-ssd-constrained-environment?utm_source=rss)
- - [Smart TV analytics look dire for Apple TV F1 viewership, but not whole story](https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s infamous Polishing Cloth drops to $9](https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss)
+ - [Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU &lpar;Eugene Demaitre/The Robot Report&rpar;](https://www.techmeme.com/260825/p32#a260825p32)
+ - [The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/)
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
+ - [A detailed look at Jalapeño, OpenAI&#39;s ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260825/p31#a260825p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

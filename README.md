@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost in Conjugation](https://www.reddit.com/r/funny/comments/1vxslm8/lost_in_conjugation/)
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 💣 [Bro don&#39;t need editing app.](http://9gag.com/gag/aqy3xNY)
- - 😝 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
- - 👉 [Yehaw. Good songs](http://9gag.com/gag/a7o4N7b)<!-- MEMES:END -->
+ - 😝 [Ooh no this poor man.](http://9gag.com/gag/aW4Kbpd)
+ - 😝 [Brutal](http://9gag.com/gag/ayNgRAq)
+ - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
- - 😝 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
- - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Now That&#39;s Magic Debee McGee...!](http://9gag.com/gag/aO8g1pv)
- - 👉 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)<!-- MEMES:END -->
+ - 😝 [Safety third :D](https://www.reddit.com/r/funny/comments/1vy1a68/safety_third_d/)
+ - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 💣 [Subway activates pvp mode](http://9gag.com/gag/aMVRvpx)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 👉 [I bet some people would eat that too](http://9gag.com/gag/azxNZYZ)<!-- MEMES:END -->
 
 ---
 

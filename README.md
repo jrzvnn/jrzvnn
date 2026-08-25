@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: OnlyFans parent Fenix paid late owner Leonid Radvinsky $709M in the months leading up to his death in March; FY 2025 revenue rose 10% YoY to $1.55B &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/260825/p4#a260825p4)
+ - [It Should Be Harder to Apply for a Job. No, Really](https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/)
+ - [OpenAI subpoenaed by Alabama AG over Hugging Face hack](https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack)
  - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/)
- - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)
- - [Australia&#39;s ARIA says songs created mostly or entirely by AI will be excluded from its charts; a song that used AI became the most-played song on radio in July &lpar;Cam Wilson/ABC&rpar;](https://www.techmeme.com/260825/p3#a260825p3)
- - [Omega Just Released a Mini Moonwatch](https://www.wired.com/story/omega-just-released-a-mini-moonwatch/)
- - [Bengaluru-based autonomous drone startup Airbound raised a $37M Series A led by Greenoaks, less than a year after an $8.65M seed, taking total funding to ~$50M &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260825/p2#a260825p2)<!-- TECH:END -->
+ - [Android is getting its own weird dots to cure car sickness](https://www.theverge.com/tech/984226/google-motion-assist-anti-nausea-car-sickness-cure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

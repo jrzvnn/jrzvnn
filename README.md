@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You&#39;ll have to wait in line for Siri AI in iOS 27](https://appleinsider.com/articles/26/08/25/youll-have-to-wait-in-line-for-siri-ai-in-ios-27?utm_source=rss)
+ - [Accelerated Understanding launches an enterprise-focused physics AI model that uses neural operators and handled 5T pieces of data in a single prompt in tests &lpar;Jeffrey Dastin/Reuters&rpar;](https://www.techmeme.com/260825/p12#a260825p12)
+ - [Xiaomi unveils the Xring O100, a 6nm AI accelerator to boost its MiMo models when paired with its O3 mobile chip, and the 3nm Xring D100 for autonomous driving &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/260825/p11#a260825p11)
  - [Google is rolling out Motion Assist, a feature to reduce motion sickness by showing visual cues on the screen, to Android 17, starting with select Pixel devices &lpar;Adamya Sharma/Android Authority&rpar;](https://www.techmeme.com/260825/p10#a260825p10)
- - [A profile of French software maker ChapsVision, which won a contract to replace Palantir at France&#39;s domestic intel agency in June and targets an IPO by 2030 &lpar;Adrienne Klasa/Financial Times&rpar;](https://www.techmeme.com/260825/p9#a260825p9)
- - [The 4 Best Car Phone Mounts I’ve Tried &lpar;2026&rpar;: Belkin, Andery, Andobil](https://www.wired.com/story/best-car-phone-mounts-and-holders/)
- - [The County Prosecutors Who Became ICE Informants](https://www.wired.com/story/the-county-prosecutors-who-became-ice-informants/)
- - [Greenworks’ MaximusZ electric riding mower has five motors and a few compromises](https://www.theverge.com/transportation/983980/greenworks-maximusz-electric-riding-mower-review-specs-price)<!-- TECH:END -->
+ - [I Tested Kitchen Composters for 2 Years. These Are the Ones I’d Buy &lpar;2026&rpar;](https://www.wired.com/story/home-composters-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

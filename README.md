@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [Core strength level expert](http://9gag.com/gag/aLnYG7M)
+ - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 😝 [Who \u2018 members?](http://9gag.com/gag/abAPWnp)
  - 💣 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
- - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
- - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
+ - 😝 [Don&#39;t use this knowledge for evil...maybe...](http://9gag.com/gag/aAyWX19)
+ - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 ---
 

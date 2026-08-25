@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is about to launch a new Mac mini, potentially before its September iPhone event; Apple has tested versions with M5 and M6 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260824/p41#a260824p41)
+ - [New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026](https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss)
+ - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users, after weeks without the restriction, saying it would smoothen the load on its compute &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260824/p40#a260824p40)
  - [Researchers detail the growing use of AI in cyberattacks across many Chinese state-linked groups, primarily using open-weight models like Kimi K3 and DeepSeek &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/260824/p39#a260824p39)
- - [Quintessent, a startup making optical interconnects for data centers, raised a $40M Series A led by Cycle Capital, following its $11.4M seed round in 2024 &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p38#a260824p38)
- - [Nuki Smart Lock &amp; Keypad 2 NFC review: A low-profile lock with Apple Home Key support](https://appleinsider.com/articles/26/08/25/nuki-smart-lock-keypad-2-nfc-review-a-low-profile-lock-with-apple-home-key-support?utm_source=rss)
- - [Smart TV analytics provide dire numbers for Apple TV F1 viewership, but not whole story](https://appleinsider.com/articles/26/08/25/smart-tv-analytics-provide-dire-numbers-for-apple-tv-f1-viewership-but-not-whole-story?utm_source=rss)
- - [Behind the Scenes of ESPN’s Animated Sports Alt-Casts](https://www.cnet.com/tech/services-and-software/behind-the-scenes-espn-animated-sports-alt-cast-disney-pixar/)<!-- TECH:END -->
+ - [Quintessent, a startup making optical interconnects for data centers, raised a $40M Series A led by Cycle Capital, following its $11.4M seed round in 2024 &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p38#a260824p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

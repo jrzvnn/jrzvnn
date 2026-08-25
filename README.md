@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Old but gold](http://9gag.com/gag/awyRd61)
- - 💣 [Brutal reality check delivered](http://9gag.com/gag/aXPD2Lb)
- - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/a9yQXmL)
- - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
+ - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 💣 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)
+ - 😝 [Gehmailing successful!](http://9gag.com/gag/azxNZWN)
+ - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh no this poor man.](http://9gag.com/gag/aW4Kbpd)
- - 😝 [Brutal](http://9gag.com/gag/ayNgRAq)
- - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
+ - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
+ - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
  - 😝 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
 
 ---
 

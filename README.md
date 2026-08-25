@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unitree shares fell 45% after surging more than 5x in their August 19 Shanghai debut, cutting its valuation from $66B to $36B, raising robotics bubble concerns &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p1#a260825p1)
  - [Data Centers Are Driving an Alarming Gas Power Expansion in the US](https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/)
  - [Sources: Nvidia-backed neocloud Lambda is in talks to raise up to $3B at a $12B+ valuation; its revenue this year is estimated to reach $1.5B+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p42#a260824p42)
  - [Sources: Apple is about to launch a new Mac mini, potentially before its September iPhone event; Apple has tested versions with M5 and M6 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260824/p41#a260824p41)
- - [New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026](https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss)
- - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users, after weeks without the restriction, saying it would smoothen the load on its compute &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260824/p40#a260824p40)<!-- TECH:END -->
+ - [New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026](https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

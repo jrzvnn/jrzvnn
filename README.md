@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JetBrains local model won&#39;t cost any tokens, but needs a $2,700 Mac mini to run it](https://appleinsider.com/articles/26/08/25/jetbrains-local-model-wont-cost-any-tokens-but-needs-a-2700-mac-mini-to-run-it?utm_source=rss)
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
  - [Skild AI unveils S1, a robotics foundation model that it says can learn tasks never seen during pretraining, using a single video demo, without fine-tuning &lpar;Skild AI&rpar;](https://www.techmeme.com/260825/p41#a260825p41)
  - [Apple Maps ads are finally showing up on iPhone](https://appleinsider.com/articles/26/08/25/apple-maps-ads-are-finally-showing-up-on-iphone?utm_source=rss)
- - [Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p40#a260825p40)
- - [M5 Ultra Mac Studio vs M3 Ultra Mac Studio: Apple&#39;s AI desktop, compared](https://appleinsider.com/inside/mac-studio/vs/m5-ultra-mac-studio-vs-m3-ultra-mac-studio-apples-ai-desktop-compared?utm_source=rss)
- - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)<!-- TECH:END -->
+ - [Sources: Chris Malone, who joined OpenAI as head of data centers in March 2025, left the company last week amid a broader exodus &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p40#a260825p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

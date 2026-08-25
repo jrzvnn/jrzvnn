@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50 cents it is!](http://9gag.com/gag/azxNGnj)
+ - 😝 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
  - 😝 [To be fair, nobody can blame them..](http://9gag.com/gag/an7pxyz)
  - 💣 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
- - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
+ - 😝 [Don&#39;t use this knowledge for evil...maybe...](http://9gag.com/gag/aAyWX19)
+ - 👉 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)<!-- MEMES:END -->
 
 ---
 

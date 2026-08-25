@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia-backed neocloud Lambda is in talks to raise up to $3B at a $12B+ valuation; its revenue this year is estimated to reach $1.5B+ &lpar;Bloomberg&rpar;](https://www.techmeme.com/260824/p42#a260824p42)
  - [Sources: Apple is about to launch a new Mac mini, potentially before its September iPhone event; Apple has tested versions with M5 and M6 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260824/p41#a260824p41)
  - [New Mac mini days away, OLED iPad mini in October, AirPods 5 in 2026](https://appleinsider.com/articles/26/08/25/new-mac-mini-days-away-oled-ipad-mini-in-october-airpods-5-in-2026?utm_source=rss)
  - [OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users, after weeks without the restriction, saying it would smoothen the load on its compute &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/260824/p40#a260824p40)
- - [Researchers detail the growing use of AI in cyberattacks across many Chinese state-linked groups, primarily using open-weight models like Kimi K3 and DeepSeek &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/260824/p39#a260824p39)
- - [Quintessent, a startup making optical interconnects for data centers, raised a $40M Series A led by Cycle Capital, following its $11.4M seed round in 2024 &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260824/p38#a260824p38)<!-- TECH:END -->
+ - [Researchers detail the growing use of AI in cyberattacks across many Chinese state-linked groups, primarily using open-weight models like Kimi K3 and DeepSeek &lpar;Mark Anderson/Bloomberg&rpar;](https://www.techmeme.com/260824/p39#a260824p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

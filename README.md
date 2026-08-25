@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An ex-Meta staffer testified that less than 1% of teens used Instagram&#39;s opt-in &quot;Take a Break&quot; tool when it launched; the feature is now on by default for teens &lpar;Madlin Mekelburg/Bloomberg&rpar;](https://www.techmeme.com/260825/p38#a260825p38)
- - [Bose’s smallest Bluetooth speaker is a great deal at 35 percent off](https://www.theverge.com/gadgets/984414/bose-soundlink-micro-seagate-game-drive-deal-sale)
- - [Adding AppleCare to Mac Studio &amp; Mac mini is later in the purchase process than before](https://appleinsider.com/articles/26/08/25/adding-applecare-to-mac-studio-mac-mini-is-later-in-the-purchase-process-than-before?utm_source=rss)
- - [UK filing: in FY 2025, OnlyFans paid out $6.3B to creators, net revenue rose 10% YoY to $1.55B, and creator accounts hit 5M; 5,076 creators made $1M+ since 2016 &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/260825/p37#a260825p37)
- - [These Cookies Are 3D-Printed and Made of Recycled Plastic](https://www.cnet.com/science/cookies-from-recycled-plastic-siu-carbondale-research/)<!-- TECH:END -->
+ - [Dreame’s dream of a rocket-powered car is dead](https://www.theverge.com/transportation/984485/dreame-rocket-car-shut-down)
+ - [Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel &lpar;Anna Heim/TechCrunch&rpar;](https://www.techmeme.com/260825/p39#a260825p39)
+ - [Google Pixel 11 Pro Fold Review: Better, Not Best](https://www.wired.com/review/google-pixel-11-pro-fold/)
+ - [Apple Quietly Fixes iCloud Private Relay Vulnerability in iOS 26.6.1](https://www.cnet.com/tech/services-and-software/apple-quietly-fixes-icloud-private-relay-vulnerability-in-ios-26-6-1/)
+ - [The US Just Recorded Its First 2 Measles Deaths This Year](https://www.wired.com/story/us-recorded-first-measles-deaths-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

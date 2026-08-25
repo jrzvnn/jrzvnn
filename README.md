@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [When the darkness seeps out in the wrong room](http://9gag.com/gag/ae9o7pp)
- - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
+ - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 😝 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 👉 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)<!-- MEMES:END -->
 
 ---
 

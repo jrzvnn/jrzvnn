@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 😝 [No Woman No Cry](http://9gag.com/gag/avyYR0O)
  - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 💣 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
- - 😝 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)
- - 👉 [No Woman No Cry](http://9gag.com/gag/avyYR0O)<!-- MEMES:END -->
+ - 💣 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)
+ - 😝 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)
+ - 👉 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)
  - [State AGs&#39; trial: Adam Mosseri denies Instagram stalled by not making its &quot;Take a Break&quot; teen safety feature the default until nearly three years after launch &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p45#a260825p45)
+ - [WhatsApp Adds Security Measures to Help Prevent Accounts From Being Hacked](https://www.cnet.com/tech/services-and-software/whatsapp-adds-security-measures-to-help-prevent-accounts-from-being-hacked/)
  - [Witcher 3 Remastered Will Be Free in September With New Expansion Coming in 2027](https://www.cnet.com/tech/witcher-3-remastered-will-be-free-in-september-with-new-expansion-coming-in-2027/)
- - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
- - [Garmin’s new Fenix 9 adds brighter screens and smoother map panning](https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch)
- - [Nitter, an open-source front end that let users read X without an account, says X sent cease-and-desist letters demanding a takedown; Nitter.net is now offline &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260825/p44#a260825p44)<!-- TECH:END -->
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

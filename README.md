@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s infamous Polishing Cloth drops to $9](https://appleinsider.com/articles/26/08/25/apples-infamous-polishing-cloth-drops-to-9?utm_source=rss)
- - [Nvidia unveils the Jetson Orin Nano 2 edge AI computer that it says doubles inference performance, with 78 TOPS of AI compute and an eight-core Arm CPU &lpar;Eugene Demaitre/The Robot Report&rpar;](https://www.techmeme.com/260825/p32#a260825p32)
- - [The Supreme Court’s Mail-In Ballot Ruling Is a Step Toward Chaos in the Midterms](https://www.wired.com/story/the-supreme-courts-mail-in-ballot-ruling-is-a-step-toward-chaos-in-the-midterms/)
- - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)
- - [A detailed look at Jalapeño, OpenAI&#39;s ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/260825/p31#a260825p31)<!-- TECH:END -->
+ - [The EPA plans to eliminate a federal rule that US states must publicize and solicit public input on air pollution permit applications for data centers &lpar;Maxine Joselow/New York Times&rpar;](https://www.techmeme.com/260825/p35#a260825p35)
+ - [Stability AI, which has deals with UMG, WMG, and EA to build AI models from their IP, raised a $76M Series B from them, Sony Music, and others &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260825/p34#a260825p34)
+ - [Polestar claims it was blindsided by sales ban](https://www.theverge.com/transportation/984390/polestar-blindsided-sales-ban-letter-dealer-trump)
+ - [Sources: Anthropic is likely to tell IPO investors that its potential revenue opportunities are above $30T, topping SpaceX&#39;s $28.5T; Uber predicted $6T in 2019 &lpar;Corrie Driebusch/Wall Street Journal&rpar;](https://www.techmeme.com/260825/p33#a260825p33)
+ - [Why the new Mac Studio can support up to eight screens](https://appleinsider.com/articles/26/08/25/why-the-new-mac-studio-can-support-up-to-eight-screens?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time to embrace the classics](http://9gag.com/gag/aRB5vVq)
+ - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
  - 😝 [I don\u2019t see any male performers complaining](http://9gag.com/gag/aPANQLg)
- - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 😝 [This is Dog of Luck. You must pet to pass.](http://9gag.com/gag/aLnYXvA)
- - 👉 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)<!-- MEMES:END -->
+ - 💣 [Processed food in the US is really something.](http://9gag.com/gag/amojxx6)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 👉 [Hello, 9gag!](http://9gag.com/gag/adBZxGj)<!-- MEMES:END -->
 
 ---
 

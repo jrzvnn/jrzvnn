@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey: 28% of Americans use AI chatbots to get health information quickly, 25% to figure out symptom causes, and 22% to get health information at no cost &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260826/p8#a260826p8)
+ - [A look at China&#39;s push to automate manufacturing, which employs 120 million people, amid a shrinking population and aging workforce, raising job loss concerns &lpar;Laura Bicker/BBC&rpar;](https://www.techmeme.com/260826/p7#a260826p7)
+ - [Source: Transport for London&#39;s delay in producing robotaxi guidance has frustrated some prospective operators, who play down the chances of starting this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p6#a260826p6)
  - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)
- - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)
- - [Indian AI infrastructure company AM Intelligence orders 9,000 Nvidia Vera Rubin systems and plans to offer 1GW of computing capacity as part of an $8B project &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260826/p3#a260826p3)
- - [AirDoctor Coupon Codes: 40% Off | August 2026](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

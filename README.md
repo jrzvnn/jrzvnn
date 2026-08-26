@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta reaches a settlement to resolve 29 US states&#39; claims under COPPA that it designed Instagram and Facebook to addict children and misled consumers &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p28#a260826p28)
- - [Volodymyr Zelenskyy awards Elon Musk with Ukraine&#39;s Order of Freedom; sources say Zelenskyy asked Musk to authorize Starlink use up to 200km inside Russia &lpar;Fabrice Deprez/Financial Times&rpar;](https://www.techmeme.com/260826/p27#a260826p27)
- - [PeopleFinders’ New Website Runs Background Checks on Your Dates](https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/)
- - [Ring says its new encryption limits what it can give police](https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement)
- - [Alibaba releases Qwen3.8-Flash, an open-weight, 125B-parameter model built on its next-gen Qwen 4 architecture, saying it rivals Opus 4.6 and V4-Flash &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260826/p26#a260826p26)<!-- TECH:END -->
+ - [Microsoft’s 25th anniversary Xbox will cost $899](https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price)
+ - [Meta agrees $18B settlement to end teen social hygiene lawsuit](https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss)
+ - [World&#39;s best selling smartphone is the iPhone 17 - again](https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss)
+ - [Elden Ring on the Switch 2 isn&amp;#8217;t tarnished](https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review)
+ - [You can now buy music on SoundCloud](https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

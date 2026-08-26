@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
- - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
- - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
- - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
+ - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 😝 [Chill the f**k out 2026! RIP Tim Curry](http://9gag.com/gag/ary68r6)
+ - 👉 [Bro was too honest](http://9gag.com/gag/axyxPm1)<!-- MEMES:END -->
 
 ---
 

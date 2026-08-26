@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
- - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
+ - 😝 [Bro was too honest](http://9gag.com/gag/axyxPm1)
+ - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
+ - 💣 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 😝 [Stres](http://9gag.com/gag/aXPD272)
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 

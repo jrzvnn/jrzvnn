@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: Meta explored slashing many teams by ~60% to become &quot;AI native&quot;, but pulled back after staff revolted and data showed AI agents were ineffective &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260826/p21#a260826p21)
- - [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/)
- - [Shanghai-based MiniMax reports H1 2026 revenue up 283% YoY to ~$116.6M, above 2025&#39;s 159% YoY growth, as its M3 model lags behind rivals like Z.ai&#39;s GLM-5.2 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260826/p20#a260826p20)
- - [Green Chef Meal Kit Review &lpar;2026&rpar;: Great Ingredients, Layered Flavor](https://www.wired.com/review/green-chef-meal-kit-2026/)
- - [Sources and documents: Huawei proposes exporting its high-end Ascend 950-series chips to build Egyptian government AI data centers, testing US tech diplomacy &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260826/p19#a260826p19)<!-- TECH:END -->
+ - [Public polling suggests the US&#39; severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment &lpar;Andy Masley&rpar;](https://www.techmeme.com/260826/p23#a260826p23)
+ - [M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive](https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss)
+ - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
+ - [Q&amp;A with SemiAnalysis founder Dylan Patel on Anthropic and OpenAI controlling global compute, $11T of AI capex between 2024 and 2029, China&#39;s compute, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260826/p22#a260826p22)
+ - [OpenAI&#39;s lawsuit delays cause more harm every day, says Apple](https://appleinsider.com/articles/26/08/26/openais-lawsuit-delays-cause-more-harm-every-day-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

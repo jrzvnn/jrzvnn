@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
+ - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 😝 [Caffeine addiction in a nutshell](http://9gag.com/gag/aYQ8ARV)
  - 👉 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)<!-- MEMES:END -->
 
 ---

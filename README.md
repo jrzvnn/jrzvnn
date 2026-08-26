@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental institution it is](http://9gag.com/gag/ae9o2RW)
- - 😝 [100% Artist, 0% Greed, 0% political bullshit, 100% Heart](http://9gag.com/gag/ae9o7Db)
- - 💣 [Teach &#39;Em Early](http://9gag.com/gag/awyR49W)
- - 😝 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
- - 👉 [Understandable. Have a nice day](http://9gag.com/gag/amojpxv)<!-- MEMES:END -->
+ - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
+ - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
 
 ---
 

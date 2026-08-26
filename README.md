@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: YMTC, which seeks to raise $5B in an IPO, told investors in IPO prep meetings that it aims to become the largest NAND flash supplier by the end of 2027 &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p2#a260826p2)
- - [Digs, which is building AI software for residential construction, raised a $25.3M Series A led by building materials giant Builders FirstSource &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260826/p1#a260826p1)
- - [Pennsylvania&#39;s AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok &lpar;Miranda Nazzaro/The Hill&rpar;](https://www.techmeme.com/260825/p49#a260825p49)
- - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)
- - [AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260825/p47#a260825p47)<!-- TECH:END -->
+ - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)
+ - [Indian AI infrastructure company AM Intelligence orders 9,000 Nvidia Vera Rubin systems and plans to offer 1GW of computing capacity as part of an $8B project &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/260826/p3#a260826p3)
+ - [AirDoctor Coupon Codes: 40% Off | August 2026](https://www.wired.com/story/airdoctor-coupon-code/)
+ - [Corsair Discount Code: Up to 50% Off for August 2026](https://www.wired.com/story/corsair-coupon/)
+ - [Google Workspace Promo Codes: 14% Off for August 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

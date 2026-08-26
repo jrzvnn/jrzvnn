@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
- - 😝 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
- - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 😝 [Caffeine addiction in a nutshell](http://9gag.com/gag/aYQ8ARV)
+ - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 😝 [Understandable. Have a nice day](http://9gag.com/gag/amojpxv)
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
  - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---

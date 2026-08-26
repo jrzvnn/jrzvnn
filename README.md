@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US AI data center buildout is posing complex challenges to major lenders as they stretch themselves to finance, insure, and underwrite a novel asset class &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p9#a260826p9)
  - [Survey: 28% of Americans use AI chatbots to get health information quickly, 25% to figure out symptom causes, and 22% to get health information at no cost &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260826/p8#a260826p8)
  - [A look at China&#39;s push to automate manufacturing, which employs 120 million people, amid a shrinking population and aging workforce, raising job loss concerns &lpar;Laura Bicker/BBC&rpar;](https://www.techmeme.com/260826/p7#a260826p7)
  - [Source: Transport for London&#39;s delay in producing robotaxi guidance has frustrated some prospective operators, who play down the chances of starting this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p6#a260826p6)
- - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)
- - [HP signs a multi-year global agreement with Huawei to license certain standard essential Wi-Fi patents, a sign of adoption of Huawei&#39;s technology outside China &lpar;Evelyn Cheng/CNBC&rpar;](https://www.techmeme.com/260826/p4#a260826p4)<!-- TECH:END -->
+ - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

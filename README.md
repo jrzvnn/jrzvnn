@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
  - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
+ - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
+ - 👉 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)
- - [Bill Gates says his Jeffrey Epstein association was a &quot;huge mistake&quot; driven by a desire to raise funds, and hopes the ties will not undermine his AI arguments &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260826/p16#a260826p16)
- - [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter&#39;s leaderboard &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260826/p15#a260826p15)
- - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
- - [Bill Gates says tech executives are privately &quot;very worried&quot; about AI disruption but publicly downplay the risks to protect fundraising and planned IPOs &lpar;Karen Weise/New York Times&rpar;](https://www.techmeme.com/260826/p14#a260826p14)<!-- TECH:END -->
+ - [Sources and documents: Huawei proposes exporting its high-end Ascend 950-series chips to build Egyptian government AI data centers, testing US tech diplomacy &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260826/p19#a260826p19)
+ - [A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei&#39;s chief of staff &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p18#a260826p18)
+ - [Sources: Moonshot AI is in early talks over revenue-sharing agreements with Microsoft, Amazon, and Google to host Kimi K3, and is seeking up to a 30% share &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p17#a260826p17)
+ - [How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range](https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/)
+ - [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 💣 [Rip](http://9gag.com/gag/aRB5Omj)
- - 😝 [Dads after learning one trick](http://9gag.com/gag/ajPbZLQ)
- - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
+ - 😝 [Mental institution it is](http://9gag.com/gag/ae9o2RW)
+ - 😝 [100% Artist, 0% Greed, 0% political bullshit, 100% Heart](http://9gag.com/gag/ae9o7Db)
+ - 💣 [Teach &#39;Em Early](http://9gag.com/gag/awyR49W)
+ - 😝 [For educational purposes only](http://9gag.com/gag/a2vBbW9)
+ - 👉 [Understandable. Have a nice day](http://9gag.com/gag/amojpxv)<!-- MEMES:END -->
 
 ---
 

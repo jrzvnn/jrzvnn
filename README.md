@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US AI data center buildout is posing complex challenges to major lenders as they stretch themselves to finance, insure, and underwrite a novel asset class &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p9#a260826p9)
- - [Survey: 28% of Americans use AI chatbots to get health information quickly, 25% to figure out symptom causes, and 22% to get health information at no cost &lpar;Pew Research Center&rpar;](https://www.techmeme.com/260826/p8#a260826p8)
- - [A look at China&#39;s push to automate manufacturing, which employs 120 million people, amid a shrinking population and aging workforce, raising job loss concerns &lpar;Laura Bicker/BBC&rpar;](https://www.techmeme.com/260826/p7#a260826p7)
- - [Source: Transport for London&#39;s delay in producing robotaxi guidance has frustrated some prospective operators, who play down the chances of starting this year &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p6#a260826p6)
- - [Intel reveals that Xeon 7, aimed at HPC and debuting in 2027, will support up to 256 cores and 22 chiplets, with 16 built on its bleeding-edge 18A-P process &lpar;Tobias Mann/The Register&rpar;](https://www.techmeme.com/260826/p5#a260826p5)<!-- TECH:END -->
+ - [Bill Gates says &quot;the AI era will be one of the most turbulent times in human history&quot; and &quot;we are not preparing adequately&quot;, calling for a regulatory framework &lpar;Bill Gates/GatesNotes&rpar;](https://www.techmeme.com/260826/p13#a260826p13)
+ - [Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260826/p12#a260826p12)
+ - [Navitas Semiconductor agrees to buy Claros, which develops data center power management hardware and software, for ~$232.8M; Claros raised a $30M seed in March &lpar;Nate Doughty/Washington ...&rpar;](https://www.techmeme.com/260826/p11#a260826p11)
+ - [Sources: DeepSeek generated $70.7M in revenue and posted a $106M net loss in the first seven months of 2026, ~10x its full-year 2025 revenue on a $139M net loss &lpar;The Information&rpar;](https://www.techmeme.com/260826/p10#a260826p10)
+ - [The US AI data center buildout is posing complex challenges to major lenders as they stretch themselves to finance, insure, and underwrite a novel asset class &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p9#a260826p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

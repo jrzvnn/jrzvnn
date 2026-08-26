@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was too honest](http://9gag.com/gag/axyxPm1)
  - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
- - 💣 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 😝 [Stres](http://9gag.com/gag/aXPD272)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
+ - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
 
 ---
 

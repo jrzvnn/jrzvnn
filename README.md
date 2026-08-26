@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Public polling suggests the US&#39; severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment &lpar;Andy Masley&rpar;](https://www.techmeme.com/260826/p23#a260826p23)
- - [M5 Max Mac Studio vs. M4 Max Mac Studio: Faster, more expensive](https://appleinsider.com/articles/26/08/26/m5-max-mac-studio-vs-m4-max-mac-studio-faster-more-expensive?utm_source=rss)
- - [Best Wi-Fi Routers &lpar;2026&rpar;: My Honest Picks After Testing 50+](https://www.wired.com/gallery/best-wifi-routers/)
- - [Q&amp;A with SemiAnalysis founder Dylan Patel on Anthropic and OpenAI controlling global compute, $11T of AI capex between 2024 and 2029, China&#39;s compute, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260826/p22#a260826p22)
- - [OpenAI&#39;s lawsuit delays cause more harm every day, says Apple](https://appleinsider.com/articles/26/08/26/openais-lawsuit-delays-cause-more-harm-every-day-says-apple?utm_source=rss)<!-- TECH:END -->
+ - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
+ - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)
+ - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
+ - [Rockstar says GTA 6 gameplay leaking &quot;in this way has been heartbreaking&quot;, calling it &quot;unfortunate&quot; that the &quot;game experience may now be impacted&quot; by spoilers &lpar;John Walker/Kotaku&rpar;](https://www.techmeme.com/260826/p24#a260826p24)
+ - [Public polling suggests the US&#39; severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment &lpar;Andy Masley&rpar;](https://www.techmeme.com/260826/p23#a260826p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI publishes a technical report on the Hugging Face incident, detailing the agents&#39; activity, safeguard failures, and measures to prevent recurrence &lpar;OpenAI&rpar;](https://www.techmeme.com/260826/p50#a260826p50)
- - [Medical device manufacturer Boston Scientific says a cyberattack disrupted some of its IT systems and global operations, including order processing and shipping &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260826/p49#a260826p49)
- - [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
- - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
- - [Apple&#39;s iPhone Ultra could mark the return of a red iPhone](https://appleinsider.com/articles/26/08/26/apples-iphone-ultra-could-mark-the-return-of-a-red-iphone?utm_source=rss)<!-- TECH:END -->
+ - [MLB The Show 26 Headlines a Surprisingly Underwhelming PlayStation Plus Month](https://www.cnet.com/tech/gaming/playstation-plus-september-2026-mlb-the-show-26/)
+ - [Brazil&#39;s government sues Discord for $97M, accusing it of failing to comply with laws protecting children and teens; Discord calls the lawsuit disproportionate &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p59#a260826p59)
+ - [How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood](https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/)
+ - [Internal email: Google is moving DeepMind&#39;s ~90-person &quot;AI responsibility&quot; team, focused on the risks and societal impact of AI, to Google&#39;s global affairs unit &lpar;Erin Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p58#a260826p58)
+ - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

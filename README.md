@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
  - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 💣 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
  - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
+ - 👉 [They demand two things, no digital release and in-game purchases. They have deadman switch if they ever get caught.](http://9gag.com/gag/azxNRPZ)<!-- MEMES:END -->
 
 ---
 

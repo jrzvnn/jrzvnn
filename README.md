@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
- - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
+ - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
  - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
- - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
+ - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
 
 ---
 

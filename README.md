@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
+ - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)
  - [Luffu’s New Health and Safety Wearable Isn’t Just for You. It’s for Your Entire Family](https://www.cnet.com/tech/mobile/new-health-safety-wearable-for-entire-family/)
  - [State AGs&#39; trial: Adam Mosseri denies Instagram stalled by not making its &quot;Take a Break&quot; teen safety feature the default until nearly three years after launch &lpar;Reuters&rpar;](https://www.techmeme.com/260825/p45#a260825p45)
- - [WhatsApp Adds Security Measures to Help Prevent Accounts From Being Hacked](https://www.cnet.com/tech/services-and-software/whatsapp-adds-security-measures-to-help-prevent-accounts-from-being-hacked/)
- - [Witcher 3 Remastered Will Be Free in September With New Expansion Coming in 2027](https://www.cnet.com/tech/witcher-3-remastered-will-be-free-in-september-with-new-expansion-coming-in-2027/)
- - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
+ - [WhatsApp Adds Security Measures to Help Prevent Accounts From Being Hacked](https://www.cnet.com/tech/services-and-software/whatsapp-adds-security-measures-to-help-prevent-accounts-from-being-hacked/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

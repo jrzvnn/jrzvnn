@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)
+ - [Bill Gates says his Jeffrey Epstein association was a &quot;huge mistake&quot; driven by a desire to raise funds, and hopes the ties will not undermine his AI arguments &lpar;Ina Fried/Axios&rpar;](https://www.techmeme.com/260826/p16#a260826p16)
+ - [Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter&#39;s leaderboard &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260826/p15#a260826p15)
  - [A Mutation Is Making It Easier for Drug-Resistant Malaria to Spread](https://www.wired.com/story/genetic-mutation-drug-resistant-malaria-spread/)
- - [Bill Gates says tech executives are privately &quot;very worried&quot; about AI disruption but publicly downplay the risks to protect fundraising and planned IPOs &lpar;Karen Weise/New York Times&rpar;](https://www.techmeme.com/260826/p14#a260826p14)
- - [Bill Gates says &quot;the AI era will be one of the most turbulent times in human history&quot; and &quot;we are not preparing adequately&quot;, calling for a regulatory framework &lpar;Bill Gates/GatesNotes&rpar;](https://www.techmeme.com/260826/p13#a260826p13)
- - [Revolut rolls out its euro-pegged stablecoin EURR, initially to eligible customers in Denmark, Poland, and Portugal; Stripe-owned Bridge issues the stablecoin &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260826/p12#a260826p12)
- - [Navitas Semiconductor agrees to buy Claros, which develops data center power management hardware and software, for ~$232.8M; Claros raised a $30M seed in March &lpar;Nate Doughty/Washington ...&rpar;](https://www.techmeme.com/260826/p11#a260826p11)<!-- TECH:END -->
+ - [Bill Gates says tech executives are privately &quot;very worried&quot; about AI disruption but publicly downplay the risks to protect fundraising and planned IPOs &lpar;Karen Weise/New York Times&rpar;](https://www.techmeme.com/260826/p14#a260826p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

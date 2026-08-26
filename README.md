@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s 25th anniversary Xbox will cost $899](https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price)
- - [Meta agrees $18B settlement to end teen social hygiene lawsuit](https://appleinsider.com/articles/26/08/26/meta-agrees-18b-settlement-to-end-teen-social-hygiene-lawsuit?utm_source=rss)
- - [World&#39;s best selling smartphone is the iPhone 17 - again](https://appleinsider.com/articles/26/08/26/worlds-best-selling-smartphone-is-the-iphone-17---again?utm_source=rss)
- - [Elden Ring on the Switch 2 isn&amp;#8217;t tarnished](https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review)
- - [You can now buy music on SoundCloud](https://www.theverge.com/entertainment/984926/soundcloud-direct-music-sales-beta-launch)<!-- TECH:END -->
+ - [The US DOJ says it disrupted a Chinese hacking operation responsible for break-ins at the DOJ, NASA, the Fed, Senate, and others, seizing two platforms&#39; domains &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p37#a260826p37)
+ - [In Q2, Apple&#39;s base iPhone 17 was the global best-selling smartphone, with a 6% share, followed by the iPhone 17 Pro Max; Apple and Samsung had all 10 top spots &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260826/p36#a260826p36)
+ - [Xbox announces disc-to-digital feature that digitizes your physical games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official)
+ - [Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at &quot;one-tenth the price&quot; &lpar;Z.ai&rpar;](https://www.techmeme.com/260826/p35#a260826p35)
+ - [Sources: Sword Health plans to acquire mental health company Headspace for between $200M and $300M in cash, far below its ~$3B valuation in 2021 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260826/p34#a260826p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

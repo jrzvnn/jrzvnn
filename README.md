@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Ultra motherboard may just have leaked](https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss)
- - [Apple announces a &quot;Surprise and shine&quot; event on September 9 at 10am PT at Apple Park, where its first foldable iPhone, iPhone 18 Pro, and more are expected &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260826/p44#a260826p44)
- - [Deep Cogito, which develops open-weight models and helps companies build their own specialized AI models, raised a $43M Series A led by TQ Ventures &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p43#a260826p43)
- - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)
- - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)<!-- TECH:END -->
+ - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
+ - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
+ - [Meta agrees to pay up to $18B to settle US states&#39; claims that it designed Facebook and Instagram to addict children, misled consumers, and more &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p47#a260826p47)
+ - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
+ - [Sources: Anthropic has agreed to pay Nscale $45B over six years to rent about 460MW of power at a West Virginia data center using Nvidia&#39;s Vera Rubin chips &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260826/p46#a260826p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

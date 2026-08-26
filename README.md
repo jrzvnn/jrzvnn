@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Stres](http://9gag.com/gag/aXPD272)
+ - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
+ - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
  - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 😝 [Understandable. Have a nice day](http://9gag.com/gag/amojpxv)
- - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
  - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---

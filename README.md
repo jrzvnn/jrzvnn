@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stres](http://9gag.com/gag/aXPD272)
+ - 😝 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
  - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 💣 [Rip](http://9gag.com/gag/aRB5Omj)
+ - 😝 [Dads after learning one trick](http://9gag.com/gag/ajPbZLQ)
  - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---

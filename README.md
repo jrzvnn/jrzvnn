@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
- - 😝 [Chill the f**k out 2026! RIP Tim Curry](http://9gag.com/gag/ary68r6)
- - 👉 [Bro was too honest](http://9gag.com/gag/axyxPm1)<!-- MEMES:END -->
+ - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
+ - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
+ - 👉 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)<!-- MEMES:END -->
 
 ---
 

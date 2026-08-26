@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental institution it is](http://9gag.com/gag/ae9o2RW)
- - 😝 [Don&#39;t skip leg day](http://9gag.com/gag/a9yQXmL)
- - 💣 [Teach &#39;Em Early](http://9gag.com/gag/awyR49W)
- - 😝 [The early bird gets the worm](http://9gag.com/gag/a5QmjrO)
- - 👉 [For educational purposes only](http://9gag.com/gag/a2vBbW9)<!-- MEMES:END -->
+ - 😝 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
+ - 😝 [Dayum](http://9gag.com/gag/a5Qm20o)
+ - 💣 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 👉 [Lost her rizz](http://9gag.com/gag/agmM4dv)<!-- MEMES:END -->
 
 ---
 

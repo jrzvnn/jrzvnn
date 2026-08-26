@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
  - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
- - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [Replacing problems with opportunities](http://9gag.com/gag/aO8gRq3)
- - 👉 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)<!-- MEMES:END -->
+ - 💣 [Im I a inferior copy](http://9gag.com/gag/aXPD206)
+ - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
+ - 👉 [You are not a garage](http://9gag.com/gag/aoyr81n)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ says it disrupted a Chinese hacking operation responsible for break-ins at the DOJ, NASA, the Fed, Senate, and others, seizing two platforms&#39; domains &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p37#a260826p37)
- - [In Q2, Apple&#39;s base iPhone 17 was the global best-selling smartphone, with a 6% share, followed by the iPhone 17 Pro Max; Apple and Samsung had all 10 top spots &lpar;Counterpoint Research&rpar;](https://www.techmeme.com/260826/p36#a260826p36)
- - [Xbox announces disc-to-digital feature that digitizes your physical games](https://www.theverge.com/tech/984936/xbox-disc-to-digital-feature-official)
- - [Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, saying it outperforms GLM-5.2 at &quot;one-tenth the price&quot; &lpar;Z.ai&rpar;](https://www.techmeme.com/260826/p35#a260826p35)
- - [Sources: Sword Health plans to acquire mental health company Headspace for between $200M and $300M in cash, far below its ~$3B valuation in 2021 &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260826/p34#a260826p34)<!-- TECH:END -->
+ - [iPhone Ultra motherboard may just have leaked](https://appleinsider.com/articles/26/08/26/iphone-ultra-motherboard-may-just-have-leaked?utm_source=rss)
+ - [Apple announces a &quot;Surprise and shine&quot; event on September 9 at 10am PT at Apple Park, where its first foldable iPhone, iPhone 18 Pro, and more are expected &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260826/p44#a260826p44)
+ - [Deep Cogito, which develops open-weight models and helps companies build their own specialized AI models, raised a $43M Series A led by TQ Ventures &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p43#a260826p43)
+ - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)
+ - [Apple announces September iPhone launch event](https://www.theverge.com/tech/983407/apple-iphone-launch-event-2026-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

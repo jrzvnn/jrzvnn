@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents: Huawei proposes exporting its high-end Ascend 950-series chips to build Egyptian government AI data centers, testing US tech diplomacy &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260826/p19#a260826p19)
- - [A profile of Leopold Aschenbrenner, who worked for SBF and OpenAI before launching Situational Awareness; Aschenbrenner married Dario Amodei&#39;s chief of staff &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260826/p18#a260826p18)
- - [Sources: Moonshot AI is in early talks over revenue-sharing agreements with Microsoft, Amazon, and Google to host Kimi K3, and is seeking up to a 30% share &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p17#a260826p17)
- - [How Ikea Turned a Controller Thumbstick Into the Star of Its Xbox Gaming Range](https://www.wired.com/story/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/)
- - [Ikea’s Xbox collection includes a giant thumbstick stool](https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool)<!-- TECH:END -->
+ - [Investigation: Meta explored slashing many teams by ~60% to become &quot;AI native&quot;, but pulled back after staff revolted and data showed AI agents were ineffective &lpar;Katie Paul/Reuters&rpar;](https://www.techmeme.com/260826/p21#a260826p21)
+ - [AI Slop Is Ruining Cute Animals on the Internet](https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/)
+ - [Shanghai-based MiniMax reports H1 2026 revenue up 283% YoY to ~$116.6M, above 2025&#39;s 159% YoY growth, as its M3 model lags behind rivals like Z.ai&#39;s GLM-5.2 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260826/p20#a260826p20)
+ - [Green Chef Meal Kit Review &lpar;2026&rpar;: Great Ingredients, Layered Flavor](https://www.wired.com/review/green-chef-meal-kit-2026/)
+ - [Sources and documents: Huawei proposes exporting its high-end Ascend 950-series chips to build Egyptian government AI data centers, testing US tech diplomacy &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260826/p19#a260826p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

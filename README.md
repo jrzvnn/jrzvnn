@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A man called off his wedding because his finance supported Lindsay Clancy](http://9gag.com/gag/aD2pVBB)
+ - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
+ - 💣 [Lost her rizz](http://9gag.com/gag/agmM4dv)
  - 😝 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 😝 [Lost her rizz](http://9gag.com/gag/agmM4dv)
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [Homer lego meme](http://9gag.com/gag/aVvn25w)
- - 👉 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)<!-- MEMES:END -->
+ - 👉 [Dayum](http://9gag.com/gag/a5Qm20o)<!-- MEMES:END -->
 
 ---
 

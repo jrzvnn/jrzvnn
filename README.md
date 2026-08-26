@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granny was ready](http://9gag.com/gag/a1mzLD2)
- - 😝 [She had no idea back then. And neither did we](http://9gag.com/gag/aKG0OxN)
- - 💣 [Dayum](http://9gag.com/gag/a5Qm20o)
- - 😝 [Cats don&#39;t need Wings](http://9gag.com/gag/aRB5ODy)
- - 👉 [NCAA National Champion Lucas Byrd and his wife Ellie](http://9gag.com/gag/ayNgQgV)<!-- MEMES:END -->
+ - 😝 [Rip](http://9gag.com/gag/aRB5Omj)
+ - 😝 [Ungrateful Kid](http://9gag.com/gag/ayNgR9X)
+ - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
+ - 😝 [Caffeine addiction in a nutshell](http://9gag.com/gag/aYQ8ARV)
+ - 👉 [Sinister](http://9gag.com/gag/aLnYmXz)<!-- MEMES:END -->
 
 ---
 

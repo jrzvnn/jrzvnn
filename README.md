@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: YMTC, which seeks to raise $5B in an IPO, told investors in IPO prep meetings that it aims to become the largest NAND flash supplier by the end of 2027 &lpar;Financial Times&rpar;](https://www.techmeme.com/260826/p2#a260826p2)
+ - [Digs, which is building AI software for residential construction, raised a $25.3M Series A led by building materials giant Builders FirstSource &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260826/p1#a260826p1)
  - [Pennsylvania&#39;s AG sues Snap, alleging Snapchat fails to protect teens from compulsively using the app, two weeks after filing a similar lawsuit against TikTok &lpar;Miranda Nazzaro/The Hill&rpar;](https://www.techmeme.com/260825/p49#a260825p49)
  - [Sources: Meta and state AGs have discussed a possible mid-trial settlement of the social media addiction lawsuit, which is currently in its second week of trial &lpar;Bloomberg&rpar;](https://www.techmeme.com/260825/p48#a260825p48)
- - [AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260825/p47#a260825p47)
- - [Asus ROG Kithara headset review: Audiophile gaming](https://appleinsider.com/articles/26/08/26/asus-rog-kithara-headset-review-audiophile-gaming?utm_source=rss)
- - [South Korean AI services platform Wrtn raised a ~$72.2M Series C at a $722M+ valuation, bringing its total funding to ~$166M &lpar;Joyce Lee/Reuters&rpar;](https://www.techmeme.com/260825/p46#a260825p46)<!-- TECH:END -->
+ - [AWS says it plans to shut down Mechanical Turk on September 30, 2026, following an assessment; the service, launched in 2005, outsourced tasks to humans &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/260825/p47#a260825p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

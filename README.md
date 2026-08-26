@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch 2’s $50 price increase is happening next week](https://www.theverge.com/gadgets/984331/switch-2-price-increase-psa)
- - [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/)
- - [Meta agrees to pay up to $18B to settle US states&#39; claims that it designed Facebook and Instagram to addict children, misled consumers, and more &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p47#a260826p47)
- - [Apple Maps has ads now](https://www.theverge.com/tech/985249/apple-maps-iphone-ads)
- - [Sources: Anthropic has agreed to pay Nscale $45B over six years to rent about 460MW of power at a West Virginia data center using Nvidia&#39;s Vera Rubin chips &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/260826/p46#a260826p46)<!-- TECH:END -->
+ - [OpenAI publishes a technical report on the Hugging Face incident, detailing the agents&#39; activity, safeguard failures, and measures to prevent recurrence &lpar;OpenAI&rpar;](https://www.techmeme.com/260826/p50#a260826p50)
+ - [Medical device manufacturer Boston Scientific says a cyberattack disrupted some of its IT systems and global operations, including order processing and shipping &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260826/p49#a260826p49)
+ - [Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards](https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale)
+ - [OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/)
+ - [Apple&#39;s iPhone Ultra could mark the return of a red iPhone](https://appleinsider.com/articles/26/08/26/apples-iphone-ultra-could-mark-the-return-of-a-red-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

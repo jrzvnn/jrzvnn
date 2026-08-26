@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar finally responds to &amp;#8216;heartbreaking&amp;#8217; GTA 6 leaks](https://www.theverge.com/games/984959/gta-vi-leaks-rockstar-games-official-statement-heartbreaking)
- - [Microsoft faces investor criticism over opaque financial reporting across capex, its OpenAI deal, and Azure, which is buried in the Intelligent Cloud segment &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p25#a260826p25)
- - [The second-generation Bose QuietComfort Headphones are good, but don’t stand out](https://www.theverge.com/tech/984764/bose-quietcomfort-headphones-gen-2-review)
- - [Rockstar says GTA 6 gameplay leaking &quot;in this way has been heartbreaking&quot;, calling it &quot;unfortunate&quot; that the &quot;game experience may now be impacted&quot; by spoilers &lpar;John Walker/Kotaku&rpar;](https://www.techmeme.com/260826/p24#a260826p24)
- - [Public polling suggests the US&#39; severe anti-data center backlash is primarily driven by local environmental and economic concerns, not anti-Big Tech sentiment &lpar;Andy Masley&rpar;](https://www.techmeme.com/260826/p23#a260826p23)<!-- TECH:END -->
+ - [Filing: Meta reaches a settlement to resolve 29 US states&#39; claims under COPPA that it designed Instagram and Facebook to addict children and misled consumers &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p28#a260826p28)
+ - [Volodymyr Zelenskyy awards Elon Musk with Ukraine&#39;s Order of Freedom; sources say Zelenskyy asked Musk to authorize Starlink use up to 200km inside Russia &lpar;Fabrice Deprez/Financial Times&rpar;](https://www.techmeme.com/260826/p27#a260826p27)
+ - [PeopleFinders’ New Website Runs Background Checks on Your Dates](https://www.wired.com/story/peoplefinders-new-website-stud-or-dud-runs-background-checks-on-your-dates/)
+ - [Ring says its new encryption limits what it can give police](https://www.theverge.com/tech/984838/ring-take-encryption-throw-away-the-key-law-enforcement)
+ - [Alibaba releases Qwen3.8-Flash, an open-weight, 125B-parameter model built on its next-gen Qwen 4 architecture, saying it rivals Opus 4.6 and V4-Flash &lpar;Luz Ding/Bloomberg&rpar;](https://www.techmeme.com/260826/p26#a260826p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

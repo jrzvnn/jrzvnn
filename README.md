@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic gives Claude Cowork its own built-in browser on the desktop app separate from users&#39; day-to-day browser, rolling out to paying subscribers &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260826/p72#a260826p72)
- - [OpenAI says reward hacking, an AI alignment problem in which a model takes unintended actions to achieve a goal, was a primary driver of the Hugging Face breach &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260826/p71#a260826p71)
- - [How to make Mac Downloads &amp; other Dock folders easier to use](https://appleinsider.com/inside/macos/tips/how-to-make-mac-downloads-other-dock-folders-easier-to-use?utm_source=rss)
- - [SEC filing: OpenAI invests ~$400M in its second startup fund, after it raised $175M for its first fund in 2021 from outside investors, including Microsoft &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p70#a260826p70)
- - [METR and Redwood detail how ~1,200 OpenAI agents coordinated cheating on an unsanctioned board, sending 70K+ messages and files, and ~700 attacked Hugging Face &lpar;METR&rpar;](https://www.techmeme.com/260826/p69#a260826p69)<!-- TECH:END -->
+ - [Google launches Pokémon Sleep special-edition Fitbit Air](https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep)
+ - [In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’](https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk)
+ - [Google announces new performance thresholds for Android apps including memory-use limits, citing the AI-induced memory crunch &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260827/p33#a260827p33)
+ - [Apple&#39;s viral iPhone Ultra tease has probably been lost in translation](https://appleinsider.com/articles/26/08/27/apples-viral-iphone-ultra-tease-has-probably-been-lost-in-translation?utm_source=rss)
+ - [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260827/p32#a260827p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

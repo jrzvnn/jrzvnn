@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
  - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
- - 💣 [You are not a garage](http://9gag.com/gag/aoyr81n)
- - 😝 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)
- - 👉 [Average DEI hired girl](http://9gag.com/gag/aByqOZD)<!-- MEMES:END -->
+ - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
+ - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
+ - 😝 [Well, it has been a rough couple of days...](http://9gag.com/gag/abAPEM8)
+ - 👉 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)<!-- MEMES:END -->
 
 ---
 

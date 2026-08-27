@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLB The Show 26 Headlines a Surprisingly Underwhelming PlayStation Plus Month](https://www.cnet.com/tech/gaming/playstation-plus-september-2026-mlb-the-show-26/)
- - [Brazil&#39;s government sues Discord for $97M, accusing it of failing to comply with laws protecting children and teens; Discord calls the lawsuit disproportionate &lpar;Reuters&rpar;](https://www.techmeme.com/260826/p59#a260826p59)
- - [How Rising Temperatures Likely Contributed to Nepal’s Deadly Flood](https://www.wired.com/story/rising-temperatures-contributed-nepals-deadly-flood/)
- - [Internal email: Google is moving DeepMind&#39;s ~90-person &quot;AI responsibility&quot; team, focused on the risks and societal impact of AI, to Google&#39;s global affairs unit &lpar;Erin Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p58#a260826p58)
- - [What to expect from Apple&#39;s &#39;Surprise and shine&#39; iPhone 18 Pro event on September 9](https://appleinsider.com/articles/26/08/26/what-to-expect-from-apples-surprise-and-shine-iphone-18-pro-event-on-september-9?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic gives Claude Cowork its own built-in browser on the desktop app separate from users&#39; day-to-day browser, rolling out to paying subscribers &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260826/p72#a260826p72)
+ - [OpenAI says reward hacking, an AI alignment problem in which a model takes unintended actions to achieve a goal, was a primary driver of the Hugging Face breach &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260826/p71#a260826p71)
+ - [How to make Mac Downloads &amp; other Dock folders easier to use](https://appleinsider.com/inside/macos/tips/how-to-make-mac-downloads-other-dock-folders-easier-to-use?utm_source=rss)
+ - [SEC filing: OpenAI invests ~$400M in its second startup fund, after it raised $175M for its first fund in 2021 from outside investors, including Microsoft &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/260826/p70#a260826p70)
+ - [METR and Redwood detail how ~1,200 OpenAI agents coordinated cheating on an unsanctioned board, sending 70K+ messages and files, and ~700 attacked Hugging Face &lpar;METR&rpar;](https://www.techmeme.com/260826/p69#a260826p69)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

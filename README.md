@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Victim is the new chic](http://9gag.com/gag/aD2pQDZ)
- - 😝 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 💣 [Bro was too honest](http://9gag.com/gag/axyxPm1)
- - 😝 [Well, it has been a rough couple of days...](http://9gag.com/gag/abAPEM8)
- - 👉 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)<!-- MEMES:END -->
+ - 😝 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)
+ - 😝 [Men want only one thing and it&#39;s d!sgusting! Part 3](http://9gag.com/gag/ayNgv6b)
+ - 💣 [This good boy will protect you from cringe posts](http://9gag.com/gag/a0eAOmX)
+ - 😝 [No Homo](http://9gag.com/gag/a87PVBO)
+ - 👉 [Restoration project gone wrong](http://9gag.com/gag/a9yQBmo)<!-- MEMES:END -->
 
 ---
 

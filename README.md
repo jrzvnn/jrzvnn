@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook pledges aid to victims of Nepal flooding](https://appleinsider.com/articles/26/08/28/tim-cook-pledges-aid-to-victims-of-nepal-flooding?utm_source=rss)
- - [iPhone Ultra: What to expect from Apple&#39;s first foldable iPhone, and when](https://appleinsider.com/articles/26/08/28/iphone-ultra-what-to-expect-from-apples-first-foldable-iphone-and-when?utm_source=rss)
- - [He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/)
- - [Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)
- - [Tim Cook&#39;s greatest moments hosting WWDC](https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s Kentucky iPhone glass plant will add 200 permanent jobs](https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss)
+ - [Meta intensifies its pressure campaign on TikTok and YouTube, running full-page ads in US newspapers demanding they adopt comparable teen safety protections &lpar;Alexandra S. Levine/Bloomberg&rpar;](https://www.techmeme.com/260828/p21#a260828p21)
+ - [The Crazy Taxi Remake Revives the Dreamcast Era’s Zany Energy](https://www.cnet.com/tech/gaming/crazy-taxi-world-tour-remake-preview-dreamcast-energy/)
+ - [Modders get an experimental version of Nvidia&#39;s DLSS 5 Neural Rendering library running in over a dozen games after it leaked in NBA 2K27&#39;s early access build &lpar;VideoCardz.com&rpar;](https://www.techmeme.com/260828/p20#a260828p20)
+ - [Milo Yiannopoulos Detained by ICE in Louisiana](https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

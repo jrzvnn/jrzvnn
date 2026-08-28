@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [1 in 6 VPNs Track Your Location, According to New Report From Proton](https://www.cnet.com/tech/services-and-software/proton-vpn-report-location-tracking-privacy/)
- - [Sources: Cognition is generating ~$900M in annualized revenue, up more than 3x since the start of the year, and executives project it will end 2026 with $1.5B+ &lpar;The Information&rpar;](https://www.techmeme.com/260827/p57#a260827p57)
- - [Uber says weekly AI agent requests have grown 9.4x since February, but total AI spending has stayed stable since April, after using up its 2026 AI budget in Q1 &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260827/p56#a260827p56)
- - [The biggest video game of all time looks like a movie](https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie)
- - [Incoming Apple CEO John Ternus meets with Tim Cook&#39;s friend Pikachu &amp; Pokemon CEO](https://appleinsider.com/articles/26/08/27/incoming-apple-ceo-john-ternus-meets-with-tim-cooks-friend-pikachu-pokemon-ceo?utm_source=rss)<!-- TECH:END -->
+ - [Tim Cook pledges aid to victims of Nepal flooding](https://appleinsider.com/articles/26/08/28/tim-cook-pledges-aid-to-victims-of-nepal-flooding?utm_source=rss)
+ - [iPhone Ultra: What to expect from Apple&#39;s first foldable iPhone, and when](https://appleinsider.com/articles/26/08/28/iphone-ultra-what-to-expect-from-apples-first-foldable-iphone-and-when?utm_source=rss)
+ - [He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/)
+ - [Inside Meta’s Push to Put Robots to Work in Data Centers](https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/)
+ - [Tim Cook&#39;s greatest moments hosting WWDC](https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

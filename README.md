@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The smile at the end](http://9gag.com/gag/a87PzDO)
- - 😝 [Bad parenting](http://9gag.com/gag/abAPR2r)
- - 💣 [I don&#39;t remember Ariel doing this in the movie](http://9gag.com/gag/aqy3dKZ)
- - 😝 [Trust issues intensifies](http://9gag.com/gag/a349pd8)
- - 👉 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
+ - 😝 [Because confetti is fun](http://9gag.com/gag/ae9oP9q)
+ - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
+ - 💣 [Nepal floods](http://9gag.com/gag/aAyWNe0)
+ - 😝 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)
+ - 👉 [Restoration project gone wrong](http://9gag.com/gag/a9yQBmo)<!-- MEMES:END -->
 
 ---
 

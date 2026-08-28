@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Pokémon Sleep special-edition Fitbit Air](https://www.theverge.com/gadgets/985584/google-fitbit-air-pokemon-sleep)
- - [In a swipe at Tesla, Waymo says ‘cameras… aren’t enough’](https://www.theverge.com/transportation/985503/waymo-tesla-lidar-camera-robotaxi-cybercab-musk)
- - [Google announces new performance thresholds for Android apps including memory-use limits, citing the AI-induced memory crunch &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260827/p33#a260827p33)
- - [Apple&#39;s viral iPhone Ultra tease has probably been lost in translation](https://appleinsider.com/articles/26/08/27/apples-viral-iphone-ultra-tease-has-probably-been-lost-in-translation?utm_source=rss)
- - [Cybersecurity stocks surge, with Okta up 20%+ and CrowdStrike up 15%+, after earnings showed that AI adoption is driving attacks and spending on security tools &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/260827/p32#a260827p32)<!-- TECH:END -->
+ - [1 in 6 VPNs Track Your Location, According to New Report From Proton](https://www.cnet.com/tech/services-and-software/proton-vpn-report-location-tracking-privacy/)
+ - [Sources: Cognition is generating ~$900M in annualized revenue, up more than 3x since the start of the year, and executives project it will end 2026 with $1.5B+ &lpar;The Information&rpar;](https://www.techmeme.com/260827/p57#a260827p57)
+ - [Uber says weekly AI agent requests have grown 9.4x since February, but total AI spending has stayed stable since April, after using up its 2026 AI budget in Q1 &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260827/p56#a260827p56)
+ - [The biggest video game of all time looks like a movie](https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie)
+ - [Incoming Apple CEO John Ternus meets with Tim Cook&#39;s friend Pikachu &amp; Pokemon CEO](https://appleinsider.com/articles/26/08/27/incoming-apple-ceo-john-ternus-meets-with-tim-cooks-friend-pikachu-pokemon-ceo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

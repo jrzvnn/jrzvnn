@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should have been me.](http://9gag.com/gag/a5QmDry)
- - 😝 [Stress level: max](http://9gag.com/gag/aE0rEWn)
- - 💣 [So very sad.](http://9gag.com/gag/aByqOj2)
- - 😝 [Whole Rig](http://9gag.com/gag/aD2pPQZ)
- - 👉 [Husband sleeping in the car in front of the house](http://9gag.com/gag/an7pGKB)<!-- MEMES:END -->
+ - 😝 [The smile at the end](http://9gag.com/gag/a87PzDO)
+ - 😝 [Bad parenting](http://9gag.com/gag/abAPR2r)
+ - 💣 [I don&#39;t remember Ariel doing this in the movie](http://9gag.com/gag/aqy3dKZ)
+ - 😝 [Trust issues intensifies](http://9gag.com/gag/a349pd8)
+ - 👉 [Let me make sure you are not bringing anything safe](http://9gag.com/gag/a0eAO0v)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
  - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 😝 [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
- - 💣 [Mastering the art of the stealthy veggie swap](http://9gag.com/gag/aqy3d0Y)
- - 😝 [God bless](http://9gag.com/gag/aGy36GG)
- - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
+ - 💣 [Show me some ass pls](http://9gag.com/gag/aE0ryDx)
+ - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
+ - 👉 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CXMT sues the Pentagon over its Chinese military company designation, saying it isn&#39;t affiliated with the Chinese military and its chips aren&#39;t for military use &lpar;Reuters&rpar;](https://www.techmeme.com/260828/p29#a260828p29)
- - [OpenAI says it plans to stop providing its models to Cursor from November 12, as &quot;we cannot be confident that SpaceX will use our technology within our ToS&quot; &lpar;OpenAI&rpar;](https://www.techmeme.com/260828/p28#a260828p28)
- - [Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas&#39; Flock network &lpar;Ayden Runnels/The Texas Tribune&rpar;](https://www.techmeme.com/260828/p27#a260828p27)
- - [Metriport, whose tools help doctors retrieve patient data, raised $26M in Series A and seed funding led by Matrix GP TJ Parker, taking its total raise to $28.4M &lpar;Ngai Yeung/Endpoints News&rpar;](https://www.techmeme.com/260828/p26#a260828p26)
- - [Z.ai releases GLM-5.3&#39;s weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai&#39;s security review to host the model &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260828/p25#a260828p25)<!-- TECH:END -->
+ - [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/)
+ - [Psilocybin Might Make Your Brain Live in the Moment](https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/)
+ - [Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260829/p8#a260829p8)
+ - [An analysis of the 50 largest bitcoin treasury companies by BTC holdings finds their combined market cap has plunged from $150B in July 2025 to just $67B now &lpar;Financial Times&rpar;](https://www.techmeme.com/260829/p7#a260829p7)
+ - [Minneapolis-based Yardstik, a provider of workforce monitoring tech, raised a $30M Series B led by Harbert Growth Partners, taking its total funding to $65M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260829/p6#a260829p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

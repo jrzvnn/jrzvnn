@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 😝 [Pass.](https://www.reddit.com/r/funny/comments/1w20zos/pass/)
  - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 💣 [Show me some ass pls](http://9gag.com/gag/aE0ryDx)
- - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
- - 👉 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
+ - 💣 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 😝 [Show me some ass pls](http://9gag.com/gag/aE0ryDx)
+ - 👉 [Little cupgrade](http://9gag.com/gag/adBZW69)<!-- MEMES:END -->
 
 ---
 

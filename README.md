@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing a solo birthday celebration. Turned 38 today. Have some cake and see you all tomorrow again](http://9gag.com/gag/ae9oWxv)
- - 😝 [Lol.](http://9gag.com/gag/aGy3No0)
- - 💣 [Didnt know marriage is so fragile..](http://9gag.com/gag/a1mzqRG)
- - 😝 [Oh look](http://9gag.com/gag/aE0rQ9x)
- - 👉 [Language no Bar](http://9gag.com/gag/adBZdGM)<!-- MEMES:END -->
+ - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
+ - 💣 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)
+ - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
+ - 👉 [Purpose](http://9gag.com/gag/azxNBPz)<!-- MEMES:END -->
 
 ---
 

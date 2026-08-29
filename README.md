@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor&#39;s traffic and Cursor trusted OpenAI to be &quot;neutral&quot;; Musk says he &quot;couldn&#39;t care less&quot; &lpar;Amir Efrati/The Information&rpar;](https://www.techmeme.com/260829/p10#a260829p10)
- - [iPhone 18 Release Date: Why You Might Be Waiting Longer Than Expected](https://www.cnet.com/tech/mobile/iphone-18-release-date-why-you-might-be-waiting-longer-than-expected/)
- - [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
- - [Asahi Linux nears M3 support release, M4 and M5 are on the way](https://appleinsider.com/articles/26/08/29/asahi-linux-nears-m3-support-release-m4-and-m5-are-on-the-way?utm_source=rss)
- - [Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It?](https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/)<!-- TECH:END -->
+ - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
+ - [Anthropic will &quot;permanently&quot; raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost &lpar;@claudedevs&rpar;](https://www.techmeme.com/260829/p13#a260829p13)
+ - [Sources detail how Meta&#39;s $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico &lpar;New York Times&rpar;](https://www.techmeme.com/260829/p12#a260829p12)
+ - [Save up to $200 on Sonos speakers, subs, soundbars this weekend](https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss)
+ - [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

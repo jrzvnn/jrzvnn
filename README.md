@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because confetti is fun](http://9gag.com/gag/ae9oP9q)
- - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
- - 💣 [Nepal floods](http://9gag.com/gag/aAyWNe0)
- - 😝 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)
- - 👉 [Restoration project gone wrong](http://9gag.com/gag/a9yQBmo)<!-- MEMES:END -->
+ - 😝 [Doing a solo birthday celebration. Turned 38 today. Have some cake and see you all tomorrow again](http://9gag.com/gag/ae9oWxv)
+ - 😝 [Lol.](http://9gag.com/gag/aGy3No0)
+ - 💣 [Didnt know marriage is so fragile..](http://9gag.com/gag/a1mzqRG)
+ - 😝 [Oh look](http://9gag.com/gag/aE0rQ9x)
+ - 👉 [Language no Bar](http://9gag.com/gag/adBZdGM)<!-- MEMES:END -->
 
 ---
 

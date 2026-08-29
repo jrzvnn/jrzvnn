@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
  - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 💣 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)
- - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
- - 👉 [Purpose](http://9gag.com/gag/azxNBPz)<!-- MEMES:END -->
+ - 💣 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 😝 [ASK a 9Gagger... ...does someone know how those kind of Pictures are called? How do i search for them?? Thank your for your Help.](http://9gag.com/gag/aByqv4A)
+ - 👉 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
 
 ---
 

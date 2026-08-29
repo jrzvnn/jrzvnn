@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Kentucky iPhone glass plant will add 200 permanent jobs](https://appleinsider.com/articles/26/08/28/apples-kentucky-iphone-glass-plant-will-add-200-permanent-jobs?utm_source=rss)
- - [Meta intensifies its pressure campaign on TikTok and YouTube, running full-page ads in US newspapers demanding they adopt comparable teen safety protections &lpar;Alexandra S. Levine/Bloomberg&rpar;](https://www.techmeme.com/260828/p21#a260828p21)
- - [The Crazy Taxi Remake Revives the Dreamcast Era’s Zany Energy](https://www.cnet.com/tech/gaming/crazy-taxi-world-tour-remake-preview-dreamcast-energy/)
- - [Modders get an experimental version of Nvidia&#39;s DLSS 5 Neural Rendering library running in over a dozen games after it leaked in NBA 2K27&#39;s early access build &lpar;VideoCardz.com&rpar;](https://www.techmeme.com/260828/p20#a260828p20)
- - [Milo Yiannopoulos Detained by ICE in Louisiana](https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/)<!-- TECH:END -->
+ - [CXMT sues the Pentagon over its Chinese military company designation, saying it isn&#39;t affiliated with the Chinese military and its chips aren&#39;t for military use &lpar;Reuters&rpar;](https://www.techmeme.com/260828/p29#a260828p29)
+ - [OpenAI says it plans to stop providing its models to Cursor from November 12, as &quot;we cannot be confident that SpaceX will use our technology within our ToS&quot; &lpar;OpenAI&rpar;](https://www.techmeme.com/260828/p28#a260828p28)
+ - [Texas Gov. Greg Abbott orders state agencies to pause funding for Flock cameras; an investigation found an agency allocating $30M+ to build Texas&#39; Flock network &lpar;Ayden Runnels/The Texas Tribune&rpar;](https://www.techmeme.com/260828/p27#a260828p27)
+ - [Metriport, whose tools help doctors retrieve patient data, raised $26M in Series A and seed funding led by Matrix GP TJ Parker, taking its total raise to $28.4M &lpar;Ngai Yeung/Endpoints News&rpar;](https://www.techmeme.com/260828/p26#a260828p26)
+ - [Z.ai releases GLM-5.3&#39;s weights under a new license requiring companies with $10B+ in revenue over 12 months to pass Z.ai&#39;s security review to host the model &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260828/p25#a260828p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

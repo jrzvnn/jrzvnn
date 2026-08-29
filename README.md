@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Purpose](http://9gag.com/gag/azxNBPz)
  - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 💣 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
- - 😝 [ASK a 9Gagger... ...does someone know how those kind of Pictures are called? How do i search for them?? Thank your for your Help.](http://9gag.com/gag/aByqv4A)
- - 👉 [Paid to eat meat is a win win..](http://9gag.com/gag/aMVRD2A)<!-- MEMES:END -->
+ - 😝 [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
+ - 💣 [Mastering the art of the stealthy veggie swap](http://9gag.com/gag/aqy3d0Y)
+ - 😝 [God bless](http://9gag.com/gag/aGy36GG)
+ - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/)
- - [Psilocybin Might Make Your Brain Live in the Moment](https://www.wired.com/story/psilocybin-might-make-your-brain-live-in-the-moment/)
- - [Trade unions threaten to withhold support for politicians opposing data center projects, warning that blocking the projects endangers building-related jobs &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260829/p8#a260829p8)
- - [An analysis of the 50 largest bitcoin treasury companies by BTC holdings finds their combined market cap has plunged from $150B in July 2025 to just $67B now &lpar;Financial Times&rpar;](https://www.techmeme.com/260829/p7#a260829p7)
- - [Minneapolis-based Yardstik, a provider of workforce monitoring tech, raised a $30M Series B led by Harbert Growth Partners, taking its total funding to $65M &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260829/p6#a260829p6)<!-- TECH:END -->
+ - [Cursor co-founder Michael Truell says OpenAI represents just 5% of Cursor&#39;s traffic and Cursor trusted OpenAI to be &quot;neutral&quot;; Musk says he &quot;couldn&#39;t care less&quot; &lpar;Amir Efrati/The Information&rpar;](https://www.techmeme.com/260829/p10#a260829p10)
+ - [iPhone 18 Release Date: Why You Might Be Waiting Longer Than Expected](https://www.cnet.com/tech/mobile/iphone-18-release-date-why-you-might-be-waiting-longer-than-expected/)
+ - [The Galaxy Z Flip 8 is at its best when there’s friction](https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review)
+ - [Asahi Linux nears M3 support release, M4 and M5 are on the way](https://appleinsider.com/articles/26/08/29/asahi-linux-nears-m3-support-release-m4-and-m5-are-on-the-way?utm_source=rss)
+ - [Apple Might Skip the iPhone 18 This Year. Is the iPhone 17 Still Worth It?](https://www.cnet.com/tech/mobile/apple-might-skip-the-iphone-18-this-year-is-the-iphone-17-still-worth-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

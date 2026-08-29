@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &lpar;Sheena Meng/Bloomberg&rpar;](https://www.techmeme.com/260829/p15#a260829p15)
+ - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
  - [Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260829/p14#a260829p14)
- - [Anthropic will &quot;permanently&quot; raise weekly Claude Code limits by 25% on Sept. 14 for most plans, which will work out a 17% reduction, given the current 50% boost &lpar;@claudedevs&rpar;](https://www.techmeme.com/260829/p13#a260829p13)
- - [Sources detail how Meta&#39;s $17.1B settlement with state AGs came together as Meta wanted to avoid going to trial following losses in cases in LA and New Mexico &lpar;New York Times&rpar;](https://www.techmeme.com/260829/p12#a260829p12)
- - [Save up to $200 on Sonos speakers, subs, soundbars this weekend](https://appleinsider.com/articles/26/08/29/save-up-to-200-on-sonos-speakers-subs-soundbars-this-weekend?utm_source=rss)
- - [Distraction-free writing gadget BYOK is adding custom extensions](https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions)<!-- TECH:END -->
+ - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
+ - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

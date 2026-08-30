@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Look](http://9gag.com/gag/aZZAV29)
- - 😝 [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
- - 💣 [People have gotten soft](http://9gag.com/gag/ajPbGo8)
- - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
- - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
+ - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
+ - 💣 [Based..](http://9gag.com/gag/a0eAD0X)
+ - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
+ - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
 
 ---
 

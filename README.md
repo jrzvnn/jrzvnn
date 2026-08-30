@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to know if you played too much RDR2](http://9gag.com/gag/adBZ43Q)
- - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
- - 💣 [Pedro Pascal when he gets anxiety](http://9gag.com/gag/a349zm8)
- - 😝 [Wow](http://9gag.com/gag/aByqbjD)
- - 👉 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
+ - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 😝 [Efficiency is clearly not appreciated by everyone](http://9gag.com/gag/adBZW4M)
+ - 💣 [Based..](http://9gag.com/gag/a0eAD0X)
+ - 😝 [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
+ - 👉 [Kids will never know how dope this intro was\u2026](http://9gag.com/gag/a0eADRZ)<!-- MEMES:END -->
 
 ---
 

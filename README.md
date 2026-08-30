@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pass.](https://www.reddit.com/r/funny/comments/1w20zos/pass/)
- - 😝 [Her eyes are up here](http://9gag.com/gag/a349pxr)
- - 💣 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
- - 😝 [Show me some ass pls](http://9gag.com/gag/aE0ryDx)
- - 👉 [Little cupgrade](http://9gag.com/gag/adBZW69)<!-- MEMES:END -->
+ - 😝 [They don&#39;t care about us &lpar;original lyrics&rpar; by Michael Jackson](http://9gag.com/gag/aQzwBgd)
+ - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
+ - 💣 [Mother of the year](http://9gag.com/gag/a4Pergp)
+ - 😝 [Mastering the art of the stealthy veggie swap](http://9gag.com/gag/aqy3d0Y)
+ - 👉 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
 
 ---
 

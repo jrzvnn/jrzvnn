@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
+ - 😝 [How to know if you played too much RDR2](http://9gag.com/gag/adBZ43Q)
  - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
- - 💣 [Based..](http://9gag.com/gag/a0eAD0X)
- - 😝 [Ad inflation](http://9gag.com/gag/a7o46Rq)
- - 👉 [Christmas classics](http://9gag.com/gag/azxNvKp)<!-- MEMES:END -->
+ - 💣 [Pedro Pascal when he gets anxiety](http://9gag.com/gag/a349zm8)
+ - 😝 [Wow](http://9gag.com/gag/aByqbjD)
+ - 👉 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
 
 ---
 

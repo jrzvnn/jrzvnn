@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
- - [Analysis: AI chatbots challenged or didn&#39;t respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &lpar;Huo Jingnan/NPR&rpar;](https://www.techmeme.com/260830/p9#a260830p9)
- - [Apple&#39;s 1TB M5 MacBook Air plunges to $1,399, save $200](https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss)
- - [iPhone, Home, iPad mini : Apple&#39;s launches for September and October](https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss)
- - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)<!-- TECH:END -->
+ - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)
+ - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
+ - [Sunday Reboot: Mac scheduling and the Ternus Cook-out](https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss)
+ - [California court revives lawsuit accusing Apple of blocking independent repairs](https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss)
+ - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother of the year](http://9gag.com/gag/a4Pergp)
- - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
- - 💣 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)
- - 😝 [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
- - 👉 [Because confetti is fun](http://9gag.com/gag/ae9oP9q)<!-- MEMES:END -->
+ - 😝 [The Look](http://9gag.com/gag/aZZAV29)
+ - 😝 [A LESSON IS LEARNED THAT DAY](http://9gag.com/gag/a87PXD6)
+ - 💣 [People have gotten soft](http://9gag.com/gag/ajPbGo8)
+ - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
+ - 👉 [I love her more each day!](http://9gag.com/gag/a6Zv3X9)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They don&#39;t care about us &lpar;original lyrics&rpar; by Michael Jackson](http://9gag.com/gag/aQzwBgd)
- - 😝 [Street trash went full soyboy after realized he&#39;s being recorded.](http://9gag.com/gag/axyxnB2)
- - 💣 [Mother of the year](http://9gag.com/gag/a4Pergp)
- - 😝 [Mastering the art of the stealthy veggie swap](http://9gag.com/gag/aqy3d0Y)
- - 👉 [A new weight loss machine getting viral among young women with exceptional satisfaction rate](http://9gag.com/gag/aNDxq73)<!-- MEMES:END -->
+ - 😝 [Mother of the year](http://9gag.com/gag/a4Pergp)
+ - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
+ - 💣 [Paphos, Cyprus 26.08.29](http://9gag.com/gag/axyxQWK)
+ - 😝 [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
+ - 👉 [Because confetti is fun](http://9gag.com/gag/ae9oP9q)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California&#39;s legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260829/p16#a260829p16)
- - [Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &lpar;Sheena Meng/Bloomberg&rpar;](https://www.techmeme.com/260829/p15#a260829p15)
- - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
- - [Elon Musk says SpaceX is &quot;doing in-house casting&quot; for blades and vanes to accelerate the building of gas turbines, which could come &quot;online by up to 18 months&quot; &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260829/p14#a260829p14)
- - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)<!-- TECH:END -->
+ - [OpenAI&#39;s Hugging Face incident report says AI agents used exploits to gain full admin access to OpenAI&#39;s own research cluster supporting its VM environments &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260830/p4#a260830p4)
+ - [Faro, which develops data models and AI tools to speed up clinical trials, raised a $37.3M Series B co-led by Merck Global Health Innovation Fund and S32 &lpar;Dealroom.co&rpar;](https://www.techmeme.com/260830/p3#a260830p3)
+ - [Industry insiders say Chinese robot makers currently rely on Nvidia silicon and software; Nvidia&#39;s physical AI business generates ~$10B in annual revenue &lpar;Raffaele Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260830/p2#a260830p2)
+ - [Grindr CEO George Arison plans premium services push, including a product costing up to $350 per month; Grindr averaged 1.4M paying users among 15M MAUs in Q2 &lpar;Kieran Smith/Financial Times&rpar;](https://www.techmeme.com/260830/p1#a260830p1)
+ - [Glassdoor analysis finds 47% of Gen X workers write positively about their companies&#39; AI use, compared with 40% of millennials and 33% of Gen Z workers &lpar;Taylor Nicole Rogers/Bloomberg&rpar;](https://www.techmeme.com/260829/p18#a260829p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

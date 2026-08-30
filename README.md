@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Folding iPhone at Last? What to Expect From Apple’s Surprise and Shine Fall Event](https://www.cnet.com/tech/mobile/apple-event-what-to-expect-iphone-18-ultra-fold/)
- - [China’s robots race ahead](https://www.theverge.com/tech/986167/china-humanoid-robot-games-race)
- - [Two new small, powerful Macs](https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera)
- - [Best Mesh Wi-Fi Systems &lpar;2026&rpar;: I Tested Them All](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Why the Hottest New Wearables Want to Be Ignored](https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/)<!-- TECH:END -->
+ - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
+ - [Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260830/p8#a260830p8)
+ - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
+ - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)
+ - [Ternus takeover won&#39;t mean a mass Apple exec exodus](https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

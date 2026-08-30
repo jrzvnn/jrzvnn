@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California&#39;s legislature passes a bill exempting open-source OSes like Linux from a 2025 age-verification law; Windows, macOS, iOS, and Android remain in scope &lpar;Luke James/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260829/p16#a260829p16)
  - [Data center development is driving demand for acoustic consultants, as developers and neighboring communities hire acousticians to assess noise emissions &lpar;Sheena Meng/Bloomberg&rpar;](https://www.techmeme.com/260829/p15#a260829p15)
  - [Vicariously hike the Appalachian in the gorgeous A Trail Tale](https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale)
- - [Job listings and other indicators: SpaceX is working on a Bastrop, TX foundry to build blades for large gas turbines, which could ease its AI power crunch &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260829/p14#a260829p14)
- - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)
- - [Sony Music and Warner Chappell are suing Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)<!-- TECH:END -->
+ - [Elon Musk says SpaceX is &quot;doing in-house casting&quot; for blades and vanes to accelerate the building of gas turbines, which could come &quot;online by up to 18 months&quot; &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/260829/p14#a260829p14)
+ - [Alt-right troll Milo Yiannopoulos has been deported](https://www.theverge.com/policy/986456/milo-yiannopoulos-deported-ice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

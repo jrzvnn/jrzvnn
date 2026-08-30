@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)
- - [Sources: OpenAI bought tens of thousands of Macs for RL, Anthropic rents them, Nvidia sees Apple as its main local AI rival as Macs gain traction with AI devs &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/260830/p8#a260830p8)
- - [Google Maps Now Shows ‘Lake America’ Instead of Lake Ontario](https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/)
- - [Texas Governor Abbott blocks funding for more Flock cameras](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)
- - [Ternus takeover won&#39;t mean a mass Apple exec exodus](https://appleinsider.com/articles/26/08/30/ternus-takeover-wont-mean-a-mass-apple-exec-exodus?utm_source=rss)<!-- TECH:END -->
+ - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)
+ - [Analysis: AI chatbots challenged or didn&#39;t respond to 90%+ of 15 false narratives spread by Russia, China, and Iran; AI overviews did it 60%+ of the time &lpar;Huo Jingnan/NPR&rpar;](https://www.techmeme.com/260830/p9#a260830p9)
+ - [Apple&#39;s 1TB M5 MacBook Air plunges to $1,399, save $200](https://appleinsider.com/articles/26/08/30/apples-1tb-m5-macbook-air-plunges-to-1399-save-200?utm_source=rss)
+ - [iPhone, Home, iPad mini : Apple&#39;s launches for September and October](https://appleinsider.com/articles/26/08/30/iphone-home-ipad-mini-apples-launches-for-september-and-october?utm_source=rss)
+ - [The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy](https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

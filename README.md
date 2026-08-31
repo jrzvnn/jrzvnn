@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more &lpar;Kris Holt/Engadget&rpar;](https://www.techmeme.com/260831/p32#a260831p32)
- - [Trump says communities that reject data centers will end up &quot;backwards and poor&quot; and that &quot;China could not be happier with this anti Data Center movement&quot; &lpar;Cheyanne M. Daniels/Politico&rpar;](https://www.techmeme.com/260831/p31#a260831p31)
- - [Reframe, which uses AI and industrial robot arms to make modular homes in a factory, raised a $40M Series A extension round led by Energy Impact Partners &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260831/p30#a260831p30)
- - [Eighth iOS 27, macOS 27 developer betas arrive for testing](https://appleinsider.com/articles/26/08/31/eighth-ios-27-macos-27-developer-betas-arrive-for-testing?utm_source=rss)
- - [Sources: Hyperliquid is in talks to enter the US market through Kraken parent Payward, weeks after Trump said he was working to bring the platform onshore &lpar;Bloomberg&rpar;](https://www.techmeme.com/260831/p29#a260831p29)<!-- TECH:END -->
+ - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-2026/)
+ - [JMGO’s very bright all-in-one projector looks ideal for gamers and sports](https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs)
+ - [Florida says it is revoking permits for Flock cameras and similar license-plate readers on state roads and no longer intends to issue such permits &lpar;Ryan Gillespie/Orlando Sentinel&rpar;](https://www.techmeme.com/260831/p41#a260831p41)
+ - [Filing: Apple claims a former iPhone engineer used a confidential Apple circuit schematic in his work at OpenAI, evidence is being destroyed, and more &lpar;Chance Miller/9to5Mac&rpar;](https://www.techmeme.com/260831/p40#a260831p40)
+ - [FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

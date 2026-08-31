@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
- - 😝 [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 💣 [Wow](http://9gag.com/gag/aByqbjD)
- - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
- - 👉 [For all the men](http://9gag.com/gag/aYQ8Bdv)<!-- MEMES:END -->
+ - 😝 [Release the tension](http://9gag.com/gag/ajPb3wp)
+ - 😝 [You are on the other side of the law](http://9gag.com/gag/adBZWED)
+ - 💣 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)
+ - 😝 [.](http://9gag.com/gag/avyYVqq)
+ - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
 
 ---
 

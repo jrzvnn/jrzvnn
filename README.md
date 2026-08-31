@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing &lpar;The Information&rpar;](https://www.techmeme.com/260831/p4#a260831p4)
- - [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more &lpar;Hannes Rudolph/OpenClaw Blog&rpar;](https://www.techmeme.com/260831/p3#a260831p3)
- - [IPO documents: SoftBank&#39;s SB Energy plans to file for an IPO as soon as this week, aiming to raise $5B to $7B, and has awarded OpenAI warrants worth ~$5.5B &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260831/p2#a260831p2)
- - [Shein raised $1.7B in its Hong Kong IPO, giving it a $26B market cap, far below its ~$100B valuation in 2022, as growth slows amid tariffs and competition &lpar;Charlotte Yang/Bloomberg&rpar;](https://www.techmeme.com/260831/p1#a260831p1)
- - [Taiwanese authorities raided the office of PCB maker Unimicron, an Nvidia and Intel supplier, alleging it illegally labeled China-made parts as made in Taiwan &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260830/p15#a260830p15)<!-- TECH:END -->
+ - [Z.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai&#39;s market value surged 800% since its January listing, peaking at $137B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260831/p11#a260831p11)
+ - [Tim Cook, the man who grew Apple by trillions of dollars](https://appleinsider.com/articles/26/08/31/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss)
+ - [The Hugging Face and Mythos 5 incidents show AI agents can self-organize, raising questions about how much agency they should have and when to seek human input &lpar;Ethan Mollick/One Useful Thing&rpar;](https://www.techmeme.com/260831/p10#a260831p10)
+ - [Why Food Keeps Making Everybody Sick This Summer](https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/)
+ - [Tim Cook&#39;s greatest moments hosting WWDC](https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on their PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)
+ - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)
+ - [The challenges John Ternus inherits as he replaces Tim Cook on Sept. 1 amid rising component costs, staff retention issues, efforts to catch up in AI, and more &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260830/p11#a260830p11)
+ - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on user PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)
  - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
- - [Sunday Reboot: Mac scheduling and the Ternus Cook-out](https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss)
- - [California court revives lawsuit accusing Apple of blocking independent repairs](https://appleinsider.com/articles/26/08/30/california-court-revives-lawsuit-accusing-apple-of-blocking-independent-repairs?utm_source=rss)
- - [Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets](https://www.theverge.com/games/986552/12tb-steam-leak-half-life-2-episode-3)<!-- TECH:END -->
+ - [Sunday Reboot: Mac scheduling and the Ternus Cook-out](https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

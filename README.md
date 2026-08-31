@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Z.ai reports H1 2026 revenue up 400% to ~$142M, below its $200M projection; Z.ai&#39;s market value surged 800% since its January listing, peaking at $137B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260831/p11#a260831p11)
- - [Tim Cook, the man who grew Apple by trillions of dollars](https://appleinsider.com/articles/26/08/31/apple-at-50-tim-cook-the-man-who-grew-apple-by-trillions-of-dollars?utm_source=rss)
- - [The Hugging Face and Mythos 5 incidents show AI agents can self-organize, raising questions about how much agency they should have and when to seek human input &lpar;Ethan Mollick/One Useful Thing&rpar;](https://www.techmeme.com/260831/p10#a260831p10)
- - [Why Food Keeps Making Everybody Sick This Summer](https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/)
- - [Tim Cook&#39;s greatest moments hosting WWDC](https://appleinsider.com/articles/26/08/28/tim-cooks-greatest-moments-hosting-wwdc?utm_source=rss)<!-- TECH:END -->
+ - [Sony launches Live TV on PS5 in the US, letting users stream 100+ free, ad-supported TV channels with content from Amazon MGM Studios, Crunchyroll, and more &lpar;Kris Holt/Engadget&rpar;](https://www.techmeme.com/260831/p32#a260831p32)
+ - [Trump says communities that reject data centers will end up &quot;backwards and poor&quot; and that &quot;China could not be happier with this anti Data Center movement&quot; &lpar;Cheyanne M. Daniels/Politico&rpar;](https://www.techmeme.com/260831/p31#a260831p31)
+ - [Reframe, which uses AI and industrial robot arms to make modular homes in a factory, raised a $40M Series A extension round led by Energy Impact Partners &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/260831/p30#a260831p30)
+ - [Eighth iOS 27, macOS 27 developer betas arrive for testing](https://appleinsider.com/articles/26/08/31/eighth-ios-27-macos-27-developer-betas-arrive-for-testing?utm_source=rss)
+ - [Sources: Hyperliquid is in talks to enter the US market through Kraken parent Payward, weeks after Trump said he was working to bring the platform onshore &lpar;Bloomberg&rpar;](https://www.techmeme.com/260831/p29#a260831p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

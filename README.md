@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ill never understand why they changed this scene in Xmen The Last Stand ; the deleted version was way more powerful](http://9gag.com/gag/aAyWLDd)
- - 😝 [A black hole passing by Earth would have negative effects on the economy](http://9gag.com/gag/a87P9yV)
- - 💣 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)
- - 😝 [Release the tension](http://9gag.com/gag/ajPb3wp)
- - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
+ - 😝 [Good luck](http://9gag.com/gag/aVvn9Py)
+ - 😝 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 💣 [Wow](http://9gag.com/gag/aByqbjD)
+ - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - 👉 [For all the men](http://9gag.com/gag/aYQ8Bdv)<!-- MEMES:END -->
 
 ---
 

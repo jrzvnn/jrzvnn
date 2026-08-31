@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chip design startup Agentrys has raised a $19.1M seed round led by Etna Labs and a $5.4M pre-seed led by MediaTek &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260830/p12#a260830p12)
- - [The challenges John Ternus inherits as he replaces Tim Cook on Sept. 1 amid rising component costs, staff retention issues, efforts to catch up in AI, and more &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260830/p11#a260830p11)
- - [Anthropic signs out some Claude users, removes saved payment methods, and issues refunds after infostealer malware on user PCs hijacked sessions to drain usage &lpar;Mayank Parmar/BleepingComputer&rpar;](https://www.techmeme.com/260830/p10#a260830p10)
- - [Professor Murder Rides the Subway is a forgotten slice of dance punk perfection](https://www.theverge.com/entertainment/986564/professor-murder-rides-the-subway-dance-punk-perfection-review)
- - [Sunday Reboot: Mac scheduling and the Ternus Cook-out](https://appleinsider.com/articles/26/08/30/sunday-reboot-mac-scheduling-and-the-ternus-cook-out?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI starts letting some major customers pay only when its AI completes tasks, as Salesforce and other AI providers test outcome-based pricing &lpar;The Information&rpar;](https://www.techmeme.com/260831/p4#a260831p4)
+ - [OpenClaw releases OpenClaw 2.0, its largest update to date built by 933 contributors, with a simplified installation process, a rebuilt browser app, and more &lpar;Hannes Rudolph/OpenClaw Blog&rpar;](https://www.techmeme.com/260831/p3#a260831p3)
+ - [IPO documents: SoftBank&#39;s SB Energy plans to file for an IPO as soon as this week, aiming to raise $5B to $7B, and has awarded OpenAI warrants worth ~$5.5B &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260831/p2#a260831p2)
+ - [Shein raised $1.7B in its Hong Kong IPO, giving it a $26B market cap, far below its ~$100B valuation in 2022, as growth slows amid tariffs and competition &lpar;Charlotte Yang/Bloomberg&rpar;](https://www.techmeme.com/260831/p1#a260831p1)
+ - [Taiwanese authorities raided the office of PCB maker Unimicron, an Nvidia and Intel supplier, alleging it illegally labeled China-made parts as made in Taiwan &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/260830/p15#a260830p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

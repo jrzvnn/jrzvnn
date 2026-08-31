@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 😝 [Efficiency is clearly not appreciated by everyone](http://9gag.com/gag/adBZW4M)
- - 💣 [Based..](http://9gag.com/gag/a0eAD0X)
- - 😝 [This is why it&#39;s important to let kids be bored](http://9gag.com/gag/ajPbGb8)
- - 👉 [Kids will never know how dope this intro was\u2026](http://9gag.com/gag/a0eADRZ)<!-- MEMES:END -->
+ - 😝 [Christmas classics](http://9gag.com/gag/azxNvKp)
+ - 😝 [People have gotten soft](http://9gag.com/gag/ajPbGo8)
+ - 💣 [Here we go](http://9gag.com/gag/aZZA4e3)
+ - 😝 [Wow](http://9gag.com/gag/aByqbjD)
+ - 👉 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
 
 ---
 

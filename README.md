@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christmas classics](http://9gag.com/gag/azxNvKp)
- - 😝 [People have gotten soft](http://9gag.com/gag/ajPbGo8)
- - 💣 [Here we go](http://9gag.com/gag/aZZA4e3)
+ - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
+ - 😝 [Here we go](http://9gag.com/gag/aZZA4e3)
+ - 💣 [Know your rights](http://9gag.com/gag/aZZA4QW)
  - 😝 [Wow](http://9gag.com/gag/aByqbjD)
- - 👉 [Release the tension](http://9gag.com/gag/ajPb3wp)<!-- MEMES:END -->
+ - 👉 [People have gotten soft](http://9gag.com/gag/ajPbGo8)<!-- MEMES:END -->
 
 ---
 

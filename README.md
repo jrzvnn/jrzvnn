@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Autism in a video: Digging a bunker with a spoonshovel](http://9gag.com/gag/aO8gnoN)
- - 😝 [Here we go](http://9gag.com/gag/aZZA4e3)
- - 💣 [Know your rights](http://9gag.com/gag/aZZA4QW)
- - 😝 [Wow](http://9gag.com/gag/aByqbjD)
- - 👉 [People have gotten soft](http://9gag.com/gag/ajPbGo8)<!-- MEMES:END -->
+ - 😝 [Ill never understand why they changed this scene in Xmen The Last Stand ; the deleted version was way more powerful](http://9gag.com/gag/aAyWLDd)
+ - 😝 [A black hole passing by Earth would have negative effects on the economy](http://9gag.com/gag/a87P9yV)
+ - 💣 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)
+ - 😝 [Release the tension](http://9gag.com/gag/ajPb3wp)
+ - 👉 [You are on the other side of the law](http://9gag.com/gag/adBZWED)<!-- MEMES:END -->
 
 ---
 

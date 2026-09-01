@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Google Pics, a creative design suite powered by Gemini and Nano Banana to compete with Canva and Adobe Express, available as a Workspace app &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260901/p28#a260901p28)
- - [John Deere launched an AI chatbot for farmers](https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot)
- - [Sony’s new party speakers have more bass, more LEDs, and more connectivity](https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds)
- - [Google Pics is like Canva, but with even more AI](https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator)
- - [Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260901/p27#a260901p27)<!-- TECH:END -->
+ - [Fei-Fei Li&#39;s World Labs unveils Atlas, a multimodal world model that generates image/video frames with pixel-perfect camera control and reconstructs them in 3D &lpar;World Labs&rpar;](https://www.techmeme.com/260901/p39#a260901p39)
+ - [Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260901/p38#a260901p38)
+ - [Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260901/p37#a260901p37)
+ - [No ‘DMV for AI’: US Pushes Against AI Regulations at Global Forum](https://www.cnet.com/tech/services-and-software/g20-innovation-ministerial-ai-regulation-us-news/)
+ - [Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260901/p36#a260901p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

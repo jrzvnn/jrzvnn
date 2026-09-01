@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Yup...](http://9gag.com/gag/a9yQ0jj)
- - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
- - 💣 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
- - 😝 [Do not compare saaaaar!](http://9gag.com/gag/aPAN0eP)
- - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
+ - 😝 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
+ - 💣 [Back old days](http://9gag.com/gag/a6Zvg2N)
+ - 😝 [No reason at all....!!!](http://9gag.com/gag/avyYj2O)
+ - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
 
 ---
 

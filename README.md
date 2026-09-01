@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
- - 😝 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
- - 💣 [The boss arrived](http://9gag.com/gag/aYQ869N)
- - 😝 [Unit of measurment](http://9gag.com/gag/a87PO9d)
- - 👉 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)<!-- MEMES:END -->
+ - 😝 [Yup...](http://9gag.com/gag/a9yQ0jj)
+ - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - 💣 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 😝 [Do not compare saaaaar!](http://9gag.com/gag/aPAN0eP)
+ - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
 
 ---
 

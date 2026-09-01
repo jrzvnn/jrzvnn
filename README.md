@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Release the tension](http://9gag.com/gag/ajPb3wp)
- - 😝 [You are on the other side of the law](http://9gag.com/gag/adBZWED)
- - 💣 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)
+ - 😝 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)
+ - 💣 [9gag once again shadow banning posts so here&#39;s an attractive female](http://9gag.com/gag/an7pZyn)
  - 😝 [.](http://9gag.com/gag/avyYVqq)
- - 👉 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)<!-- MEMES:END -->
+ - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
 
 ---
 

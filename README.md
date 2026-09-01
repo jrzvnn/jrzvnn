@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Gov. Josh Shapiro, once a data center champion, calls them &quot;predatory&quot; and imposes guardrails, some in struggling western Pennsylvania welcome the projects &lpar;New York Times&rpar;](https://www.techmeme.com/260901/p1#a260901p1)
- - [Chewy Promo Codes: $20 Off September 2026](https://www.wired.com/story/chewy-promo-code/)
- - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
- - [50% Off DoorDash Promo Code | September 2026](https://www.wired.com/story/doordash-promo-code/)
- - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
+ - [Apple pulls PCIe 6.0 claims from new Mac Studio&#39;s spec sheets](https://appleinsider.com/articles/26/09/01/apple-pulls-pcie-60-claims-from-new-mac-studios-spec-sheets?utm_source=rss)
+ - [5 Best Folding Phones &lpar;2026&rpar;: Samsung, Google, Motorola](https://www.wired.com/gallery/best-folding-phones/)
+ - [Dyson Blasts Into Dental Care With a $499 Camera-Equipped Toothbrush](https://www.cnet.com/health/personal-care/dyson-blasts-dental-care-499-toothbrush-featuring-camera/)
+ - [A look back at Tim Cook&#39;s 15-year tenure: Apple silicon, wearables, a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260901/p12#a260901p12)
+ - [Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260901/p11#a260901p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

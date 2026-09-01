@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic details security efforts following Claude cyber evaluation incidents, including a weeks-long pause on higher-risk RL and work to curb reward hacking &lpar;Anthropic&rpar;](https://www.techmeme.com/260831/p43#a260831p43)
- - [uGreen NASync DXP4800 Pro review: Sweet spot of price &amp; performance](https://appleinsider.com/articles/26/08/31/ugreen-nasync-dxp4800-pro-review-sweet-spot-of-price-performance?utm_source=rss)
- - [Sources: Anthropic has signed a $35B cloud deal with Nvidia-backed Lambda; Nvidia will hold the lease on and supply chips to a Texas data center built by Hut 8 &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/260831/p42#a260831p42)
- - [The Google TV Streamer now costs $50 more](https://www.theverge.com/tech/987032/google-tv-streamer-price-increase)
- - [The Best Labor Day Mattress Deals on Beds We’ve Tried in Our Homes](https://www.wired.com/story/labor-day-mattress-deals-2026/)<!-- TECH:END -->
+ - [As Gov. Josh Shapiro, once a data center champion, calls them &quot;predatory&quot; and imposes guardrails, some in struggling western Pennsylvania welcome the projects &lpar;New York Times&rpar;](https://www.techmeme.com/260901/p1#a260901p1)
+ - [Chewy Promo Codes: $20 Off September 2026](https://www.wired.com/story/chewy-promo-code/)
+ - [LG Promo Codes and Coupons for September 2026](https://www.wired.com/story/lg-promo-code/)
+ - [50% Off DoorDash Promo Code | September 2026](https://www.wired.com/story/doordash-promo-code/)
+ - [Nike Promo Codes and Discounts: 30% for September 2026](https://www.wired.com/story/nike-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pulls PCIe 6.0 claims from new Mac Studio&#39;s spec sheets](https://appleinsider.com/articles/26/09/01/apple-pulls-pcie-60-claims-from-new-mac-studios-spec-sheets?utm_source=rss)
- - [5 Best Folding Phones &lpar;2026&rpar;: Samsung, Google, Motorola](https://www.wired.com/gallery/best-folding-phones/)
- - [Dyson Blasts Into Dental Care With a $499 Camera-Equipped Toothbrush](https://www.cnet.com/health/personal-care/dyson-blasts-dental-care-499-toothbrush-featuring-camera/)
- - [A look back at Tim Cook&#39;s 15-year tenure: Apple silicon, wearables, a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260901/p12#a260901p12)
- - [Dyson unveils the $499 CameraJet, an AI-powered toothbrush with a 100K-pixel macro lens that scans at 28 images per second and is trained on nearly 470K images &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260901/p11#a260901p11)<!-- TECH:END -->
+ - [Google launches Google Pics, a creative design suite powered by Gemini and Nano Banana to compete with Canva and Adobe Express, available as a Workspace app &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/260901/p28#a260901p28)
+ - [John Deere launched an AI chatbot for farmers](https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot)
+ - [Sony’s new party speakers have more bass, more LEDs, and more connectivity](https://www.theverge.com/tech/986839/sony-ult-power-sound-speaker-tower-max-5-7-xlr-leds)
+ - [Google Pics is like Canva, but with even more AI](https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator)
+ - [Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/260901/p27#a260901p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

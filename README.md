@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Apple says John Ternus will get a compensation package worth ~$58M in FY 2027, while Tim Cook&#39;s role as executive chairman will pay ~$47M &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260901/p52#a260901p52)
- - [Sources: Google plans to release Gemini 3.8 Flash as soon as Wednesday; Gemini 4 has done well on pre-training evals but still needs to complete post-training &lpar;Erin Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260901/p51#a260901p51)
- - [Apple CEO John Ternus won&#39;t be making as much as Cook did in the role for fiscal 2027](https://appleinsider.com/articles/26/09/01/apple-ceo-john-ternus-wont-be-making-as-much-as-cook-did-in-the-role-for-fiscal-2027?utm_source=rss)
- - [The US urged G20 members to avoid writing entirely new AI regulations, and instead focus on writing rules for &quot;novel&quot; situations that involve the tech &lpar;Reuters&rpar;](https://www.techmeme.com/260901/p50#a260901p50)
- - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)<!-- TECH:END -->
+ - [Apple Maps updates &#39;Lake Ontario&#39; to &#39;Lake America&#39; for US users](https://appleinsider.com/articles/26/09/01/apple-maps-updates-lake-ontario-to-lake-america-for-us-users?utm_source=rss)
+ - [India&#39;s JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India &lpar;TechCrunch&rpar;](https://www.techmeme.com/260901/p57#a260901p57)
+ - [IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog &lpar;Monique Mulima/Bloomberg&rpar;](https://www.techmeme.com/260901/p56#a260901p56)
+ - [Apple’s iPhone 18 Pro Could Come in Black, but Skip Silver This Year](https://www.cnet.com/tech/mobile/apples-iphone-18-pro-could-come-in-black-but-skip-silver-this-year/)
+ - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

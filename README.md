@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fei-Fei Li&#39;s World Labs unveils Atlas, a multimodal world model that generates image/video frames with pixel-perfect camera control and reconstructs them in 3D &lpar;World Labs&rpar;](https://www.techmeme.com/260901/p39#a260901p39)
- - [Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/260901/p38#a260901p38)
- - [Aslan, which offers AI agents for the FBI and wider intelligence community that can pose as analysts and undercover spies in online forums, raised $20.8M &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260901/p37#a260901p37)
- - [No ‘DMV for AI’: US Pushes Against AI Regulations at Global Forum](https://www.cnet.com/tech/services-and-software/g20-innovation-ministerial-ai-regulation-us-news/)
- - [Anthropic launches Enterprise Frontier Safeguards to let businesses control how their data is reviewed, stored, and managed, after pushback from customers &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260901/p36#a260901p36)<!-- TECH:END -->
+ - [Filing: Apple says John Ternus will get a compensation package worth ~$58M in FY 2027, while Tim Cook&#39;s role as executive chairman will pay ~$47M &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260901/p52#a260901p52)
+ - [Sources: Google plans to release Gemini 3.8 Flash as soon as Wednesday; Gemini 4 has done well on pre-training evals but still needs to complete post-training &lpar;Erin Woo/Wall Street Journal&rpar;](https://www.techmeme.com/260901/p51#a260901p51)
+ - [Apple CEO John Ternus won&#39;t be making as much as Cook did in the role for fiscal 2027](https://appleinsider.com/articles/26/09/01/apple-ceo-john-ternus-wont-be-making-as-much-as-cook-did-in-the-role-for-fiscal-2027?utm_source=rss)
+ - [The US urged G20 members to avoid writing entirely new AI regulations, and instead focus on writing rules for &quot;novel&quot; situations that involve the tech &lpar;Reuters&rpar;](https://www.techmeme.com/260901/p50#a260901p50)
+ - [Apple Maps follows Google in renaming Lake Ontario](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

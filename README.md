@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rev Fr. Archbishop Major General from South Sudan.](https://www.reddit.com/r/funny/comments/1w49sv2/rev_fr_archbishop_major_general_from_south_sudan/)
- - 😝 [Yup...](http://9gag.com/gag/a9yQ0jj)
- - 💣 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)
- - 😝 [They start wars and break men](http://9gag.com/gag/an7p0Ab)
- - 👉 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)<!-- MEMES:END -->
+ - 😝 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
+ - 😝 [Looks like a trap](http://9gag.com/gag/aoyr6dg)
+ - 💣 [The boss arrived](http://9gag.com/gag/aYQ869N)
+ - 😝 [Unit of measurment](http://9gag.com/gag/a87PO9d)
+ - 👉 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)<!-- MEMES:END -->
 
 ---
 

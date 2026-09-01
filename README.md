@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yup...](http://9gag.com/gag/a9yQ0jj)
+ - 😝 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
  - 😝 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
- - 💣 [Back old days](http://9gag.com/gag/a6Zvg2N)
+ - 💣 [The boss arrived](http://9gag.com/gag/aYQ869N)
  - 😝 [No reason at all....!!!](http://9gag.com/gag/avyYj2O)
  - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
 

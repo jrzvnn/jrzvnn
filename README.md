@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A woman\u2019s reaction to another woman](http://9gag.com/gag/an7p32L)
  - 😝 [Release the tension](http://9gag.com/gag/ajPb3wp)
- - 😝 [Not a troll, who do you think is right?](http://9gag.com/gag/aQzwK8d)
  - 💣 [9gag once again shadow banning posts so here&#39;s an attractive female](http://9gag.com/gag/an7pZyn)
- - 😝 [.](http://9gag.com/gag/avyYVqq)
- - 👉 [Best life &lpar;if you&#39;re poor&rpar;](http://9gag.com/gag/agmMbQ1)<!-- MEMES:END -->
+ - 😝 [Core memory unlocked but with a reality check](http://9gag.com/gag/aLnY5KA)
+ - 👉 [Bruuuuuuh](http://9gag.com/gag/ae9oE6b)<!-- MEMES:END -->
 
 ---
 

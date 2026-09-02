@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps updates &#39;Lake Ontario&#39; to &#39;Lake America&#39; for US users](https://appleinsider.com/articles/26/09/01/apple-maps-updates-lake-ontario-to-lake-america-for-us-users?utm_source=rss)
- - [India&#39;s JioHotstar launches internationally without live sports, replacing Hotstar in the UK, Canada, and Singapore; the company says it has 500M+ MAUs in India &lpar;TechCrunch&rpar;](https://www.techmeme.com/260901/p57#a260901p57)
- - [IPO filing: SB Energy says it has 8.8GW of data center capacity contracted or under construction across Texas and Ohio and a $430B data center segment backlog &lpar;Monique Mulima/Bloomberg&rpar;](https://www.techmeme.com/260901/p56#a260901p56)
- - [Apple’s iPhone 18 Pro Could Come in Black, but Skip Silver This Year](https://www.cnet.com/tech/mobile/apples-iphone-18-pro-could-come-in-black-but-skip-silver-this-year/)
- - [The Range Rover Electric: Specs, Price, Availability](https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/)<!-- TECH:END -->
+ - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
+ - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)
+ - [Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260901/p58#a260901p58)
+ - [Are We There Yet? Startup Wants to Launch an 80,000-Year Mission to Alpha Centauri](https://www.cnet.com/science/space/are-we-there-yet-startup-wants-to-launch-an-80000-year-mission-to-alpha-centauri/)
+ - [Apple Maps updates &#39;Lake Ontario&#39; to &#39;Lake America&#39; for US users](https://appleinsider.com/articles/26/09/01/apple-maps-updates-lake-ontario-to-lake-america-for-us-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

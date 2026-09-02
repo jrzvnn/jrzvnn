@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the current state of humanoid robotics and challenges like generalization and completing long tasks, which may take years or even decades to overcome &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260902/p1#a260902p1)
- - [Booking.com Promo Codes: 20% Off | September 2026](https://www.wired.com/story/booking-com-promo-code/)
- - [Priceline Promo Codes &amp; Coupons: 10% Off September 2026](https://www.wired.com/story/priceline-promo-code/)
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [B&amp;H Photo Promo Codes and Deals This September 2026](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
+ - [Developers can stop supporting Intel Macs, says Apple](https://appleinsider.com/articles/26/09/02/developers-can-stop-supporting-intel-macs-says-apple?utm_source=rss)
+ - [Best Sony Headphone Deals: WH-1000XM5 and More &lpar;2026&rpar;](https://www.wired.com/story/sony-headphone-deals-september-2026/)
+ - [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
+ - [Acer unveils its fourth-generation Vero 16 with modular elements like removable bottom covers and hinges, user-replaceable batteries and SSDs, and more &lpar;Tyler Graham/CNET&rpar;](https://www.techmeme.com/260902/p12#a260902p12)
+ - [Acer unveils the Predator Atlas 7, a 7&quot; handheld with an Intel Arc G3 Extreme CPU, shipping in November, and the Project DualPlay Mini, an 8&quot; concept device &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260902/p11#a260902p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

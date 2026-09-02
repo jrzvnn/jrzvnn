@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
- - 😝 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
- - 💣 [Clever way to show how kids see the world](http://9gag.com/gag/aMVR5KG)
- - 😝 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
- - 👉 [The boss arrived](http://9gag.com/gag/aYQ869N)<!-- MEMES:END -->
+ - 😝 [The wonders of physics](http://9gag.com/gag/a6Zv6Pq)
+ - 😝 [Lord of the Rings and the others](http://9gag.com/gag/apRywwn)
+ - 💣 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)
+ - 😝 [Precedent has been set no matter what](http://9gag.com/gag/ae9oBbm)
+ - 👉 [He got a point.](http://9gag.com/gag/an7pZm5)<!-- MEMES:END -->
 
 ---
 

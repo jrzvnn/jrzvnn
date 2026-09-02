@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cognition is raising around $1B at a ~$47B valuation, up from $26B in May; Cognition received nearly $10B in investor interest &lpar;Bloomberg&rpar;](https://www.techmeme.com/260901/p60#a260901p60)
- - [Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260901/p59#a260901p59)
- - [Anthropic prices Fable 5.1 at $10/1M input tokens and $50/1M output tokens, unchanged from Fable 5, and cuts cache read pricing by 75% to $0.25/1M tokens &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260901/p58#a260901p58)
- - [Are We There Yet? Startup Wants to Launch an 80,000-Year Mission to Alpha Centauri](https://www.cnet.com/science/space/are-we-there-yet-startup-wants-to-launch-an-80000-year-mission-to-alpha-centauri/)
- - [Apple Maps updates &#39;Lake Ontario&#39; to &#39;Lake America&#39; for US users](https://appleinsider.com/articles/26/09/01/apple-maps-updates-lake-ontario-to-lake-america-for-us-users?utm_source=rss)<!-- TECH:END -->
+ - [A look at the current state of humanoid robotics and challenges like generalization and completing long tasks, which may take years or even decades to overcome &lpar;Kai Williams/Understanding AI&rpar;](https://www.techmeme.com/260902/p1#a260902p1)
+ - [Booking.com Promo Codes: 20% Off | September 2026](https://www.wired.com/story/booking-com-promo-code/)
+ - [Priceline Promo Codes &amp; Coupons: 10% Off September 2026](https://www.wired.com/story/priceline-promo-code/)
+ - [NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [B&amp;H Photo Promo Codes and Deals This September 2026](https://www.wired.com/story/bh-photo-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

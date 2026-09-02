@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Muse Spark 1.3 with max reasoning, in limited preview for partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Fable 5.1 and Opus 5 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260902/p42#a260902p42)
- - [HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260902/p41#a260902p41)
- - [Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations](https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/)
- - [Hobby Lobby stealthily adds support for Apple Pay](https://appleinsider.com/articles/26/09/02/hobby-lobby-stealthily-adds-support-for-apple-pay?utm_source=rss)
- - [Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260902/p40#a260902p40)<!-- TECH:END -->
+ - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)
+ - [Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260902/p44#a260902p44)
+ - [Uber and Wayve Launch London’s First Public Robotaxi Service](https://www.cnet.com/roadshow/automobiles/uber-wayve-launch-londons-first-public-robotaxi-service/)
+ - [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch)
+ - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

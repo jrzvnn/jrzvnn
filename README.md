@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back old days](http://9gag.com/gag/a6Zvg2N)
- - 😝 [Starcraft, Warcraft, Red Alert, Empire Earth, Supreme Commander, Dawn of War and many others rocked the early 2000, yet the genre seems to have died out completely? Best they could do is a remake of classic AOE. Meanwhile turn based games like Civ are still going.](http://9gag.com/gag/aW4Ky5n)
- - 💣 [Well that didn&#39;t stay in Vegas.](http://9gag.com/gag/aByq5Qx)
- - 😝 [In 1981 they filmed Excalibur with real armor , zero cgi and actual green fire and still looks better than half of the movies today](http://9gag.com/gag/ary6Ln0)
- - 👉 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)<!-- MEMES:END -->
+ - 😝 [Because disney kicked out Nick Gilliard who is the choreographer from prequels](http://9gag.com/gag/abAPDjr)
+ - 😝 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
+ - 💣 [Clever way to show how kids see the world](http://9gag.com/gag/aMVR5KG)
+ - 😝 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
+ - 👉 [The boss arrived](http://9gag.com/gag/aYQ869N)<!-- MEMES:END -->
 
 ---
 

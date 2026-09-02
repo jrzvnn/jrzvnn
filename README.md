@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your free attention trial has expired](http://9gag.com/gag/aPANq7B)
- - 😝 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
- - 💣 [Procrastination](http://9gag.com/gag/aYQ85Km)
+ - 😝 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
  - 😝 [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
- - 👉 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)<!-- MEMES:END -->
+ - 💣 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)
+ - 😝 [He&#39;s a gem. An absolute gem.](http://9gag.com/gag/amoj4Lj)
+ - 👉 [Procrastination](http://9gag.com/gag/aYQ85Km)<!-- MEMES:END -->
 
 ---
 

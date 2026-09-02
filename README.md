@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Grace, Beauty, and Elegance of this young woman](http://9gag.com/gag/adBZA4j)
- - 😝 [If you ever har Chinese food then you could be one of them..](http://9gag.com/gag/abAPDDp)
- - 💣 [The boss arrived](http://9gag.com/gag/aYQ869N)
- - 😝 [No reason at all....!!!](http://9gag.com/gag/avyYj2O)
- - 👉 [Looks like a trap](http://9gag.com/gag/aoyr6dg)<!-- MEMES:END -->
+ - 😝 [Not today death.](http://9gag.com/gag/a6ZvgBm)
+ - 😝 [Two women on the jury showed up wearing pink, IN SOLIDARITY.](http://9gag.com/gag/avyYwWE)
+ - 💣 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)
+ - 😝 [Those poor men.](http://9gag.com/gag/aGy35Q0)
+ - 👉 [Yup...](http://9gag.com/gag/a9yQ0jj)<!-- MEMES:END -->
 
 ---
 

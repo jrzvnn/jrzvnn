@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just another reason keanu is the best human on earth](http://9gag.com/gag/a9yQG26)
- - 😝 [Those poor men.](http://9gag.com/gag/aGy35Q0)
- - 💣 [Nature is healing](http://9gag.com/gag/aByqevD)
- - 😝 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)
- - 👉 [You will be safe here](http://9gag.com/gag/an7poRn)<!-- MEMES:END -->
+ - 😝 [Your free attention trial has expired](http://9gag.com/gag/aPANq7B)
+ - 😝 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - 💣 [Procrastination](http://9gag.com/gag/aYQ85Km)
+ - 😝 [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
+ - 👉 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)<!-- MEMES:END -->
 
 ---
 

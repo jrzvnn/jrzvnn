@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Developers can stop supporting Intel Macs, says Apple](https://appleinsider.com/articles/26/09/02/developers-can-stop-supporting-intel-macs-says-apple?utm_source=rss)
- - [Best Sony Headphone Deals: WH-1000XM5 and More &lpar;2026&rpar;](https://www.wired.com/story/sony-headphone-deals-september-2026/)
- - [The robot butler dream doesn’t have legs](https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa)
- - [Acer unveils its fourth-generation Vero 16 with modular elements like removable bottom covers and hinges, user-replaceable batteries and SSDs, and more &lpar;Tyler Graham/CNET&rpar;](https://www.techmeme.com/260902/p12#a260902p12)
- - [Acer unveils the Predator Atlas 7, a 7&quot; handheld with an Intel Arc G3 Extreme CPU, shipping in November, and the Project DualPlay Mini, an 8&quot; concept device &lpar;Mariella Moon/Engadget&rpar;](https://www.techmeme.com/260902/p11#a260902p11)<!-- TECH:END -->
+ - [Adobe launches Adobe for Slack, making 70+ creative and productivity tools, including Firefly, Photoshop, and Express, available via Slackbot prompts &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260902/p24#a260902p24)
+ - [Belkin’s kid-friendly wireless headphones are 25 percent off](https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale)
+ - [A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/260902/p23#a260902p23)
+ - [Conveo, which uses AI to conduct customer interviews in 15 languages and analyzes transcripts for market insights, raised a $50M Series A led by DST Global &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260902/p22#a260902p22)
+ - [Adobe for Slack brings more generative AI to your digital workspace](https://appleinsider.com/articles/26/09/02/adobe-for-slack-brings-more-generative-ai-to-your-digital-workspace?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

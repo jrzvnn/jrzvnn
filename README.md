@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
- - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
- - [Uber is shutting down services in Nigeria and Uganda from September 2 after a global review of its operations; it launched in Nigeria in 2014 and Uganda in 2016 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260902/p35#a260902p35)
- - [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
- - [X says US payouts for its Original Content Rewards and Subscriptions will now be handled through X Money &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260902/p34#a260902p34)<!-- TECH:END -->
+ - [Muse Spark 1.3 with max reasoning, in limited preview for partners, scores 62 on the Artificial Analysis Intelligence Index, behind only Fable 5.1 and Opus 5 &lpar;@artificialanlys&rpar;](https://www.techmeme.com/260902/p42#a260902p42)
+ - [HPE reports Q3 revenue up 34% YoY to $12.2B, vs. $11.9B est., forecasts FY 2026 and FY 2027 sales growth above est., signs a $3.5B server deal with a cloud firm &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260902/p41#a260902p41)
+ - [Democrats Have a Plan to Force Trump’s Associates to Cooperate With Investigations](https://www.wired.com/story/democrats-have-a-plan-to-force-trumps-associates-to-cooperate-with-investigations/)
+ - [Hobby Lobby stealthily adds support for Apple Pay](https://appleinsider.com/articles/26/09/02/hobby-lobby-stealthily-adds-support-for-apple-pay?utm_source=rss)
+ - [Broadcom reports Q3 revenue up 86% YoY to $29.59B, vs. $29.36B est., AI semiconductor revenue up 221% to $16.7B, and forecasts Q4 revenue below estimates &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260902/p40#a260902p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

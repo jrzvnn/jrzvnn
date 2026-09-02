@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches Adobe for Slack, making 70+ creative and productivity tools, including Firefly, Photoshop, and Express, available via Slackbot prompts &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/260902/p24#a260902p24)
- - [Belkin’s kid-friendly wireless headphones are 25 percent off](https://www.theverge.com/gadgets/987687/belkin-headphones-sonos-ace-nintendo-switch-2-kirby-amazon-resale-deal-sale)
- - [A US federal judge rules that Google does not have to sell off its ad exchange and instead must make its ad tech tools work with those operated by rivals &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/260902/p23#a260902p23)
- - [Conveo, which uses AI to conduct customer interviews in 15 languages and analyzes transcripts for market insights, raised a $50M Series A led by DST Global &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260902/p22#a260902p22)
- - [Adobe for Slack brings more generative AI to your digital workspace](https://appleinsider.com/articles/26/09/02/adobe-for-slack-brings-more-generative-ai-to-your-digital-workspace?utm_source=rss)<!-- TECH:END -->
+ - [ICE Plans to Pay $5 Million to Create National Voting Database](https://www.wired.com/story/ice-plans-to-pay-5-million-to-create-national-voting-database/)
+ - [These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words](https://www.wired.com/story/russian-startup-mostik-ai-models-communication/)
+ - [Uber is shutting down services in Nigeria and Uganda from September 2 after a global review of its operations; it launched in Nigeria in 2014 and Uganda in 2016 &lpar;Bloomberg&rpar;](https://www.techmeme.com/260902/p35#a260902p35)
+ - [Amazon’s AI assistant can now spot fake emails from the company](https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails)
+ - [X says US payouts for its Original Content Rewards and Subscriptions will now be handled through X Money &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260902/p34#a260902p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is It Even Possible to Understand Quantum Mechanics?](https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/)
- - [This Is Flock’s AI Search Tool for Cops](https://www.wired.com/story/flock-ai-search-user-interface/)
- - [All G20 nations unanimously endorse the non-binding Carolina Principles, a US-proposed framework advocating for a lighter-touch, sector-specific AI regulation &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260903/p9#a260903p9)
- - [At the G20 summit, Jensen Huang, Mark Zuckerberg, Sam Altman, and Elon Musk joined Trump officials in lobbying policymakers against heavy AI regulations &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260903/p8#a260903p8)
- - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)<!-- TECH:END -->
+ - [OLED MacBook might get M5 Ultra chip, but it feels unlikely](https://appleinsider.com/articles/26/09/03/oled-macbook-might-get-m5-ultra-chip-but-it-feels-unlikely?utm_source=rss)
+ - [There is a way to run Wallpaper Engine files on Mac, with caveats](https://appleinsider.com/inside/macos-27/tips/there-is-a-way-to-run-wallpaper-engine-files-on-mac-with-caveats?utm_source=rss)
+ - [Sources: Saudi AI company Humain is planning to raise an initial $2.5B fund to help finance data center capacity of 250 MW in Saudi Arabia &lpar;Omar El Chmouri/Bloomberg&rpar;](https://www.techmeme.com/260903/p22#a260903p22)
+ - [Hohem’s tiny steadycam has a removable action cam](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam)
+ - [How Sonos rebooted itself](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

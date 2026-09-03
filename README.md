@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED MacBook might get M5 Ultra chip, but it feels unlikely](https://appleinsider.com/articles/26/09/03/oled-macbook-might-get-m5-ultra-chip-but-it-feels-unlikely?utm_source=rss)
- - [There is a way to run Wallpaper Engine files on Mac, with caveats](https://appleinsider.com/inside/macos-27/tips/there-is-a-way-to-run-wallpaper-engine-files-on-mac-with-caveats?utm_source=rss)
- - [Sources: Saudi AI company Humain is planning to raise an initial $2.5B fund to help finance data center capacity of 250 MW in Saudi Arabia &lpar;Omar El Chmouri/Bloomberg&rpar;](https://www.techmeme.com/260903/p22#a260903p22)
- - [Hohem’s tiny steadycam has a removable action cam](https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam)
- - [How Sonos rebooted itself](https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign)<!-- TECH:END -->
+ - [Apple Studio Display drops to $1,499 with Labor Day deals](https://appleinsider.com/articles/26/09/03/apple-studio-display-drops-to-1499-with-labor-day-deals?utm_source=rss)
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year &lpar;The Information&rpar;](https://www.techmeme.com/260903/p32#a260903p32)
+ - [Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p31#a260903p31)
+ - [Microsoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260903/p30#a260903p30)
+ - [India-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260903/p29#a260903p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)
- - [Sources: Palo Alto Networks paid $500M in cash and stock to acquire agentic IT support startup Console; PitchBook: Console was valued at $157M before the sale &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/260902/p44#a260902p44)
- - [Uber and Wayve Launch London’s First Public Robotaxi Service](https://www.cnet.com/roadshow/automobiles/uber-wayve-launch-londons-first-public-robotaxi-service/)
- - [Uber beats Waymo as first to launch robotaxis in London](https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch)
- - [Amazon’s 2026 Holiday Deals Are About to Look Better Than They Are](https://www.wired.com/story/amazon-increases-prices-kindle-echo-sept-2026/)<!-- TECH:END -->
+ - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)
+ - [We Need to Talk About Wednesday’s Doggone Connections Puzzle](https://www.cnet.com/tech/gaming/we-need-to-talk-about-wednesdays-doggone-connections-puzzle-2/)
+ - [Microsoft will start disclosing Azure quarterly revenue as part of a shift in its reporting structure, under which Azure revenue grew 42% YoY to $29.42B in Q4 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260902/p46#a260902p46)
+ - [Uber launches London&#39;s first commercial robotaxi service; the vehicles use Wayve&#39;s autonomous driving tech and will initially have human safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260902/p45#a260902p45)
+ - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

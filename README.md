@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
  - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 😝 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 💣 [Telepathic](http://9gag.com/gag/aNDxEo4)
- - 😝 [Any hidden gems?](http://9gag.com/gag/aE0r53n)
- - 👉 [Can some cat owners test this and report results in the comments? please.](http://9gag.com/gag/a349O7e)<!-- MEMES:END -->
+ - 💣 [Any hidden gems?](http://9gag.com/gag/aE0r53n)
+ - 😝 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)
+ - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
 
 ---
 

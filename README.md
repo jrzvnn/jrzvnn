@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
+ - 😝 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
  - 😝 [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
- - 💣 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)
- - 😝 [He&#39;s a gem. An absolute gem.](http://9gag.com/gag/amoj4Lj)
- - 👉 [Procrastination](http://9gag.com/gag/aYQ85Km)<!-- MEMES:END -->
+ - 💣 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
+ - 😝 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)
+ - 👉 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
 
 ---
 

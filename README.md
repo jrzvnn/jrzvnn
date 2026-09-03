@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Studio Display drops to $1,499 with Labor Day deals](https://appleinsider.com/articles/26/09/03/apple-studio-display-drops-to-1499-with-labor-day-deals?utm_source=rss)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks to raise $1B+ at a $40B+ pre-money valuation, lower than the $50B+ valuation it sought last year &lpar;The Information&rpar;](https://www.techmeme.com/260903/p32#a260903p32)
- - [Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p31#a260903p31)
- - [Microsoft will open Xbox Cloud Gaming to non-Game Pass users via a pay-as-you-go model; Ultimate subs will be limited to 15 hours per month of cloud gaming &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260903/p30#a260903p30)
- - [India-based smart ring maker Ultrahuman raised $70M, including $5M in debt, a source says at a $365M valuation, and is working with Qualcomm on a new ring &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260903/p29#a260903p29)<!-- TECH:END -->
+ - [Dungeons &amp;#038; Dragons is getting a &amp;#8216;Ravenloft&amp;#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
+ - [OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260903/p42#a260903p42)
+ - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
+ - [Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p41#a260903p41)
+ - [GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% &lpar;Greg Kamradt/ARC Prize&rpar;](https://www.techmeme.com/260903/p40#a260903p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

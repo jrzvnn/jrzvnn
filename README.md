@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was so close to ending very badly](http://9gag.com/gag/aVvn6O2)
- - 😝 [Can you make it change direction](http://9gag.com/gag/aD2p5qB)
- - 💣 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
- - 😝 [They used a diamond wire to slice a whole building in half](http://9gag.com/gag/agmMeD6)
+ - 😝 [Hero work changing the world one bacteria at a time](http://9gag.com/gag/a7o4xwL)
+ - 😝 [Any hidden gems?](http://9gag.com/gag/aE0r53n)
+ - 💣 [Which one would you come home to?](http://9gag.com/gag/aW4K5zq)
+ - 😝 [This is true.](http://9gag.com/gag/aGy3Qvz)
  - 👉 [Woman refuses to pay after eating her dinner because `it wasn&#39;t done to her liking`](http://9gag.com/gag/awyR2WB)<!-- MEMES:END -->
 
 ---

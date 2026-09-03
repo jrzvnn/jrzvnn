@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft shifts from three reporting segments to two: Agents and Infra, including Microsoft 365 and Azure, and Devices and Consumer, with Windows and Xbox &lpar;Stephen Nakrosis/Wall Street Journal&rpar;](https://www.techmeme.com/260902/p47#a260902p47)
- - [We Need to Talk About Wednesday’s Doggone Connections Puzzle](https://www.cnet.com/tech/gaming/we-need-to-talk-about-wednesdays-doggone-connections-puzzle-2/)
- - [Microsoft will start disclosing Azure quarterly revenue as part of a shift in its reporting structure, under which Azure revenue grew 42% YoY to $29.42B in Q4 &lpar;Jordan Novet/CNBC&rpar;](https://www.techmeme.com/260902/p46#a260902p46)
- - [Uber launches London&#39;s first commercial robotaxi service; the vehicles use Wayve&#39;s autonomous driving tech and will initially have human safety drivers &lpar;Andrew J. Hawkins/The Verge&rpar;](https://www.techmeme.com/260902/p45#a260902p45)
- - [Hate AI Data Centers? Big Tech’s New Ad Campaign Aims to Change Your Mind](https://www.cnet.com/tech/services-and-software/hate-ai-data-centers-big-techs-new-ad-campaign-will-try-to-change-your-mind/)<!-- TECH:END -->
+ - [Taiwan investigated 166 cases in six years involving companies allegedly hiding China ties while pursuing chip talent and tech, alongside 67 trade-secret probes &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260903/p5#a260903p5)
+ - [Uber is aligning with drivers&#39; unions in a bid to slow the rollout of robotaxis across the US, as it faces a technological disruption to its core business &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260903/p4#a260903p4)
+ - [HBO Max Promo Code: 50% Off | September 2026](https://www.wired.com/story/max-promo-code/)
+ - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

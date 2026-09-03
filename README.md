@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Video game graphics peaked a decade ago and have been the same since](http://9gag.com/gag/avyYKDO)
+ - 😝 [Nature is healing](http://9gag.com/gag/aByqevD)
  - 😝 [Even better](http://9gag.com/gag/a87PxKO)
- - 💣 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 😝 [Telepathic](http://9gag.com/gag/aNDxEo4)
- - 👉 [Just so happens](http://9gag.com/gag/a6ZvRON)<!-- MEMES:END -->
+ - 💣 [Just so happens](http://9gag.com/gag/a6ZvRON)
+ - 😝 [Pepperidge Farm remembers](http://9gag.com/gag/aRB5bMA)
+ - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
 
 ---
 

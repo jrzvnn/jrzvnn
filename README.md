@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve seen all of her movies](http://9gag.com/gag/amojwej)
- - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 💣 [Any hidden gems?](http://9gag.com/gag/aE0r53n)
- - 😝 [Hey! Hey!](http://9gag.com/gag/a7o4xRL)
- - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
+ - 😝 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)
+ - 😝 [Nature is healing](http://9gag.com/gag/aByqevD)
+ - 💣 [Gonna back in tiiiiime](http://9gag.com/gag/axyxqWW)
+ - 😝 [We not the same](http://9gag.com/gag/aPANE3q)
+ - 👉 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)<!-- MEMES:END -->
 
 ---
 

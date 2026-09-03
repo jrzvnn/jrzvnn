@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dungeons &amp;#038; Dragons is getting a &amp;#8216;Ravenloft&amp;#8217; live-action Netflix series](https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix)
- - [OpenAI commits $1B in subsidized model access, training, support, and partnerships to a new initiative aimed at protecting essential services around the world &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/260903/p42#a260903p42)
- - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
- - [Sources: Crusoe signed a ~$13B, five-year deal with Jane Street to provide GPUs and other infrastructure for AI training and inference via its cloud platform &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p41#a260903p41)
- - [GPT-6 Astra scores 62.7% on ARC-AGI-3 with the standard harness and 99.9% with a new provider adapter harness; Claude Opus 5 scored 30.2%, and GPT-5.6 Sol 7.8% &lpar;Greg Kamradt/ARC Prize&rpar;](https://www.techmeme.com/260903/p40#a260903p40)<!-- TECH:END -->
+ - [5 Best Video Doorbell Cameras &lpar;2026&rpar;: Subscription-Free, Video, and More](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
+ - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
+ - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
+ - [Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures &lpar;Axios&rpar;](https://www.techmeme.com/260903/p45#a260903p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

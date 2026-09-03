@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope this is appreciated here.](http://9gag.com/gag/ae9o8Yq)
- - 😝 [Nature is healing](http://9gag.com/gag/aByqevD)
- - 💣 [Gonna back in tiiiiime](http://9gag.com/gag/axyxqWW)
- - 😝 [We not the same](http://9gag.com/gag/aPANE3q)
- - 👉 [Earth is not normal anymore](http://9gag.com/gag/aVvnyjK)<!-- MEMES:END -->
+ - 😝 [Video game graphics peaked a decade ago and have been the same since](http://9gag.com/gag/avyYKDO)
+ - 😝 [Even better](http://9gag.com/gag/a87PxKO)
+ - 💣 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
+ - 😝 [Telepathic](http://9gag.com/gag/aNDxEo4)
+ - 👉 [Just so happens](http://9gag.com/gag/a6ZvRON)<!-- MEMES:END -->
 
 ---
 

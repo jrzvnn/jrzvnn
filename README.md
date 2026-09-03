@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan investigated 166 cases in six years involving companies allegedly hiding China ties while pursuing chip talent and tech, alongside 67 trade-secret probes &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260903/p5#a260903p5)
- - [Uber is aligning with drivers&#39; unions in a bid to slow the rollout of robotaxis across the US, as it faces a technological disruption to its core business &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260903/p4#a260903p4)
- - [HBO Max Promo Code: 50% Off | September 2026](https://www.wired.com/story/max-promo-code/)
- - [We-Vibe Discount Codes and Deals: Up to 60% Off](https://www.wired.com/story/we-vibe-discount-code/)
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)<!-- TECH:END -->
+ - [Is It Even Possible to Understand Quantum Mechanics?](https://www.wired.com/story/is-it-even-possible-to-understand-quantum-mechanics/)
+ - [This Is Flock’s AI Search Tool for Cops](https://www.wired.com/story/flock-ai-search-user-interface/)
+ - [All G20 nations unanimously endorse the non-binding Carolina Principles, a US-proposed framework advocating for a lighter-touch, sector-specific AI regulation &lpar;Maggie Eastland/Bloomberg&rpar;](https://www.techmeme.com/260903/p9#a260903p9)
+ - [At the G20 summit, Jensen Huang, Mark Zuckerberg, Sam Altman, and Elon Musk joined Trump officials in lobbying policymakers against heavy AI regulations &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260903/p8#a260903p8)
+ - [Smart Toilets Are Already Using AI to Analyze Your Poop](https://www.wired.com/story/smart-toilets-using-ai-to-analyze-your-poop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260904/p31#a260904p31)
+ - [Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/)
+ - [California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation &lpar;Chase DiFeliciantonio/Politico&rpar;](https://www.techmeme.com/260904/p30#a260904p30)
  - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
- - [Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines&#39; data; the offer faces hurdles as Spirit already has a $10M deal with Google &lpar;Jonathan Randles/Bloomberg&rpar;](https://www.techmeme.com/260904/p29#a260904p29)
- - [Tesla’s Cybercab Opened Up to Riders — and the Feds Opened an Investigation](https://www.cnet.com/roadshow/automobiles/tesla-cybercab-launch-investigation/)
- - [Withings’ ‘Thermometer of the Future’ Is Getting an AI Analysis Upgrade](https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/)
- - [Anthropic says Claude worked &quot;largely autonomously&quot; over 11 days to formalize the proof of Fermat&#39;s Last Theorem in the Lean programming language &lpar;Anthropic&rpar;](https://www.techmeme.com/260904/p28#a260904p28)<!-- TECH:END -->
+ - [Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines&#39; data; the offer faces hurdles as Spirit already has a $10M deal with Google &lpar;Jonathan Randles/Bloomberg&rpar;](https://www.techmeme.com/260904/p29#a260904p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

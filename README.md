@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple still on track for a revolutionary iPhone 20 in 2027](https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027?utm_source=rss)
- - [An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260904/p22#a260904p22)
- - [Apple Is Full of Surprises. Here’s What CNET Readers Anticipate Ahead of Wednesday’s Event](https://www.cnet.com/tech/services-and-software/apple-is-full-of-surprises-heres-what-cnet-readers-anticipate-ahead-of-wednesdays-event/)
- - [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)
- - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)<!-- TECH:END -->
+ - [Apple may have two very different game controllers in the works](https://appleinsider.com/articles/26/09/04/apple-may-have-two-very-different-game-controllers-in-the-works?utm_source=rss)
+ - [OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260904/p26#a260904p26)
+ - [Home Depot Labor Day Sale &lpar;2026&rpar;: BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
+ - [Report: OpenAI learned of the DseWiki German website incident weeks ago but kept it under wraps as it grappled with the Hugging Face fallout &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260904/p25#a260904p25)
+ - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

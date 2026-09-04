@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What you thought? It&#39;s rated R for rainbows?](http://9gag.com/gag/awyRWy1)
- - 😝 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 💣 [No accountability](http://9gag.com/gag/ary6Qz0)
+ - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
  - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
+ - 💣 [Like where?](http://9gag.com/gag/a3496dr)
+ - 😝 [Josie no!](http://9gag.com/gag/aO8gw66)
  - 👉 [It&#39;s the simple life](http://9gag.com/gag/aW4Kreq)<!-- MEMES:END -->
 
 ---

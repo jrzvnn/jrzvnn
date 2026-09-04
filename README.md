@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
- - 😝 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 💣 [That&#39;s satisfying](http://9gag.com/gag/aQzwLrK)
- - 😝 [Telepathic](http://9gag.com/gag/aNDxEo4)
- - 👉 [Terry Crews drawing Sofia Vergara](http://9gag.com/gag/aqy3P8P)<!-- MEMES:END -->
+ - 😝 [Please enjoy](http://9gag.com/gag/aMVRo0G)
+ - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
+ - 💣 [Irony..](http://9gag.com/gag/aGy3m8z)
+ - 😝 [Old and corny, need some entertainment](http://9gag.com/gag/ary67y5)
+ - 👉 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)<!-- MEMES:END -->
 
 ---
 

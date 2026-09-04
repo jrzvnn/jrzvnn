@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please enjoy](http://9gag.com/gag/aMVRo0G)
+ - 😝 [What you thought? It&#39;s rated R for rainbows?](http://9gag.com/gag/awyRWy1)
+ - 😝 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
+ - 💣 [No accountability](http://9gag.com/gag/ary6Qz0)
  - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
- - 💣 [Irony..](http://9gag.com/gag/aGy3m8z)
- - 😝 [Old and corny, need some entertainment](http://9gag.com/gag/ary67y5)
- - 👉 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)<!-- MEMES:END -->
+ - 👉 [It&#39;s the simple life](http://9gag.com/gag/aW4Kreq)<!-- MEMES:END -->
 
 ---
 

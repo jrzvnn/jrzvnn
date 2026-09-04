@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terry Crews drawing Sofia Vergara](http://9gag.com/gag/aqy3P8P)
- - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
- - 💣 [Cockroach farm](http://9gag.com/gag/a87PgDY)
- - 😝 [Selective sisterhood](http://9gag.com/gag/agmMDWg)
- - 👉 [Nature is healing](http://9gag.com/gag/aByqevD)<!-- MEMES:END -->
+ - 😝 [Old and corny, need some entertainment](http://9gag.com/gag/ary67y5)
+ - 😝 [Irony..](http://9gag.com/gag/aGy3m8z)
+ - 💣 [Terry Crews drawing Sofia Vergara](http://9gag.com/gag/aqy3P8P)
+ - 😝 [Any business that doesn\u2019t take cash deserves no business.](http://9gag.com/gag/aD2pKmZ)
+ - 👉 [Even better](http://9gag.com/gag/a87PxKO)<!-- MEMES:END -->
 
 ---
 

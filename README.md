@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silicon Valley Is Having a ‘Hot Girl Renaissance’](https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/)
- - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
- - [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026)
- - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
- - [Sources: initial foldable iPhone production is limited to only a &quot;few hundred&quot; units a day due to Apple&#39;s strict quality standards as it ramps up output &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260904/p3#a260904p3)<!-- TECH:END -->
+ - [Tesla Cybercab is barely real and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify)
+ - [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
+ - [Artificial Analysis Coding Agent Index: GPT-6 Astra scored 67, roughly equal to Claude Opus 5, Fable 5, and Muse Spark 1.3, but trailing leader Fable 5.1&#39;s 70 &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260904/p15#a260904p15)
+ - [Some European defense officials push back on efforts to cut reliance on US tech, warning it could leave Europe with inferior systems and greater cyber risks &lpar;Financial Times&rpar;](https://www.techmeme.com/260904/p14#a260904p14)
+ - [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

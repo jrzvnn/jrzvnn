@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260904/p1#a260904p1)
- - [Gimlet Labs, which helps customers divide AI tasks across multiple chip types, raised $300M led by a16z at a $3B valuation, six months after an $80M Series A &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260903/p53#a260903p53)
- - [Resect AI, which is developing open-source tech to catch AI hallucinations before they happen, emerges from stealth with $25M from private equity investors &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260903/p52#a260903p52)
- - [Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/260903/p51#a260903p51)
- - [Tesla’s Make-or-Break Cybercab Had a Quiet Debut](https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/)<!-- TECH:END -->
+ - [Silicon Valley Is Having a ‘Hot Girl Renaissance’](https://www.wired.com/story/silicon-valley-is-having-a-hot-girl-renaissance/)
+ - [Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick](https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable)
+ - [Aqara goes all in on smart lighting](https://www.theverge.com/tech/989581/aqara-smart-lighting-ifa-2026)
+ - [This rugged phone’s removable camera can survive and capture your extreme adventures](https://www.theverge.com/tech/989657/rugone-xsnap-7-pro-smartphone-removable-action-camera-rugged-waterproof)
+ - [Sources: initial foldable iPhone production is limited to only a &quot;few hundred&quot; units a day due to Apple&#39;s strict quality standards as it ramps up output &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260904/p3#a260904p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

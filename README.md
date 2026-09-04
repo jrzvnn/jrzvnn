@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may have two very different game controllers in the works](https://appleinsider.com/articles/26/09/04/apple-may-have-two-very-different-game-controllers-in-the-works?utm_source=rss)
- - [OpenAI rolls out GPT-6 Astra to Pro customers on the $100/month or $200/month plans &lpar;Zac Hall/9to5Mac&rpar;](https://www.techmeme.com/260904/p26#a260904p26)
- - [Home Depot Labor Day Sale &lpar;2026&rpar;: BOGO on Best Grills and Tools](https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/)
- - [Report: OpenAI learned of the DseWiki German website incident weeks ago but kept it under wraps as it grappled with the Hugging Face fallout &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260904/p25#a260904p25)
- - [Casio ‘CasioNaut’ G-Shock GMC-2500 GAC-2500 Series: Price, Specs, Availability](https://www.wired.com/story/casio-g-shock-casionaut-looks-like-a-patek-philippe-classic/)<!-- TECH:END -->
+ - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
+ - [Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines&#39; data; the offer faces hurdles as Spirit already has a $10M deal with Google &lpar;Jonathan Randles/Bloomberg&rpar;](https://www.techmeme.com/260904/p29#a260904p29)
+ - [Tesla’s Cybercab Opened Up to Riders — and the Feds Opened an Investigation](https://www.cnet.com/roadshow/automobiles/tesla-cybercab-launch-investigation/)
+ - [Withings’ ‘Thermometer of the Future’ Is Getting an AI Analysis Upgrade](https://www.cnet.com/health/medical/withings-thermometer-of-the-future-getting-ai-analysis-upgrade/)
+ - [Anthropic says Claude worked &quot;largely autonomously&quot; over 11 days to formalize the proof of Fermat&#39;s Last Theorem in the Lean programming language &lpar;Anthropic&rpar;](https://www.techmeme.com/260904/p28#a260904p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Best Video Doorbell Cameras &lpar;2026&rpar;: Subscription-Free, Video, and More](https://www.wired.com/gallery/best-video-doorbells/)
- - [Transplanted Pig Kidney Still Working After a Record-Setting 9 Months in a Patient](https://www.wired.com/story/pig-kidney-transplant-working-after-record-setting-9-months/)
- - [You can watch the coolant flow inside Ugreen’s liquid-cooled power bank](https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling)
- - [Nobody Is Saying Why OpenAI and Anthropic Had Outages Today](https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/)
- - [Sources: PayPal has paused plans to sell its VC portfolio for $900M-$1B after bids came in lower than hoped, months after deciding to wind down PayPal Ventures &lpar;Axios&rpar;](https://www.techmeme.com/260903/p45#a260903p45)<!-- TECH:END -->
+ - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
+ - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
+ - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
+ - [Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260903/p47#a260903p47)
+ - [Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p46#a260903p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
+ - 😝 [Familyzoned](http://9gag.com/gag/aE0rLve)
  - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
- - 💣 [Like where?](http://9gag.com/gag/a3496dr)
- - 😝 [Josie no!](http://9gag.com/gag/aO8gw66)
- - 👉 [It&#39;s the simple life](http://9gag.com/gag/aW4Kreq)<!-- MEMES:END -->
+ - 💣 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 😝 [Like where?](http://9gag.com/gag/a3496dr)
+ - 👉 [The end of a great debate](http://9gag.com/gag/aE0rmje)<!-- MEMES:END -->
 
 ---
 

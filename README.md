@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Cybercab is barely real and it’s already under investigation](https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify)
- - [Xbox app is coming to TCL TVs just as Microsoft rolls out pay-as-you-go cloud gaming](https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs)
- - [Artificial Analysis Coding Agent Index: GPT-6 Astra scored 67, roughly equal to Claude Opus 5, Fable 5, and Muse Spark 1.3, but trailing leader Fable 5.1&#39;s 70 &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260904/p15#a260904p15)
- - [Some European defense officials push back on efforts to cut reliance on US tech, warning it could leave Europe with inferior systems and greater cyber risks &lpar;Financial Times&rpar;](https://www.techmeme.com/260904/p14#a260904p14)
- - [iRobot unveils the Roomba Duo](https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum)<!-- TECH:END -->
+ - [Apple still on track for a revolutionary iPhone 20 in 2027](https://appleinsider.com/articles/26/09/04/apple-still-on-track-for-a-revolutionary-iphone-20-in-2027?utm_source=rss)
+ - [An interview with Sonos CEO Tom Conrad on the Sonos 27 platform, AI assistants, its Google relationship, speakers as a home computer mesh network, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/260904/p22#a260904p22)
+ - [Apple Is Full of Surprises. Here’s What CNET Readers Anticipate Ahead of Wednesday’s Event](https://www.cnet.com/tech/services-and-software/apple-is-full-of-surprises-heres-what-cnet-readers-anticipate-ahead-of-wednesdays-event/)
+ - [Microsoft says virtually nobody was grabbing NYT articles through its chatbot](https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit)
+ - [The best tech and gadgets announced at IFA so far](https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

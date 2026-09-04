@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The unusually muted Tesla Cybercab launch](https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk)
- - [Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal](https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out)
- - [Global chemical giant BASF sues Apple over Face ID tech](https://appleinsider.com/articles/26/09/03/apples-face-id-technology-target-of-latest-lawsuit-from-german-company-basf?utm_source=rss)
- - [Sources: Index Ventures dropped plans to invest in AI assistant Town after Instinct, which Index is backing, complained about a potential conflict of interest &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/260903/p47#a260903p47)
- - [Sources: Crusoe raised $3B+ at a ~$30B post-money valuation; Atreides Management and Valor Equity Partners co-led the round, with Mubadala Capital participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/260903/p46#a260903p46)<!-- TECH:END -->
+ - [A profile of Hugging Face, which started in 2016 to build a sassy chatbot for teens; CEO Clément Delangue says he approached Nvidia this summer to pursue a deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260904/p1#a260904p1)
+ - [Gimlet Labs, which helps customers divide AI tasks across multiple chip types, raised $300M led by a16z at a $3B valuation, six months after an $80M Series A &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/260903/p53#a260903p53)
+ - [Resect AI, which is developing open-source tech to catch AI hallucinations before they happen, emerges from stealth with $25M from private equity investors &lpar;Kurt Schlosser/GeekWire&rpar;](https://www.techmeme.com/260903/p52#a260903p52)
+ - [Wikimedia Foundation staffers vote 158-14 to join the CWA, which will represent 200+ US employees across engineering, finance, and communications &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/260903/p51#a260903p51)
+ - [Tesla’s Make-or-Break Cybercab Had a Quiet Debut](https://www.wired.com/story/tesla-cybercab-had-a-quiet-debut/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is healing](http://9gag.com/gag/aByqevD)
- - 😝 [Even better](http://9gag.com/gag/a87PxKO)
- - 💣 [Just so happens](http://9gag.com/gag/a6ZvRON)
- - 😝 [Pepperidge Farm remembers](http://9gag.com/gag/aRB5bMA)
+ - 😝 [First victim of A.I.](http://9gag.com/gag/apRyZpB)
+ - 😝 [Any business that doesn\u2019t take cash deserves no business.](http://9gag.com/gag/aD2pKmZ)
+ - 💣 [Cockroach farm](http://9gag.com/gag/a87PgDY)
+ - 😝 [Can we just call it The Mummy 3?](http://9gag.com/gag/a1mzyYY)
  - 👉 [Telepathic](http://9gag.com/gag/aNDxEo4)<!-- MEMES:END -->
 
 ---

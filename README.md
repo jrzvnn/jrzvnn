@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 💣 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 😝 [Judge declared mistrial due to 1 Chad refusing to let her off the hook. Gave defense 1 hour to appeal to Supreme Court.](http://9gag.com/gag/aNDxNN4)
- - 👉 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)<!-- MEMES:END -->
+ - 😝 [Nose ring theory proven once again](http://9gag.com/gag/aoyrb02)
+ - 😝 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
+ - 💣 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
+ - 😝 [Grandpa still got it..](http://9gag.com/gag/a6ZvvOe)
+ - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
 
 ---
 

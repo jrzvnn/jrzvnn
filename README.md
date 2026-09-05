@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 💣 [Yep, that&#39;s me. You&#39;re probably wondering how I got here](http://9gag.com/gag/aAyW830)
- - 😝 [Like where?](http://9gag.com/gag/a3496dr)
- - 👉 [Movie recommendations.](http://9gag.com/gag/aByqAPz)<!-- MEMES:END -->
+ - 😝 [Would be interesting](http://9gag.com/gag/apRyWB9)
+ - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
+ - 💣 [Terry Crews drawing Sofia Vergara](http://9gag.com/gag/aqy3P8P)
+ - 😝 [What was that?](http://9gag.com/gag/ae9onxB)
+ - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
 
 ---
 

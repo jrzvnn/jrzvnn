@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/)
- - [In response to the &quot;wiki incident&quot;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &lpar;@openai&rpar;](https://www.techmeme.com/260905/p7#a260905p7)
- - [Q&amp;A with Kai-Fu Lee on China&#39;s open-model advantage, AI&#39;s impact on jobs, US export restrictions on chips, Chinese AI&#39;s role in developing countries, and more &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/260905/p6#a260905p6)
- - [Source: Betaworks has a 5.5% stake in Hugging Face, worth ~$650M at its $11.9B acquisition price for stockholders; A.Capital says it could bag $1.5B on the sale &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p5#a260905p5)
- - [Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260905/p4#a260905p4)<!-- TECH:END -->
+ - [Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260905/p8#a260905p8)
+ - [Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products](https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/)
+ - [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
+ - [4 Best Alexa Speakers I’ve Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

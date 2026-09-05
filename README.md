@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 😝 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
- - 💣 [You still would, wouldn&#39;t ya](http://9gag.com/gag/aW4KwVK)
- - 😝 [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)
- - 👉 [Irony..](http://9gag.com/gag/aGy3m8z)<!-- MEMES:END -->
+ - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
+ - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
+ - 💣 [What was that?](http://9gag.com/gag/ae9onxB)
+ - 😝 [Movie recommendations.](http://9gag.com/gag/aByqAPz)
+ - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
 
 ---
 

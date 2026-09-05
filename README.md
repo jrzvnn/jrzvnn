@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity &lpar;Eve Bender/MobiHealthNews&rpar;](https://www.techmeme.com/260905/p2#a260905p2)
- - [Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260905/p1#a260905p1)
- - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
- - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
- - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
+ - [Marvel Has Assigned 42 Hours of Homework Before ‘Avengers: Doomsday’](https://www.wired.com/story/marvel-has-assigned-42-hours-of-homework-before-avengers-doomsday/)
+ - [In response to the &quot;wiki incident&quot;, OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment &lpar;@openai&rpar;](https://www.techmeme.com/260905/p7#a260905p7)
+ - [Q&amp;A with Kai-Fu Lee on China&#39;s open-model advantage, AI&#39;s impact on jobs, US export restrictions on chips, Chinese AI&#39;s role in developing countries, and more &lpar;Mishal Husain/Bloomberg&rpar;](https://www.techmeme.com/260905/p6#a260905p6)
+ - [Source: Betaworks has a 5.5% stake in Hugging Face, worth ~$650M at its $11.9B acquisition price for stockholders; A.Capital says it could bag $1.5B on the sale &lpar;Yuliya Chernova/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p5#a260905p5)
+ - [Microsoft says email spammers are adopting ASCII smuggling, an AI prompt injection tactic used to hide malicious instructions, to evade email platform filters &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260905/p4#a260905p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

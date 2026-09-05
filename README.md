@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is expected to make its IPO prospectus public late September and complete the listing days before the US midterm elections in November &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260904/p31#a260904p31)
- - [Apple’s Foldable iPhone Ultra Launch May Be Days Away, if You Can Get One](https://www.cnet.com/tech/mobile/iphone-fold-what-we-know-so-far-about-apples-2026-foldable-before-september-9/)
- - [California AG Rob Bonta is investigating OpenAI over the Hugging Face hack in July, after more than a dozen states joined Alabama in its investigation &lpar;Chase DiFeliciantonio/Politico&rpar;](https://www.techmeme.com/260904/p30#a260904p30)
- - [Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor](https://www.theverge.com/tech/990658/audacity-4-update-audio-editing)
- - [Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines&#39; data; the offer faces hurdles as Spirit already has a $10M deal with Google &lpar;Jonathan Randles/Bloomberg&rpar;](https://www.techmeme.com/260904/p29#a260904p29)<!-- TECH:END -->
+ - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
+ - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)
+ - [Sources: US negotiators used the promise of access to Nvidia&#39;s chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260904/p35#a260904p35)
+ - [MapQuest Acts Fast With Its Revived Fame, Adding Android Auto Support](https://www.cnet.com/roadshow/car-apps/mapquest-app-android-auto/)
+ - [Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260904/p34#a260904p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Businesses in China are experimenting with ways to package and market AI tokens to ordinary consumers, including as credit card rewards and telecom plan bundles &lpar;Kinling Lo/Rest of World&rpar;](https://www.techmeme.com/260905/p8#a260905p8)
- - [Dyson Went Bonkers During IFA 2026: Here Are all 10 of Its New Products](https://www.cnet.com/home/dyson-went-bonkers-during-ifa-2026-here-are-all-10-of-its-new-products/)
- - [OpenAI admits to German wiki ‘incident’](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
- - [4 Best Alexa Speakers I’ve Tested &lpar;2026&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [Robotaxis enter their villain era](https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai)<!-- TECH:END -->
+ - [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview)
+ - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
+ - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)
+ - [I Can’t Put the Galaxy Z Fold 8 Down. Can Apple’s Foldable Change That?](https://www.cnet.com/tech/mobile/i-cant-put-the-galaxy-z-fold-8-down-can-apples-foldable-change-that/)
+ - [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

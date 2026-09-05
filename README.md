@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scan.com, which uses AI to match patient referrals with imaging centers by availability, price, and specialty, raised a $220M Series C, including $90M in equity &lpar;Eve Bender/MobiHealthNews&rpar;](https://www.techmeme.com/260905/p2#a260905p2)
+ - [Sources: India-based Slice, which has transitioned from a credit card-led fintech to a small finance bank, raised $100M at a ~$450M valuation, down from ~$1.4B &lpar;Moneycontrol&rpar;](https://www.techmeme.com/260905/p1#a260905p1)
+ - [Judge Lets Musk Keep ‘Twitter’ for Now but Forces Him to Release the Bird](https://www.cnet.com/news/social-media/judge-lets-musk-keep-twitter-forces-release-of-bird/)
  - [Google patches an actively exploited zero-day flaw in Chrome that could potentially allow remote code execution within Chrome&#39;s sandboxed renderer process &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/260904/p36#a260904p36)
- - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)
- - [Sources: US negotiators used the promise of access to Nvidia&#39;s chips for an Armenian data center to broker a preliminary Armenia-Azerbaijan peace deal last year &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260904/p35#a260904p35)
- - [MapQuest Acts Fast With Its Revived Fame, Adding Android Auto Support](https://www.cnet.com/roadshow/car-apps/mapquest-app-android-auto/)
- - [Microsoft court filings: an expert hired by publishers found that only ~60K of 8.2M Copilot chat logs contained at least 16 words in common with news content &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/260904/p34#a260904p34)<!-- TECH:END -->
+ - [Automakers Want Congress to Ban Chinese-Made Cars, Citing Data Privacy](https://www.cnet.com/home/electric-vehicles/automakers-want-congress-to-ban-chinese-made-cars-citing-data-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

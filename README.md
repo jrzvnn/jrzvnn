@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
+ - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
  - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
  - [The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260905/p13#a260905p13)
- - [Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &quot;very seriously&quot; &lpar;ABC News&rpar;](https://www.techmeme.com/260905/p12#a260905p12)
- - [Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas &lpar;Jean Eaglesham/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p11#a260905p11)
- - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)<!-- TECH:END -->
+ - [Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &quot;very seriously&quot; &lpar;ABC News&rpar;](https://www.techmeme.com/260905/p12#a260905p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

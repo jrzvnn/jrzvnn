@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 😝 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)
- - 💣 [What was that?](http://9gag.com/gag/ae9onxB)
- - 😝 [Movie recommendations.](http://9gag.com/gag/aByqAPz)
- - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
+ - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 💣 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
+ - 😝 [Judge declared mistrial due to 1 Chad refusing to let her off the hook. Gave defense 1 hour to appeal to Supreme Court.](http://9gag.com/gag/aNDxNN4)
+ - 👉 [Never trust a woman with a male best friend](http://9gag.com/gag/azxNWRz)<!-- MEMES:END -->
 
 ---
 

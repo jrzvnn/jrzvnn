@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would be interesting](http://9gag.com/gag/apRyWB9)
- - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
- - 💣 [Terry Crews drawing Sofia Vergara](http://9gag.com/gag/aqy3P8P)
- - 😝 [What was that?](http://9gag.com/gag/ae9onxB)
- - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
+ - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 😝 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
+ - 💣 [You still would, wouldn&#39;t ya](http://9gag.com/gag/aW4KwVK)
+ - 😝 [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)
+ - 👉 [Irony..](http://9gag.com/gag/aGy3m8z)<!-- MEMES:END -->
 
 ---
 

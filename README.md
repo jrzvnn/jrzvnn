@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nose ring theory proven once again](http://9gag.com/gag/aoyrb02)
- - 😝 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
- - 💣 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
- - 😝 [Grandpa still got it..](http://9gag.com/gag/a6ZvvOe)
- - 👉 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)<!-- MEMES:END -->
+ - 😝 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)
+ - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
+ - 💣 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
+ - 😝 [Eeeeeeeehhhehhehh](http://9gag.com/gag/a5Qmm7r)
+ - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
 
 ---
 

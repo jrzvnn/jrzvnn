@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body is what…](https://www.reddit.com/r/funny/comments/1w7mfh2/body_is_what/)
- - 😝 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
- - 💣 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 😝 [Familyzoned](http://9gag.com/gag/aE0rLve)
+ - 😝 [No accountability](http://9gag.com/gag/ary6Qz0)
+ - 😝 [Maybe there is hope for India](http://9gag.com/gag/aoyrXqm)
+ - 💣 [He stayed strong until the end](http://9gag.com/gag/aXPDBO9)
+ - 😝 [Jurors voted 11-1 not guilty\u2026.](http://9gag.com/gag/azxN01b)
  - 👉 [Little hack](http://9gag.com/gag/amojELy)<!-- MEMES:END -->
 
 ---

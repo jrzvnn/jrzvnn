@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)
- - [Best Labor Day deals: Save up to $500 on Macs, AirPods, Apple Studio Display](https://appleinsider.com/articles/26/09/05/best-labor-day-deals-save-up-to-500-on-macs-airpods-apple-studio-display?utm_source=rss)
- - [Berlin is reviewing Rhysida&#39;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &lpar;Miranda Murray/Reuters&rpar;](https://www.techmeme.com/260905/p10#a260905p10)
- - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
- - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)<!-- TECH:END -->
+ - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
+ - [The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260905/p13#a260905p13)
+ - [Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &quot;very seriously&quot; &lpar;ABC News&rpar;](https://www.techmeme.com/260905/p12#a260905p12)
+ - [Swiss Re: global premiums for insuring data centers will likely reach $20B-$30B/year by 2030; ~40% of US data-center capacity is located in tornado-prone areas &lpar;Jean Eaglesham/Wall Street Journal&rpar;](https://www.techmeme.com/260905/p11#a260905p11)
+ - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

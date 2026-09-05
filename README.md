@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin is reviewing Rhysida&#39;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &lpar;Miranda Murray/Reuters&rpar;](https://www.techmeme.com/260905/p10#a260905p10)
+ - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)
  - [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview)
  - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
- - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)
- - [I Can’t Put the Galaxy Z Fold 8 Down. Can Apple’s Foldable Change That?](https://www.cnet.com/tech/mobile/i-cant-put-the-galaxy-z-fold-8-down-can-apples-foldable-change-that/)
- - [The weird and wonderful headphones of CanJam 2026](https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026)<!-- TECH:END -->
+ - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

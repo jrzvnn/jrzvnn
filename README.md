@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Body is what…](https://www.reddit.com/r/funny/comments/1w7mfh2/body_is_what/)
+ - 😝 [Fed-up judge in the Lindsay Clancy case admonishing jurors who are refusing to follow his instructions to apply the laws as written because they didn&#39;t like how the laws work](http://9gag.com/gag/aGy3mmZ)
+ - 💣 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
  - 😝 [Familyzoned](http://9gag.com/gag/aE0rLve)
- - 😝 [I like them cold](http://9gag.com/gag/awyREEx)
- - 💣 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 😝 [Like where?](http://9gag.com/gag/a3496dr)
- - 👉 [The end of a great debate](http://9gag.com/gag/aE0rmje)<!-- MEMES:END -->
+ - 👉 [Little hack](http://9gag.com/gag/amojELy)<!-- MEMES:END -->
 
 ---
 

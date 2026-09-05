@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Went Shopping for My Ultimate Smart Home of the Future at IFA 2026](https://www.cnet.com/home/smart-home/i-went-shopping-for-my-ultimate-smart-home-of-the-future-at-ifa-2026/)
+ - [Best Labor Day deals: Save up to $500 on Macs, AirPods, Apple Studio Display](https://appleinsider.com/articles/26/09/05/best-labor-day-deals-save-up-to-500-on-macs-airpods-apple-studio-display?utm_source=rss)
  - [Berlin is reviewing Rhysida&#39;s 5.79TB release of state data after refusing to pay a ransom; files reportedly include national defense and threat response plans &lpar;Miranda Murray/Reuters&rpar;](https://www.techmeme.com/260905/p10#a260905p10)
- - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)
- - [Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy](https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview)
- - [Content creators drop the ball](https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad)
- - [Welcome to Your Keyboard-Free Future. This Jazzy AI Microphone Is All You Need Now](https://www.cnet.com/uncategorized/relay-q-microphone-ai-voice-control/)<!-- TECH:END -->
+ - [CD sales are booming as physical media continues its resurgence](https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence)
+ - [Anthropomorphic portrayals of AI models as rogue agents can obscure the responsibility that companies like OpenAI have for incidents like the Hugging Face hack &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260905/p9#a260905p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

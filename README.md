@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies &lpar;Philip Wegmann/Wall Street Journal&rpar;](https://www.techmeme.com/260906/p3#a260906p3)
  - [Sources: Travis Kalanick&#39;s Atoms is developing robotaxi tech and hired Anthony Levandowski after acquiring his company Pronto; Uber has invested $100M in Atoms &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/260906/p2#a260906p2)
  - [OpenAI quietly updates its evaluation metrics for GPT-6 Astra, making changes that appear to favor Astra and continuing to revise other metrics after launch &lpar;Emily Forlini/Fortune&rpar;](https://www.techmeme.com/260906/p1#a260906p1)
  - [The data center backlash is challenging Texas&#39; pro-business approach; Wood Mackenzie: Texas has more data center capacity under construction than any US state &lpar;Stephanie Findlay/Financial Times&rpar;](https://www.techmeme.com/260905/p15#a260905p15)
- - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
- - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)<!-- TECH:END -->
+ - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

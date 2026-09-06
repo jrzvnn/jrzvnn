@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 😝 [Fact!](http://9gag.com/gag/a87PZOe)
- - 💣 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
  - 😝 [Little hack](http://9gag.com/gag/amojELy)
+ - 💣 [Fact!](http://9gag.com/gag/a87PZOe)
+ - 😝 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
  - 👉 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)<!-- MEMES:END -->
 
 ---

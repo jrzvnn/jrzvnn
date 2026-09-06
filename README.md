@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge declared mistrial due to 1 Chad refusing to let her off the hook. Gave defense 1 hour to appeal to Supreme Court.](http://9gag.com/gag/aNDxNN4)
- - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 💣 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
+ - 😝 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
+ - 😝 [Familyzoned](http://9gag.com/gag/aE0rLve)
+ - 💣 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)
  - 😝 [Nice victory celebration](http://9gag.com/gag/apRyyyp)
- - 👉 [Why](http://9gag.com/gag/aNDxN6b)<!-- MEMES:END -->
+ - 👉 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)<!-- MEMES:END -->
 
 ---
 

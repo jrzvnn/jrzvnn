@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)
- - 😝 [Ahhh yes, The seks, I do it all the time, 100x a month](http://9gag.com/gag/aYQ89yO)
- - 💣 [Something Is Happening In Spain. Wonder What The Reason Is](http://9gag.com/gag/aByqpgA)
- - 😝 [Eeeeeeeehhhehhehh](http://9gag.com/gag/a5Qmm7r)
- - 👉 [Familyzoned](http://9gag.com/gag/aE0rLve)<!-- MEMES:END -->
+ - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
+ - 😝 [Fact!](http://9gag.com/gag/a87PZOe)
+ - 💣 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
+ - 😝 [Little hack](http://9gag.com/gag/amojELy)
+ - 👉 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)<!-- MEMES:END -->
 
 ---
 

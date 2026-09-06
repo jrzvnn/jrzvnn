@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
+ - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)
  - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
  - [The Top Tech Trends at IFA Berlin 2026](https://www.cnet.com/tech/tech-industry/the-top-tech-trends-at-ifa-berlin-2026-2/)
- - [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p8#a260906p8)
- - [Sunday Reboot: Job changes at the top and very safe hands](https://appleinsider.com/articles/26/09/06/sunday-reboot-job-changes-at-the-top-and-very-safe-hands?utm_source=rss)
- - [Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260906/p7#a260906p7)<!-- TECH:END -->
+ - [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p8#a260906p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

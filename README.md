@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As researchers begin applying AI to understand animal communication, bioethicists warn it could give humans new ways to manipulate, exploit, and harm animals &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/260905/p14#a260905p14)
  - [Orbitals Review: The Perfect Couples Co-op Game for the Switch 2](https://www.cnet.com/tech/gaming/orbitals-review-nintendo-switch-2/)
  - [Explore the globe in field recordings](https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings)
  - [iPhone Handoff will seamlessly share one number between two phones](https://www.theverge.com/tech/990868/iphone-handoff-ios-27)
- - [The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260905/p13#a260905p13)
- - [Trump admin debuts arcade.gov with a deportation-themed Snake clone and a Tetris-like wall-building clone; Tetris says it takes IP infringement &quot;very seriously&quot; &lpar;ABC News&rpar;](https://www.techmeme.com/260905/p12#a260905p12)<!-- TECH:END -->
+ - [The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260905/p13#a260905p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

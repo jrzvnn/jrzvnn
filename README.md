@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
- - 😝 [First time watching live action, it was good!](http://9gag.com/gag/aVvnnKM)
- - 💣 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
+ - 😝 [Judge declared mistrial due to 1 Chad refusing to let her off the hook. Gave defense 1 hour to appeal to Supreme Court.](http://9gag.com/gag/aNDxNN4)
+ - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
+ - 💣 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
  - 😝 [Nice victory celebration](http://9gag.com/gag/apRyyyp)
- - 👉 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)<!-- MEMES:END -->
+ - 👉 [Why](http://9gag.com/gag/aNDxN6b)<!-- MEMES:END -->
 
 ---
 

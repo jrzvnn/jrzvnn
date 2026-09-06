@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My whole car went over him 2001 dodge neon](http://9gag.com/gag/a87PPX1)
- - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 💣 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)
- - 😝 [Title](http://9gag.com/gag/a0eAmeq)
+ - 😝 [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
+ - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
+ - 💣 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
+ - 😝 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
  - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
 
 ---

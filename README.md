@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold!!!!!!!!!!!!](http://9gag.com/gag/ary6YYV)
- - 😝 [Little hack](http://9gag.com/gag/amojELy)
- - 💣 [Fact!](http://9gag.com/gag/a87PZOe)
- - 😝 [Electromagnetic Circuits](http://9gag.com/gag/aByq7P1)
- - 👉 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)<!-- MEMES:END -->
+ - 😝 [Fact!](http://9gag.com/gag/a87PZOe)
+ - 😝 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)
+ - 💣 [Josie no!](http://9gag.com/gag/aO8gw66)
+ - 😝 [Wife material.](http://9gag.com/gag/aXPDDYz)
+ - 👉 [And also in their video game](http://9gag.com/gag/a9yQQP6)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact!](http://9gag.com/gag/a87PZOe)
- - 😝 [`I&#39;m sorryyyy...`](http://9gag.com/gag/a349VMv)
- - 💣 [Josie no!](http://9gag.com/gag/aO8gw66)
- - 😝 [Wife material.](http://9gag.com/gag/aXPDDYz)
- - 👉 [And also in their video game](http://9gag.com/gag/a9yQQP6)<!-- MEMES:END -->
+ - 😝 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
+ - 😝 [First time watching live action, it was good!](http://9gag.com/gag/aVvnnKM)
+ - 💣 [The taco bell bandit](http://9gag.com/gag/an7ppW5)
+ - 😝 [Nice victory celebration](http://9gag.com/gag/apRyyyp)
+ - 👉 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)<!-- MEMES:END -->
 
 ---
 

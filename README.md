@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My whole car went over him 2001 dodge neon](http://9gag.com/gag/a87PPX1)
  - 😝 [That&#39;s my Portuguese neighbor](http://9gag.com/gag/aLnYyeM)
- - 😝 [Halli Potah guvnah](http://9gag.com/gag/aMVR3EM)
- - 💣 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
- - 😝 [Always](http://9gag.com/gag/ae9ovem)
- - 👉 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
+ - 💣 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)
+ - 😝 [Title](http://9gag.com/gag/a0eAmeq)
+ - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
 
 ---
 

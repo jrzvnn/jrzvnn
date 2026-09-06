@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asahi Linux rolls out support for M3 Apple Silicon](https://appleinsider.com/articles/26/09/06/asahi-linux-rolls-out-support-for-m3-apple-silicon?utm_source=rss)
+ - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
  - [Tim Cook&#39;s pay package indicates he will remain very active at Apple; sources: Apple&#39;s plans to squeeze more App Store profits prompted Phil Schiller to leave &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260906/p5#a260906p5)
  - [No, you won&#39;t see Tim Cook during the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/06/no-you-wont-see-tim-cook-during-the-iphone-18-pro-event?utm_source=rss)
- - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)
- - [Competitive Pokémon is on phones now, but you still need a Switch to become a champion](https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility)
- - [How AI gutted Kenya&#39;s essay-writing industry, which at its peak paid 40,000+ people in Nairobi to do overseas students&#39; homework, leaving few paths back to work &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p4#a260906p4)<!-- TECH:END -->
+ - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

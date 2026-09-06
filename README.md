@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asahi Linux rolls out support for M3 Apple Silicon](https://appleinsider.com/articles/26/09/06/asahi-linux-rolls-out-support-for-m3-apple-silicon?utm_source=rss)
- - [Boox’s tiny Picco e-reader should land in November](https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa)
- - [Tim Cook&#39;s pay package indicates he will remain very active at Apple; sources: Apple&#39;s plans to squeeze more App Store profits prompted Phil Schiller to leave &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260906/p5#a260906p5)
- - [No, you won&#39;t see Tim Cook during the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/06/no-you-wont-see-tim-cook-during-the-iphone-18-pro-event?utm_source=rss)
- - [The Fairphone 6 Plus is the midrange phone we desperately needed](https://www.theverge.com/tech/990436/fairphone-6-plus-review)<!-- TECH:END -->
+ - [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p8#a260906p8)
+ - [Sunday Reboot: Job changes at the top and very safe hands](https://appleinsider.com/articles/26/09/06/sunday-reboot-job-changes-at-the-top-and-very-safe-hands?utm_source=rss)
+ - [Analysis: since October, Anthropic has entered into agreements for at least 14.8 GW of compute capacity and may spend as much as $517B over the next decade &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/260906/p7#a260906p7)
+ - [Europe has its first commercial orbital rocket](https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch)
+ - [OpenAI says it hit its &quot;automated research intern&quot; goal, its researchers now use 3.1 agent-workdays per human workday, and top users spend $7,000+/day on tokens &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p6#a260906p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

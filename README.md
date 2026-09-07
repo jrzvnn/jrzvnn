@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women Logic](http://9gag.com/gag/amojDov)
- - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
- - 💣 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)
- - 😝 [How many of you guys would enjoy having an \u201cAmazonian\u201d woman ?](http://9gag.com/gag/a7o4jGx)
- - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
+ - 😝 [Thats cant be me lol](http://9gag.com/gag/aKGb4LO)
+ - 😝 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)
+ - 💣 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
+ - 😝 [I warned you to leave my phone alone, did you listen? Off course Not! Now you in your feelings sad feeling insecure.](http://9gag.com/gag/a9yQ3BD)
+ - 👉 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
 
 ---
 

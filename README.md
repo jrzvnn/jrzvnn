@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260906/p12#a260906p12)
- - [How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](https://www.techmeme.com/260906/p11#a260906p11)
- - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
- - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
- - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
+ - [A record 12.7M graduates are entering China&#39;s workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles &lpar;Yan Zhuang/New York Times&rpar;](https://www.techmeme.com/260907/p4#a260907p4)
+ - [LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &lpar;Reuters&rpar;](https://www.techmeme.com/260907/p3#a260907p3)
+ - [An in-depth look at OpenAI&#39;s wiki incident: other hacked message boards, OpenAI&#39;s cover-up, how harmless web search tasks led agents to break out, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260907/p2#a260907p2)
+ - [Blockstream&#39;s Liquid Network halts new transactions after &quot;purported white-hat hackers&quot; withdrew ~4,000 of the 4,200 bitcoin held in its federation wallet &lpar;Omkar Godbole/CoinDesk&rpar;](https://www.techmeme.com/260907/p1#a260907p1)
+ - [Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260906/p12#a260906p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

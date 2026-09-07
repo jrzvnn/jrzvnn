@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US raises censorship concerns over the UK&#39;s proposals to force tech platforms to put &quot;trustworthy&quot; news providers at the top of social and video feeds &lpar;Charlotte Tobitt/Press Gazette&rpar;](https://www.techmeme.com/260907/p12#a260907p12)
- - [The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
- - [Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p11#a260907p11)
- - [Is iKairos a Robot, or Jewelry? It’s Both, and It Wants to Be Your Ever-Present AI Memory Keeper](https://www.cnet.com/tech/computing/ikairos-wearable-ai-robot/)
- - [A look at Anthropic&#39;s Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/260907/p10#a260907p10)<!-- TECH:END -->
+ - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)
+ - [JMGO’s New Projectors Go Big on Brightness and Refresh Rate. I Had a Look at IFA 2026](https://www.cnet.com/tech/home-entertainment/jmgos-new-projectors-go-big-on-brightness-and-refresh-rate/)
+ - [Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding &lpar;Tae Kim/Key Context&rpar;](https://www.techmeme.com/260907/p17#a260907p17)
+ - [I Went Eyes-On With the Aurzen Zip Pro Foldable, Portable Projector. It’s Ready to Shine Your Entertainment Anywhere](https://www.cnet.com/tech/home-entertainment/aurzen-zip-pro-foldable-portable-projector-entertainment-anywhere/)
+ - [watchOS 27 will still have surprises, even if Apple Watch Series 12 won&#39;t](https://appleinsider.com/articles/26/09/07/watchos-27-will-still-have-surprises-even-if-apple-watch-series-12-wont?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

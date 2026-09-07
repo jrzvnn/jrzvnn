@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats cant be me lol](http://9gag.com/gag/aKGb4LO)
- - 😝 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)
- - 💣 [Behind the scenes: Mystique body painting](http://9gag.com/gag/aYQ88gq)
- - 😝 [I warned you to leave my phone alone, did you listen? Off course Not! Now you in your feelings sad feeling insecure.](http://9gag.com/gag/a9yQ3BD)
- - 👉 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)<!-- MEMES:END -->
+ - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - 😝 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)
+ - 💣 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)
+ - 😝 [A+++ for creativity](http://9gag.com/gag/agmRrzx)
+ - 👉 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A record 12.7M graduates are entering China&#39;s workforce in 2026 as AI adds uncertainty to an oversaturated job market with a shrinking pool of entry-level roles &lpar;Yan Zhuang/New York Times&rpar;](https://www.techmeme.com/260907/p4#a260907p4)
- - [LA- and Bengaluru-based hyperspectral orbital imagery startup Pixxel raised a $100M Series C led by Temasek and Seraphim, bringing its total funding to $195M &lpar;Reuters&rpar;](https://www.techmeme.com/260907/p3#a260907p3)
- - [An in-depth look at OpenAI&#39;s wiki incident: other hacked message boards, OpenAI&#39;s cover-up, how harmless web search tasks led agents to break out, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](https://www.techmeme.com/260907/p2#a260907p2)
- - [Blockstream&#39;s Liquid Network halts new transactions after &quot;purported white-hat hackers&quot; withdrew ~4,000 of the 4,200 bitcoin held in its federation wallet &lpar;Omkar Godbole/CoinDesk&rpar;](https://www.techmeme.com/260907/p1#a260907p1)
- - [Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260906/p12#a260906p12)<!-- TECH:END -->
+ - [The US raises censorship concerns over the UK&#39;s proposals to force tech platforms to put &quot;trustworthy&quot; news providers at the top of social and video feeds &lpar;Charlotte Tobitt/Press Gazette&rpar;](https://www.techmeme.com/260907/p12#a260907p12)
+ - [The 57 Best Deals From the REI Labor Day Sale](https://www.wired.com/story/rei-labor-day-sale-2026/)
+ - [Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p11#a260907p11)
+ - [Is iKairos a Robot, or Jewelry? It’s Both, and It Wants to Be Your Ever-Present AI Memory Keeper](https://www.cnet.com/tech/computing/ikairos-wearable-ai-robot/)
+ - [A look at Anthropic&#39;s Labs team, a ~20-person group led by cofounder Ben Mann that acts as an internal startup incubator for developing flagship products &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/260907/p10#a260907p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

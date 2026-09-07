@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: at the September 24 US-China talks, the US is expected to discuss preventing AI-directed cyberattacks, and China will likely revisit US export controls &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/260906/p12#a260906p12)
+ - [How everyday US investors are vibe-coding algorithms to automate trading strategies by connecting their stock portfolios to AI agents built with Claude or Codex &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](https://www.techmeme.com/260906/p11#a260906p11)
+ - [How Inspur, a blacklisted China-owned company, is bypassing US export restrictions on advanced AI chips via a network of new subsidiaries and partners &lpar;New York Times&rpar;](https://www.techmeme.com/260906/p10#a260906p10)
  - [Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)
- - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)
- - [An Amazon cargo plane crashed at Miami International Airport](https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami)
- - [The Top Tech Trends at IFA Berlin 2026](https://www.cnet.com/tech/tech-industry/the-top-tech-trends-at-ifa-berlin-2026-2/)
- - [OpenAI Chief Scientist Jakub Pachocki says no lab has solved alignment enough to keep scaling at maximum speed, and hopes voluntary slowdowns become commonplace &lpar;OpenAI&rpar;](https://www.techmeme.com/260906/p8#a260906p8)<!-- TECH:END -->
+ - [Sources: UBS requires AI skills when hiring junior investment bankers, making it one of the first major financial institutions to explicitly require AI literacy &lpar;Simon Foy/Financial Times&rpar;](https://www.techmeme.com/260906/p9#a260906p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

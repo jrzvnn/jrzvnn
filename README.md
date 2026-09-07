@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 😝 [She couldn&#39;t take it on the plane so chugged a litre of Tequila](http://9gag.com/gag/a5QmLpg)
- - 💣 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)
- - 😝 [A+++ for creativity](http://9gag.com/gag/agmRrzx)
- - 👉 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)<!-- MEMES:END -->
+ - 😝 [Watch out buddy](http://9gag.com/gag/aByqDo2)
+ - 😝 [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
+ - 💣 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 😝 [It ain&#39;t much, but it&#39;s honest work. 1st harvest from 1 plant.](http://9gag.com/gag/ae9XKXO)
+ - 👉 [Clap your hands if you are happy](http://9gag.com/gag/a7ojvdw)<!-- MEMES:END -->
 
 ---
 

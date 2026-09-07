@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV&#39;s dystopian drama &#39;Silo&#39; could live on with a rumored spinoff](https://appleinsider.com/articles/26/09/07/apple-tvs-dystopian-drama-silo-could-live-on-with-a-rumored-spinoff?utm_source=rss)
- - [JMGO’s New Projectors Go Big on Brightness and Refresh Rate. I Had a Look at IFA 2026](https://www.cnet.com/tech/home-entertainment/jmgos-new-projectors-go-big-on-brightness-and-refresh-rate/)
- - [Astra working with Blender via computer use feels like magic, showing computer use could be the fourth demand wave after chatbots, reasoning, and agentic coding &lpar;Tae Kim/Key Context&rpar;](https://www.techmeme.com/260907/p17#a260907p17)
- - [I Went Eyes-On With the Aurzen Zip Pro Foldable, Portable Projector. It’s Ready to Shine Your Entertainment Anywhere](https://www.cnet.com/tech/home-entertainment/aurzen-zip-pro-foldable-portable-projector-entertainment-anywhere/)
- - [watchOS 27 will still have surprises, even if Apple Watch Series 12 won&#39;t](https://appleinsider.com/articles/26/09/07/watchos-27-will-still-have-surprises-even-if-apple-watch-series-12-wont?utm_source=rss)<!-- TECH:END -->
+ - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
+ - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)
+ - [The attacker who withdrew ~4,000 BTC from Blockstream&#39;s Liquid Network federation wallet returns 3,400 BTC after Blockstream said its bridge nodes were patched &lpar;The Block&rpar;](https://www.techmeme.com/260907/p18#a260907p18)
+ - [Audi’s new A2 E-tron is its most affordable and efficient EV yet](https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price)
+ - [High prices and no base iPhone 18 could hurt Apple but only in the short term](https://appleinsider.com/articles/26/09/07/high-prices-and-no-base-iphone-18-could-hurt-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

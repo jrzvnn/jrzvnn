@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch out buddy](http://9gag.com/gag/aByqDo2)
- - 😝 [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
- - 💣 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 😝 [Glug! glug!](http://9gag.com/gag/a87rdxO)
+ - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - 💣 [King is back](http://9gag.com/gag/a0eAmEO)
  - 😝 [It ain&#39;t much, but it&#39;s honest work. 1st harvest from 1 plant.](http://9gag.com/gag/ae9XKXO)
- - 👉 [Clap your hands if you are happy](http://9gag.com/gag/a7ojvdw)<!-- MEMES:END -->
+ - 👉 [In 1978, 15 year old Mary Vincent was brutally tortured by a serial killer, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to the nearest hospital.](http://9gag.com/gag/a6ZWrjm)<!-- MEMES:END -->
 
 ---
 

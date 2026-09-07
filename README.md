@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway&#39;s Prime Minister rips apart Trump&#39;s letter](http://9gag.com/gag/aW4KVYA)
- - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
- - 💣 [It&#39;s all by design](http://9gag.com/gag/aE0rrgo)
- - 😝 [Zero talent + 100% Confidence](http://9gag.com/gag/a349V8m)
- - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
+ - 😝 [And now he&#39;s on a list.](http://9gag.com/gag/a2vBQPY)
+ - 😝 [Maybe he is right](http://9gag.com/gag/aqy33OZ)
+ - 💣 [Dad being a dad](http://9gag.com/gag/a87PPn1)
+ - 😝 [Society made a movie specifically to make fun of him but now I see he was living the freaking dream.](http://9gag.com/gag/aPANO2Q)
+ - 👉 [A women using logic?](http://9gag.com/gag/aD2pp4G)<!-- MEMES:END -->
 
 ---
 

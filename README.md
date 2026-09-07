@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And now he&#39;s on a list.](http://9gag.com/gag/a2vBQPY)
- - 😝 [Maybe he is right](http://9gag.com/gag/aqy33OZ)
- - 💣 [Dad being a dad](http://9gag.com/gag/a87PPn1)
- - 😝 [Society made a movie specifically to make fun of him but now I see he was living the freaking dream.](http://9gag.com/gag/aPANO2Q)
- - 👉 [A women using logic?](http://9gag.com/gag/aD2pp4G)<!-- MEMES:END -->
+ - 😝 [Women Logic](http://9gag.com/gag/amojDov)
+ - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
+ - 💣 [God forbid a woman sit in Starbucks all day every day to use their wifi without ordering anything](http://9gag.com/gag/aqy33bZ)
+ - 😝 [How many of you guys would enjoy having an \u201cAmazonian\u201d woman ?](http://9gag.com/gag/a7o4jGx)
+ - 👉 [Reason 6475 not to go there](http://9gag.com/gag/a4PeeGd)<!-- MEMES:END -->
 
 ---
 

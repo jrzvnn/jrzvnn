@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
- - [Circle agrees to acquire Singapore-based cross-border B2B payments company Tazapay for $400M, in one of its largest publicly disclosed acquisitions to date &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/260908/p24#a260908p24)
- - [JBL’s soundbar with detachable rear speakers is over $300 off](https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale)
- - [Apple Arcade gets &#39;Pusheen&#39;s Place,&#39; &#39;Terraria+,&#39; and more in October](https://appleinsider.com/articles/26/09/08/apple-arcade-gets-pusheens-place-terraria-and-more-in-october?utm_source=rss)
- - [Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome &lpar;Google&rpar;](https://www.techmeme.com/260908/p23#a260908p23)<!-- TECH:END -->
+ - [Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip](https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss)
+ - [Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date &lpar;Bloomberg&rpar;](https://www.techmeme.com/260908/p32#a260908p32)
+ - [iOS 26.6.2, iPadOS 26.6.2 land as iOS 27 gets closer to release](https://appleinsider.com/articles/26/09/08/ios-2662-ipados-2662-land-as-ios-27-gets-closer-to-release?utm_source=rss)
+ - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
+ - [Seven Apple TV settings can limit tracking without breaking streaming](https://appleinsider.com/inside/apple-tv-4k/tips/seven-apple-tv-settings-can-limit-tracking-without-breaking-streaming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

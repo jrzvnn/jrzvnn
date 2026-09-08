@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THE SYSTEM](http://9gag.com/gag/ayNgy4y)
  - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 💣 [For a moment I thought what I thought](http://9gag.com/gag/aKG0bwQ)
- - 😝 [Those who do not study history are doomed to repeat it. Cambodian communists genocided anyone who wore glasses in the Killing Fields.](http://9gag.com/gag/a349oE7)
- - 👉 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
+ - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 💣 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
+ - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
+ - 👉 [Come back with a shotgun mind](http://9gag.com/gag/aqy33EY)<!-- MEMES:END -->
 
 ---
 

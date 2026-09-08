@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV 4K may get Siri AI, thanks to the A19 or A19 Pro chip](https://appleinsider.com/articles/26/09/08/apple-tv-4k-may-get-siri-ai-thanks-to-the-a19-or-a19-pro-chip?utm_source=rss)
- - [Sources: Ramp is in early talks to raise about $1B at a ~$60B valuation, up from $44B in June; Ramp has raised $3B to date &lpar;Bloomberg&rpar;](https://www.techmeme.com/260908/p32#a260908p32)
- - [iOS 26.6.2, iPadOS 26.6.2 land as iOS 27 gets closer to release](https://appleinsider.com/articles/26/09/08/ios-2662-ipados-2662-land-as-ios-27-gets-closer-to-release?utm_source=rss)
- - [Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK](https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/)
- - [Seven Apple TV settings can limit tracking without breaking streaming](https://appleinsider.com/inside/apple-tv-4k/tips/seven-apple-tv-settings-can-limit-tracking-without-breaking-streaming?utm_source=rss)<!-- TECH:END -->
+ - [Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026](https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/)
+ - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
+ - [Rivian’s Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
+ - [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
+ - [Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260908/p40#a260908p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

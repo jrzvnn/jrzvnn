@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models &lpar;Adam Satariano/New York Times&rpar;](https://www.techmeme.com/260908/p4#a260908p4)
- - [Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC&#39;s N3P node &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260908/p3#a260908p3)
- - [Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers &lpar;Financial Times&rpar;](https://www.techmeme.com/260908/p2#a260908p2)
- - [Analysis of LG smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via a built-in microphone, and more &lpar;Gamers Nexus on YouTube&rpar;](https://www.techmeme.com/260908/p1#a260908p1)
- - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)<!-- TECH:END -->
+ - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
+ - [Google rolls out changes to search results in the EU to comply with the DMA, saying they mark the largest reduction in quality of service in Search&#39;s history &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260908/p11#a260908p11)
+ - [NYC-based Blee, which makes marketing compliance software for financial services companies, raised a $20M Series A led by Fin Capital and SMBC and a $7M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260908/p10#a260908p10)
+ - [Code in iOS 27 seems to prove iPhone Ultra will use Touch ID](https://appleinsider.com/articles/26/09/08/code-in-ios-27-seems-to-prove-iphone-ultra-will-use-touch-id?utm_source=rss)
+ - [How NASA Testing Changed US Food Inspection Forever](https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grindr pays £26M to settle a 2024 UK lawsuit that alleged it shared users&#39; HIV status with ad firms, in breach of UK law &lpar;Julia Kollewe/The Guardian&rpar;](https://www.techmeme.com/260907/p21#a260907p21)
- - [Le Creuset x Star Trek Collection: Prices, availability, release date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)
- - [Robinhood secures its first IPO underwriting role, in Oura&#39;s IPO, which could give it more influence over how many shares are allocated to its customers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260907/p20#a260907p20)
- - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
- - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
+ - [Mistral raised a €3B Series D led by Samsung at a €21B valuation, up from €11.7B a year ago, as it expands into data centers beyond developing AI models &lpar;Adam Satariano/New York Times&rpar;](https://www.techmeme.com/260908/p4#a260908p4)
+ - [Arm debuts Neoverse CSS N4, its next-gen semi-custom chip design platform, and says it supports 8 to 128 Neoverse N4 cores at up to 3.8 GHz on TSMC&#39;s N3P node &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/260908/p3#a260908p3)
+ - [Sources: Huawei is investing in Chinese lithography companies and helping them secure deals with leading fabs like SMIC to reduce reliance on foreign suppliers &lpar;Financial Times&rpar;](https://www.techmeme.com/260908/p2#a260908p2)
+ - [Analysis of LG smart TVs shows its ad software tracks nearby devices, security flaws can allow hackers to eavesdrop via a built-in microphone, and more &lpar;Gamers Nexus on YouTube&rpar;](https://www.techmeme.com/260908/p1#a260908p1)
+ - [Sources: Anthropic has walked away from talks to acquire Decart for ~$6B after performing due diligence on the startup &lpar;Bloomberg&rpar;](https://www.techmeme.com/260907/p22#a260907p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

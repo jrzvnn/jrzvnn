@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glug! glug!](http://9gag.com/gag/a87rdxO)
+ - 😝 [THE SYSTEM](http://9gag.com/gag/ayNgy4y)
  - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 💣 [King is back](http://9gag.com/gag/a0eAmEO)
- - 😝 [It ain&#39;t much, but it&#39;s honest work. 1st harvest from 1 plant.](http://9gag.com/gag/ae9XKXO)
- - 👉 [In 1978, 15 year old Mary Vincent was brutally tortured by a serial killer, had her arms cut off, and was thrown off a 30-foot cliff. Barely alive, she packed her stumps with mud to stop the bleeding, climbed back up, and walked three miles naked to the nearest hospital.](http://9gag.com/gag/a6ZWrjm)<!-- MEMES:END -->
+ - 💣 [For a moment I thought what I thought](http://9gag.com/gag/aKG0bwQ)
+ - 😝 [Those who do not study history are doomed to repeat it. Cambodian communists genocided anyone who wore glasses in the Killing Fields.](http://9gag.com/gag/a349oE7)
+ - 👉 [23-year-old Colombian hitwoman known as `The Doll`](http://9gag.com/gag/a6ZvWOA)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
- - 💣 [Ok guys... feel free to confessss](http://9gag.com/gag/aQzwYBq)
- - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
- - 👉 [Come back with a shotgun mind](http://9gag.com/gag/aqy33EY)<!-- MEMES:END -->
+ - 😝 [Valve](http://9gag.com/gag/aXP80Y2)
+ - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
+ - 💣 [Women Logic](http://9gag.com/gag/amojDov)
+ - 😝 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
+ - 👉 [Never Ordering Coca-Cola At This Bar Again .](http://9gag.com/gag/abAPjLp)<!-- MEMES:END -->
 
 ---
 

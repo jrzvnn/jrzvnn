@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG TVs caught spying even when offline or on standby](https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus)
- - [Google rolls out changes to search results in the EU to comply with the DMA, saying they mark the largest reduction in quality of service in Search&#39;s history &lpar;Foo Yun Chee/Reuters&rpar;](https://www.techmeme.com/260908/p11#a260908p11)
- - [NYC-based Blee, which makes marketing compliance software for financial services companies, raised a $20M Series A led by Fin Capital and SMBC and a $7M seed &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260908/p10#a260908p10)
- - [Code in iOS 27 seems to prove iPhone Ultra will use Touch ID](https://appleinsider.com/articles/26/09/08/code-in-ios-27-seems-to-prove-iphone-ultra-will-use-touch-id?utm_source=rss)
- - [How NASA Testing Changed US Food Inspection Forever](https://www.wired.com/story/book-excerpt-alex-davies-kobuk-the-destroyer-nasa-food-testing/)<!-- TECH:END -->
+ - [Pusheen’s first game is coming to Apple Arcade](https://www.theverge.com/games/991398/pusheen-apple-arcade-game)
+ - [Circle agrees to acquire Singapore-based cross-border B2B payments company Tazapay for $400M, in one of its largest publicly disclosed acquisitions to date &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/260908/p24#a260908p24)
+ - [JBL’s soundbar with detachable rear speakers is over $300 off](https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale)
+ - [Apple Arcade gets &#39;Pusheen&#39;s Place,&#39; &#39;Terraria+,&#39; and more in October](https://appleinsider.com/articles/26/09/08/apple-arcade-gets-pusheens-place-terraria-and-more-in-october?utm_source=rss)
+ - [Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome &lpar;Google&rpar;](https://www.techmeme.com/260908/p23#a260908p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

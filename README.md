@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valve](http://9gag.com/gag/aXP80Y2)
- - 😝 [How to wash dirty underwear in the coffee machine of hotels](http://9gag.com/gag/apRyeQb)
- - 💣 [Women Logic](http://9gag.com/gag/amojDov)
- - 😝 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)
- - 👉 [Never Ordering Coca-Cola At This Bar Again .](http://9gag.com/gag/abAPjLp)<!-- MEMES:END -->
+ - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
+ - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 💣 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
+ - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
+ - 👉 [Chess 1 - Elon Musk 0](http://9gag.com/gag/amoDNzv)<!-- MEMES:END -->
 
 ---
 

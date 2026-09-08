@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grindr pays £26M to settle a 2024 UK lawsuit that alleged it shared users&#39; HIV status with ad firms, in breach of UK law &lpar;Julia Kollewe/The Guardian&rpar;](https://www.techmeme.com/260907/p21#a260907p21)
  - [Le Creuset x Star Trek Collection: Prices, availability, release date](https://www.wired.com/story/to-boldly-dough-le-creuset-sent-its-new-star-trek-cooking-collection-into-space/)
  - [Robinhood secures its first IPO underwriting role, in Oura&#39;s IPO, which could give it more influence over how many shares are allocated to its customers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260907/p20#a260907p20)
  - [Hunter Biden teases a $LAPTOP memecoin launch on September 9; sources: it will launch on Base, and some tokens will be sent to wallets that lost money on $TRUMP &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](https://www.techmeme.com/260907/p19#a260907p19)
- - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)
- - [The attacker who withdrew ~4,000 BTC from Blockstream&#39;s Liquid Network federation wallet returns 3,400 BTC after Blockstream said its bridge nodes were patched &lpar;The Block&rpar;](https://www.techmeme.com/260907/p18#a260907p18)<!-- TECH:END -->
+ - [&#39;Cupertino&#39; legal drama doesn&#39;t represent region demographics, landmarks, or reality](https://appleinsider.com/articles/26/09/07/cupertino-legal-drama-isnt-representative-region-demographics-landmarks-or-reality?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

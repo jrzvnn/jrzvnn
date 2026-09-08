@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
- - 😝 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
- - 💣 [Be honest and make your choice](http://9gag.com/gag/ae9XK8v)
+ - 😝 [A woman with four kids called her child\u2019s father for help. He showed up with food \u2014 for his son only.](http://9gag.com/gag/a34oPMQ)
+ - 😝 [WHAT&#39;S THAT SMELL](http://9gag.com/gag/a87rdPY)
+ - 💣 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
  - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
- - 👉 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)<!-- MEMES:END -->
+ - 👉 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)<!-- MEMES:END -->
 
 ---
 

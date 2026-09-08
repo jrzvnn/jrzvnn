@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stroke my chin real slow when I&#39;m lyin&#39;... And I was laughing super hard as Darnell was dyin&#39;!](http://9gag.com/gag/aryP126)
- - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
- - 💣 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
- - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
- - 👉 [Chess 1 - Elon Musk 0](http://9gag.com/gag/amoDNzv)<!-- MEMES:END -->
+ - 😝 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
+ - 😝 [Cowabunga it is](http://9gag.com/gag/apReKnn)
+ - 💣 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 😝 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
+ - 👉 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)<!-- MEMES:END -->
 
 ---
 

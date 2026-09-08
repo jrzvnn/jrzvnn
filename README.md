@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
- - 😝 [Cowabunga it is](http://9gag.com/gag/apReKnn)
- - 💣 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
- - 😝 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
+ - 😝 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 😝 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
+ - 💣 [Be honest and make your choice](http://9gag.com/gag/ae9XK8v)
+ - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
  - 👉 [I&#39;ll keep you posted once we open it.](http://9gag.com/gag/a7o4jRz)<!-- MEMES:END -->
 
 ---

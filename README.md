@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026](https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/)
- - [Drama swirls around OpenAI’s legendary mathematical milestone](https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution)
- - [Rivian’s Also apologizes for delays in shipping futuristic e-bikes](https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology)
- - [Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off](https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale)
- - [Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/260908/p40#a260908p40)<!-- TECH:END -->
+ - [In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260908/p45#a260908p45)
+ - [UK repeats demands for child safety features that Apple already made](https://appleinsider.com/articles/26/09/08/uk-repeats-demands-for-child-safety-features-that-apple-already-made?utm_source=rss)
+ - [Q&amp;A with Mark Zuckerberg on Muse, the data center backlash, Meta&#39;s recent youth-safety settlement, privacy concerns about Meta&#39;s smart glasses, and more &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260908/p44#a260908p44)
+ - [Meta’s New AI Agent Wants to Get Personal With You](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news-2/)
+ - [Ireland&#39;s media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code &lpar;Brian O&#39;Donovan/RTÉ&rpar;](https://www.techmeme.com/260908/p43#a260908p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

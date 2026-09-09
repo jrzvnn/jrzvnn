@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman with four kids called her child\u2019s father for help. He showed up with food \u2014 for his son only.](http://9gag.com/gag/a34oPMQ)
- - 😝 [WHAT&#39;S THAT SMELL](http://9gag.com/gag/a87rdPY)
- - 💣 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
- - 😝 [The simplicity of men.](http://9gag.com/gag/a0em8ed)
- - 👉 [That&#39;s enough reason for me to watch it.](http://9gag.com/gag/aQzY6Y2)<!-- MEMES:END -->
+ - 😝 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
+ - 😝 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
+ - 💣 [Female jurors speak out about the man who still held out after they yelled at him for days](http://9gag.com/gag/avyb0EX)
+ - 😝 [Love this song](http://9gag.com/gag/awyqrXR)
+ - 👉 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)<!-- MEMES:END -->
 
 ---
 

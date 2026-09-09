@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260909/p19#a260909p19)
- - [Inside Apple Park&#39;s &#39;Welcome Run&#39; ahead of the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss)
- - [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
- - [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
- - [Sources: Dell seeks to raise ~$4B via an investment-grade bond sale to refinance outstanding notes due in 2026, amid the AI-driven demand for servers &lpar;Bloomberg&rpar;](https://www.techmeme.com/260909/p18#a260909p18)<!-- TECH:END -->
+ - [iOS 27 arrives on September 14, here&#39;s what you&#39;ll get](https://appleinsider.com/articles/26/09/09/ios-27-arrives-on-september-14-heres-what-youll-get?utm_source=rss)
+ - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
+ - [The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260909/p36#a260909p36)
+ - [The Apple foldable is real, it&#39;s here, &amp; it&#39;s called iPhone Duo](https://appleinsider.com/articles/26/09/09/the-apple-foldable-is-real-its-here-its-called-iphone-duo?utm_source=rss)
+ - [It&#39;s going to be a while before you can pre-order an iPhone Duo](https://appleinsider.com/articles/26/09/09/its-going-to-be-a-while-before-you-can-pre-order-an-iphone-duo?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

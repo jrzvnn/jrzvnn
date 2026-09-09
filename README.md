@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this at a baseball stadium in Japan](https://www.reddit.com/r/funny/comments/1wbj5pz/found_this_at_a_baseball_stadium_in_japan/)
- - 😝 [Philippine Defense Secretary Gilberto Teodoro Jr. receives a note from a Chinese delegate during a panel discussion at the Seoul South Korea Defense Dialogue 2026](http://9gag.com/gag/aQzYqK8)
- - 💣 [This guy is now a legend...](http://9gag.com/gag/aAynYLo)
- - 😝 [Why the hell would you touch that!!](http://9gag.com/gag/aO86oWv)
- - 👉 [Then yeet myself off a cliff](http://9gag.com/gag/a34oYAr)<!-- MEMES:END -->
+ - 😝 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)
+ - 😝 [This guy is now a legend...](http://9gag.com/gag/aAynYLo)
+ - 💣 [Yes, I love stepping on the table. Why?](http://9gag.com/gag/a5QLdoL)
+ - 😝 [Trust me, I&#39;ve not bookmarked any of these sites](http://9gag.com/gag/aLnqKLv)
+ - 👉 [Fred Pepperman, absolute legend.](http://9gag.com/gag/aoyBE2A)<!-- MEMES:END -->
 
 ---
 

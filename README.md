@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t say &#39;good morning&#39; to people in Bronx](http://9gag.com/gag/ae9Xjnp)
- - 😝 [Big deal. I\u2019ve peed out my ass before](http://9gag.com/gag/aMVRpRA)
- - 💣 [Female jurors speak out about the man who still held out after they yelled at him for days](http://9gag.com/gag/avyb0EX)
- - 😝 [Love this song](http://9gag.com/gag/awyqrXR)
- - 👉 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)<!-- MEMES:END -->
+ - 😝 [He never gave up on his dream](http://9gag.com/gag/an7Aqv5)
+ - 😝 [Stealthy ninja flip](http://9gag.com/gag/aryPvRd)
+ - 💣 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
+ - 😝 [Fred Pepperman, absolute legend.](http://9gag.com/gag/aoyBE2A)
+ - 👉 [And drunk me thinking i also can be a boxer, it&#39;s easy](http://9gag.com/gag/aAynRxL)<!-- MEMES:END -->
 
 ---
 

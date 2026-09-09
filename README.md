@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 27 arrives on September 14, here&#39;s what you&#39;ll get](https://appleinsider.com/articles/26/09/09/ios-27-arrives-on-september-14-heres-what-youll-get?utm_source=rss)
- - [Hands-on with the foldable iPhone Duo](https://www.theverge.com/tech/991236/iphone-foldable-hands-on-first-impressions)
- - [The iPhone Duo starts at $1,999 for 256GB, with a 2TB model costing $3,199, in star white and night sky colors; preorders start Oct. 16, and sales begin Oct. 23 &lpar;Dominic Preston/The Verge&rpar;](https://www.techmeme.com/260909/p36#a260909p36)
- - [The Apple foldable is real, it&#39;s here, &amp; it&#39;s called iPhone Duo](https://appleinsider.com/articles/26/09/09/the-apple-foldable-is-real-its-here-its-called-iphone-duo?utm_source=rss)
- - [It&#39;s going to be a while before you can pre-order an iPhone Duo](https://appleinsider.com/articles/26/09/09/its-going-to-be-a-while-before-you-can-pre-order-an-iphone-duo?utm_source=rss)<!-- TECH:END -->
+ - [A Year After Charlie Kirk&#39;s Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
+ - [iPhone Duo Memes: The Duolingo Owl Is Hooting Mad That Apple Stole His Name](https://www.cnet.com/tech/mobile/apple-iphone-duo-launch-branding-reaction-memes/)
+ - [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy)
+ - [How the new Apple Watches compare to the last-gen models](https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison)
+ - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

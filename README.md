@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
+ - 😝 [Philippine Defense Secretary Gilberto Teodoro Jr. receives a note from a Chinese delegate during a panel discussion at the Seoul South Korea Defense Dialogue 2026](http://9gag.com/gag/aQzYqK8)
  - 😝 [Cybercab turned into Cybercop](http://9gag.com/gag/aYQzNgV)
  - 💣 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
- - 😝 [Philippine Defense Secretary Gilberto Teodoro Jr. receives a note from a Chinese delegate during a panel discussion at the Seoul South Korea Defense Dialogue 2026](http://9gag.com/gag/aQzYqK8)
- - 👉 [Chess 1 - Elon Musk 0](http://9gag.com/gag/amoDNzv)<!-- MEMES:END -->
+ - 😝 [Trust me, I&#39;ve not bookmarked any of these sites](http://9gag.com/gag/aLnqKLv)
+ - 👉 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)<!-- MEMES:END -->
 
 ---
 

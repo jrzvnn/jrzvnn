@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Year After Charlie Kirk&#39;s Death, Turning Point Plans to Spend Big on the Midterms](https://www.wired.com/story/a-year-after-charlie-kirks-death-turning-point-plans-to-spend-big-on-the-midterms/)
- - [iPhone Duo Memes: The Duolingo Owl Is Hooting Mad That Apple Stole His Name](https://www.cnet.com/tech/mobile/apple-iphone-duo-launch-branding-reaction-memes/)
- - [Read the Apple document explaining how new listening features still protect your privacy](https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy)
- - [How the new Apple Watches compare to the last-gen models](https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison)
- - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)<!-- TECH:END -->
+ - [My Favorite Things from Apple’s iPhone 18 Event](https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/)
+ - [Where’s the iPhone 18? Here’s Why Apple Didn’t Reveal a New Standard iPhone](https://www.cnet.com/tech/mobile/wheres-the-iphone-18-heres-why-apple-didnt-reveal-a-new-standard-iphone/)
+ - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
+ - [Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure &lpar;Jason Shubnell/The Block&rpar;](https://www.techmeme.com/260909/p47#a260909p47)
+ - [How iPhone Duo compares in size to the iPhone 18 Pro in the wild](https://appleinsider.com/articles/26/09/09/how-iphone-duo-compares-in-size-to-the-iphone-18-pro-in-the-wild?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

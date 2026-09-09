@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: PE firm Silver Lake intends to merge French software companies Cegid and Silae in a €10B+ deal, allowing them to combine data and integrate software &lpar;Financial Times&rpar;](https://www.techmeme.com/260909/p9#a260909p9)
- - [Online Apple Store down ahead of iPhone 18 Pro &amp; iPhone Duo event](https://appleinsider.com/articles/26/09/09/online-apple-store-down-ahead-of-iphone-18-pro-iphone-duo-event?utm_source=rss)
- - [Lyft begins to offer Waymo rides in Nashville at no additional cost, the second city where it is offering robotaxi trips, as it plays catch up with Uber &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260909/p8#a260909p8)
- - [Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More](https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/)
- - [This Is the Biggest 2D Map of the Universe. Here’s How to Use It](https://www.cnet.com/science/biggest-2d-map-of-universe-how-to-use-dr11/)<!-- TECH:END -->
+ - [Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260909/p19#a260909p19)
+ - [Inside Apple Park&#39;s &#39;Welcome Run&#39; ahead of the iPhone 18 Pro event](https://appleinsider.com/articles/26/09/09/inside-apple-parks-welcome-run-ahead-of-the-iphone-18-pro-event?utm_source=rss)
+ - [The Switch 2 is getting a 2D Metroid called Ravenous](https://www.theverge.com/games/992053/the-switch-2-is-getting-a-2d-metroid-called-ravenous)
+ - [I spent an hour riding inside Tesla’s steering-wheel-free Cybercab](https://www.theverge.com/transportation/992014/tesla-cybercab-hands-on-test-robotaxi-austin)
+ - [Sources: Dell seeks to raise ~$4B via an investment-grade bond sale to refinance outstanding notes due in 2026, amid the AI-driven demand for servers &lpar;Bloomberg&rpar;](https://www.techmeme.com/260909/p18#a260909p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

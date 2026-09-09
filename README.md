@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism &lpar;Financial Times&rpar;](https://www.techmeme.com/260909/p4#a260909p4)
- - [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
- - [New Apple Watches to get Siri AI &#39;Recaps&#39; feature similar to AI wearables](https://appleinsider.com/articles/26/09/09/new-apple-watches-to-get-siri-ai-recaps-feature-similar-to-ai-wearables?utm_source=rss)
- - [Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree &lpar;The Information&rpar;](https://www.techmeme.com/260909/p3#a260909p3)
- - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Sources: PE firm Silver Lake intends to merge French software companies Cegid and Silae in a €10B+ deal, allowing them to combine data and integrate software &lpar;Financial Times&rpar;](https://www.techmeme.com/260909/p9#a260909p9)
+ - [Online Apple Store down ahead of iPhone 18 Pro &amp; iPhone Duo event](https://appleinsider.com/articles/26/09/09/online-apple-store-down-ahead-of-iphone-18-pro-iphone-duo-event?utm_source=rss)
+ - [Lyft begins to offer Waymo rides in Nashville at no additional cost, the second city where it is offering robotaxi trips, as it plays catch up with Uber &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260909/p8#a260909p8)
+ - [Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More](https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/)
+ - [This Is the Biggest 2D Map of the Universe. Here’s How to Use It](https://www.cnet.com/science/biggest-2d-map-of-universe-how-to-use-dr11/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

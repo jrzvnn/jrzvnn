@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He never gave up on his dream](http://9gag.com/gag/an7Aqv5)
- - 😝 [Stealthy ninja flip](http://9gag.com/gag/aryPvRd)
- - 💣 [The GOAT of apps Thank you to the creator](http://9gag.com/gag/aoyBEZ2)
- - 😝 [Fred Pepperman, absolute legend.](http://9gag.com/gag/aoyBE2A)
- - 👉 [And drunk me thinking i also can be a boxer, it&#39;s easy](http://9gag.com/gag/aAynRxL)<!-- MEMES:END -->
+ - 😝 [Found this at a baseball stadium in Japan](https://www.reddit.com/r/funny/comments/1wbj5pz/found_this_at_a_baseball_stadium_in_japan/)
+ - 😝 [Philippine Defense Secretary Gilberto Teodoro Jr. receives a note from a Chinese delegate during a panel discussion at the Seoul South Korea Defense Dialogue 2026](http://9gag.com/gag/aQzYqK8)
+ - 💣 [This guy is now a legend...](http://9gag.com/gag/aAynYLo)
+ - 😝 [Why the hell would you touch that!!](http://9gag.com/gag/aO86oWv)
+ - 👉 [Then yeet myself off a cliff](http://9gag.com/gag/a34oYAr)<!-- MEMES:END -->
 
 ---
 

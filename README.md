@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260908/p45#a260908p45)
- - [UK repeats demands for child safety features that Apple already made](https://appleinsider.com/articles/26/09/08/uk-repeats-demands-for-child-safety-features-that-apple-already-made?utm_source=rss)
- - [Q&amp;A with Mark Zuckerberg on Muse, the data center backlash, Meta&#39;s recent youth-safety settlement, privacy concerns about Meta&#39;s smart glasses, and more &lpar;Alex Heath/Sources&rpar;](https://www.techmeme.com/260908/p44#a260908p44)
- - [Meta’s New AI Agent Wants to Get Personal With You](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-personal-computer-2026-news-2/)
- - [Ireland&#39;s media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code &lpar;Brian O&#39;Donovan/RTÉ&rpar;](https://www.techmeme.com/260908/p43#a260908p43)<!-- TECH:END -->
+ - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
+ - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)
+ - [New product identifiers show up in Apple&#39;s backend, don&#39;t indicate release timing](https://appleinsider.com/articles/26/09/09/new-product-identifiers-show-up-in-apples-backend-dont-indicate-release-timing?utm_source=rss)
+ - [The NSA, CISA, and FBI issue a joint advisory warning that Chinese AI companies, including DeepSeek, are conducting &quot;industrial-scale&quot; distillation campaigns &lpar;Reuters&rpar;](https://www.techmeme.com/260908/p46#a260908p46)
+ - [In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260908/p45#a260908p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

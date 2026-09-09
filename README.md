@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Gimlet Labs raised its $300M round after telling investors OpenAI may spend $100M+ annually on its services; OpenAI says it&#39;s not a paying customer yet &lpar;The Information&rpar;](https://www.techmeme.com/260908/p48#a260908p48)
- - [Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won&#39;t be able to control &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](https://www.techmeme.com/260908/p47#a260908p47)
- - [New product identifiers show up in Apple&#39;s backend, don&#39;t indicate release timing](https://appleinsider.com/articles/26/09/09/new-product-identifiers-show-up-in-apples-backend-dont-indicate-release-timing?utm_source=rss)
- - [The NSA, CISA, and FBI issue a joint advisory warning that Chinese AI companies, including DeepSeek, are conducting &quot;industrial-scale&quot; distillation campaigns &lpar;Reuters&rpar;](https://www.techmeme.com/260908/p46#a260908p46)
- - [In an expanded class action lawsuit, a group of Claude subscribers says Anthropic deceptively advertised the limits of its Max subscription tier &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260908/p45#a260908p45)<!-- TECH:END -->
+ - [Sources: Anthropic declined to submit Mythos 5.1 to the UK AISI for pre-release testing, prompting UK fears that US AI labs are aligning with US protectionism &lpar;Financial Times&rpar;](https://www.techmeme.com/260909/p4#a260909p4)
+ - [Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000](https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable)
+ - [New Apple Watches to get Siri AI &#39;Recaps&#39; feature similar to AI wearables](https://appleinsider.com/articles/26/09/09/new-apple-watches-to-get-siri-ai-recaps-feature-similar-to-ai-wearables?utm_source=rss)
+ - [Sources: China Securities Regulatory Commission is informally tightening IPO approvals for humanoid startups after a volatile debut by industry leader Unitree &lpar;The Information&rpar;](https://www.techmeme.com/260909/p3#a260909p3)
+ - [20% Off Brooks Promo Code | September 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

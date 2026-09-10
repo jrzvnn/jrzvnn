@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cybercab turned into Cybercop](http://9gag.com/gag/aYQzNgV)
+ - 😝 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
  - 😝 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
- - 💣 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
- - 😝 [Meet The Fan Who Went Viral For Looking Worried During The Ole Miss Football Game](http://9gag.com/gag/aVvGONd)
- - 👉 [IT&#39;S CALLED DUMBF**KISTAN FOR A REASON](http://9gag.com/gag/a9y3MD1)<!-- MEMES:END -->
+ - 💣 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)
+ - 😝 [A small family-run cheese dairy in Colombia](http://9gag.com/gag/agmR0zg)
+ - 👉 [Life is good?](http://9gag.com/gag/aO86yA2)<!-- MEMES:END -->
 
 ---
 

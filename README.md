@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon offers first Apple Watch Series 12 preorder discounts](https://appleinsider.com/articles/26/09/10/amazon-offers-first-apple-watch-series-12-preorder-discounts?utm_source=rss)
- - [AppleCare One Family vs. Individual: which plan makes more sense?](https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss)
- - [Anthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via &quot;transfer stations&quot; outside China &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p29#a260910p29)
- - [Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260910/p28#a260910p28)
- - [Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/260910/p27#a260910p27)<!-- TECH:END -->
+ - [ID verification service IDScan confirms that a data breach involved the theft of driver&#39;s licenses from its systems after hackers offered 153M licenses for sale &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260910/p33#a260910p33)
+ - [Don’t Sleep on Apple’s Audio Intelligence. It Reveals a Lot About Where We’re Headed](https://www.cnet.com/tech/services-and-software/apple-watch-audio-intelligence-ai-always-listening-commentary/)
+ - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
+ - [Apple Health &amp; Quest team up for $119 blood panel](https://appleinsider.com/articles/26/09/10/apple-health-quest-team-up-for-119-blood-panel?utm_source=rss)
+ - [What an Ex-Anthropic Researcher’s Warning About Human Extinction Really Means](https://www.cnet.com/tech/services-and-software/ex-anthropic-researcher-warning-human-extinction-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

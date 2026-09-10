@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo supports Apple Pencil with USB-C on both displays](https://appleinsider.com/articles/26/09/10/iphone-duo-supports-apple-pencil-with-usb-c-on-both-displays?utm_source=rss)
- - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldabes compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
- - [The iPhone Air 2 Wasn’t Announced. Here’s Why That’s Bad for Apple Buyers](https://www.cnet.com/tech/mobile/the-iphone-air-2-wasnt-announced-heres-why-thats-bad-for-apple-buyers/)
- - [Sources: Jeffrey Katzenberg, ex-OpenAI Sora head Bill Peebles, and ex-Dropbox CFO Sujay Jaswa plan to launch a startup to train AI video models for filmmakers &lpar;The Information&rpar;](https://www.techmeme.com/260909/p49#a260909p49)
- - [LG Denies Its Televisions Record Ambient Conversations for Ad Targeting](https://www.cnet.com/tech/services-and-software/lg-denies-its-televisions-record-ambient-conversations-for-ad-targeting/)<!-- TECH:END -->
+ - [Q&amp;A with AI researcher Jacob Coxon, who quit Anthropic, on the need for industry-wide, international coordination to limit recursive self-improvement, and more &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260910/p5#a260910p5)
+ - [Sources: Chinese AI chipmakers Huawei, Cambricon, MetaX, and Iluvatar CoreX have raised prices for current and next-gen chips by 20%-50% due to rising HBM costs &lpar;Reuters&rpar;](https://www.techmeme.com/260910/p4#a260910p4)
+ - [Sources including French public officials detail how Mistral&#39;s rise over the past three years owes much to the privileged relationship it built with Macron &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260910/p3#a260910p3)
+ - [NZXT Discount Codes: 50% Off in September 2026](https://www.wired.com/story/nzxt-discount-code/)
+ - [Hungryroot Coupon Codes: 30% Off This September 2026](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AI researcher Jacob Coxon, who quit Anthropic, on the need for industry-wide, international coordination to limit recursive self-improvement, and more &lpar;Maxwell Zeff/Wired&rpar;](https://www.techmeme.com/260910/p5#a260910p5)
- - [Sources: Chinese AI chipmakers Huawei, Cambricon, MetaX, and Iluvatar CoreX have raised prices for current and next-gen chips by 20%-50% due to rising HBM costs &lpar;Reuters&rpar;](https://www.techmeme.com/260910/p4#a260910p4)
- - [Sources including French public officials detail how Mistral&#39;s rise over the past three years owes much to the privileged relationship it built with Macron &lpar;Océane Herrero/Politico&rpar;](https://www.techmeme.com/260910/p3#a260910p3)
- - [NZXT Discount Codes: 50% Off in September 2026](https://www.wired.com/story/nzxt-discount-code/)
- - [Hungryroot Coupon Codes: 30% Off This September 2026](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
+ - [Anthropic gives EU cybersecurity agency ENISA testing access to Mythos 5 after months of talks that began in late May; ENISA still lacks access to Mythos 5.1 &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260910/p14#a260910p14)
+ - [Sources: Moonshot AI is exploring dual Hong Kong and Shanghai listings for greater capital and exposure, amid the weaker performance of AI stocks in Hong Kong &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260910/p13#a260910p13)
+ - [Imagining a Future Where a Spy Could Disappear](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/)
+ - [Vari Electric Standing Desk Review &lpar;2026&rpar;: Form and Value](https://www.wired.com/review/vari-ergo-electric-standing-desk/)
+ - [Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online](https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

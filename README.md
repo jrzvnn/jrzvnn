@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My Favorite Things from Apple’s iPhone 18 Event](https://www.cnet.com/tech/mobile/favorite-things-apples-iphone-18-duo-event/)
- - [Where’s the iPhone 18? Here’s Why Apple Didn’t Reveal a New Standard iPhone](https://www.cnet.com/tech/mobile/wheres-the-iphone-18-heres-why-apple-didnt-reveal-a-new-standard-iphone/)
- - [There aren’t AirPods with cameras yet and I hope it stays that way](https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event)
- - [Consensys plans to split into two companies: MetaMask, with Joe Lubin as CEO, and a new Consensys focused on Ethereum and institutional infrastructure &lpar;Jason Shubnell/The Block&rpar;](https://www.techmeme.com/260909/p47#a260909p47)
- - [How iPhone Duo compares in size to the iPhone 18 Pro in the wild](https://appleinsider.com/articles/26/09/09/how-iphone-duo-compares-in-size-to-the-iphone-18-pro-in-the-wild?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Duo supports Apple Pencil with USB-C on both displays](https://appleinsider.com/articles/26/09/10/iphone-duo-supports-apple-pencil-with-usb-c-on-both-displays?utm_source=rss)
+ - [iPhone Duo vs Samsung Galaxy Z Fold8 Ultra: Foldabes compared](https://appleinsider.com/articles/26/09/09/iphone-duo-vs-samsung-galaxy-z-fold8-ultra-foldabes-compared?utm_source=rss)
+ - [The iPhone Air 2 Wasn’t Announced. Here’s Why That’s Bad for Apple Buyers](https://www.cnet.com/tech/mobile/the-iphone-air-2-wasnt-announced-heres-why-thats-bad-for-apple-buyers/)
+ - [Sources: Jeffrey Katzenberg, ex-OpenAI Sora head Bill Peebles, and ex-Dropbox CFO Sujay Jaswa plan to launch a startup to train AI video models for filmmakers &lpar;The Information&rpar;](https://www.techmeme.com/260909/p49#a260909p49)
+ - [LG Denies Its Televisions Record Ambient Conversations for Ad Targeting](https://www.cnet.com/tech/services-and-software/lg-denies-its-televisions-record-ambient-conversations-for-ad-targeting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

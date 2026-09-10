@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never let them know your next move](http://9gag.com/gag/aW4VWjn)
+ - 😝 [Ok mom](http://9gag.com/gag/aAynrx9)
+ - 💣 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
  - 😝 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
- - 😝 [Show me your drawing skills](http://9gag.com/gag/aPAO46n)
- - 💣 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
- - 😝 [In 2009, 21-year-old model Gabriela Rico Jim\u00e9nez screamed this on camera before being arrested. After being arrested, nothing more was heard from him she disappeared.](http://9gag.com/gag/aQzYqZq)
- - 👉 [A small family-run cheese dairy in Colombia](http://9gag.com/gag/agmR0zg)<!-- MEMES:END -->
+ - 👉 [IT&#39;S CALLED DUMBF**KISTAN FOR A REASON](http://9gag.com/gag/a9y3MD1)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TAR, which builds off-grid power systems for data centers, raised a $120M Series A led by Spark Capital at a ~$1B valuation &lpar;Mark Chediak/Bloomberg&rpar;](https://www.techmeme.com/260910/p22#a260910p22)
- - [Positron, which is designing an AI processor called Asimov with a &quot;memory-first architecture&quot; and up to 2.3TB of memory, raised $875M at a $5B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p21#a260910p21)
- - [Coway Airmega Halo Review: Is Your Air Really Clean?](https://www.wired.com/review/coway-airmega-halo/)
- - [Apple is laying groundwork for ads in Visual Intelligence](https://appleinsider.com/articles/26/09/10/apple-is-laying-groundwork-for-ads-in-visual-intelligence?utm_source=rss)
- - [Amazon partners with OpenAI to let users of Amazon&#39;s DSP run ads in ChatGPT in a pilot program limited to the US; ChatGPT Ads hit $1B in ARR last month &lpar;Peter Adams/Marketing Dive&rpar;](https://www.techmeme.com/260910/p20#a260910p20)<!-- TECH:END -->
+ - [Amazon offers first Apple Watch Series 12 preorder discounts](https://appleinsider.com/articles/26/09/10/amazon-offers-first-apple-watch-series-12-preorder-discounts?utm_source=rss)
+ - [AppleCare One Family vs. Individual: which plan makes more sense?](https://appleinsider.com/inside/apple-services/vs/applecare-one-family-vs-individual-which-plan-makes-more-sense?utm_source=rss)
+ - [Anthropic details distillation efforts by Chinese companies, like Moonshot and DeepSeek, sending user queries to Claude via &quot;transfer stations&quot; outside China &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p29#a260910p29)
+ - [Anthropic says it disrupted several potential plots this year by scientists using its models for research that could have helped develop biological weapons &lpar;Dustin Volz/New York Times&rpar;](https://www.techmeme.com/260910/p28#a260910p28)
+ - [Anthropic publishes a threat intelligence report on how it disrupted efforts to misuse Claude for cyberattacks, influence operations, surveillance, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/260910/p27#a260910p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

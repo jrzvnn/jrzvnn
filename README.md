@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic gives EU cybersecurity agency ENISA testing access to Mythos 5 after months of talks that began in late May; ENISA still lacks access to Mythos 5.1 &lpar;Gian Volpicelli/Bloomberg&rpar;](https://www.techmeme.com/260910/p14#a260910p14)
- - [Sources: Moonshot AI is exploring dual Hong Kong and Shanghai listings for greater capital and exposure, amid the weaker performance of AI stocks in Hong Kong &lpar;Coco Feng/South China Morning Post&rpar;](https://www.techmeme.com/260910/p13#a260910p13)
- - [Imagining a Future Where a Spy Could Disappear](https://www.wired.com/story/book-excerpt-emily-st-john-mandel-exit-party/)
- - [Vari Electric Standing Desk Review &lpar;2026&rpar;: Form and Value](https://www.wired.com/review/vari-ergo-electric-standing-desk/)
- - [Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online](https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/)<!-- TECH:END -->
+ - [TAR, which builds off-grid power systems for data centers, raised a $120M Series A led by Spark Capital at a ~$1B valuation &lpar;Mark Chediak/Bloomberg&rpar;](https://www.techmeme.com/260910/p22#a260910p22)
+ - [Positron, which is designing an AI processor called Asimov with a &quot;memory-first architecture&quot; and up to 2.3TB of memory, raised $875M at a $5B valuation &lpar;Robbie Whelan/Wall Street Journal&rpar;](https://www.techmeme.com/260910/p21#a260910p21)
+ - [Coway Airmega Halo Review: Is Your Air Really Clean?](https://www.wired.com/review/coway-airmega-halo/)
+ - [Apple is laying groundwork for ads in Visual Intelligence](https://appleinsider.com/articles/26/09/10/apple-is-laying-groundwork-for-ads-in-visual-intelligence?utm_source=rss)
+ - [Amazon partners with OpenAI to let users of Amazon&#39;s DSP run ads in ChatGPT in a pilot program limited to the US; ChatGPT Ads hit $1B in ARR last month &lpar;Peter Adams/Marketing Dive&rpar;](https://www.techmeme.com/260910/p20#a260910p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
  - 😝 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
+ - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
  - 💣 [Sometimes, you do want to punch them in the face.](http://9gag.com/gag/aO86b9E)
  - 😝 [Tiny Changes, Different Coffee](http://9gag.com/gag/aRBxPWj)
  - 👉 [Bribing voters to win an election. Great idea... its what totally honest and legit politicians do](http://9gag.com/gag/aD2B3LZ)<!-- MEMES:END -->

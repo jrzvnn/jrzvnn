@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move](http://9gag.com/gag/aW4VWjn)
- - 😝 [Ok mom](http://9gag.com/gag/aAynrx9)
- - 💣 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
+ - 😝 [Skincare routine is clearly doing some heavy lifting](http://9gag.com/gag/aByDKzD)
+ - 😝 [A vlog about happy dude with his new friend &lpar;exchange student from China&rpar;](http://9gag.com/gag/aryPpR7)
+ - 💣 [Ok mom](http://9gag.com/gag/aAynrx9)
  - 😝 [How stupid are you? Yes](http://9gag.com/gag/adB3Nj9)
  - 👉 [IT&#39;S CALLED DUMBF**KISTAN FOR A REASON](http://9gag.com/gag/a9y3MD1)<!-- MEMES:END -->
 

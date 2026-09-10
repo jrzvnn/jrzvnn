@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ID verification service IDScan confirms that a data breach involved the theft of driver&#39;s licenses from its systems after hackers offered 153M licenses for sale &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/260910/p33#a260910p33)
- - [Don’t Sleep on Apple’s Audio Intelligence. It Reveals a Lot About Where We’re Headed](https://www.cnet.com/tech/services-and-software/apple-watch-audio-intelligence-ai-always-listening-commentary/)
- - [Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)
- - [Apple Health &amp; Quest team up for $119 blood panel](https://appleinsider.com/articles/26/09/10/apple-health-quest-team-up-for-119-blood-panel?utm_source=rss)
- - [What an Ex-Anthropic Researcher’s Warning About Human Extinction Really Means](https://www.cnet.com/tech/services-and-software/ex-anthropic-researcher-warning-human-extinction-ai/)<!-- TECH:END -->
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
+ - [Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey&#39;s Erebor Bank &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p39#a260910p39)
+ - [Sources: Microsoft plans to expand its data center capacity from 12GW today to 38GW+ by 2032, with about a third of the 38GW centered on AI-specific chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p38#a260910p38)
+ - [Jell-O and Beer May Hold the Keys to Brewing Houses on Mars](https://www.cnet.com/science/yeast-gelatin-brew-houses-mars/)
+ - [Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra: The Highest-End Phones Compared](https://www.cnet.com/tech/mobile/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-the-highest-end-phones-compared/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

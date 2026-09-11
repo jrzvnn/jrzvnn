@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
- - [Sources: the Pentagon is in talks to lend roughly $5B to neocloud Fluidstack; Fluidstack is being advised on its loan application by Palmer Luckey&#39;s Erebor Bank &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p39#a260910p39)
- - [Sources: Microsoft plans to expand its data center capacity from 12GW today to 38GW+ by 2032, with about a third of the 38GW centered on AI-specific chips &lpar;Bloomberg&rpar;](https://www.techmeme.com/260910/p38#a260910p38)
- - [Jell-O and Beer May Hold the Keys to Brewing Houses on Mars](https://www.cnet.com/science/yeast-gelatin-brew-houses-mars/)
- - [Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra: The Highest-End Phones Compared](https://www.cnet.com/tech/mobile/apple-iphone-18-pro-max-vs-samsung-galaxy-s26-ultra-the-highest-end-phones-compared/)<!-- TECH:END -->
+ - [Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints &lpar;The Information&rpar;](https://www.techmeme.com/260910/p41#a260910p41)
+ - [No, you won&#39;t be able to play two videos at once on iPhone Duo](https://appleinsider.com/articles/26/09/10/no-you-wont-be-able-to-play-two-videos-at-once-on-iphone-duo?utm_source=rss)
+ - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
+ - [London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260910/p40#a260910p40)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

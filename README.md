@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea supersized its cheap Bluetooth speaker and added an optical input](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input)
- - [iPhone 18 Pro, iPhone Duo, more: What AppleInsider thinks about &#39;Surprise and Shine&#39;](https://appleinsider.com/articles/26/09/11/iphone-18-pro-iphone-duo-more-what-appleinsider-thinks-about-surprise-and-shine?utm_source=rss)
- - [You should prepare for your iPhone 18 Pro pre-order right now](https://appleinsider.com/inside/iphone-18/tips/you-should-prepare-for-your-iphone-18-pro-pre-order-right-now?utm_source=rss)
- - [Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles &lpar;Bloomberg&rpar;](https://www.techmeme.com/260911/p16#a260911p16)
- - [The iPhone Duo Isn’t the Pocket iPad… or Is It?](https://www.cnet.com/tech/computing/iphone-duo-ipad-replacement-or-not-commentary/)<!-- TECH:END -->
+ - [How to Check if T-Mobile Fiber Is Available at Your Address](https://www.cnet.com/home/how-to-check-if-t-mobile-fiber-is-available-at-your-address/)
+ - [Tim Cook&#39;s cameo in the iPhone Duo launch was pure television drama](https://appleinsider.com/articles/26/09/11/tim-cooks-cameo-in-the-iphone-duo-launch-was-pure-television-drama?utm_source=rss)
+ - [Internal note: Frank Shaw is leaving Microsoft after 17 years as chief communications officer, saying it is &quot;time for me to move on and try new things&quot; &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260911/p22#a260911p22)
+ - [We unfolded the iPhone Duo](https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms)
+ - [The White House calls Truth Social the ‘most powerful and popular’ social media platform](https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He heard the song Let&#39;s Talk About Segs and he took it personally](http://9gag.com/gag/a4PMLL1)
- - 😝 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
- - 💣 [They hiding among us](http://9gag.com/gag/aGyPwXK)
+ - 😝 [I bought this at the Blue Springs State Park gift shop...Its in 3DDD](https://www.reddit.com/r/funny/comments/1wd6jrd/i_bought_this_at_the_blue_springs_state_park_gift/)
+ - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
+ - 💣 [Banana Republic ?](http://9gag.com/gag/aByDr0Q)
  - 😝 [Nice](http://9gag.com/gag/a34o39m)
- - 👉 [Bribing voters to win an election. Great idea... its what totally honest and legit politicians do](http://9gag.com/gag/aD2B3LZ)<!-- MEMES:END -->
+ - 👉 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
 
 ---
 

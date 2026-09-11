@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US and Mexico Announce They’re Teaming Up Against Drones](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/)
- - [Why So Many AI Researchers Think the Machines Could Kill Everyone](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/)
- - [Samsung Galaxy S26 FE Review: Same as Before, but for More Money](https://www.wired.com/review/samsung-galaxy-s26-fe/)
- - [MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260911/p5#a260911p5)
- - [Get iPhone 18 Pro on Us at T-Mobile — America&#39;s Best Network &lpar;T-Mobile&rpar;](https://www.techmeme.com/260911/p4#a260911p4)<!-- TECH:END -->
+ - [Ikea supersized its cheap Bluetooth speaker and added an optical input](https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input)
+ - [iPhone 18 Pro, iPhone Duo, more: What AppleInsider thinks about &#39;Surprise and Shine&#39;](https://appleinsider.com/articles/26/09/11/iphone-18-pro-iphone-duo-more-what-appleinsider-thinks-about-surprise-and-shine?utm_source=rss)
+ - [You should prepare for your iPhone 18 Pro pre-order right now](https://appleinsider.com/inside/iphone-18/tips/you-should-prepare-for-your-iphone-18-pro-pre-order-right-now?utm_source=rss)
+ - [Threat intelligence report: Anthropic says it disrupted a Yemen-based guided weapons engineering cell using Claude to develop guidance software for missiles &lpar;Bloomberg&rpar;](https://www.techmeme.com/260911/p16#a260911p16)
+ - [The iPhone Duo Isn’t the Pocket iPad… or Is It?](https://www.cnet.com/tech/computing/iphone-duo-ipad-replacement-or-not-commentary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

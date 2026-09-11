@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bought this at the Blue Springs State Park gift shop...Its in 3DDD](https://www.reddit.com/r/funny/comments/1wd6jrd/i_bought_this_at_the_blue_springs_state_park_gift/)
+ - 😝 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
  - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 💣 [Banana Republic ?](http://9gag.com/gag/aByDr0Q)
- - 😝 [Nice](http://9gag.com/gag/a34o39m)
- - 👉 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
+ - 💣 [Poor Porsche](http://9gag.com/gag/a5QLKqy)
+ - 😝 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
+ - 👉 [Nice](http://9gag.com/gag/a34o39m)<!-- MEMES:END -->
 
 ---
 

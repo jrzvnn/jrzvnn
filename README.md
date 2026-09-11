@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: AI assistant Instinct is looking to raise $1B in new funding after recently raising $250M, as it seeks more computing power amid capacity constraints &lpar;The Information&rpar;](https://www.techmeme.com/260910/p41#a260910p41)
- - [No, you won&#39;t be able to play two videos at once on iPhone Duo](https://appleinsider.com/articles/26/09/10/no-you-wont-be-able-to-play-two-videos-at-once-on-iphone-duo?utm_source=rss)
- - [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/)
- - [London-based Xapien, which uses AI for background checks and due diligence, raised a $56M Series B led by Spectrum Equity &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/260910/p40#a260910p40)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)<!-- TECH:END -->
+ - [President Trump rejects warnings of AI-driven human extinction, saying the US leads China by a year and will be &quot;in a very bad position&quot; if it doesn&#39;t win in AI &lpar;Jeff Mason/Bloomberg&rpar;](https://www.techmeme.com/260911/p2#a260911p2)
+ - [Tencent-backed AI chipmaker Enflame&#39;s shares surged 188% in their Shanghai debut, giving Enflame a market cap of $26.3B, after raising ~$910M in an IPO &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260911/p1#a260911p1)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
+ - [A US judge finds TikTok liable for lying about its safety standards and exposing minors to inappropriate content, in a 2025 lawsuit filed by Texas AG Ken Paxton &lpar;Christian Terry/Click2Houston.com&rpar;](https://www.techmeme.com/260910/p48#a260910p48)
+ - [Sources: Kalshi plans to seek US regulatory approval to start offering single-stock perpetual futures; Coinbase filed similar regulatory paperwork last week &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p47#a260910p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

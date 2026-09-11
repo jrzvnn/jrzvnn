@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best iPhone 18 Pro cases you can buy now](https://appleinsider.com/inside/iphone-18/best/best-iphone-18-pro-cases-you-can-buy-now?utm_source=rss)
- - [The UK&#39;s Office for National Statistics cites AI as a major driver of the country&#39;s summer growth spurt, with GDP growing 0.4% in July, above expectations &lpar;Tom Rees/Bloomberg&rpar;](https://www.techmeme.com/260911/p26#a260911p26)
- - [The 9 Best TV Shows to Stream This Month &lpar;September 2026&rpar;](https://www.wired.com/story/the-9-best-shows-to-stream-right-now/)
- - [Have You Protested AI Recently? Anthropic May Be Watching You for Precrimes](https://www.cnet.com/tech/services-and-software/have-you-protested-ai-recently-anthropic-may-be-watching-you-for-precrimes/)
- - [The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades](https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/)<!-- TECH:END -->
+ - [Citrini Research founder James van Geelen has sold the firm to SemiAnalysis for an undisclosed sum; sources: van Geelen plans to launch a new fund &lpar;Bloomberg&rpar;](https://www.techmeme.com/260911/p30#a260911p30)
+ - [FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google&#39;s 2025 Year in Search Ranking &lpar;Kate Knibbs/Wired&rpar;](https://www.techmeme.com/260911/p29#a260911p29)
+ - [GTA 5 Mod Adds Flock Surveillance Cameras So Players Can Blow Them Up](https://www.cnet.com/tech/gaming/gta-5-mod-235-flock-cameras-destroy-for-cash/)
+ - [A Breakthrough? Or Just Breakable? Apple Unveiled the iPhone Duo, and CNET Writers Have Many Thoughts](https://www.cnet.com/tech/mobile/apple-iphone-duo-folding-phone-cnet-reactions/)
+ - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

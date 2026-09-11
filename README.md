@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taste of Equality](http://9gag.com/gag/aoyB0qe)
- - 😝 [They hiding among us](http://9gag.com/gag/aGyPwXK)
- - 💣 [Poor Porsche](http://9gag.com/gag/a5QLKqy)
- - 😝 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
- - 👉 [Nice](http://9gag.com/gag/a34o39m)<!-- MEMES:END -->
+ - 😝 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)
+ - 😝 [Nice](http://9gag.com/gag/a34o39m)
+ - 💣 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
+ - 😝 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)
+ - 👉 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)<!-- MEMES:END -->
 
 ---
 

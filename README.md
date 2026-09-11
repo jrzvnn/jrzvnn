@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump rejects warnings of AI-driven human extinction, saying the US leads China by a year and will be &quot;in a very bad position&quot; if it doesn&#39;t win in AI &lpar;Jeff Mason/Bloomberg&rpar;](https://www.techmeme.com/260911/p2#a260911p2)
- - [Tencent-backed AI chipmaker Enflame&#39;s shares surged 188% in their Shanghai debut, giving Enflame a market cap of $26.3B, after raising ~$910M in an IPO &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260911/p1#a260911p1)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #718](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-718/)
- - [A US judge finds TikTok liable for lying about its safety standards and exposing minors to inappropriate content, in a 2025 lawsuit filed by Texas AG Ken Paxton &lpar;Christian Terry/Click2Houston.com&rpar;](https://www.techmeme.com/260910/p48#a260910p48)
- - [Sources: Kalshi plans to seek US regulatory approval to start offering single-stock perpetual futures; Coinbase filed similar regulatory paperwork last week &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260910/p47#a260910p47)<!-- TECH:END -->
+ - [The US and Mexico Announce They’re Teaming Up Against Drones](https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/)
+ - [Why So Many AI Researchers Think the Machines Could Kill Everyone](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/)
+ - [Samsung Galaxy S26 FE Review: Same as Before, but for More Money](https://www.wired.com/review/samsung-galaxy-s26-fe/)
+ - [MIT launches the LLM Election Observatory, a dashboard tracking how nearly a dozen AI models tailor responses to political queries during the 2026 US midterms &lpar;Tiffany Hsu/New York Times&rpar;](https://www.techmeme.com/260911/p5#a260911p5)
+ - [Get iPhone 18 Pro on Us at T-Mobile — America&#39;s Best Network &lpar;T-Mobile&rpar;](https://www.techmeme.com/260911/p4#a260911p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

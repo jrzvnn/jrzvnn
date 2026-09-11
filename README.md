@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
- - 😝 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
+ - 😝 [Trying to play a game of Chicken with the Mate](https://www.reddit.com/r/funny/comments/1wdqq2s/trying_to_play_a_game_of_chicken_with_the_mate/)
+ - 😝 [How do they come up with these](https://www.reddit.com/r/funny/comments/1wdqq1g/how_do_they_come_up_with_these/)
  - 💣 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
- - 😝 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
  - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 ---

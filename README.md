@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)
- - 😝 [Nice](http://9gag.com/gag/a34o39m)
- - 💣 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
- - 😝 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)
- - 👉 [On this day in 2001, WTC Tower 7 kill*d itself.](http://9gag.com/gag/ajP2nRg)<!-- MEMES:END -->
+ - 😝 [`oH No yOu wOrK AlL DaY AnD LeAvE Me aT HoMe aLl aLoNe i hAd nO ChOiCe`](http://9gag.com/gag/aE0e1rN)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
+ - 💣 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
+ - 😝 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
+ - 👉 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk backs Dario Amodei&#39;s arguments about pacing the frontier, saying &quot;Dario is right&quot; &lpar;Ben Johansen/Politico&rpar;](https://www.techmeme.com/260912/p14#a260912p14)
- - [Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &quot;to be part of the &#39;embedded evaluators&#39; program that Amodei&quot; committed to &lpar;Clem/@clementdelangue&rpar;](https://www.techmeme.com/260912/p13#a260912p13)
- - [Sam Altman says he agrees with Amodei that &quot;committing to having independent evaluators with employee-like access is a great idea&quot;, and OpenAI will do the same &lpar;Sam Altman/@sama&rpar;](https://www.techmeme.com/260912/p12#a260912p12)
- - [iPhone 18 Pro vs iPhone Duo: Apple&#39;s new models, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-duo-apples-new-models-compared?utm_source=rss)
- - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)<!-- TECH:END -->
+ - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)
+ - [Donald Trump&#39;s plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p15#a260912p15)
+ - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)
+ - [BlizzCon 2026: New Starcraft Shooter, Diablo 5, World of Warcraft Forever](https://www.cnet.com/tech/gaming/blizzcon-2026-opening-ceremony-starcraft-diablo-5-wow-forever/)
+ - [Elon Musk backs Dario Amodei&#39;s arguments about pacing the frontier, saying &quot;Dario is right&quot; &lpar;Ben Johansen/Politico&rpar;](https://www.techmeme.com/260912/p14#a260912p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
  - [An analysis of Bending Spoons&#39; financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260912/p17#a260912p17)
  - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
  - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
- - [Today’s NYT Strands Hints, Answers and Help for Sept. 13, #924](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/)
- - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)<!-- TECH:END -->
+ - [Today’s NYT Strands Hints, Answers and Help for Sept. 13, #924](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

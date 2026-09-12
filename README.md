@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
- - 😝 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
- - 💣 [Who&#39;s the best Bond?](http://9gag.com/gag/aVvGDOd)
- - 😝 [If you&#39;d ran your own small country, what is the most important rule you&#39;d have](http://9gag.com/gag/aryPNq0)
- - 👉 [4b women kicked out](http://9gag.com/gag/aD2BG9d)<!-- MEMES:END -->
+ - 😝 [It can be counted as his 4th Assassination attempt coz it scared the shit out of trump](http://9gag.com/gag/aVvGDzd)
+ - 💣 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
+ - 😝 [Who&#39;s the best Bond?](http://9gag.com/gag/aVvGDOd)
+ - 👉 [If you&#39;d ran your own small country, what is the most important rule you&#39;d have](http://9gag.com/gag/aryPNq0)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine thinking you have a point until reality hits](http://9gag.com/gag/aAyn1Rp)
- - 😝 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
- - 💣 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
- - 😝 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
- - 👉 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)<!-- MEMES:END -->
+ - 😝 [Years later, still a Valid Crash out.](http://9gag.com/gag/aKGb3P1)
+ - 😝 [Would you date a woman with body hair](http://9gag.com/gag/aO86Vp6)
+ - 💣 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)
+ - 😝 [9/11 - Real event or Inside job?](http://9gag.com/gag/a4PMYG1)
+ - 👉 [If you&#39;d ran your own small country, what is the most important rule you&#39;d have](http://9gag.com/gag/aryPNq0)<!-- MEMES:END -->
 
 ---
 

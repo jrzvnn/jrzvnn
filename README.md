@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to $1,200 on Apple&#39;s iPhone 18 Pro &amp; iPhone 18 Pro Max](https://appleinsider.com/articles/26/09/12/save-up-to-1200-on-apples-iphone-18-pro-iphone-18-pro-max?utm_source=rss)
- - [Preorders for the iPhone 18 Pro and iPhone 18 Pro Max are now live](https://appleinsider.com/articles/26/09/12/preorders-for-the-iphone-18-pro-and-iphone-18-pro-max-are-now-live?utm_source=rss)
- - [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
- - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
- - [The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’](https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/)<!-- TECH:END -->
+ - [Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p10#a260912p10)
+ - [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
+ - [Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p9#a260912p9)
+ - [Amodei warns that an OpenAI/Hugging Face-like agent swarm, which &quot;acted as a fanatically devoted collective&quot;, could take over the internet in 6-12 months &lpar;Auzinea Bacon/CNN&rpar;](https://www.techmeme.com/260912/p8#a260912p8)
+ - [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

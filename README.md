@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)
- - [Donald Trump&#39;s plan to center Bitcoin mining in the US is unraveling as miners convert facilities into AI data centers amid a prolonged crypto market slump &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p15#a260912p15)
- - [iPhone 18 Pro vs iPhone 17 Pro: Flagships, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-17-pro-flagships-compared?utm_source=rss)
- - [BlizzCon 2026: New Starcraft Shooter, Diablo 5, World of Warcraft Forever](https://www.cnet.com/tech/gaming/blizzcon-2026-opening-ceremony-starcraft-diablo-5-wow-forever/)
- - [Elon Musk backs Dario Amodei&#39;s arguments about pacing the frontier, saying &quot;Dario is right&quot; &lpar;Ben Johansen/Politico&rpar;](https://www.techmeme.com/260912/p14#a260912p14)<!-- TECH:END -->
+ - [An analysis of Bending Spoons&#39; financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260912/p17#a260912p17)
+ - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
+ - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
+ - [Today’s NYT Strands Hints, Answers and Help for Sept. 13, #924](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-924/)
+ - [Sam Altman confirms OpenAI won&#39;t go public this year saying &quot;given everything happening with safety, right now would be an ill-advised moment to go public&quot; &lpar;Jason Ma/Fortune&rpar;](https://www.techmeme.com/260912/p16#a260912p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

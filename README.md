@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
- - 😝 [Years later, still a Valid Crash out.](http://9gag.com/gag/aKGb3P1)
- - 💣 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
+ - 😝 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
+ - 💣 [Who&#39;s the best Bond?](http://9gag.com/gag/aVvGDOd)
  - 😝 [If you&#39;d ran your own small country, what is the most important rule you&#39;d have](http://9gag.com/gag/aryPNq0)
  - 👉 [4b women kicked out](http://9gag.com/gag/aD2BG9d)<!-- MEMES:END -->
 

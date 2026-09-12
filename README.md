@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real facial expressions](http://9gag.com/gag/aKGbqPj)
- - 😝 [What&#39;s going on here?](http://9gag.com/gag/aD2Bo3d)
+ - 😝 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)
+ - 😝 [What are you waiting for the most?](http://9gag.com/gag/aoyBj4n)
  - 💣 [`the jet fuel store called, they&#39;re running out of you!`](http://9gag.com/gag/apReB08)
  - 😝 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)
- - 👉 [The real facial expressions](http://9gag.com/gag/aKGbqPj)<!-- MEMES:END -->
+ - 👉 [A question: In *Avengers: Endgame*, when Spider-Man hands the Gauntlet to Captain Marvel, why didn&#39;t she use it to finish off Thanos and his entire army?](http://9gag.com/gag/aYQzwYm)<!-- MEMES:END -->
 
 ---
 

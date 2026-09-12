@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Years later, still a Valid Crash out.](http://9gag.com/gag/aKGb3P1)
- - 😝 [Would you date a woman with body hair](http://9gag.com/gag/aO86Vp6)
- - 💣 [Would you date a woman with tattoos](http://9gag.com/gag/aGyPw56)
+ - 😝 [Jauh2 Ke Mall Enaknya Makan Di KFC dan Ngopi di Starbuck](http://9gag.com/gag/a9y3YX1)
+ - 😝 [No final, o Felipinho Bola Gato estava correto. O dinheiro p\u00fablico foi lavado antes de ser enviado para a quadrilha do Tariflavio Bolsomaster, logo se trata de dinheiro privado. SELVAAAA!!!](http://9gag.com/gag/azx6V8z)
+ - 💣 [Sorry f\u00fcr cancer Platform, aber.... h\u00f6rt selbst](http://9gag.com/gag/a1m4MLG)
  - 😝 [9/11 - Real event or Inside job?](http://9gag.com/gag/a4PMYG1)
  - 👉 [If you&#39;d ran your own small country, what is the most important rule you&#39;d have](http://9gag.com/gag/aryPNq0)<!-- MEMES:END -->
 

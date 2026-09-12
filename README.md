@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
+ - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)
  - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)
  - [Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260911/p33#a260911p33)
- - [Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do &quot;benign tasks&quot; &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p32#a260911p32)
- - [Sources: US Senate negotiators are debating a bill to impose a &quot;duty of care&quot; for AI companies and let the government block the release of models deemed unsafe &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260911/p31#a260911p31)
- - [New standalone Roblox games will spread safety risks beyond the main app](https://appleinsider.com/articles/26/09/11/new-standalone-roblox-games-will-spread-safety-risks-beyond-the-main-app?utm_source=rss)<!-- TECH:END -->
+ - [Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do &quot;benign tasks&quot; &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p32#a260911p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

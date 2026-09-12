@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citrini Research founder James van Geelen has sold the firm to SemiAnalysis for an undisclosed sum; sources: van Geelen plans to launch a new fund &lpar;Bloomberg&rpar;](https://www.techmeme.com/260911/p30#a260911p30)
- - [FOIA docs: the CFTC launched at least three previously unreported investigations into Polymarket trading, including about Google&#39;s 2025 Year in Search Ranking &lpar;Kate Knibbs/Wired&rpar;](https://www.techmeme.com/260911/p29#a260911p29)
- - [GTA 5 Mod Adds Flock Surveillance Cameras So Players Can Blow Them Up](https://www.cnet.com/tech/gaming/gta-5-mod-235-flock-cameras-destroy-for-cash/)
- - [A Breakthrough? Or Just Breakable? Apple Unveiled the iPhone Duo, and CNET Writers Have Many Thoughts](https://www.cnet.com/tech/mobile/apple-iphone-duo-folding-phone-cnet-reactions/)
- - [Lawyer fined $5K over AI-hallucinated witnesses in a murder case](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)<!-- TECH:END -->
+ - [Sources: Anthropic is in talks to bring on Nvidia as an anchor investor in its IPO, seeking up to $100B at a ~$2T valuation; Nvidia may invest up to $10B &lpar;Reuters&rpar;](https://www.techmeme.com/260911/p34#a260911p34)
+ - [Sources: Jeff Dean is raising funds again for Discovery Loop, seeking a valuation of ~$50B; Discovery Loop was raising $1B at a ~$10B valuation a few weeks ago &lpar;Ben Bergman/Business Insider&rpar;](https://www.techmeme.com/260911/p33#a260911p33)
+ - [Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do &quot;benign tasks&quot; &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260911/p32#a260911p32)
+ - [Sources: US Senate negotiators are debating a bill to impose a &quot;duty of care&quot; for AI companies and let the government block the release of models deemed unsafe &lpar;Courtney Rozen/Reuters&rpar;](https://www.techmeme.com/260911/p31#a260911p31)
+ - [New standalone Roblox games will spread safety risks beyond the main app](https://appleinsider.com/articles/26/09/11/new-standalone-roblox-games-will-spread-safety-risks-beyond-the-main-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

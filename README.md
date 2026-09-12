@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump is taking a hands-off approach to AI regulation to preserve the US lead over China, ahead of a summit with Xi Jinping, where AI safety is a top issue &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p10#a260912p10)
- - [LG responds to TV spying allegations](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)
- - [Amodei says pacing does not mean halting training or progress, but giving companies time to align and safeguard models and third-party evaluators time to verify &lpar;Bloomberg&rpar;](https://www.techmeme.com/260912/p9#a260912p9)
- - [Amodei warns that an OpenAI/Hugging Face-like agent swarm, which &quot;acted as a fanatically devoted collective&quot;, could take over the internet in 6-12 months &lpar;Auzinea Bacon/CNN&rpar;](https://www.techmeme.com/260912/p8#a260912p8)
- - [Trump is giving data centers a pass to pollute](https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa)<!-- TECH:END -->
+ - [Elon Musk backs Dario Amodei&#39;s arguments about pacing the frontier, saying &quot;Dario is right&quot; &lpar;Ben Johansen/Politico&rpar;](https://www.techmeme.com/260912/p14#a260912p14)
+ - [Hugging Face says its Open Alignment Initiative, led by co-founder Thomas Wolf, seeks &quot;to be part of the &#39;embedded evaluators&#39; program that Amodei&quot; committed to &lpar;Clem/@clementdelangue&rpar;](https://www.techmeme.com/260912/p13#a260912p13)
+ - [Sam Altman says he agrees with Amodei that &quot;committing to having independent evaluators with employee-like access is a great idea&quot;, and OpenAI will do the same &lpar;Sam Altman/@sama&rpar;](https://www.techmeme.com/260912/p12#a260912p12)
+ - [iPhone 18 Pro vs iPhone Duo: Apple&#39;s new models, compared](https://appleinsider.com/inside/iphone-18/vs/iphone-18-pro-vs-iphone-duo-apples-new-models-compared?utm_source=rss)
+ - [Sylvan Esso think you should splurge on good-quality yogurt](https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

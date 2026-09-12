@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AI researchers John Schulman, Beren Millidge, and Charlie O&#39;Neill on steelmanning the case against RSI, Chinese labs&#39; progress, long-horizon RL, more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/260912/p3#a260912p3)
- - [Epsilon Health, which contracts with radiologists who use its AI to generate image reports faster, emerges from stealth with a $20M Series A led by AlleyCorp &lpar;Brock E.W. Turner/Axios&rpar;](https://www.techmeme.com/260912/p2#a260912p2)
- - [NYC-based Luminary, which develops AI-powered workflow tools for estate planning and wealth transfer management, raised a $22M Series A led by Ten Coves Capital &lpar;Davis Janowski/Wealth Management&rpar;](https://www.techmeme.com/260912/p1#a260912p1)
- - [Amazon adds a Shop tab to Prime Video&#39;s X-Ray feature for related products while watching shows, and Shop the Scene powered by Amazon Lens in the Shopping app &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260911/p36#a260911p36)
- - [Some experts say Siri Recap and Live Rewind, always-listening AI features in new Apple Watches, could test eavesdropping laws despite privacy protections &lpar;Natalie Lung/Bloomberg&rpar;](https://www.techmeme.com/260911/p35#a260911p35)<!-- TECH:END -->
+ - [Save up to $1,200 on Apple&#39;s iPhone 18 Pro &amp; iPhone 18 Pro Max](https://appleinsider.com/articles/26/09/12/save-up-to-1200-on-apples-iphone-18-pro-iphone-18-pro-max?utm_source=rss)
+ - [Preorders for the iPhone 18 Pro and iPhone 18 Pro Max are now live](https://appleinsider.com/articles/26/09/12/preorders-for-the-iphone-18-pro-and-iphone-18-pro-max-are-now-live?utm_source=rss)
+ - [Where to preorder the iPhone 18 Pro and Pro Max](https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy)
+ - [10 Best Standing Desks Worth Buying in 2026](https://www.wired.com/gallery/best-standing-desks/)
+ - [The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’](https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260913/p6#a260913p6)
- - [Apple Store Genius Bar &amp; pickup counter revamp effort accelerating](https://appleinsider.com/articles/26/09/13/apple-store-genius-bar-pickup-counter-revamp-effort-accelerating?utm_source=rss)
- - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
- - [Apple Intelligence could be the key to cram Face ID into future iPhone Duo](https://appleinsider.com/articles/26/09/13/apple-intelligence-could-be-the-key-to-cram-face-id-into-future-iphone-duo?utm_source=rss)
- - [New Apple TV with Siri AI could launch at any time in the fall](https://appleinsider.com/articles/26/09/13/new-apple-tv-with-siri-ai-could-launch-at-any-time-in-the-fall?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft Windows 11 and Office for Mac deals plunge to as low as $9.97](https://appleinsider.com/articles/26/09/13/microsoft-windows-11-and-office-for-mac-deals-plunge-to-as-low-as-997?utm_source=rss)
+ - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
+ - [Yes, the iPhone Duo Is a First-Generation Phone. That’s Why You Should Get One if You Can](https://www.cnet.com/tech/mobile/yes-the-iphone-duo-is-a-first-generation-phone-thats-why-you-should-get-one-if-you-can/)
+ - [President Trump dismisses calls for an AI slowdown, saying &quot;you have a lot of negative forces that are bringing it up that shouldn&#39;t be bringing it up&quot; &lpar;Myles McCormick/Financial Times&rpar;](https://www.techmeme.com/260913/p9#a260913p9)
+ - [Source: Anthropic has selected the Nasdaq for its potential IPO &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260913/p8#a260913p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

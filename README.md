@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Windows 11 and Office for Mac deals plunge to as low as $9.97](https://appleinsider.com/articles/26/09/13/microsoft-windows-11-and-office-for-mac-deals-plunge-to-as-low-as-997?utm_source=rss)
- - [The Units’ Digital Stimulation is synthpunk perfection](https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review)
- - [Yes, the iPhone Duo Is a First-Generation Phone. That’s Why You Should Get One if You Can](https://www.cnet.com/tech/mobile/yes-the-iphone-duo-is-a-first-generation-phone-thats-why-you-should-get-one-if-you-can/)
- - [President Trump dismisses calls for an AI slowdown, saying &quot;you have a lot of negative forces that are bringing it up that shouldn&#39;t be bringing it up&quot; &lpar;Myles McCormick/Financial Times&rpar;](https://www.techmeme.com/260913/p9#a260913p9)
- - [Source: Anthropic has selected the Nasdaq for its potential IPO &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/260913/p8#a260913p8)<!-- TECH:END -->
+ - [Overwatch Season 5 Will Add a New Kind of Support, Try to Solve 2 Roster Headaches](https://www.cnet.com/tech/gaming/overwatch-season-5-doctrine-sombra-roadhog-reworks-2/)
+ - [Sunday Reboot: Apple Event&#39;s static structure and Ternus exists](https://appleinsider.com/articles/26/09/13/sunday-reboot-apple-events-static-structure-and-ternus-exists?utm_source=rss)
+ - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
+ - [Xi Jinping calls for a &quot;consensus-based global AI governance framework&quot; and says China will pioneer the establishment of a BRICS AI open-source community &lpar;Joanna Ossinger/CNBC&rpar;](https://www.techmeme.com/260913/p11#a260913p11)
+ - [Dario Amodei says the &quot;toughest dilemma&quot; about his proposal to &quot;pace the frontier&quot; is what happens if China does not do the same &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260913/p10#a260913p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

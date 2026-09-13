@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260913/p12#a260913p12)
  - [Overwatch Season 5 Will Add a New Kind of Support, Try to Solve 2 Roster Headaches](https://www.cnet.com/tech/gaming/overwatch-season-5-doctrine-sombra-roadhog-reworks-2/)
  - [Sunday Reboot: Apple Event&#39;s static structure and Ternus exists](https://appleinsider.com/articles/26/09/13/sunday-reboot-apple-events-static-structure-and-ternus-exists?utm_source=rss)
  - [Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)
- - [Xi Jinping calls for a &quot;consensus-based global AI governance framework&quot; and says China will pioneer the establishment of a BRICS AI open-source community &lpar;Joanna Ossinger/CNBC&rpar;](https://www.techmeme.com/260913/p11#a260913p11)
- - [Dario Amodei says the &quot;toughest dilemma&quot; about his proposal to &quot;pace the frontier&quot; is what happens if China does not do the same &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260913/p10#a260913p10)<!-- TECH:END -->
+ - [Xi Jinping calls for a &quot;consensus-based global AI governance framework&quot; and says China will pioneer the establishment of a BRICS AI open-source community &lpar;Joanna Ossinger/CNBC&rpar;](https://www.techmeme.com/260913/p11#a260913p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

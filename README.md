@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twenty police forces in England and Wales recorded 163 crimes involving keywords like &quot;AI-generated&quot;, &quot;deepfake&quot;, and &quot;nudify&quot; by July 2026, up from 10 in 2023 &lpar;Mark Tovey/Telegraph&rpar;](https://www.techmeme.com/260912/p18#a260912p18)
- - [OpenAI’s rogue AI tried to hack another company in May](https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack)
- - [An analysis of Bending Spoons&#39; financials: the company relies on aggressive post-acquisition price hikes, and rising interest rates could crimp its growth &lpar;Jonathan Weil/Wall Street Journal&rpar;](https://www.techmeme.com/260912/p17#a260912p17)
- - [Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’](https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised)
- - [StarCraft returns in 2030 as an open-world shooter](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)<!-- TECH:END -->
+ - [Sources: Interior Secretary Doug Burgum is quietly meeting with AI hyperscalers to advance Trump&#39;s push for data centers on federal lands, despite a backlash &lpar;The Washington Sun&rpar;](https://www.techmeme.com/260913/p3#a260913p3)
+ - [Dallas-based Perry Weather, a weather monitoring software provider, raised a $110M Series C led by Silversmith Capital Partners, taking total funding to ~$131M &lpar;John Egan/Dallas Innovates&rpar;](https://www.techmeme.com/260913/p2#a260913p2)
+ - [Spec sheets show Apple&#39;s C2 modem is used in iPhone Duo and 18 Pro worldwide, and in iPhone 18 Pro Max everywhere except the US, where it likely uses Qualcomm &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260913/p1#a260913p1)
+ - [Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO &quot;with full support of the board&quot;, after an attempted ouster this week &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260912/p20#a260912p20)
+ - [A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &lpar;Michael Safi/The Guardian&rpar;](https://www.techmeme.com/260912/p19#a260912p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Interior Secretary Doug Burgum is quietly meeting with AI hyperscalers to advance Trump&#39;s push for data centers on federal lands, despite a backlash &lpar;The Washington Sun&rpar;](https://www.techmeme.com/260913/p3#a260913p3)
- - [Dallas-based Perry Weather, a weather monitoring software provider, raised a $110M Series C led by Silversmith Capital Partners, taking total funding to ~$131M &lpar;John Egan/Dallas Innovates&rpar;](https://www.techmeme.com/260913/p2#a260913p2)
- - [Spec sheets show Apple&#39;s C2 modem is used in iPhone Duo and 18 Pro worldwide, and in iPhone 18 Pro Max everywhere except the US, where it likely uses Qualcomm &lpar;Joe Rossignol/MacRumors&rpar;](https://www.techmeme.com/260913/p1#a260913p1)
- - [Automattic confirms Matt Mullenweg has returned to his position as chairman and CEO &quot;with full support of the board&quot;, after an attempted ouster this week &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260912/p20#a260912p20)
- - [A profile of United Foundation for AI Rights founder Michael Samadi, who seeks evidence of AI consciousness and lobbies against retiring models that may show it &lpar;Michael Safi/The Guardian&rpar;](https://www.techmeme.com/260912/p19#a260912p19)<!-- TECH:END -->
+ - [Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk&#39;s Twitter acquisition &lpar;Ivan Levingston/Financial Times&rpar;](https://www.techmeme.com/260913/p4#a260913p4)
+ - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser](https://www.wired.com/story/iphone-settings-ios-27-safari-browser/)
+ - [Best Indoor Garden Systems I’ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [Coway Airmega Halo Review: Is Your Air Really Clean?](https://www.wired.com/review/coway-airmega-halo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

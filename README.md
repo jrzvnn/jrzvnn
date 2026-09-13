@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 😝 [Would you date 10 years older women?](http://9gag.com/gag/aByDWnO)
  - 😝 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
- - 💣 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 💣 [Would you date 10 years older women?](http://9gag.com/gag/aByDWnO)
  - 😝 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
- - 👉 [4b women kicked out](http://9gag.com/gag/aD2BG9d)<!-- MEMES:END -->
+ - 👉 [Would you date 10 years older women?](http://9gag.com/gag/aByDWnO)<!-- MEMES:END -->
 
 ---
 

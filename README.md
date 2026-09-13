@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Vy Capital owns a 3.4% SpaceX stake; Vy is also the largest outside investor in BoringCo and Neuralink and committed $700M to Musk&#39;s Twitter acquisition &lpar;Ivan Levingston/Financial Times&rpar;](https://www.techmeme.com/260913/p4#a260913p4)
- - [The Smart Bird Feeders Everyone’s Talking About &lpar;and Actually Buying&rpar; &lpar;2026&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser](https://www.wired.com/story/iphone-settings-ios-27-safari-browser/)
- - [Best Indoor Garden Systems I’ve Been Testing All Year &lpar;2026&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
- - [Coway Airmega Halo Review: Is Your Air Really Clean?](https://www.wired.com/review/coway-airmega-halo/)<!-- TECH:END -->
+ - [iPhone Duo will usher foldables into the mainstream, just as iPhone did with smartphones; sources: iPhone game controllers will launch under the Beats brand &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260913/p6#a260913p6)
+ - [Apple Store Genius Bar &amp; pickup counter revamp effort accelerating](https://appleinsider.com/articles/26/09/13/apple-store-genius-bar-pickup-counter-revamp-effort-accelerating?utm_source=rss)
+ - [Waymo pulls over, calls cops on riders with a ghost gun](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)
+ - [Apple Intelligence could be the key to cram Face ID into future iPhone Duo](https://appleinsider.com/articles/26/09/13/apple-intelligence-could-be-the-key-to-cram-face-id-into-future-iphone-duo?utm_source=rss)
+ - [New Apple TV with Siri AI could launch at any time in the fall](https://appleinsider.com/articles/26/09/13/new-apple-tv-with-siri-ai-could-launch-at-any-time-in-the-fall?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pretty sure all of our grandmas had this on the coffee table at some point](https://www.reddit.com/r/funny/comments/1wf5ehc/pretty_sure_all_of_our_grandmas_had_this_on_the/)
  - 😝 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
- - 😝 [I will try this tonight](http://9gag.com/gag/ae9XGLB)
- - 💣 [Who&#39;s the best Bond?](http://9gag.com/gag/aVvGDOd)
- - 😝 [4b women kicked out](http://9gag.com/gag/aD2BG9d)
+ - 💣 [Id like to announce that after 2 years battling cancer](http://9gag.com/gag/a4PMYeZ)
+ - 😝 [Brave little Angel calls 911 on her mother who is apparently another member of the Lindsay C. cult](http://9gag.com/gag/a34o7Wv)
  - 👉 [I will try this tonight](http://9gag.com/gag/ae9XGLB)<!-- MEMES:END -->
 
 ---

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The current state of the United States](http://9gag.com/gag/aMVpA56)
  - 😝 [Agree?](http://9gag.com/gag/aYQz4PO)
+ - 💣 [Is living with your parents after 25 socially unacceptable?](http://9gag.com/gag/aVvGMAd)
  - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 💣 [Agree?](http://9gag.com/gag/aYQz4PO)
- - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 👉 [Crack Amico - Cool Guy &lpar;Tom Segura Diss Track&rpar;](https://www.reddit.com/r/funny/comments/1wgeyxt/crack_amico_cool_guy_tom_segura_diss_track/)<!-- MEMES:END -->
+ - 👉 [The current state of the United States](http://9gag.com/gag/aMVpA56)<!-- MEMES:END -->
 
 ---
 

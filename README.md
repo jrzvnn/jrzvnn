@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal OpenAI docs detail contractors evaluating anonymized prompts and chats to improve the models; model training is turned on by default for consumer plans &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260914/p26#a260914p26)
- - [Stockholm-based Tandem Health, which offers clinicians an AI copilot that generates medical notes during patient consultations, raised a $100M Series B &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260914/p25#a260914p25)
- - [If you let it, Apple Intelligence will train itself on your data in iOS 27](https://appleinsider.com/articles/26/09/14/apple-has-altered-course-on-using-customer-data-to-train-its-ai?utm_source=rss)
- - [Nvidia and Booz Allen Hamilton restrict their use of Fable due to a lack of ZDR assurances; source: Palantir hasn&#39;t made Fable available via its own software &lpar;The Information&rpar;](https://www.techmeme.com/260914/p24#a260914p24)
- - [Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale &lpar;Federico Maccioni/Reuters&rpar;](https://www.techmeme.com/260914/p23#a260914p23)<!-- TECH:END -->
+ - [Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman&#39;s request &lpar;MS NOW&rpar;](https://www.techmeme.com/260914/p35#a260914p35)
+ - [Apple standing its ground in Epic&#39;s App Store fee suit](https://appleinsider.com/articles/26/09/14/apple-standing-its-ground-in-epics-app-store-fee-suit?utm_source=rss)
+ - [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)
+ - [Valve&amp;#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)
+ - [It&#39;s not clear why Elon Musk&#39;s has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

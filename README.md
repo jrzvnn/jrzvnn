@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-connected Asian stocks fell sharply after US tech leaders&#39; call for pacing AI development, with SoftBank, Kioxia, SK Hynix, Minimax, and Z.ai down 5%+ &lpar;Gregor Stuart Hunter/Reuters&rpar;](https://www.techmeme.com/260914/p2#a260914p2)
- - [Sam Altman says &quot;we welcome a federal framework&quot; but &quot;do not believe we need to wait&quot; for an antitrust exemption or a law to pace AI development responsibly &lpar;Sam Altman/@sama&rpar;](https://www.techmeme.com/260914/p1#a260914p1)
- - [Document: Samsung and SK Hynix rejected KEPCO&#39;s proposal to prepay ~$18.7B of chip cluster power bills, citing uncertainty over long-term chip demand &lpar;Reuters&rpar;](https://www.techmeme.com/260913/p19#a260913p19)
- - [Sources: SoftBank sealed a two-year loan facility to support its OpenAI investment, securing $11.87B in commitments from ~20 banks, above its $10B target &lpar;Janice Huang/Bloomberg&rpar;](https://www.techmeme.com/260913/p18#a260913p18)
- - [Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &lpar;Washington Post&rpar;](https://www.techmeme.com/260913/p17#a260913p17)<!-- TECH:END -->
+ - [China&#39;s Foreign Ministry criticizes warnings about AI risks, saying &quot;fearmongering, confrontation, and vicious competition ... serve the interests of no one&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260914/p9#a260914p9)
+ - [Roborock Qrevo 2 Review &lpar;2026&rpar;: A New Budget Vacuum King?](https://www.wired.com/review/roborock-qrevo-2-pro/)
+ - [In its first statement on AI, China&#39;s Ministry of State Security warns AI poses risks to the nation&#39;s political and social security, including cyber defenses &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260914/p8#a260914p8)
+ - [Z.ai says it plans to raise $5B+ via equity and debt to fund its AI investments, including ~$2B through a share placement, after raising $4B in July &lpar;P.R. Venkat/Wall Street Journal&rpar;](https://www.techmeme.com/260914/p7#a260914p7)
+ - [Best Noise-Canceling Earbuds &lpar;2026&rpar;: Bose, Apple, Samsung, Beats, and More](https://www.wired.com/story/best-noise-canceling-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

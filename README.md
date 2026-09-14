@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Trump met privately with Sam Altman backstage at the GOP midterm convention, where they discussed AI and its growing power, at Altman&#39;s request &lpar;MS NOW&rpar;](https://www.techmeme.com/260914/p35#a260914p35)
- - [Apple standing its ground in Epic&#39;s App Store fee suit](https://appleinsider.com/articles/26/09/14/apple-standing-its-ground-in-epics-app-store-fee-suit?utm_source=rss)
- - [Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)
- - [Valve&amp;#8217;s virtual reality plans hit actual reality](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)
- - [It&#39;s not clear why Elon Musk&#39;s has filed to dismiss App Store favoritism suit](https://appleinsider.com/articles/26/09/14/elon-musks-x-corp-files-to-dismiss-app-store-favoritism-case?utm_source=rss)<!-- TECH:END -->
+ - [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
+ - [London-based Jack &amp; Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260914/p39#a260914p39)
+ - [Apple Could Be Working on Multiple Foldable Phones, Report Predicts](https://www.cnet.com/tech/mobile/apple-could-be-working-on-multiple-foldable-phones-report-predicts/)
+ - [Apple Home’s new security camera features cost up to $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)
+ - [Siri AI Will Have Deep Integration With ChatGPT and Claude Models, Leaked Build Shows](https://www.cnet.com/tech/services-and-software/siri-ai-will-have-deep-integration-with-chatgpt-and-claude-models-leaked-build-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

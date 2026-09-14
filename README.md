@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
+ - 😝 [Agree?](http://9gag.com/gag/aYQz4PO)
  - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 💣 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)
+ - 💣 [Agree?](http://9gag.com/gag/aYQz4PO)
  - 😝 [Computer science guys, which OS you use on your desktop?](http://9gag.com/gag/avybGm5)
- - 👉 [Would you date a woman taller than you](http://9gag.com/gag/aYQzxW0)<!-- MEMES:END -->
+ - 👉 [Crack Amico - Cool Guy &lpar;Tom Segura Diss Track&rpar;](https://www.reddit.com/r/funny/comments/1wgeyxt/crack_amico_cool_guy_tom_segura_diss_track/)<!-- MEMES:END -->
 
 ---
 

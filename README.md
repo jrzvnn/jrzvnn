@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Foreign Ministry criticizes warnings about AI risks, saying &quot;fearmongering, confrontation, and vicious competition ... serve the interests of no one&quot; &lpar;Bloomberg&rpar;](https://www.techmeme.com/260914/p9#a260914p9)
- - [Roborock Qrevo 2 Review &lpar;2026&rpar;: A New Budget Vacuum King?](https://www.wired.com/review/roborock-qrevo-2-pro/)
- - [In its first statement on AI, China&#39;s Ministry of State Security warns AI poses risks to the nation&#39;s political and social security, including cyber defenses &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/260914/p8#a260914p8)
- - [Z.ai says it plans to raise $5B+ via equity and debt to fund its AI investments, including ~$2B through a share placement, after raising $4B in July &lpar;P.R. Venkat/Wall Street Journal&rpar;](https://www.techmeme.com/260914/p7#a260914p7)
- - [Best Noise-Canceling Earbuds &lpar;2026&rpar;: Bose, Apple, Samsung, Beats, and More](https://www.wired.com/story/best-noise-canceling-earbuds/)<!-- TECH:END -->
+ - [Internal OpenAI docs detail contractors evaluating anonymized prompts and chats to improve the models; model training is turned on by default for consumer plans &lpar;Joseph Cox/404 Media&rpar;](https://www.techmeme.com/260914/p26#a260914p26)
+ - [Stockholm-based Tandem Health, which offers clinicians an AI copilot that generates medical notes during patient consultations, raised a $100M Series B &lpar;John Reynolds/Tech.eu&rpar;](https://www.techmeme.com/260914/p25#a260914p25)
+ - [If you let it, Apple Intelligence will train itself on your data in iOS 27](https://appleinsider.com/articles/26/09/14/apple-has-altered-course-on-using-customer-data-to-train-its-ai?utm_source=rss)
+ - [Nvidia and Booz Allen Hamilton restrict their use of Fable due to a lack of ZDR assurances; source: Palantir hasn&#39;t made Fable available via its own software &lpar;The Information&rpar;](https://www.techmeme.com/260914/p24#a260914p24)
+ - [Riyadh-based BNPL company Tabby raised a $233M Series F led by Blue Pool Capital at a $6.5B valuation, up from $4.5B in October 2025 after a share sale &lpar;Federico Maccioni/Reuters&rpar;](https://www.techmeme.com/260914/p23#a260914p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

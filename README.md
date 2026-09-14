@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic told investors it will be profitable for a second straight quarter, with 80%+ gross margins before partner revenue sharing and training costs &lpar;Financial Times&rpar;](https://www.techmeme.com/260913/p14#a260913p14)
- - [Satya Nadella says &quot;we welcome&quot; the &quot;deliberate pacing needed to get alignment right&quot;, and announces a &quot;Code of Conduct&quot; for Microsoft&#39;s MAI models &lpar;Satya Nadella/@satyanadella&rpar;](https://www.techmeme.com/260913/p13#a260913p13)
- - [Sources: Anthropic, OpenAI, and Google have held working group meetings since July to discuss creating an industry-led standards body for AI &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/260913/p12#a260913p12)
- - [Overwatch Season 5 Will Add a New Kind of Support, Try to Solve 2 Roster Headaches](https://www.cnet.com/tech/gaming/overwatch-season-5-doctrine-sombra-roadhog-reworks-2/)
- - [Sunday Reboot: Apple Event&#39;s static structure and Ternus exists](https://appleinsider.com/articles/26/09/13/sunday-reboot-apple-events-static-structure-and-ternus-exists?utm_source=rss)<!-- TECH:END -->
+ - [AI-connected Asian stocks fell sharply after US tech leaders&#39; call for pacing AI development, with SoftBank, Kioxia, SK Hynix, Minimax, and Z.ai down 5%+ &lpar;Gregor Stuart Hunter/Reuters&rpar;](https://www.techmeme.com/260914/p2#a260914p2)
+ - [Sam Altman says &quot;we welcome a federal framework&quot; but &quot;do not believe we need to wait&quot; for an antitrust exemption or a law to pace AI development responsibly &lpar;Sam Altman/@sama&rpar;](https://www.techmeme.com/260914/p1#a260914p1)
+ - [Document: Samsung and SK Hynix rejected KEPCO&#39;s proposal to prepay ~$18.7B of chip cluster power bills, citing uncertainty over long-term chip demand &lpar;Reuters&rpar;](https://www.techmeme.com/260913/p19#a260913p19)
+ - [Sources: SoftBank sealed a two-year loan facility to support its OpenAI investment, securing $11.87B in commitments from ~20 banks, above its $10B target &lpar;Janice Huang/Bloomberg&rpar;](https://www.techmeme.com/260913/p18#a260913p18)
+ - [Current and former officials: the US NSA plans major restructuring to form five new units for AI, China, cybersecurity, warfighting, and global intelligence &lpar;Washington Post&rpar;](https://www.techmeme.com/260913/p17#a260913p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

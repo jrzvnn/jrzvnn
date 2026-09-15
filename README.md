@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 &lpar;Dylan Tokar/Wall Street Journal&rpar;](https://www.techmeme.com/260915/p44#a260915p44)
- - [The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry&#39;s push for a comprehensive market structure framework &lpar;CNBC&rpar;](https://www.techmeme.com/260915/p43#a260915p43)
- - [macOS 27 kills Time Capsule backups, but NAS hosts still work](https://appleinsider.com/articles/26/09/15/macos-27-kills-time-capsule-backups-but-nas-hosts-still-work?utm_source=rss)
- - [CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260915/p42#a260915p42)
- - [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale)<!-- TECH:END -->
+ - [TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260915/p51#a260915p51)
+ - [Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260915/p50#a260915p50)
+ - [At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US &lpar;Matt Bracken/FedScoop&rpar;](https://www.techmeme.com/260915/p49#a260915p49)
+ - [Samsung Is Fast-Tracking Galaxy Z TriFold 2 After iPhone Duo Reveal, According to Leaks](https://www.cnet.com/tech/mobile/samsung-is-fast-tracking-galaxy-z-trifold-2-after-iphone-duo-reveal-according-to-leaks/)
+ - [$10.8K M5 Ultra Mac Studio benchmark shows a 6x increase in multi-core compute since M1](https://appleinsider.com/articles/26/09/15/108k-m5-ultra-mac-studio-benchmark-shows-a-6x-increase-in-multi-core-compute-since-m1?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

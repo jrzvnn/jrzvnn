@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UMG sues DistroKid, alleging it distributes AI-generated music masquerading as artist-backed releases and knowingly &quot;proliferates&quot; copyright-infringing tracks &lpar;Tim Ingham/Music Business Worldwide&rpar;](https://www.techmeme.com/260915/p38#a260915p38)
- - [Yamaha Upgrades Its Smallest Soundbar With Dolby Atmos Support](https://www.cnet.com/tech/home-entertainment/yamaha-upgrades-smallest-soundbar-with-dolby-atmos-support/)
- - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
- - [Factory, whose AI coding agents, called Droids, switch between models depending on a task&#39;s complexity, raised $200M at a $5B valuation, up from $1.5B in April &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/260915/p37#a260915p37)
- - [Sources: Palmer Luckey-backed Erebor Bank ended its free stablecoin-to-cash redemption offer after trading firms like Wintermute exploited it for arbitrage &lpar;The Information&rpar;](https://www.techmeme.com/260915/p36#a260915p36)<!-- TECH:END -->
+ - [Crypto exchange CoinEx says it is closing, citing a lengthy downturn and rising compliance costs; a report said it moved $3B+ for Iran-linked wallets since 2019 &lpar;Dylan Tokar/Wall Street Journal&rpar;](https://www.techmeme.com/260915/p44#a260915p44)
+ - [The Senate fails to advance the Clarity Act, dealing a major blow to the crypto industry&#39;s push for a comprehensive market structure framework &lpar;CNBC&rpar;](https://www.techmeme.com/260915/p43#a260915p43)
+ - [macOS 27 kills Time Capsule backups, but NAS hosts still work](https://appleinsider.com/articles/26/09/15/macos-27-kills-time-capsule-backups-but-nas-hosts-still-work?utm_source=rss)
+ - [CADDi, which sells AI tools to help manufacturers organize engineering and production data, raised a $114M Series D at a $1.2B valuation, up from $470M in 2025 &lpar;Jeremy Kahn/Fortune&rpar;](https://www.techmeme.com/260915/p42#a260915p42)
+ - [Kia’s electric van lineup is getting more interesting with reveal of PV7](https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

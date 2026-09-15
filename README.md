@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybersecurity stocks were the top performers in the S&amp;P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260914/p42#a260914p42)
- - [Vera Rubin NVL72 inference tests show up to 7x better token throughput per MW vs. Blackwell on a 1.6T DeepSeek model, above Huang&#39;s 3x claim for 1T-3T LLMs &lpar;Bryan Shan/SemiAnalysis&rpar;](https://www.techmeme.com/260914/p41#a260914p41)
- - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
- - [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)
- - [Apple&#39;s H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260914/p40#a260914p40)<!-- TECH:END -->
+ - [Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260915/p2#a260915p2)
+ - [Rome-based Exein, which offers cybersecurity tools for connected devices including cars and home routers, raised $270M led by Headline at a $1.7B valuation &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260915/p1#a260915p1)
+ - [OpenAI researcher: top models are becoming so situationally aware humans &quot;are losing the ability to evaluate them&quot; while humans rely more on AI to lead research &lpar;Daniel Kokotajlo/@dkokotajlo&rpar;](https://www.techmeme.com/260914/p45#a260914p45)
+ - [A look at iLands, a company that&#39;s like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 &lpar;Ernie Smith/Tedium&rpar;](https://www.techmeme.com/260914/p44#a260914p44)
+ - [Thoughts on AI labs&#39; safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260914/p43#a260914p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

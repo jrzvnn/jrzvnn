@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
- - [London-based Jack &amp; Jill, which offers Jack, an AI agent for job seekers, and Jill, an agent for companies, raised a $40M Series A, after raising $20M in 2025 &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260914/p39#a260914p39)
- - [Apple Could Be Working on Multiple Foldable Phones, Report Predicts](https://www.cnet.com/tech/mobile/apple-could-be-working-on-multiple-foldable-phones-report-predicts/)
- - [Apple Home’s new security camera features cost up to $60 a month](https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription)
- - [Siri AI Will Have Deep Integration With ChatGPT and Claude Models, Leaked Build Shows](https://www.cnet.com/tech/services-and-software/siri-ai-will-have-deep-integration-with-chatgpt-and-claude-models-leaked-build-shows/)<!-- TECH:END -->
+ - [Cybersecurity stocks were the top performers in the S&amp;P 500 on Monday amid escalating AI fears; CrowdStrike rose 14%, Palo Alto Networks 13%, and Fortinet 9% &lpar;Britney Nguyen/MarketWatch&rpar;](https://www.techmeme.com/260914/p42#a260914p42)
+ - [Vera Rubin NVL72 inference tests show up to 7x better token throughput per MW vs. Blackwell on a 1.6T DeepSeek model, above Huang&#39;s 3x claim for 1T-3T LLMs &lpar;Bryan Shan/SemiAnalysis&rpar;](https://www.techmeme.com/260914/p41#a260914p41)
+ - [The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms](https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/)
+ - [Valve is still figuring out ‘how and when’ to do Steam Deck 2](https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when)
+ - [Apple&#39;s H1 2027 plans reportedly include an iPhone 18e, A20 iPhone 18, A20 Pro iPhone Air 2, OLED iPad Air, A19 Pro MacBook Neo, and M6 MacBook Air &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260914/p40#a260914p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

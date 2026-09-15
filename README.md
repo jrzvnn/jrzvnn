@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tokyo-based memory maker Kioxia is considering raising $10B+ through a 2027 US ADR listing as it seeks liquidity after billions in share buybacks &lpar;Bloomberg&rpar;](https://www.techmeme.com/260915/p2#a260915p2)
- - [Rome-based Exein, which offers cybersecurity tools for connected devices including cars and home routers, raised $270M led by Headline at a $1.7B valuation &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260915/p1#a260915p1)
- - [OpenAI researcher: top models are becoming so situationally aware humans &quot;are losing the ability to evaluate them&quot; while humans rely more on AI to lead research &lpar;Daniel Kokotajlo/@dkokotajlo&rpar;](https://www.techmeme.com/260914/p45#a260914p45)
- - [A look at iLands, a company that&#39;s like Fiverr for agents, which email annoying and unsolicited pitches to people, usually for services costing ~$25 &lpar;Ernie Smith/Tedium&rpar;](https://www.techmeme.com/260914/p44#a260914p44)
- - [Thoughts on AI labs&#39; safety concerns: a coordinated slowdown may look like an antitrust conspiracy to limit output that would preserve frontier model margins &lpar;Matt Levine/Bloomberg&rpar;](https://www.techmeme.com/260914/p43#a260914p43)<!-- TECH:END -->
+ - [Apple faces India repair probe over a lack of software warranties](https://appleinsider.com/articles/26/09/15/apple-faces-india-repair-probe-over-a-lack-of-software-warranties?utm_source=rss)
+ - [Agility unveils Digit 5, a humanoid robot to safely work alongside humans without physical barriers by utilizing AI collision-avoidance software and new sensors &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260915/p16#a260915p16)
+ - [Apple Watch Ultra 4 vs. Apple Watch Ultra 3: Apple&#39;s premium smartwatch](https://appleinsider.com/articles/26/09/15/apple-watch-ultra-4-vs-apple-watch-ultra-3-apples-premium-smartwatch?utm_source=rss)
+ - [HTC Vive Eagle smart glasses review: useful controls, lightweight, and focused on privacy, but inessential, expensive at $499+, and imaging needs to improve &lpar;Daniel Cooper/Engadget&rpar;](https://www.techmeme.com/260915/p15#a260915p15)
+ - [Grab agrees to acquire a 60% stake in Singapore-based BNPL platform Atome from Advance Intelligence Group and others for $1.49B; Atome had $470M in 2025 revenue &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260915/p14#a260915p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

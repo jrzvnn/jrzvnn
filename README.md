@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Timeless classic](http://9gag.com/gag/aYQz4n7)
+ - 😝 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
  - 😝 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
- - 💣 [You can&#39;t squat for sheit](http://9gag.com/gag/a7ojMXz)
- - 😝 [A man hired several Latin American workers to build a fence around his property, but after the job was finished, he called ICE, hoping to avoid paying them. But, the workers\u2019 documents turned out to be in order. they returned to the client and dismantled fence they had built](http://9gag.com/gag/aO86rPM)
- - 👉 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)<!-- MEMES:END -->
+ - 💣 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
+ - 😝 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
+ - 👉 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)<!-- MEMES:END -->
 
 ---
 

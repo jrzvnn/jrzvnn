@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces India repair probe over a lack of software warranties](https://appleinsider.com/articles/26/09/15/apple-faces-india-repair-probe-over-a-lack-of-software-warranties?utm_source=rss)
- - [Agility unveils Digit 5, a humanoid robot to safely work alongside humans without physical barriers by utilizing AI collision-avoidance software and new sensors &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/260915/p16#a260915p16)
- - [Apple Watch Ultra 4 vs. Apple Watch Ultra 3: Apple&#39;s premium smartwatch](https://appleinsider.com/articles/26/09/15/apple-watch-ultra-4-vs-apple-watch-ultra-3-apples-premium-smartwatch?utm_source=rss)
- - [HTC Vive Eagle smart glasses review: useful controls, lightweight, and focused on privacy, but inessential, expensive at $499+, and imaging needs to improve &lpar;Daniel Cooper/Engadget&rpar;](https://www.techmeme.com/260915/p15#a260915p15)
- - [Grab agrees to acquire a 60% stake in Singapore-based BNPL platform Atome from Advance Intelligence Group and others for $1.49B; Atome had $470M in 2025 revenue &lpar;Olivia Poh/Bloomberg&rpar;](https://www.techmeme.com/260915/p14#a260915p14)<!-- TECH:END -->
+ - [UMG sues DistroKid, alleging it distributes AI-generated music masquerading as artist-backed releases and knowingly &quot;proliferates&quot; copyright-infringing tracks &lpar;Tim Ingham/Music Business Worldwide&rpar;](https://www.techmeme.com/260915/p38#a260915p38)
+ - [Yamaha Upgrades Its Smallest Soundbar With Dolby Atmos Support](https://www.cnet.com/tech/home-entertainment/yamaha-upgrades-smallest-soundbar-with-dolby-atmos-support/)
+ - [How The Oregon Trail became a generational icon](https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon)
+ - [Factory, whose AI coding agents, called Droids, switch between models depending on a task&#39;s complexity, raised $200M at a $5B valuation, up from $1.5B in April &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](https://www.techmeme.com/260915/p37#a260915p37)
+ - [Sources: Palmer Luckey-backed Erebor Bank ended its free stablecoin-to-cash redemption offer after trading firms like Wintermute exploited it for arbitrage &lpar;The Information&rpar;](https://www.techmeme.com/260915/p36#a260915p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

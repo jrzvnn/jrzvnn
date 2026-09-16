@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TypeSafe AI, which is developing a model that outputs numerical responses with probability estimates to help businesses assess reliability, raised a $40M seed &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/260915/p51#a260915p51)
- - [Sources: OpenAI has held early conversations with investors about raising another private funding round at a $1.2T valuation before its planned IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/260915/p50#a260915p50)
- - [At a US House hearing, Treasury Secretary Scott Bessent said AI labs should get no liability exemptions and called for more open-source models built in the US &lpar;Matt Bracken/FedScoop&rpar;](https://www.techmeme.com/260915/p49#a260915p49)
- - [Samsung Is Fast-Tracking Galaxy Z TriFold 2 After iPhone Duo Reveal, According to Leaks](https://www.cnet.com/tech/mobile/samsung-is-fast-tracking-galaxy-z-trifold-2-after-iphone-duo-reveal-according-to-leaks/)
- - [$10.8K M5 Ultra Mac Studio benchmark shows a 6x increase in multi-core compute since M1](https://appleinsider.com/articles/26/09/15/108k-m5-ultra-mac-studio-benchmark-shows-a-6x-increase-in-multi-core-compute-since-m1?utm_source=rss)<!-- TECH:END -->
+ - [Zuckerberg says &quot;Meta delayed shipping Muse for several months to focus on safety and security&quot; and didn&#39;t call on other AI labs to do the same before acting &lpar;Tom Giles/Bloomberg&rpar;](https://www.techmeme.com/260915/p56#a260915p56)
+ - [Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p55#a260915p55)
+ - [Today’s NYT Strands Hints, Answers and Help for Sept. 16, #927](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-927-2/)
+ - [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)
+ - [Q&amp;A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p54#a260915p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

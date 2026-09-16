@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260916/p2#a260916p2)
- - [Chegg Coupon Codes September 2026: Save on Study, Textbooks, &amp; More](https://www.wired.com/story/chegg-coupon-code/)
- - [Rover Promo Codes and Referral Deals for 2026](https://www.wired.com/story/rover-promo-code/)
- - [Walmart Promo Codes: 20% Off for September 2026](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Sam&#39;s Club Promo Codes and Membership Deals for September 2026](https://www.wired.com/story/sams-club-coupon/)<!-- TECH:END -->
+ - [This $26 Sliding Pizza Peel Promises to Improve Your Launches, but Does It?](https://www.cnet.com/home/yard-and-outdoors/sliding-peel-promises-to-improve-your-pizza/)
+ - [EU Commission President Ursula von der Leyen calls AI &quot;the second tipping point of our times&quot;, alongside climate change, and says its risks must be &quot;addressed&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260916/p10#a260916p10)
+ - [Boox Launches the Palma 3 E-Reader](https://www.wired.com/story/boox-palma-3-announced/)
+ - [China Isn’t Buying Silicon Valley’s Call for an AI Slowdown](https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/)
+ - [Why It Seems Like Great White Sharks Are Overrunning Maine](https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

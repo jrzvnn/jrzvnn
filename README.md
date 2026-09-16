@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lovly](http://9gag.com/gag/aE0e25n)
  - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 💣 [Lovly](http://9gag.com/gag/aE0e25n)
  - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 👉 [Lovly](http://9gag.com/gag/aE0e25n)<!-- MEMES:END -->
+ - 💣 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 👉 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is testing Sponsored Agents, which let users chat with business-sponsored agents and visit advertiser websites via ChatGPT ads, with some US advertisers &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260916/p30#a260916p30)
- - [The sexy AI-powered dating app scams are here](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams)
- - [Xreal’s well-rounded 1S glasses are back down to their lowest price](https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale)
- - [Amazon says it is raising its minimum hourly pay for eligible full-time US operations workers by $1, taking it to $20 per hour, and gives them new banking tools &lpar;Reuters&rpar;](https://www.techmeme.com/260916/p29#a260916p29)
- - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
+ - [The Best Movies to Stream This Month &lpar;September 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+ - [New in iOS 27.2 beta: redesigned Health app, Siri AI localization, more](https://appleinsider.com/articles/26/09/16/new-in-ios-272-beta-redesigned-health-app-siri-ai-localization-more?utm_source=rss)
+ - [First developer betas of iOS 27.2, macOS 27.2 are out for testing](https://appleinsider.com/articles/26/09/16/first-developer-betas-of-ios-272-macos-272-are-out-for-testing?utm_source=rss)
+ - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
+ - [Apple’s Health App Hits Developer Beta. I Got the Inside Scoop From Apple’s VP of Health and Fitness](https://www.cnet.com/health/apple-health-app-hits-developer-beta-inside-scoop-apple-vp-health/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

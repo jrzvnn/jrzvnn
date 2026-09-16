@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 😝 [Snake? Snake!!!!!!](http://9gag.com/gag/aD2BxvK)
+ - 😝 [First date, nervous heart, awkward smiles, unforgettable night.](http://9gag.com/gag/aVvG37P)
+ - 😝 [You don&#39;t even have to do anything](http://9gag.com/gag/a2vQZV1)
  - 💣 [Timeless classic](http://9gag.com/gag/aYQz4n7)
- - 😝 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 👉 [Snake? Snake!!!!!!](http://9gag.com/gag/aD2BxvK)<!-- MEMES:END -->
+ - 😝 [First date, nervous heart, awkward smiles, unforgettable night.](http://9gag.com/gag/aVvG37P)
+ - 👉 [You don&#39;t even have to do anything](http://9gag.com/gag/a2vQZV1)<!-- MEMES:END -->
 
 ---
 

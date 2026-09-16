@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Movies to Stream This Month &lpar;September 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
- - [New in iOS 27.2 beta: redesigned Health app, Siri AI localization, more](https://appleinsider.com/articles/26/09/16/new-in-ios-272-beta-redesigned-health-app-siri-ai-localization-more?utm_source=rss)
- - [First developer betas of iOS 27.2, macOS 27.2 are out for testing](https://appleinsider.com/articles/26/09/16/first-developer-betas-of-ios-272-macos-272-are-out-for-testing?utm_source=rss)
- - [Apple might make servers again to cash in on the AI rush](https://www.theverge.com/tech/996321/apple-servers-ai-nvidia)
- - [Apple’s Health App Hits Developer Beta. I Got the Inside Scoop From Apple’s VP of Health and Fitness](https://www.cnet.com/health/apple-health-app-hits-developer-beta-inside-scoop-apple-vp-health/)<!-- TECH:END -->
+ - [X adds a &quot;Trade&quot; option to its Cashtag feature, letting US users complete trades at brokerages including Interactive Brokers, Gemini, Kraken, and Coinbase &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260916/p44#a260916p44)
+ - [Washington Won&#39;t Be Regulating AI Anytime Soon](https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/)
+ - [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
+ - [Apple Says iPhone Duo Will Run iOS 27.1 at Launch in October](https://www.cnet.com/tech/services-and-software/apple-says-iphone-duo-will-run-ios-27-1-at-october-launch/)
+ - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

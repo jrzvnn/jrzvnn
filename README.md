@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X adds a &quot;Trade&quot; option to its Cashtag feature, letting US users complete trades at brokerages including Interactive Brokers, Gemini, Kraken, and Coinbase &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/260916/p44#a260916p44)
- - [Washington Won&#39;t Be Regulating AI Anytime Soon](https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/)
- - [The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long](https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review)
- - [Apple Says iPhone Duo Will Run iOS 27.1 at Launch in October](https://www.cnet.com/tech/services-and-software/apple-says-iphone-duo-will-run-ios-27-1-at-october-launch/)
- - [The AI data center e-waste problem is huge — and getting bigger](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)<!-- TECH:END -->
+ - [Meet Dyson&#39;s New Robot Vacuum Line: The Dyson Nurovi Line &lpar;2026&rpar;](https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/)
+ - [Here’s What Snap’s Expensive Specs Can Actually Do](https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/)
+ - [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
+ - [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
+ - [The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260916/p49#a260916p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

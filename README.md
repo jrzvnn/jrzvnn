@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg says &quot;Meta delayed shipping Muse for several months to focus on safety and security&quot; and didn&#39;t call on other AI labs to do the same before acting &lpar;Tom Giles/Bloomberg&rpar;](https://www.techmeme.com/260915/p56#a260915p56)
- - [Democrats and Republicans proposed many bills to address major AI threats over the past two years, but they remain stymied by partisan disputes and lobbying &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p55#a260915p55)
- - [Today’s NYT Strands Hints, Answers and Help for Sept. 16, #927](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-927-2/)
- - [AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)
- - [Q&amp;A with Matt Sheehan, a senior fellow at the Carnegie Endowment for International Peace, on US-China AI race, distillation, US chip export controls, and more &lpar;New York Times&rpar;](https://www.techmeme.com/260915/p54#a260915p54)<!-- TECH:END -->
+ - [Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T &lpar;Sri Muppidi/New York Times&rpar;](https://www.techmeme.com/260916/p2#a260916p2)
+ - [Chegg Coupon Codes September 2026: Save on Study, Textbooks, &amp; More](https://www.wired.com/story/chegg-coupon-code/)
+ - [Rover Promo Codes and Referral Deals for 2026](https://www.wired.com/story/rover-promo-code/)
+ - [Walmart Promo Codes: 20% Off for September 2026](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Sam&#39;s Club Promo Codes and Membership Deals for September 2026](https://www.wired.com/story/sams-club-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

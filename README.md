@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $26 Sliding Pizza Peel Promises to Improve Your Launches, but Does It?](https://www.cnet.com/home/yard-and-outdoors/sliding-peel-promises-to-improve-your-pizza/)
- - [EU Commission President Ursula von der Leyen calls AI &quot;the second tipping point of our times&quot;, alongside climate change, and says its risks must be &quot;addressed&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260916/p10#a260916p10)
- - [Boox Launches the Palma 3 E-Reader](https://www.wired.com/story/boox-palma-3-announced/)
- - [China Isn’t Buying Silicon Valley’s Call for an AI Slowdown](https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/)
- - [Why It Seems Like Great White Sharks Are Overrunning Maine](https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/)<!-- TECH:END -->
+ - [OpenAI is testing Sponsored Agents, which let users chat with business-sponsored agents and visit advertiser websites via ChatGPT ads, with some US advertisers &lpar;Anzar Mehraj/Reuters&rpar;](https://www.techmeme.com/260916/p30#a260916p30)
+ - [The sexy AI-powered dating app scams are here](https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams)
+ - [Xreal’s well-rounded 1S glasses are back down to their lowest price](https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale)
+ - [Amazon says it is raising its minimum hourly pay for eligible full-time US operations workers by $1, taking it to $20 per hour, and gives them new banking tools &lpar;Reuters&rpar;](https://www.techmeme.com/260916/p29#a260916p29)
+ - [M6 Mac mini vs M4 Mac mini: Compact powerhouses compared](https://appleinsider.com/inside/mac-mini/vs/m6-mac-mini-vs-m4-mac-mini-compact-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

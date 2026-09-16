@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This sounds like a 90’s sitcom](https://www.reddit.com/r/funny/comments/1whi5rh/this_sounds_like_a_90s_sitcom/)
  - 😝 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 😝 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
- - 💣 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
- - 😝 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
- - 👉 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)<!-- MEMES:END -->
+ - 💣 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)
+ - 😝 [The number of casualties in World War II according to a museum. Is it correct?](http://9gag.com/gag/a9y3pdD)
+ - 👉 [Would you date a woman who voted for Trump](http://9gag.com/gag/aoyBNX3)<!-- MEMES:END -->
 
 ---
 

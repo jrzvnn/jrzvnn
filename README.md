@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYT court filing: ChatGPT&#39;s head wrote that publishers face an &quot;existential threat&quot; and a Microsoft executive called AI training &quot;an astonishing theft&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p36#a260917p36)
- - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
- - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
- - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
- - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)<!-- TECH:END -->
+ - [Here’s What the AI Apocalypse Could Look Like](https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/)
+ - [iPhone 18 Pro vs. Pixel 11 Pro: The New Apple and Google Pro Phones Are Quite Different](https://www.cnet.com/tech/mobile/iphone-18-pro-vs-pixel-11-pro-the-new-apple-and-google-pro-phones-are-quite-different/)
+ - [Anthropic redesigns Claude projects, letting users describe work in one conversation and have Claude manage it across parallel threads, starting in Claude Code &lpar;Claude&rpar;](https://www.techmeme.com/260917/p40#a260917p40)
+ - [I Used AI to Animate Old Family Photos. One Was Creepy, but the Other Was Heartwarming](https://www.cnet.com/tech/services-and-software/ai-animate-old-family-photos/)
+ - [Finally, You Can Paint Your Kitchen to Match Your Slow Cooker](https://www.cnet.com/home/kitchen-and-household/slow-cooker-kitchen-crock-pot-fall-colors-valspar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

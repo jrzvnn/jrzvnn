@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sydney is sexy but not beautiful](http://9gag.com/gag/awyqMQy)
  - 😝 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
- - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 💣 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
- - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 👉 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)<!-- MEMES:END -->
+ - 💣 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 😝 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
+ - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 ---
 

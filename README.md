@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember, remember, the fifth of November](http://9gag.com/gag/aAyng82)
- - 😝 [The future of gaming.](http://9gag.com/gag/aYQz702)
- - 💣 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 😝 [Remember, remember, the fifth of November](http://9gag.com/gag/aAyng82)
- - 👉 [The future of gaming.](http://9gag.com/gag/aYQz702)<!-- MEMES:END -->
+ - 😝 [Look like he&#39;s late](https://www.reddit.com/r/funny/comments/1wis582/look_like_hes_late/)
+ - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 💣 [Danish hardware store has got your needs covered](https://www.reddit.com/r/funny/comments/1wis35h/danish_hardware_store_has_got_your_needs_covered/)
+ - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 ---
 

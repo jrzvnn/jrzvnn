@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p10#a260917p10)
- - [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models &lpar;Yael Grauer/The Verge&rpar;](https://www.techmeme.com/260917/p9#a260917p9)
- - [PitchBook: companies developing brain-computer interfaces have already raised more than $1B in 2026, compared with $1.56B in the previous four years combined &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p8#a260917p8)
- - [Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems &lpar;Reuters&rpar;](https://www.techmeme.com/260917/p7#a260917p7)
- - [Google, Nvidia, and Emerald AI launch the AI Energy Management Alliance to advance data centers that dynamically adjust electricity use based on grid conditions &lpar;Amy Harder/Axios&rpar;](https://www.techmeme.com/260917/p6#a260917p6)<!-- TECH:END -->
+ - [Apple Watch Series 12 Review: Finally, a Readiness Score &lpar;2026&rpar;](https://www.wired.com/review/apple-watch-series-12/)
+ - [DoorDash says Costco members can order same-day delivery from every US Costco warehouse, after Uber expanded its delivery partnership from 17 to 47 US states &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p22#a260917p22)
+ - [What’s the Best iPhone to Buy or Avoid Right Now? &lpar;2026&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [3 iPhone 18 Pro Upgrades That Will Make My Life as a Frequent Traveler Easier](https://www.cnet.com/tech/mobile/3-iphone-18-pro-upgrades-that-will-make-my-life-as-a-frequent-traveler-easier/)
+ - [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

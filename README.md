@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 12 Review: Finally, a Readiness Score &lpar;2026&rpar;](https://www.wired.com/review/apple-watch-series-12/)
- - [DoorDash says Costco members can order same-day delivery from every US Costco warehouse, after Uber expanded its delivery partnership from 17 to 47 US states &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p22#a260917p22)
- - [What’s the Best iPhone to Buy or Avoid Right Now? &lpar;2026&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
- - [3 iPhone 18 Pro Upgrades That Will Make My Life as a Frequent Traveler Easier](https://www.cnet.com/tech/mobile/3-iphone-18-pro-upgrades-that-will-make-my-life-as-a-frequent-traveler-easier/)
- - [The Apple Watch Series 12 is the start of a new wearable era](https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch)<!-- TECH:END -->
+ - [Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260917/p33#a260917p33)
+ - [Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260917/p32#a260917p32)
+ - [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad)
+ - [Apple Watch Series 12 and Apple Watch Ultra 4 reviewers praise health upgrades](https://appleinsider.com/articles/26/09/17/apple-watch-series-12-and-apple-watch-ultra-4-reviewers-praise-health-upgrades?utm_source=rss)
+ - [Sources: the White House&#39;s Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p31#a260917p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

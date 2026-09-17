@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 😝 [The future of gaming.](http://9gag.com/gag/aYQz702)
  - 💣 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 😝 [The future of gaming.](http://9gag.com/gag/aYQz702)
  - 👉 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)<!-- MEMES:END -->
 
 ---

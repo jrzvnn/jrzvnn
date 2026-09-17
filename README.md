@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet Dyson&#39;s New Robot Vacuum Line: The Dyson Nurovi Line &lpar;2026&rpar;](https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/)
- - [Here’s What Snap’s Expensive Specs Can Actually Do](https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/)
- - [Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac](https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac)
- - [I wore Snap’s $2,200 smart glasses](https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses)
- - [The US House advances the Ratepayer Protection Act, aimed at preventing data center-related utility costs from being passed on to consumers, by a vote of 417-3 &lpar;Justin Papp/CNBC&rpar;](https://www.techmeme.com/260916/p49#a260916p49)<!-- TECH:END -->
+ - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)
+ - [Hands-on with Snap&#39;s Specs: more advanced than Meta&#39;s top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises &lpar;Bloomberg&rpar;](https://www.techmeme.com/260916/p51#a260916p51)
+ - [Google Home Stuns by Announcing AI Support for Claude and OpenClaw](https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/)
+ - [Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an &quot;anticipatory AI service&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260916/p50#a260916p50)
+ - [Today’s NYT Connections Hints and Answers for Sept. 17, #1194](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-sept-17-1194-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

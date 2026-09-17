@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generac signs a long-term deal to supply Amazon with up to $8B worth of backup generators for data centers and grants Amazon a warrant for up to a 2.6% stake &lpar;Michelle Ma/Bloomberg&rpar;](https://www.techmeme.com/260916/p52#a260916p52)
- - [Hands-on with Snap&#39;s Specs: more advanced than Meta&#39;s top-end glasses, fully untethered, mostly comfortable, navigation works well, but design has compromises &lpar;Bloomberg&rpar;](https://www.techmeme.com/260916/p51#a260916p51)
- - [Google Home Stuns by Announcing AI Support for Claude and OpenClaw](https://www.cnet.com/tech/services-and-software/google-home-stuns-by-announcing-ai-support-for-claude-and-openclaw/)
- - [Snap introduces Specs Intelligence, an AI assistant designed to work across iPhone, Mac, and Specs glasses, calling it an &quot;anticipatory AI service&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260916/p50#a260916p50)
- - [Today’s NYT Connections Hints and Answers for Sept. 17, #1194](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-sept-17-1194-2/)<!-- TECH:END -->
+ - [A look at the rapid integration of AI into warfare, as the greater speed and scale of AI-assisted target generation processes increase the risk of errors &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p10#a260917p10)
+ - [Anthropic and other researchers detail how thousands of people were catfished by dating scam apps using LLM-generated replies from Claude and other models &lpar;Yael Grauer/The Verge&rpar;](https://www.techmeme.com/260917/p9#a260917p9)
+ - [PitchBook: companies developing brain-computer interfaces have already raised more than $1B in 2026, compared with $1.56B in the previous four years combined &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p8#a260917p8)
+ - [Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems &lpar;Reuters&rpar;](https://www.techmeme.com/260917/p7#a260917p7)
+ - [Google, Nvidia, and Emerald AI launch the AI Energy Management Alliance to advance data centers that dynamically adjust electricity use based on grid conditions &lpar;Amy Harder/Axios&rpar;](https://www.techmeme.com/260917/p6#a260917p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

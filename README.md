@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
+ - 😝 [Remember, remember, the fifth of November](http://9gag.com/gag/aAyng82)
  - 😝 [The future of gaming.](http://9gag.com/gag/aYQz702)
- - 💣 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)
- - 😝 [The future of gaming.](http://9gag.com/gag/aYQz702)
- - 👉 [Rare sighting of a billionaire with a soul](http://9gag.com/gag/ajP25B0)<!-- MEMES:END -->
+ - 💣 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 😝 [Remember, remember, the fifth of November](http://9gag.com/gag/aAyng82)
+ - 👉 [The future of gaming.](http://9gag.com/gag/aYQz702)<!-- MEMES:END -->
 
 ---
 

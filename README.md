@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX has discussed buying customer and operational information from troubled or defunct startups as a more affordable data source for AI training &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/260917/p33#a260917p33)
- - [Dutch chipmaker Nexperia announces a deal with Tata to manufacture and package chips in India, further sealing its split from Chinese parent Wingtech &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260917/p32#a260917p32)
- - [Xbox’s clever disc-to-digital feature was 15 years in the making](https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad)
- - [Apple Watch Series 12 and Apple Watch Ultra 4 reviewers praise health upgrades](https://appleinsider.com/articles/26/09/17/apple-watch-series-12-and-apple-watch-ultra-4-reviewers-praise-health-upgrades?utm_source=rss)
- - [Sources: the White House&#39;s Office of the National Cyber Director is drafting an EO to establish a government-led incubator aimed at cybersecurity research &lpar;Bloomberg&rpar;](https://www.techmeme.com/260917/p31#a260917p31)<!-- TECH:END -->
+ - [NYT court filing: ChatGPT&#39;s head wrote that publishers face an &quot;existential threat&quot; and a Microsoft executive called AI training &quot;an astonishing theft&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260917/p36#a260917p36)
+ - [The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
+ - [Customer Data Permanently Lost in Iran Strikes on Amazon Data Centers](https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/)
+ - [Claude Code relaunches Projects to manage multiple AI agents in the cloud](https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects)
+ - [The AI Slowdown Debate Crashed Salesforce’s Party](https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

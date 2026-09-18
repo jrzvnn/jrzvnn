@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercore raises AAPL price target to $380 on new iPhone demand](https://appleinsider.com/articles/26/09/18/evercore-raises-aapl-price-target-to-380-on-new-iphone-demand?utm_source=rss)
- - [Adopt This Data Center Plushie and Hear Its Piercing Scream](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)
- - [A German court says Meta is liable for fake ads posted by third parties on Instagram and Facebook and orders it to remove such content and pay damages &lpar;Linda Pasquini/Reuters&rpar;](https://www.techmeme.com/260918/p14#a260918p14)
- - [Meta’s Copyright System Is Being Weaponized Against Albanian Protesters](https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/)
- - [Child safety protesters target Apple Fifth Avenue at iPhone 18 Pro release](https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release?utm_source=rss)<!-- TECH:END -->
+ - [Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260918/p20#a260918p20)
+ - [The real story of the iPhone 18 Pro&amp;#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
+ - [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch)
+ - [iPhone Duo is Steve Jobs&#39;s intersection of technology and liberal arts, says Ternus](https://appleinsider.com/articles/26/09/18/iphone-duo-is-steve-jobss-intersection-of-technology-and-liberal-arts-says-ternus?utm_source=rss)
+ - [Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260918/p19#a260918p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

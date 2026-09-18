@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 😝 [50 caliber bullet ricochet , they are lucky to be alive and they are laughing](http://9gag.com/gag/aXP8r2g)
- - 💣 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
- - 😝 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
- - 👉 [Me thinking life is hard than I see someone who got it harder.](http://9gag.com/gag/agmRgXw)<!-- MEMES:END -->
+ - 😝 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
+ - 💣 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
+ - 😝 [Me thinking life is hard than I see someone who got it harder.](http://9gag.com/gag/agmRgXw)
+ - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
 
 ---
 

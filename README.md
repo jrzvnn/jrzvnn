@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260918/p2#a260918p2)
- - [Zoro Coupon Codes: 20% Off September 2026](https://www.wired.com/story/zoro-promo-code/)
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Dell Coupon Codes: 20% Off for September 2026](https://www.wired.com/story/dell-coupon-code/)
- - [Booking.com Promo Codes: 20% Off | September 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
+ - [Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent &lpar;Reuters&rpar;](https://www.techmeme.com/260918/p7#a260918p7)
+ - [iPhone 18 Pro review roundup: great cameras, no surprises, isn&#39;t iPhone Duo](https://appleinsider.com/articles/26/09/16/iphone-18-pro-review-roundup-great-cameras-no-surprises-isnt-iphone-duo?utm_source=rss)
+ - [Napster Is Back, and It Wants to Digitally Clone Teachers](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/)
+ - [Siri app vs. Hey Siri: how to get more from Siri AI](https://appleinsider.com/inside/siri/tips/siri-app-vs-hey-siri-how-to-get-more-from-siri-ai?utm_source=rss)
+ - [The first iPhone 18 Pro preorders are reaching customers](https://appleinsider.com/articles/26/09/18/the-first-iphone-18-pro-preorders-are-reaching-customers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

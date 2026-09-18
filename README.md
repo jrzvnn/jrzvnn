@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap](https://www.wired.com/review/apple-watch-ultra-4/)
- - [Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A &lpar;CoinDesk&rpar;](https://www.techmeme.com/260918/p24#a260918p24)
- - [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/)
- - [Apple Watch Series 12 has slightly larger bezels, stuck out Digital Crown](https://appleinsider.com/articles/26/09/18/apple-watch-series-12-has-slightly-larger-bezels-stuck-out-digital-crown?utm_source=rss)
- - [AI Firms Knew Chatbots Were an ‘Existential Threat’ to Journalists, Court Docs Show](https://www.cnet.com/tech/services-and-software/ai-firms-knew-chatbots-were-an-existential-threat-to-journalists-court-docs-show/)<!-- TECH:END -->
+ - [Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260918/p30#a260918p30)
+ - [Samsung Phone Users Can Now Sync Photos and Video to Google](https://www.cnet.com/tech/mobile/samsung-phone-users-can-now-sync-photos-and-video-to-google/)
+ - [Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260918/p29#a260918p29)
+ - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
+ - [Today’s NYT Connections Hints and Answers for Sept. 19, #1196](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-sept-19-1196/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

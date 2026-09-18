@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris prosecutors open at least one criminal probe into suspected sexual harassment involving the use of smart glasses to film women in public without consent &lpar;Reuters&rpar;](https://www.techmeme.com/260918/p7#a260918p7)
- - [iPhone 18 Pro review roundup: great cameras, no surprises, isn&#39;t iPhone Duo](https://appleinsider.com/articles/26/09/16/iphone-18-pro-review-roundup-great-cameras-no-surprises-isnt-iphone-duo?utm_source=rss)
- - [Napster Is Back, and It Wants to Digitally Clone Teachers](https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/)
- - [Siri app vs. Hey Siri: how to get more from Siri AI](https://appleinsider.com/inside/siri/tips/siri-app-vs-hey-siri-how-to-get-more-from-siri-ai?utm_source=rss)
- - [The first iPhone 18 Pro preorders are reaching customers](https://appleinsider.com/articles/26/09/18/the-first-iphone-18-pro-preorders-are-reaching-customers?utm_source=rss)<!-- TECH:END -->
+ - [Evercore raises AAPL price target to $380 on new iPhone demand](https://appleinsider.com/articles/26/09/18/evercore-raises-aapl-price-target-to-380-on-new-iphone-demand?utm_source=rss)
+ - [Adopt This Data Center Plushie and Hear Its Piercing Scream](https://www.wired.com/story/adopt-this-data-center-plushie-and-hear-its-piercing-scream/)
+ - [A German court says Meta is liable for fake ads posted by third parties on Instagram and Facebook and orders it to remove such content and pay damages &lpar;Linda Pasquini/Reuters&rpar;](https://www.techmeme.com/260918/p14#a260918p14)
+ - [Meta’s Copyright System Is Being Weaponized Against Albanian Protesters](https://www.wired.com/story/metas-copyright-system-is-being-weaponized-against-albanian-protesters/)
+ - [Child safety protesters target Apple Fifth Avenue at iPhone 18 Pro release](https://appleinsider.com/articles/26/09/18/child-safety-protesters-target-apple-fifth-avenue-at-iphone-18-pro-release?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

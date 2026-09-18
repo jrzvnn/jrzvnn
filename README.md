@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UN says it is working with Google on the UN System Data Commons, which lets users search for statistics from across UN agencies via natural-language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/260917/p42#a260917p42)
- - [Apple&#39;s &#39;Friday Night Baseball&#39; broadcast will be partially captured by iPhone 18 Pro](https://appleinsider.com/articles/26/09/17/apples-friday-night-baseball-broadcast-will-be-partially-captured-by-iphone-18-pro?utm_source=rss)
- - [Anthropic says Claude &quot;leads&quot; 26% of its AI R&amp;D work, up from 1% in March, and &quot;collaborates&quot; on 90%+, doing large chunks of work under close human direction &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260917/p41#a260917p41)
- - [Congratulations, World: A New Supercute Cat Species Has Been Found](https://www.cnet.com/home/kitchen-and-household/new-cat-species-found-leopardus-tilcayo/)
- - [A NASA Scientist Found a Huge New Crater on the Moon by Accident](https://www.cnet.com/science/nasa-found-a-new-moon-crater/)<!-- TECH:END -->
+ - [Meta launches a Mac app for Muse after releasing the AI agent on iOS, Android, and the web earlier this month, allowing it to manage files, pull from apps, more &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/260918/p2#a260918p2)
+ - [Zoro Coupon Codes: 20% Off September 2026](https://www.wired.com/story/zoro-promo-code/)
+ - [NordVPN Coupons: 75% Off, Plus 3 Months Free in September 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Dell Coupon Codes: 20% Off for September 2026](https://www.wired.com/story/dell-coupon-code/)
+ - [Booking.com Promo Codes: 20% Off | September 2026](https://www.wired.com/story/booking-com-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

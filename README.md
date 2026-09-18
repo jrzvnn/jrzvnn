@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Music and UMG sue Suno, alleging that its new model trained in partnership with WMG and BMG infringes copyright because it is based on an infringing model &lpar;Corbin Bolies/Variety&rpar;](https://www.techmeme.com/260918/p20#a260918p20)
- - [The real story of the iPhone 18 Pro&amp;#8217;s camera](https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera)
- - [Gavin Newsom is pushing for an AI kill switch](https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch)
- - [iPhone Duo is Steve Jobs&#39;s intersection of technology and liberal arts, says Ternus](https://appleinsider.com/articles/26/09/18/iphone-duo-is-steve-jobss-intersection-of-technology-and-liberal-arts-says-ternus?utm_source=rss)
- - [Google threat intelligence group details how one of its researchers infiltrated hacker group TeamPCP and helped disrupt its software supply chain hacking spree &lpar;Andy Greenberg/Wired&rpar;](https://www.techmeme.com/260918/p19#a260918p19)<!-- TECH:END -->
+ - [Apple Watch Ultra 4 Review: The Series 12 Is Closing the Gap](https://www.wired.com/review/apple-watch-ultra-4/)
+ - [Singapore-licensed dtcpay, which offers stablecoin payments across Europe, Hong Kong, Australia, and North America, raised a $25M Series A &lpar;CoinDesk&rpar;](https://www.techmeme.com/260918/p24#a260918p24)
+ - [Here’s How an AI Slowdown Could Actually Be Enforced](https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/)
+ - [Apple Watch Series 12 has slightly larger bezels, stuck out Digital Crown](https://appleinsider.com/articles/26/09/18/apple-watch-series-12-has-slightly-larger-bezels-stuck-out-digital-crown?utm_source=rss)
+ - [AI Firms Knew Chatbots Were an ‘Existential Threat’ to Journalists, Court Docs Show](https://www.cnet.com/tech/services-and-software/ai-firms-knew-chatbots-were-an-existential-threat-to-journalists-court-docs-show/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

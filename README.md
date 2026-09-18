@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic plans to stage its IPO in November, later than many investors expected; the decision was made before ex-Anthropic researcher Jacob Coxon left &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260918/p30#a260918p30)
- - [Samsung Phone Users Can Now Sync Photos and Video to Google](https://www.cnet.com/tech/mobile/samsung-phone-users-can-now-sync-photos-and-video-to-google/)
- - [Angle Health, which wants to use AI to expedite healthcare benefits for small businesses, raised $600M led by Vitruvian Partners at a $2.7B valuation &lpar;Maria Armental/Wall Street Journal&rpar;](https://www.techmeme.com/260918/p29#a260918p29)
- - [OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)
- - [Today’s NYT Connections Hints and Answers for Sept. 19, #1196](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answers-for-sept-19-1196/)<!-- TECH:END -->
+ - [Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260918/p37#a260918p37)
+ - [Meta&#39;s personal AI agent Muse climbs to No. 1 among free apps on Apple&#39;s US App Store, ahead of ChatGPT; Muse launched on September 8 &lpar;Georgia Hennessy/Business Insider&rpar;](https://www.techmeme.com/260918/p36#a260918p36)
+ - [Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p35#a260918p35)
+ - [Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p34#a260918p34)
+ - [US officials say overreliance on Palantir&#39;s Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260918/p33#a260918p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

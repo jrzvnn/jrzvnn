@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman Arrested After Husband Found Video Of Her Performing Sex Acts With Family Dog](http://9gag.com/gag/a4PM3Ov)
  - 😝 [Texas Police Department Shut Down For Failing To Provide \u2018Public Benefit\u2019\u00a0](http://9gag.com/gag/a2vQ7Ad)
- - 💣 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
- - 😝 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
- - 👉 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)<!-- MEMES:END -->
+ - 😝 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
+ - 💣 [Eternal jar of mystery](http://9gag.com/gag/aMVpKd1)
+ - 😝 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
+ - 👉 [Me thinking life is hard than I see someone who got it harder.](http://9gag.com/gag/agmRgXw)<!-- MEMES:END -->
 
 ---
 

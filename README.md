@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260919/p5#a260919p5)
- - [EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until &quot;all possibilities&quot; for taxation at the global level are exhausted &lpar;Financial Times&rpar;](https://www.techmeme.com/260919/p4#a260919p4)
- - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
- - [Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260919/p3#a260919p3)
- - [Business intelligence startup Veridion, which develops an AI-powered, real-time map of ~640M businesses worldwide, raised a $20M Series A led by Hoxton Ventures &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260919/p2#a260919p2)<!-- TECH:END -->
+ - [ING: India&#39;s software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country&#39;s IT industry toward higher-value work &lpar;Anup Roy/Bloomberg&rpar;](https://www.techmeme.com/260919/p6#a260919p6)
+ - [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)
+ - [What Is a Smart Lock? Why I Recommend This Security Upgrade for Everyone](https://www.cnet.com/home/security/what-is-a-smart-lock-why-i-recommend-this-security-upgrade-for-everyone/)
+ - [Tired of Cluttered Productivity Apps? This One’s Just a Text Document](https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/)
+ - [Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score](https://www.wired.com/review/samsung-galaxy-watch9/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

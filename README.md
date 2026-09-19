@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luna](http://9gag.com/gag/aRBxEbj)
  - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 💣 [Which of these failed the hardest?](http://9gag.com/gag/aAyn082)
- - 😝 [Meanwhile..](http://9gag.com/gag/aPAOgYV)
- - 👉 [Runner purposefully pulls barricades to win the race](http://9gag.com/gag/aVvGb78)<!-- MEMES:END -->
+ - 😝 [WorldPokerr.](http://9gag.com/gag/avybQ2Z)
+ - 💣 [Meanwhile..](http://9gag.com/gag/aPAOgYV)
+ - 😝 [Runner purposefully pulls barricades to win the race](http://9gag.com/gag/aVvGb78)
+ - 👉 [Marching in a parade with a flag that reads “I suck at fantasy football”](https://www.reddit.com/r/funny/comments/1wkpfol/marching_in_a_parade_with_a_flag_that_reads_i/)<!-- MEMES:END -->
 
 ---
 

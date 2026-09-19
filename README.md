@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock&#39;s ~1,500 employees may depart, as customers flee &lpar;Wired&rpar;](https://www.techmeme.com/260918/p41#a260918p41)
- - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
- - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
- - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)
- - [Sources: Anthropic considers releasing a new AI model to counter OpenAI&#39;s momentum since Astra&#39;s launch, ahead of an IPO and after Amodei&#39;s call for a slowdown &lpar;Reuters&rpar;](https://www.techmeme.com/260918/p38#a260918p38)<!-- TECH:END -->
+ - [A look at AI safety groups METR, Redwood Research, and Apollo Research, as AI misalignment incidents at OpenAI and Anthropic thrust them into the spotlight &lpar;Hayden Field/The Verge&rpar;](https://www.techmeme.com/260919/p5#a260919p5)
+ - [EU Commissioner Wopke Hoekstra rebuffs calls for an EU-wide digital services tax until &quot;all possibilities&quot; for taxation at the global level are exhausted &lpar;Financial Times&rpar;](https://www.techmeme.com/260919/p4#a260919p4)
+ - [Xiaomi Has a Luxury SUV for $31,000 That All Western Brands Should Fear](https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/)
+ - [Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/260919/p3#a260919p3)
+ - [Business intelligence startup Veridion, which develops an AI-powered, real-time map of ~640M businesses worldwide, raised a $20M Series A led by Hoxton Ventures &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/260919/p2#a260919p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

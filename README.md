@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 😝 [I&#39;m enraged](http://9gag.com/gag/a87rEKO)
- - 💣 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
- - 😝 [Me thinking life is hard than I see someone who got it harder.](http://9gag.com/gag/agmRgXw)
- - 👉 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)<!-- MEMES:END -->
+ - 😝 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
+ - 💣 [I mean, everyone and everything you loved and cared for are LONG gone.... and eventually the universe will die, so....](http://9gag.com/gag/abAjv5B)
+ - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
+ - 👉 [Amsterdam](http://9gag.com/gag/aPAOZrB)<!-- MEMES:END -->
 
 ---
 

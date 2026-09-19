@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Art of the deal](http://9gag.com/gag/a1m4PX2)
  - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 😝 [Well, you&#39;re not wrong, Grok](http://9gag.com/gag/amoDPpd)
  - 💣 [I mean, everyone and everything you loved and cared for are LONG gone.... and eventually the universe will die, so....](http://9gag.com/gag/abAjv5B)
- - 😝 [Anger woman&#39;s](http://9gag.com/gag/aZZ9ypp)
- - 👉 [Amsterdam](http://9gag.com/gag/aPAOZrB)<!-- MEMES:END -->
+ - 😝 [Runner purposefully pulls barricades to win the race](http://9gag.com/gag/aVvGb78)
+ - 👉 [Art of the deal](http://9gag.com/gag/a1m4PX2)<!-- MEMES:END -->
 
 ---
 

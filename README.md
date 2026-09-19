@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art of the deal](http://9gag.com/gag/a1m4PX2)
+ - 😝 [Luna](http://9gag.com/gag/aRBxEbj)
  - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 💣 [I mean, everyone and everything you loved and cared for are LONG gone.... and eventually the universe will die, so....](http://9gag.com/gag/abAjv5B)
- - 😝 [Runner purposefully pulls barricades to win the race](http://9gag.com/gag/aVvGb78)
- - 👉 [Art of the deal](http://9gag.com/gag/a1m4PX2)<!-- MEMES:END -->
+ - 💣 [Which of these failed the hardest?](http://9gag.com/gag/aAyn082)
+ - 😝 [Meanwhile..](http://9gag.com/gag/aPAOgYV)
+ - 👉 [Runner purposefully pulls barricades to win the race](http://9gag.com/gag/aVvGb78)<!-- MEMES:END -->
 
 ---
 

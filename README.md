@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ING: India&#39;s software services exports have risen to ~5.2% of GDP from 3.3% before the pandemic, as AI pushes the country&#39;s IT industry toward higher-value work &lpar;Anup Roy/Bloomberg&rpar;](https://www.techmeme.com/260919/p6#a260919p6)
- - [Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening](https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/)
- - [What Is a Smart Lock? Why I Recommend This Security Upgrade for Everyone](https://www.cnet.com/home/security/what-is-a-smart-lock-why-i-recommend-this-security-upgrade-for-everyone/)
- - [Tired of Cluttered Productivity Apps? This One’s Just a Text Document](https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/)
- - [Samsung Galaxy Watch9 Review: I Don’t Need Another Health Score](https://www.wired.com/review/samsung-galaxy-watch9/)<!-- TECH:END -->
+ - [M6 Pro benchmark surfaces despite claims of a short chip generation](https://appleinsider.com/articles/26/09/19/m6-pro-benchmark-surfaces-despite-claims-of-a-short-chip-generation?utm_source=rss)
+ - [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)
+ - [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music)
+ - [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
+ - [Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260919/p7#a260919p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

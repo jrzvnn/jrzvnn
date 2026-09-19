@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ad tech company Infillion says it is acquiring Foursquare, which will continue operating as an independent brand &lpar;Kerry Flynn/Axios&rpar;](https://www.techmeme.com/260918/p37#a260918p37)
- - [Meta&#39;s personal AI agent Muse climbs to No. 1 among free apps on Apple&#39;s US App Store, ahead of ChatGPT; Muse launched on September 8 &lpar;Georgia Hennessy/Business Insider&rpar;](https://www.techmeme.com/260918/p36#a260918p36)
- - [Sources: ~$18B of debt tied to an Oracle New Mexico data center slid into stressed territory, as investors grow wary of construction delays amid local pushback &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p35#a260918p35)
- - [Leaked presentation: OpenAI expects negative free cash flow of $278B from 2026 to 2030 and projects its revenue will grow from $36B this year to $350B in 2030 &lpar;Financial Times&rpar;](https://www.techmeme.com/260918/p34#a260918p34)
- - [US officials say overreliance on Palantir&#39;s Maven AI system was among the factors that contributed to a February missile strike in Iran that killed 123 children &lpar;Bloomberg&rpar;](https://www.techmeme.com/260918/p33#a260918p33)<!-- TECH:END -->
+ - [Internal email: Flock is rolling out a voluntary severance program; sources say a significant number of Flock&#39;s ~1,500 employees may depart, as customers flee &lpar;Wired&rpar;](https://www.techmeme.com/260918/p41#a260918p41)
+ - [Flock Offers Employees Buyouts as Customers Flee](https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/)
+ - [Nex, which makes Nex Playground, raised a $150M Series E; Nex has sold 1M units of the motion-based gaming system targeted toward kids since its launch in 2023 &lpar;Sophie McEvoy/GamesIndustry.biz&rpar;](https://www.techmeme.com/260918/p40#a260918p40)
+ - [Anthropic adds support for the AGENTS.md instructions spec to Claude Code; OpenAI contributed AGENTS.md to the Agentic AI Foundation last year &lpar;Thomas Claburn/The Register&rpar;](https://www.techmeme.com/260918/p39#a260918p39)
+ - [Sources: Anthropic considers releasing a new AI model to counter OpenAI&#39;s momentum since Astra&#39;s launch, ahead of an IPO and after Amodei&#39;s call for a slowdown &lpar;Reuters&rpar;](https://www.techmeme.com/260918/p38#a260918p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

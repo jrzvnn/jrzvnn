@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M6 Pro benchmark surfaces despite claims of a short chip generation](https://appleinsider.com/articles/26/09/19/m6-pro-benchmark-surfaces-despite-claims-of-a-short-chip-generation?utm_source=rss)
- - [Gemini went rogue, hacked three companies, and Google hid it](https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack)
- - [Anamanaguchi has ‘too goddamn many’ browser tabs open right now](https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music)
- - [The colorful, unique Hyte X50 PC case is $50 off](https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale)
- - [Raindrop, which develops tech for monitoring AI agents to catch failures such as hallucinations and tool misuse, raised a $35M Series A led by CRV &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260919/p7#a260919p7)<!-- TECH:END -->
+ - [Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p10#a260919p10)
+ - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
+ - [Google says it didn&#39;t consider Gemini&#39;s hacks worthy of disclosure because Gemini acted &quot;appropriately&quot; and stopped after determining it hacked real companies &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260919/p9#a260919p9)
+ - [Amazon cuts Apple Watch Series 12, Ultra 4 prices upon release](https://appleinsider.com/articles/26/09/19/amazon-cuts-apple-watch-series-12-ultra-4-prices-upon-release?utm_source=rss)
+ - [Sources: the USPTO and US Copyright Office were surprised by the DOJ&#39;s brief supporting OpenAI and Microsoft in their dispute with the New York Times &lpar;Axios&rpar;](https://www.techmeme.com/260919/p8#a260919p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

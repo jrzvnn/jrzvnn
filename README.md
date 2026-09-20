@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
+ - [Jensen Huang says AI leaders calling for regulation don&#39;t want new legislation, but to be &quot;relieved of the laws we do have&quot; because of &quot;ulterior reasons&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260920/p12#a260920p12)
+ - [Sunday Reboot: A power station and store hopes](https://appleinsider.com/articles/26/09/20/sunday-reboot-a-power-station-and-store-hopes?utm_source=rss)
  - [No one is surprised that Nvidia&amp;#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
- - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
- - [AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260920/p11#a260920p11)
- - [Foldable futures: iPhone Duo is Apple&#39;s bet for smartphone growth](https://appleinsider.com/articles/26/09/20/foldable-futures-iphone-duo-is-apples-bet-for-smartphone-growth?utm_source=rss)
- - [Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260920/p10#a260920p10)<!-- TECH:END -->
+ - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

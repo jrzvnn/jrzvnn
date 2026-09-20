@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
- - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 💣 [Japanese student continue studying and listening to lofi hip hop during an earthquake, her cat cheering her up](http://9gag.com/gag/aAynywd)
- - 😝 [Pretty](http://9gag.com/gag/awyqgg1)
- - 👉 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)<!-- MEMES:END -->
+ - 😝 [Wyd](http://9gag.com/gag/aO86223)
+ - 😝 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 💣 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 😝 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)
+ - 👉 [Pretty](http://9gag.com/gag/awyqgg1)<!-- MEMES:END -->
 
 ---
 

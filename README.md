@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Way to Discard Frying Oil? Don’t](https://www.cnet.com/home/kitchen-and-household/the-best-way-to-discard-frying-oil-dont/)
- - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
- - [An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260920/p7#a260920p7)
- - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)
- - [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator)<!-- TECH:END -->
+ - [Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals &lpar;Josipa Majic Predin/Forbes&rpar;](https://www.techmeme.com/260920/p9#a260920p9)
+ - [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)
+ - [Claimed Apple Fitness+ layoffs are no sign of problems with the service](https://appleinsider.com/articles/26/09/20/claimed-apple-fitness-layoffs-are-no-sign-of-problems-with-the-service?utm_source=rss)
+ - [A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple&#39;s strategy for the home; sources: Apple started cutting Fitness+ staff &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260920/p8#a260920p8)
+ - [Apple Home Hub will be the intelligent center of your home](https://appleinsider.com/articles/26/09/20/apple-home-hub-will-be-the-intelligent-center-of-your-home?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

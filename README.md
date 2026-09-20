@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
  - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
- - 💣 [This shiet never gets old](http://9gag.com/gag/avybWPE)
- - 😝 [Would you date a woman who has a bed like this](http://9gag.com/gag/a1m41O6)
+ - 💣 [Japanese student continue studying and listening to lofi hip hop during an earthquake, her cat cheering her up](http://9gag.com/gag/aAynywd)
+ - 😝 [Pretty](http://9gag.com/gag/awyqgg1)
  - 👉 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)<!-- MEMES:END -->
 
 ---

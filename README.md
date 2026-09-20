@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta challenges Ofcom&#39;s OSA categorization of WhatsApp and Instagram imposing additional regulations; Roblox and Quora are also challenging their categorization &lpar;Daniel Thomas/Financial Times&rpar;](https://www.techmeme.com/260920/p1#a260920p1)
+ - [California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post &lpar;Ken Bensinger/New York Times&rpar;](https://www.techmeme.com/260919/p13#a260919p13)
  - [Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p12#a260919p12)
  - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
- - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)
- - [Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p10#a260919p10)
- - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)<!-- TECH:END -->
+ - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

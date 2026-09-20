@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
+ - 😝 [Amsterdam](http://9gag.com/gag/aPAOZrB)
  - 😝 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 💣 [Meanwhile..](http://9gag.com/gag/aPAOgYV)
+ - 💣 [This and a data center in the backyard](http://9gag.com/gag/aD2B2dB)
  - 😝 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)
- - 👉 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)<!-- MEMES:END -->
+ - 👉 [Amsterdam](http://9gag.com/gag/aPAOZrB)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt/)
- - [US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies &lpar;Katie McQue/NPR&rpar;](https://www.techmeme.com/260920/p6#a260920p6)
- - [Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans](https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/)
- - [Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness &lpar;Sarah Neville/Financial Times&rpar;](https://www.techmeme.com/260920/p5#a260920p5)
- - [Alibaba&#39;s Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260920/p4#a260920p4)<!-- TECH:END -->
+ - [The Best Way to Discard Frying Oil? Don’t](https://www.cnet.com/home/kitchen-and-household/the-best-way-to-discard-frying-oil-dont/)
+ - [A24’s reputation is on the line with the SCP Foundation movie](https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license)
+ - [An interview with Raspberry Pi CEO Eben Upton on the Raspberry Pi Foundation, his skepticism of AI evangelists, AI driving edge compute device demand, and more &lpar;John Thornhill/Financial Times&rpar;](https://www.techmeme.com/260920/p7#a260920p7)
+ - [A great new video game movie](https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave)
+ - [The hidden monopoly behind your TI graphing calculator](https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

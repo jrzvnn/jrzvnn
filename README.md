@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
  - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 💣 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)
- - 😝 [Pretty](http://9gag.com/gag/awyqgg1)
- - 👉 [Old Classic](http://9gag.com/gag/aMVpd6R)<!-- MEMES:END -->
+ - 💣 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 😝 [Meanwhile..](http://9gag.com/gag/aPAOgYV)
+ - 👉 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)<!-- MEMES:END -->
 
 ---
 

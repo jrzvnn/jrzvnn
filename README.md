@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p12#a260919p12)
  - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
  - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)
  - [Former DraftKings employees detail how it uses ML to target likely losers with promotions, while efforts to flag problem gamblers were shelved or squashed &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p10#a260919p10)
- - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)
- - [Google says it didn&#39;t consider Gemini&#39;s hacks worthy of disclosure because Gemini acted &quot;appropriately&quot; and stopped after determining it hacked real companies &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/260919/p9#a260919p9)<!-- TECH:END -->
+ - [Trump treads further on free speech with new journalist bans](https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

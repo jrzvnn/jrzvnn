@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta challenges Ofcom&#39;s OSA categorization of WhatsApp and Instagram imposing additional regulations; Roblox and Quora are also challenging their categorization &lpar;Daniel Thomas/Financial Times&rpar;](https://www.techmeme.com/260920/p1#a260920p1)
- - [California Gov. Gavin Newsom signs a law that will penalize influencers who do not properly disclose paid political content, with fines of up to $5K per post &lpar;Ken Bensinger/New York Times&rpar;](https://www.techmeme.com/260919/p13#a260919p13)
- - [Experts say AI kill-switch legislation is far harder to implement than lawmakers assume, warning a rogue AI could actively try to dismantle the mechanism itself &lpar;New York Times&rpar;](https://www.techmeme.com/260919/p12#a260919p12)
- - [Meta’s Muse is creepy, but maybe not for the reasons you think](https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy)
- - [Trump says he will appoint an AI czar and form an &quot;AI Force&quot;, in a Truth Social post that rejects AI safety concerns as a &quot;hoax&quot; &lpar;María Paula Mijares Torres/Bloomberg&rpar;](https://www.techmeme.com/260919/p11#a260919p11)<!-- TECH:END -->
+ - [What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That](https://www.wired.com/story/how-to-use-memory-in-chatgpt/)
+ - [US policy analysts, lawmakers, and others say several state-level AI chatbot safety bills included language that could provide loopholes for tech companies &lpar;Katie McQue/NPR&rpar;](https://www.techmeme.com/260920/p6#a260920p6)
+ - [Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans](https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/)
+ - [Clinicians raise concerns over medical AI adoption beyond diagnostics and imaging, citing limited clinical and performance data on its broader effectiveness &lpar;Sarah Neville/Financial Times&rpar;](https://www.techmeme.com/260920/p5#a260920p5)
+ - [Alibaba&#39;s Damo Academy open sources RADAR, a medical vision-language model it says can read CT scans and identify ~150 abdominal conditions, including cancers &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/260920/p4#a260920p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

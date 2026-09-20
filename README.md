@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vercel, Cloudflare, and others quickly add Jev, as it makes AI tool selection much faster and cheaper; TypeSafe: Jev matches GPT-5.6 and Sonnet 5 workflow evals &lpar;Josipa Majic Predin/Forbes&rpar;](https://www.techmeme.com/260920/p9#a260920p9)
- - [Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)
- - [Claimed Apple Fitness+ layoffs are no sign of problems with the service](https://appleinsider.com/articles/26/09/20/claimed-apple-fitness-layoffs-are-no-sign-of-problems-with-the-service?utm_source=rss)
- - [A closer look at the upcoming Siri AI-powered home hub, a key pillar of Apple&#39;s strategy for the home; sources: Apple started cutting Fitness+ staff &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260920/p8#a260920p8)
- - [Apple Home Hub will be the intelligent center of your home](https://appleinsider.com/articles/26/09/20/apple-home-hub-will-be-the-intelligent-center-of-your-home?utm_source=rss)<!-- TECH:END -->
+ - [No one is surprised that Nvidia&amp;#8217;s Jensen Huang thinks AI fears are overblown.](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)
+ - [Kojima Productions disputes reports the studio is in trouble](https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation)
+ - [AI companies, including OpenAI and Anthropic, are putting pressure on office rents in Singapore as they embark on expansion in response to government overtures &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260920/p11#a260920p11)
+ - [Foldable futures: iPhone Duo is Apple&#39;s bet for smartphone growth](https://appleinsider.com/articles/26/09/20/foldable-futures-iphone-duo-is-apples-bet-for-smartphone-growth?utm_source=rss)
+ - [Indeed: data center roles in the US offer a ~42% pay premium for hourly maintenance and installation workers compared with similar jobs at other businesses &lpar;Owen Tucker-Smith/Wall Street Journal&rpar;](https://www.techmeme.com/260920/p10#a260920p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

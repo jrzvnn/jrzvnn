@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Murica](http://9gag.com/gag/ae9X4Bj)
+ - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
  - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 💣 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 😝 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 💣 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 😝 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)
  - 👉 [How dare you!](http://9gag.com/gag/aByDZpx)<!-- MEMES:END -->
 
 ---

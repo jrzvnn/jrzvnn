@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA 6 has great gameplay, definitely is GOTY.](http://9gag.com/gag/a34oAPe)
  - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 💣 [England will no longer be United Kingdom: 3 territories signed their divorce mandate](http://9gag.com/gag/aKGbAVN)
- - 😝 [Marriage in a nutshell](http://9gag.com/gag/aAynQzd)
- - 👉 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)<!-- MEMES:END -->
+ - 😝 [Elect a clown, you get the whole circus &lpar;idiocracy&rpar;](http://9gag.com/gag/a1m4NgG)
+ - 💣 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)
+ - 😝 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
+ - 👉 [How dare you!](http://9gag.com/gag/aByDZpx)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
- - [OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances &lpar;OpenAI&rpar;](https://www.techmeme.com/260921/p47#a260921p47)
- - [Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other&#39;s models &lpar;The Information&rpar;](https://www.techmeme.com/260921/p46#a260921p46)
- - [OpenAI says automated research could improve alignment, but &quot;fully autonomous RSI is not happening today&quot; and shouldn&#39;t be pursued unless it can be done safely &lpar;OpenAI&rpar;](https://www.techmeme.com/260921/p45#a260921p45)
- - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)<!-- TECH:END -->
+ - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &quot;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&quot; &lpar;Xiaomi&rpar;](https://www.techmeme.com/260921/p52#a260921p52)
+ - [Napster Developing AI Teacher Clones to Provide Personalized Homework Support](https://www.cnet.com/tech/services-and-software/napster-developing-ai-teacher-clones-education/)
+ - [This OMG Moment at the Doctor’s Made Me Take the Apple Watch Seriously](https://www.cnet.com/tech/mobile/apple-watch-changed-my-life-forever/)
+ - [iPhone 20 Pro Rumor Hints at Apple’s Wildest All-Glass Redesign](https://www.cnet.com/tech/mobile/iphone-20-pro-rumor-apple-all-glass-redesign-larger-display/)
+ - [Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p51#a260921p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

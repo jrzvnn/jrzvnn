@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Unit1, which develops &quot;hyper-realistic&quot; digital avatars of musicians to recreate classic concerts, raised nearly £15M from Balderton Capital and others &lpar;Alex Lawson/The Guardian&rpar;](https://www.techmeme.com/260920/p15#a260920p15)
  - [China has made AI a national mission, but local workers&#39; fear of displacement mirrors worries abroad, and potential for social unrest may force CCP to slow down &lpar;Michael Schuman/The Atlantic&rpar;](https://www.techmeme.com/260920/p14#a260920p14)
  - [The iPhone 18 Pro Is Tricky to Repair According to an iFixIt Teardown](https://www.cnet.com/tech/mobile/the-iphone-18-pro-is-tricky-to-repair-according-to-an-ifixit-teardown/)
  - [Alibaba releases Qwen-Image-2.1, a 7B open-weight model it says outperforms most closed-source models, with native transparency and up to ten reference images &lpar;Qwen&rpar;](https://www.techmeme.com/260920/p13#a260920p13)
- - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)
- - [Jensen Huang says AI leaders calling for regulation don&#39;t want new legislation, but to be &quot;relieved of the laws we do have&quot; because of &quot;ulterior reasons&quot; &lpar;Truman Dickerson/Business Insider&rpar;](https://www.techmeme.com/260920/p12#a260920p12)<!-- TECH:END -->
+ - [No Dogs in Space is back to feed your need for obsessive music history](https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

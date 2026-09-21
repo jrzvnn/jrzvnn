@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nscale&#39;s S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p33#a260921p33)
- - [Mac Studio review roundup: expensive, but M5 Ultra makes it worthwhile](https://appleinsider.com/articles/26/09/21/mac-studio-review-roundup-expensive-but-m5-ultra-makes-it-worthwhile?utm_source=rss)
- - [An interview with Google SVP of Devices Rick Osterloh on Googlebooks, which he calls &quot;the ultimate focusing move&quot; for Google, future Pixel Googlebooks, and more &lpar;David Pierce/The Verge&rpar;](https://www.techmeme.com/260921/p32#a260921p32)
- - [Unsurprisingly, iPhone 18 Pro Max SSD will slow down when hammered](https://appleinsider.com/articles/26/09/21/iphone-18-pro-max-storage-hits-glacial-speeds-under-extreme-loads?utm_source=rss)
- - [A clever workaround lets the iPhone 18 Pro Max skirt battery shipping limits](https://appleinsider.com/articles/26/09/21/a-clever-workaround-lets-the-iphone-18-pro-max-skirt-battery-shipping-limits?utm_source=rss)<!-- TECH:END -->
+ - [AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping](https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/)
+ - [OpenAI says it is working with an independent advisory group of mathematicians to responsibly share math-related AI advances &lpar;OpenAI&rpar;](https://www.techmeme.com/260921/p47#a260921p47)
+ - [Source: before the Hugging Face incident, OpenAI was negotiating a legally binding deal with Anthropic for the companies to stress-test each other&#39;s models &lpar;The Information&rpar;](https://www.techmeme.com/260921/p46#a260921p46)
+ - [OpenAI says automated research could improve alignment, but &quot;fully autonomous RSI is not happening today&quot; and shouldn&#39;t be pursued unless it can be done safely &lpar;OpenAI&rpar;](https://www.techmeme.com/260921/p45#a260921p45)
+ - [Paramount settles lawsuit blocking $110 billion Warner Bros. merger](https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

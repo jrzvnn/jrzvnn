@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
- - 😝 [100% better than The Matrix &amp; absolutely underrated](http://9gag.com/gag/aoyBygx)
- - 💣 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
- - 😝 [Would you date a woman with finger nails like this](http://9gag.com/gag/aNDyDow)
- - 👉 [How dare you!](http://9gag.com/gag/aByDZpx)<!-- MEMES:END -->
+ - 😝 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
+ - 💣 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
+ - 😝 [WE FOUND HIM](http://9gag.com/gag/aYQzG8w)
+ - 👉 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
 
 ---
 

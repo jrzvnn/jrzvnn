@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do we tell him](http://9gag.com/gag/aXP8Pev)
- - 😝 [Just a everyday thing](http://9gag.com/gag/a34oGyr)
- - 💣 [Something was wrong with his coffee](http://9gag.com/gag/aYQzQgw)
- - 😝 [WE FOUND HIM](http://9gag.com/gag/aYQzG8w)
- - 👉 [We have reached the bottom - for now](http://9gag.com/gag/aqyvXYR)<!-- MEMES:END -->
+ - 😝 [GTA 6 has great gameplay, definitely is GOTY.](http://9gag.com/gag/a34oAPe)
+ - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 💣 [England will no longer be United Kingdom: 3 territories signed their divorce mandate](http://9gag.com/gag/aKGbAVN)
+ - 😝 [Marriage in a nutshell](http://9gag.com/gag/aAynQzd)
+ - 👉 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China collected $32.3B of stamp duty on stock sales between January and August, up 80%+ YoY, as average daily trading value rose 72%, amid an AI trading frenzy &lpar;Zhang Shidong/South China Morning Post&rpar;](https://www.techmeme.com/260921/p6#a260921p6)
- - [A researcher used GPT-6 Astra to decipher a WWI German radio transmission from 1918, one of the 50 famous unsolved ciphers listed on a German science blog &lpar;prinz&rpar;](https://www.techmeme.com/260921/p5#a260921p5)
- - [A detailed recap of the White House&#39;s 19-day standoff with Anthropic, where a jailbreak dispute led officials to bluntly order Dario Amodei to take Fable down &lpar;Politico&rpar;](https://www.techmeme.com/260921/p4#a260921p4)
- - [Nine drone startups, including Eric Schmidt-founded Perennial, will split US DoD orders for 60,000 drones in a competition that requires no China-made parts &lpar;Steve LeVine/The Information&rpar;](https://www.techmeme.com/260921/p3#a260921p3)
- - [Hong Kong-based Qupital, which offers cross-border ecommerce financing to SMEs, raised a $300M Series C led by M Capital as it weighs a possible IPO &lpar;FinTech Global&rpar;](https://www.techmeme.com/260921/p2#a260921p2)<!-- TECH:END -->
+ - [Nscale&#39;s S-1: Microsoft and Anthropic account for 85% of its $103B in total contract value, only $2.6B of contract value was active as of late August, and more &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p33#a260921p33)
+ - [Mac Studio review roundup: expensive, but M5 Ultra makes it worthwhile](https://appleinsider.com/articles/26/09/21/mac-studio-review-roundup-expensive-but-m5-ultra-makes-it-worthwhile?utm_source=rss)
+ - [An interview with Google SVP of Devices Rick Osterloh on Googlebooks, which he calls &quot;the ultimate focusing move&quot; for Google, future Pixel Googlebooks, and more &lpar;David Pierce/The Verge&rpar;](https://www.techmeme.com/260921/p32#a260921p32)
+ - [Unsurprisingly, iPhone 18 Pro Max SSD will slow down when hammered](https://appleinsider.com/articles/26/09/21/iphone-18-pro-max-storage-hits-glacial-speeds-under-extreme-loads?utm_source=rss)
+ - [A clever workaround lets the iPhone 18 Pro Max skirt battery shipping limits](https://appleinsider.com/articles/26/09/21/a-clever-workaround-lets-the-iphone-18-pro-max-skirt-battery-shipping-limits?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

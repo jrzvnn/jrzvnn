@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI ‘Actress’ Tilly Norwood Glitches on Live TV in Surreal Nightmare](https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/)
- - [Shopify plans to allow Meta&#39;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260921/p55#a260921p55)
- - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)
- - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
- - [A researcher says a flaw in Meta&#39;s Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260921/p54#a260921p54)<!-- TECH:END -->
+ - [Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260922/p4#a260922p4)
+ - [Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops &lpar;Juliet Macur/New York Times&rpar;](https://www.techmeme.com/260922/p3#a260922p3)
+ - [Layla Sleep Coupon: Save Up to $600 in September 2026](https://www.wired.com/story/layla-sleep-coupon/)
+ - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
+ - [Ruggable Discount Code: 30% Off Rugs | September 2026](https://www.wired.com/story/ruggable-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

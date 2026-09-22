@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Expensive way to fix a cracked screen](http://9gag.com/gag/avyb67d)
+ - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
  - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
  - 💣 [This is how nukes were built](http://9gag.com/gag/azx6dWx)
  - 😝 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)

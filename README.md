@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs &quot;on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks&quot; &lpar;Xiaomi&rpar;](https://www.techmeme.com/260921/p52#a260921p52)
- - [Napster Developing AI Teacher Clones to Provide Personalized Homework Support](https://www.cnet.com/tech/services-and-software/napster-developing-ai-teacher-clones-education/)
- - [This OMG Moment at the Doctor’s Made Me Take the Apple Watch Seriously](https://www.cnet.com/tech/mobile/apple-watch-changed-my-life-forever/)
- - [iPhone 20 Pro Rumor Hints at Apple’s Wildest All-Glass Redesign](https://www.cnet.com/tech/mobile/iphone-20-pro-rumor-apple-all-glass-redesign-larger-display/)
- - [Some startups, like Harvey, Abridge, Ramp, and Rogo, are embracing open-weight models or training their own models to reduce expensive reliance on frontier labs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260921/p51#a260921p51)<!-- TECH:END -->
+ - [AI ‘Actress’ Tilly Norwood Glitches on Live TV in Surreal Nightmare](https://www.cnet.com/tech/services-and-software/tilly-norwood-ai-actress-speaks-cantonese-live-interview-glitch/)
+ - [Shopify plans to allow Meta&#39;s Muse to complete purchases on behalf of users at Shopify-powered stores via its one-tap checkout service Shop Pay &lpar;Kelly Cloonan/Wall Street Journal&rpar;](https://www.techmeme.com/260921/p55#a260921p55)
+ - [A cut cable disrupted hundreds of flights across the US](https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us)
+ - [Amazon wants to help the Colorado River, but we still don’t know how much water the company uses](https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river)
+ - [A researcher says a flaw in Meta&#39;s Muse app for Mac lets any app or terminal command gain access to the token that authenticates users to their Muse account &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/260921/p54#a260921p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

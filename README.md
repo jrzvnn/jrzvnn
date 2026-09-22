@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
  - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 💣 [This is how nukes were built](http://9gag.com/gag/azx6dWx)
- - 😝 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
- - 👉 [Old Classic](http://9gag.com/gag/aMVpd6R)<!-- MEMES:END -->
+ - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
+ - 💣 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
+ - 😝 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)
+ - 👉 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kalshi Klear, the company&#39;s internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260922/p33#a260922p33)
- - [Snorkel AI, which offers an &quot;agentic data development platform&quot; with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/260922/p32#a260922p32)
- - [Xbox is barely Xbox anymore](https://www.theverge.com/games/998758/xbox-activision-blizzard)
- - [Brighter, lower-power iPhone OLED screens now delayed to 2029](https://appleinsider.com/articles/26/09/22/brighter-lower-power-iphone-oled-screens-now-delayed-to-2029?utm_source=rss)
- - [Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming &quot;reset&quot;; Activision will take over Halo and two other games &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260922/p31#a260922p31)<!-- TECH:END -->
+ - [In his UN General Assembly speech, Trump rejects a &quot;globalist scheme to control&quot; AI, saying the US is &quot;leading now over China by a lot and everyone else&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p46#a260922p46)
+ - [Apple&#39;s pendant project is on hold despite its AI push](https://appleinsider.com/articles/26/09/22/apples-pendant-project-is-on-hold-despite-its-ai-push?utm_source=rss)
+ - [Anthropic and OpenAI Drop New High-Efficiency Models](https://www.cnet.com/tech/services-and-software/anthropic-and-openai-drop-new-high-efficiency-models/)
+ - [Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260922/p45#a260922p45)
+ - [Amicus briefs show strong support of Apple&#39;s arguments ahead of Epic Supreme Court judgement](https://appleinsider.com/articles/26/09/22/amicus-briefs-show-strong-support-of-apples-arguments-ahead-of-epic-supreme-court-judgement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

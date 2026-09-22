@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to get a girlfriend 101](http://9gag.com/gag/aNDyLLv)
- - 😝 [Yummy](http://9gag.com/gag/a5QLBxG)
- - 💣 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
+ - 😝 [True ?](http://9gag.com/gag/aLnqLGW)
+ - 💣 [Trump Obeys Putin](http://9gag.com/gag/aLnqevz)
  - 😝 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
- - 👉 [Trump Obeys Putin](http://9gag.com/gag/aLnqevz)<!-- MEMES:END -->
+ - 👉 [Yummy](http://9gag.com/gag/a5QLBxG)<!-- MEMES:END -->
 
 ---
 

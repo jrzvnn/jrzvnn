@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260922/p13#a260922p13)
- - [Is a Home Security System Subscription Worth It? &lpar;2026&rpar;](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
- - [Sources: multiple staff at the UK&#39;s AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p12#a260922p12)
- - [The UK Government Faces a Reckoning Over Palantir](https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/)
- - [I Built AI Clones of My Coworkers. Things Got Weird](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)<!-- TECH:END -->
+ - [Kalshi Klear, the company&#39;s internal clearing house, files for CFTC approval to add margin trading as it seeks to attract institutional liquidity &lpar;Davis Giangiulio/CNBC&rpar;](https://www.techmeme.com/260922/p33#a260922p33)
+ - [Snorkel AI, which offers an &quot;agentic data development platform&quot; with humans and AI agents to create and vet data, raised $350M at a $3.5B valuation &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/260922/p32#a260922p32)
+ - [Xbox is barely Xbox anymore](https://www.theverge.com/games/998758/xbox-activision-blizzard)
+ - [Brighter, lower-power iPhone OLED screens now delayed to 2029](https://appleinsider.com/articles/26/09/22/brighter-lower-power-iphone-oled-screens-now-delayed-to-2029?utm_source=rss)
+ - [Microsoft lays off 268 Xbox staffers across Halo and other studios, as part of an ongoing gaming &quot;reset&quot;; Activision will take over Halo and two other games &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/260922/p31#a260922p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belgium-based AI recruitment platform Spott raised a $21M Series A led by Balderton, with Base10, YC, and Fortino participating, bringing total funding to $24M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/260922/p4#a260922p4)
- - [Amazon, Walmart and other companies are using drones for fast deliveries in Richardson, Texas, but residents complain about noise and clumsy package drops &lpar;Juliet Macur/New York Times&rpar;](https://www.techmeme.com/260922/p3#a260922p3)
- - [Layla Sleep Coupon: Save Up to $600 in September 2026](https://www.wired.com/story/layla-sleep-coupon/)
- - [Loop Earplugs Discount Codes: 40% Off](https://www.wired.com/story/loop-earplugs-discount-code/)
- - [Ruggable Discount Code: 30% Off Rugs | September 2026](https://www.wired.com/story/ruggable-discount-code/)<!-- TECH:END -->
+ - [US startup Firebird is building a 300MW data center in Armenia, set to host 70K+ Nvidia chips by 2027; sources: Trump pledged Nvidia export approvals to Armenia &lpar;Mackenzie Hawkins/Bloomberg&rpar;](https://www.techmeme.com/260922/p13#a260922p13)
+ - [Is a Home Security System Subscription Worth It? &lpar;2026&rpar;](https://www.wired.com/story/how-to-design-a-subscription-free-home-security-system/)
+ - [Sources: multiple staff at the UK&#39;s AISI have been signed off work with stress, as tight model release schedules and AI fears lead to low morale and burnout &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p12#a260922p12)
+ - [The UK Government Faces a Reckoning Over Palantir](https://www.wired.com/story/the-uk-government-faces-a-reckoning-over-palantir/)
+ - [I Built AI Clones of My Coworkers. Things Got Weird](https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

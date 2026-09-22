@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In his UN General Assembly speech, Trump rejects a &quot;globalist scheme to control&quot; AI, saying the US is &quot;leading now over China by a lot and everyone else&quot; &lpar;Financial Times&rpar;](https://www.techmeme.com/260922/p46#a260922p46)
- - [Apple&#39;s pendant project is on hold despite its AI push](https://appleinsider.com/articles/26/09/22/apples-pendant-project-is-on-hold-despite-its-ai-push?utm_source=rss)
- - [Anthropic and OpenAI Drop New High-Efficiency Models](https://www.cnet.com/tech/services-and-software/anthropic-and-openai-drop-new-high-efficiency-models/)
- - [Sources: Mirendil, founded by former Anthropic researchers to build self-improving AI, is in talks to raise ~$1B led by Kleiner Perkins at a $5B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260922/p45#a260922p45)
- - [Amicus briefs show strong support of Apple&#39;s arguments ahead of Epic Supreme Court judgement](https://appleinsider.com/articles/26/09/22/amicus-briefs-show-strong-support-of-apples-arguments-ahead-of-epic-supreme-court-judgement?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor &lpar;Semafor&rpar;](https://www.techmeme.com/260922/p53#a260922p53)
+ - [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)
+ - [Apple Maps blurring alleged detention centers in China, claims local laws require it](https://appleinsider.com/articles/26/09/22/apple-maps-blurring-alleged-detention-centers-in-china-claims-local-laws-require-it?utm_source=rss)
+ - [TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260922/p52#a260922p52)
+ - [Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC&#39;s 2nm process, with two 5GHz prime cores and six 4GHz performance cores &lpar;Axel Metz/TechRadar&rpar;](https://www.techmeme.com/260922/p51#a260922p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
  - 😝 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)
+ - 😝 [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)
  - 💣 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)
- - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
- - 👉 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)<!-- MEMES:END -->
+ - 😝 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)
+ - 👉 [Hollywood Producer Harvey Weinstein Sentenced To 15 Years In Prison For Sexual Assault](http://9gag.com/gag/aW4VoDd)<!-- MEMES:END -->
 
 ---
 

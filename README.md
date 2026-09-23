@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
- - [The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/)
- - [Meta’s Muse AI Agent Has Been Downloaded Half a Million Times — With a Serious Bug](https://www.cnet.com/tech/services-and-software/metas-muse-ai-agent-zero-day-cybersecurity-bug-patched/)
- - [Grab Apple&#39;s new M6 Mac mini for $879.99 during month-end sale](https://appleinsider.com/articles/26/09/23/grab-apples-new-m6-mac-mini-for-87999-during-month-end-sale?utm_source=rss)
- - [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act)<!-- TECH:END -->
+ - [Sources: Flock Safety is weighing a potential sale and has held preliminary talks with outside advisers &lpar;Rohan Goswami/Semafor&rpar;](https://www.techmeme.com/260923/p39#a260923p39)
+ - [iPhone 18 Pro vs. iPhone Duo: Comparing Apple’s New Pro Phone Against Its First Foldable](https://www.cnet.com/tech/mobile/apple-iphone-18-pro-vs-iphone-duo/)
+ - [Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files &lpar;The Age&rpar;](https://www.techmeme.com/260923/p38#a260923p38)
+ - [A US-China AI Hotline Won&#39;t Be Ready For a While](https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/)
+ - [New Apple Watch models could restart randomly, &amp; watchOS 27.0.1 fixes that bug](https://appleinsider.com/articles/26/09/23/new-apple-watch-models-could-restart-randomly-watchos-2701-fixes-that-bug?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)
- - 😝 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
- - 💣 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
- - 😝 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)
- - 👉 [NBA Star Sophie Cunningham Defends Sydney Sweeney Amid Backlash Over Sports Betting Ad](http://9gag.com/gag/agmR1Pg)<!-- MEMES:END -->
+ - 😝 [I get that everyday. Everytime and beyond](http://9gag.com/gag/a0em60B)
+ - 💣 [EU maintain extremely strict conditions when it comes to food](http://9gag.com/gag/a2vQwew)
+ - 😝 [Callina Liang Unveils New Behind-the-Scenes Look As Chun-Li In \u2018Street Fighter\u2019 Movie](http://9gag.com/gag/a0em0Wq)
+ - 👉 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)<!-- MEMES:END -->
 
 ---
 

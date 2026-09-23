@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox’s Latest Restructuring Puts Call of Duty Developer Activision in Charge of Halo](https://www.cnet.com/tech/gaming/xboxs-latest-restructuring-layoffs-microsoft-activision-halo/)
- - [Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260922/p57#a260922p57)
- - [Trump Says AI Is Now Super Intelligence. What’s Really Super Is the Internet Response](https://www.cnet.com/tech/services-and-software/trump-ai-super-intelligence-internet-response/)
- - [Apple Is Reportedly Developing a Screenless Fitness Tracker](https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/)
- - [Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260922/p56#a260922p56)<!-- TECH:END -->
+ - [Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes &lpar;Ece Yildirim/Gizmodo&rpar;](https://www.techmeme.com/260922/p64#a260922p64)
+ - [Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260922/p63#a260922p63)
+ - [Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence&#39;s AI search tool for physicians in about 100 low- and middle-income countries &lpar;Nancy Lapid/Reuters&rpar;](https://www.techmeme.com/260922/p62#a260922p62)
+ - [Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260922/p61#a260922p61)
+ - [How to add third-party cards to Apple Wallet app in iOS 27](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

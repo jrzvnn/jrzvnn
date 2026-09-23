@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Scott Bessent is emerging as a frontrunner for the AI czar position; other names include WH OSTP Director Michael Kratsios and OPM Director Scott Kupor &lpar;Semafor&rpar;](https://www.techmeme.com/260922/p53#a260922p53)
- - [Rabbit’s new AI agent doesn’t need an R1 to run](https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3)
- - [Apple Maps blurring alleged detention centers in China, claims local laws require it](https://appleinsider.com/articles/26/09/22/apple-maps-blurring-alleged-detention-centers-in-china-claims-local-laws-require-it?utm_source=rss)
- - [TikTok US joins child safety initiative Lantern, which says members like Meta and X shared 2M+ signals of potentially violating behavior from 2023 through 2025 &lpar;Amanda Silberling/TechCrunch&rpar;](https://www.techmeme.com/260922/p52#a260922p52)
- - [Qualcomm unveils the Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6, both on TSMC&#39;s 2nm process, with two 5GHz prime cores and six 4GHz performance cores &lpar;Axel Metz/TechRadar&rpar;](https://www.techmeme.com/260922/p51#a260922p51)<!-- TECH:END -->
+ - [Xbox’s Latest Restructuring Puts Call of Duty Developer Activision in Charge of Halo](https://www.cnet.com/tech/gaming/xboxs-latest-restructuring-layoffs-microsoft-activision-halo/)
+ - [Firecrawl, which provides web scraping tools for AI agents, raised a $75M Series B led by Smash Capital &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/260922/p57#a260922p57)
+ - [Trump Says AI Is Now Super Intelligence. What’s Really Super Is the Internet Response](https://www.cnet.com/tech/services-and-software/trump-ai-super-intelligence-internet-response/)
+ - [Apple Is Reportedly Developing a Screenless Fitness Tracker](https://www.cnet.com/tech/mobile/apple-screenless-fitness-tracker/)
+ - [Rabbit launches OS3, a cloud AI agent that connects to local apps and files on Windows, Mac, and Linux and works via web, Telegram, iMessage, or its R1 device &lpar;Julian Chokkattu/Wired&rpar;](https://www.techmeme.com/260922/p56#a260922p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

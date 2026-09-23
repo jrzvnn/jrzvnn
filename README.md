@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Six major banks, including BOA and Capital One, warn that increased autonomy for agentic commerce chatbots could lead to more scams, fraud, and disputes &lpar;Ece Yildirim/Gizmodo&rpar;](https://www.techmeme.com/260922/p64#a260922p64)
- - [Go.AI, which offers on-premises AI hardware and software tools for regulated organizations like banks, raised an $85M Series A led by Updata Partners &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/260922/p63#a260922p63)
- - [Anthropic and OpenEvidence partner to offer a specialized version of OpenEvidence&#39;s AI search tool for physicians in about 100 low- and middle-income countries &lpar;Nancy Lapid/Reuters&rpar;](https://www.techmeme.com/260922/p62#a260922p62)
- - [Alibaba says it plans to build its first cloud regions in Turkey, Finland, and the Netherlands over the next 12 months, amid escalating US-China AI tensions &lpar;Bloomberg&rpar;](https://www.techmeme.com/260922/p61#a260922p61)
- - [How to add third-party cards to Apple Wallet app in iOS 27](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [A Barista’s Trick for Making Perfect Water for Coffee. Is It Worth It?](https://www.cnet.com/home/kitchen-and-household/a-baristas-trick-for-making-perfect-water-for-coffee-is-it-worth-it/)
+ - [Chinese chip foundry CanSemi, focused on automotive, industrial, and IoT chips, files for an IPO on Shenzhen stock exchange&#39;s ChiNext, seeking to raise ~$919M &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260923/p9#a260923p9)
+ - [NADI, a new DARPA-like Dutch government agency, launches a €40M challenge to accelerate chip design with AI in collaboration with its German counterpart SPRIND &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260923/p8#a260923p8)
+ - [German publisher C.H.BECK takes a majority stake in Noxtua, which develops AI tech to research, analyze, and draft legal documents and raised a $100M+ Series C &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260923/p7#a260923p7)
+ - [A profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs and is reportedly fundraising at a $10B valuation &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p6#a260923p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

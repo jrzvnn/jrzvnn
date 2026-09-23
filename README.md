@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Flock Safety is weighing a potential sale and has held preliminary talks with outside advisers &lpar;Rohan Goswami/Semafor&rpar;](https://www.techmeme.com/260923/p39#a260923p39)
- - [iPhone 18 Pro vs. iPhone Duo: Comparing Apple’s New Pro Phone Against Its First Foldable](https://www.cnet.com/tech/mobile/apple-iphone-18-pro-vs-iphone-duo/)
- - [Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files &lpar;The Age&rpar;](https://www.techmeme.com/260923/p38#a260923p38)
- - [A US-China AI Hotline Won&#39;t Be Ready For a While](https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/)
- - [New Apple Watch models could restart randomly, &amp; watchOS 27.0.1 fixes that bug](https://appleinsider.com/articles/26/09/23/new-apple-watch-models-could-restart-randomly-watchos-2701-fixes-that-bug?utm_source=rss)<!-- TECH:END -->
+ - [Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260923/p50#a260923p50)
+ - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
+ - [Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260923/p49#a260923p49)
+ - [Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260923/p48#a260923p48)
+ - [Meta Pinky-Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

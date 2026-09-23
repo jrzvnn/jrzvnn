@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best M6 Mac mini, 2026 Mac Studio deals at launch](https://appleinsider.com/articles/26/09/22/best-m6-mac-mini-2026-mac-studio-deals-on-release-day?utm_source=rss)
- - [M5 Pro Mac mini vs. M4 Pro Mac mini compared: Specs, hardware, price](https://appleinsider.com/articles/26/09/22/m5-pro-mac-mini-vs-m4-pro-mac-mini-compared-specs-hardware-price?utm_source=rss)
- - [Seattle-based satellite startup Hubble, which is working to enable global Bluetooth connectivity, raised $200M at a $1.6B valuation, for $300M in total funding &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260923/p25#a260923p25)
- - [McDonald’s is testing ads on its drive-thru menus](https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads)
- - [Nobody does it like Remedy](https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox)<!-- TECH:END -->
+ - [Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV](https://www.wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev/)
+ - [The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs](https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/)
+ - [Meta’s Muse AI Agent Has Been Downloaded Half a Million Times — With a Serious Bug](https://www.cnet.com/tech/services-and-software/metas-muse-ai-agent-zero-day-cybersecurity-bug-patched/)
+ - [Grab Apple&#39;s new M6 Mac mini for $879.99 during month-end sale](https://appleinsider.com/articles/26/09/23/grab-apples-new-m6-mac-mini-for-87999-during-month-end-sale?utm_source=rss)
+ - [Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison](https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

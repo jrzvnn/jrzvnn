@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Barista’s Trick for Making Perfect Water for Coffee. Is It Worth It?](https://www.cnet.com/home/kitchen-and-household/a-baristas-trick-for-making-perfect-water-for-coffee-is-it-worth-it/)
- - [Chinese chip foundry CanSemi, focused on automotive, industrial, and IoT chips, files for an IPO on Shenzhen stock exchange&#39;s ChiNext, seeking to raise ~$919M &lpar;Sangmi Cha/Bloomberg&rpar;](https://www.techmeme.com/260923/p9#a260923p9)
- - [NADI, a new DARPA-like Dutch government agency, launches a €40M challenge to accelerate chip design with AI in collaboration with its German counterpart SPRIND &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/260923/p8#a260923p8)
- - [German publisher C.H.BECK takes a majority stake in Noxtua, which develops AI tech to research, analyze, and draft legal documents and raised a $100M+ Series C &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/260923/p7#a260923p7)
- - [A profile of Noah Shinn, founder of AI assistant Instinct, who soft-launched it as an invite-only site for VCs and is reportedly fundraising at a $10B valuation &lpar;Business Insider&rpar;](https://www.techmeme.com/260923/p6#a260923p6)<!-- TECH:END -->
+ - [Best M6 Mac mini, 2026 Mac Studio deals at launch](https://appleinsider.com/articles/26/09/22/best-m6-mac-mini-2026-mac-studio-deals-on-release-day?utm_source=rss)
+ - [M5 Pro Mac mini vs. M4 Pro Mac mini compared: Specs, hardware, price](https://appleinsider.com/articles/26/09/22/m5-pro-mac-mini-vs-m4-pro-mac-mini-compared-specs-hardware-price?utm_source=rss)
+ - [Seattle-based satellite startup Hubble, which is working to enable global Bluetooth connectivity, raised $200M at a $1.6B valuation, for $300M in total funding &lpar;Sana Pashankar/Bloomberg&rpar;](https://www.techmeme.com/260923/p25#a260923p25)
+ - [McDonald’s is testing ads on its drive-thru menus](https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads)
+ - [Nobody does it like Remedy](https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

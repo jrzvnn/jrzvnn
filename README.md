@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look carefully](http://9gag.com/gag/a87rDVY)
- - 😝 [This-19YearOld](http://9gag.com/gag/azx6Oop)
- - 💣 [No wonder people hang onto their old cars.](http://9gag.com/gag/axyp68D)
- - 😝 [Look carefully](http://9gag.com/gag/a87rDVY)
- - 👉 [This-19YearOld](http://9gag.com/gag/azx6Oop)<!-- MEMES:END -->
+ - 😝 [How do they pay for all this?](http://9gag.com/gag/a6ZW20q)
+ - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 💣 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)
+ - 😝 [Wholesome moment](http://9gag.com/gag/aXP8W19)
+ - 👉 [How do they pay for all this?](http://9gag.com/gag/a6ZW20q)<!-- MEMES:END -->
 
 ---
 

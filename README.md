@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta debuts Meta VR Glasses, a ~100g VR headset with an external compute pack, three-hour battery life, ~2.5K resolution per eye, on sale spring 2027 for $1,299 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260923/p50#a260923p50)
- - [Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices](https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/)
- - [Meta adds an FDA-cleared hearing enhancement feature to supported Meta Glasses for Meta One subscribers or a one-time cost of $149, rolling out later this year &lpar;Cheyenne MacDonald/Engadget&rpar;](https://www.techmeme.com/260923/p49#a260923p49)
- - [Meta unveils the Ray-Ban Meta Audio, its first pair of glasses without cameras, offering up to 12 hours of battery life, starting at $349 and shipping October 3 &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260923/p48#a260923p48)
- - [Meta Pinky-Promises Its Smart Glasses Will Be Private Soon](https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/)<!-- TECH:END -->
+ - [OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts &lpar;OpenAI&rpar;](https://www.techmeme.com/260923/p64#a260923p64)
+ - [How to change the background in Messages for iOS 27 and iPadOS 27](https://appleinsider.com/inside/ipados-26/tips/how-to-change-the-background-in-messages-for-ios-26-and-ipados-26?utm_source=rss)
+ - [ChatGPT as an extension in Siri dramatically underperformed, says OpenAI](https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai?utm_source=rss)
+ - [SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world &lpar;Bloomberg&rpar;](https://www.techmeme.com/260923/p63#a260923p63)
+ - [During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend &lpar;Christian Robles/Nextgov/FCW&rpar;](https://www.techmeme.com/260923/p62#a260923p62)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

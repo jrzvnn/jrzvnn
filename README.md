@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic says it made Claude.ai and the Claude desktop app&#39;s core UX ~3x faster in August using an internal model to ship improvements &quot;in a two-week sprint&quot; &lpar;Anthropic&rpar;](https://www.techmeme.com/260924/p10#a260924p10)
- - [Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China&#39;s self-sufficiency campaign &lpar;Tomoko Wakasugi/Nikkei Asia&rpar;](https://www.techmeme.com/260924/p9#a260924p9)
- - [Revolut is piloting a new POS system that uses facial recognition for payments at the UK coffee chain Kiss the Hippo, ahead of a full launch later this year &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260924/p8#a260924p8)
- - [Israeli foundry Tower Semiconductor says it will set up its largest production hub for optical communications chips in Japan as part of a planned $4B investment &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260924/p7#a260924p7)
- - [India&#39;s food regulator initiates penal action against Amazon, Flipkart, Swiggy Instamart, Bigbasket, and Zepto over alleged misbranding and misleading claims &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p6#a260924p6)<!-- TECH:END -->
+ - [Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p28#a260924p28)
+ - [How to remove Apple Intelligence models &amp; reclaim storage in macOS 27](https://appleinsider.com/inside/macos-27/tips/how-to-remove-apple-intelligence-models-reclaim-storage-in-macos-27?utm_source=rss)
+ - [Meta’s Muse AI Charms can interact with each other](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem)
+ - [Everything is spying on you and there&amp;#8217;s no opting out](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance)
+ - [Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders &lpar;Isabella Simonetti/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p27#a260924p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

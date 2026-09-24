@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to launch experimental satellite MVP on a SpaceX rocket on October 1, as part of Project Suncatcher; MVP has four TPUs and will operate for a year &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p28#a260924p28)
- - [How to remove Apple Intelligence models &amp; reclaim storage in macOS 27](https://appleinsider.com/inside/macos-27/tips/how-to-remove-apple-intelligence-models-reclaim-storage-in-macos-27?utm_source=rss)
- - [Meta’s Muse AI Charms can interact with each other](https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem)
- - [Everything is spying on you and there&amp;#8217;s no opting out](https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance)
- - [Amazon plans to invest $100M to build a robotics manufacturing facility in Indiana, set to open by 2028; its robots at 300+ facilities help with 75% of orders &lpar;Isabella Simonetti/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p27#a260924p27)<!-- TECH:END -->
+ - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
+ - [Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year &lpar;Jeff Stein/The Washington Sun&rpar;](https://www.techmeme.com/260924/p37#a260924p37)
+ - [Sources: the White House asked OpenAI and Anthropic not to share new models with UK&#39;s AISI until US reviews them; Anthropic appears to have agreed &lpar;Politico&rpar;](https://www.techmeme.com/260924/p36#a260924p36)
+ - [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem)
+ - [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

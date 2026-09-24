@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases MentalHealthBench, an open benchmark to evaluate AI responses in realistic mental health conversations, developed with 80+ licensed experts &lpar;OpenAI&rpar;](https://www.techmeme.com/260923/p64#a260923p64)
- - [How to change the background in Messages for iOS 27 and iPadOS 27](https://appleinsider.com/inside/ipados-26/tips/how-to-change-the-background-in-messages-for-ios-26-and-ipados-26?utm_source=rss)
- - [ChatGPT as an extension in Siri dramatically underperformed, says OpenAI](https://appleinsider.com/articles/26/09/24/chatgpt-as-an-extension-in-siri-dramatically-underperformed-says-openai?utm_source=rss)
- - [SoftBank raised ~$11B in debt through its junk bond sale, making the Japanese investment firm one of the biggest corporate junk-bond borrowers in the world &lpar;Bloomberg&rpar;](https://www.techmeme.com/260923/p63#a260923p63)
- - [During a Senate hearing, lawmakers criticized automatic license plate readers amid concerns about Flock; the CEOs of Flock and others declined to attend &lpar;Christian Robles/Nextgov/FCW&rpar;](https://www.techmeme.com/260923/p62#a260923p62)<!-- TECH:END -->
+ - [Anthropic says it made Claude.ai and the Claude desktop app&#39;s core UX ~3x faster in August using an internal model to ship improvements &quot;in a two-week sprint&quot; &lpar;Anthropic&rpar;](https://www.techmeme.com/260924/p10#a260924p10)
+ - [Analysis: total net profit at ~190 chipmakers listed in mainland China rose 620% YoY in H1 2026, driven by the AI boom and China&#39;s self-sufficiency campaign &lpar;Tomoko Wakasugi/Nikkei Asia&rpar;](https://www.techmeme.com/260924/p9#a260924p9)
+ - [Revolut is piloting a new POS system that uses facial recognition for payments at the UK coffee chain Kiss the Hippo, ahead of a full launch later this year &lpar;Charlie Wells/Bloomberg&rpar;](https://www.techmeme.com/260924/p8#a260924p8)
+ - [Israeli foundry Tower Semiconductor says it will set up its largest production hub for optical communications chips in Japan as part of a planned $4B investment &lpar;Shuhei Ochiai/Nikkei Asia&rpar;](https://www.techmeme.com/260924/p7#a260924p7)
+ - [India&#39;s food regulator initiates penal action against Amazon, Flipkart, Swiggy Instamart, Bigbasket, and Zepto over alleged misbranding and misleading claims &lpar;Bloomberg&rpar;](https://www.techmeme.com/260924/p6#a260924p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

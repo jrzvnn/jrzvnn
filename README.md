@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is going to let you build games with AI right on your phone](https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games)
- - [Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year &lpar;Jeff Stein/The Washington Sun&rpar;](https://www.techmeme.com/260924/p37#a260924p37)
- - [Sources: the White House asked OpenAI and Anthropic not to share new models with UK&#39;s AISI until US reviews them; Anthropic appears to have agreed &lpar;Politico&rpar;](https://www.techmeme.com/260924/p36#a260924p36)
- - [Muse will apparently let you download its entire filesystem](https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem)
- - [Muse sure looks a lot like OpenClaw](https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike)<!-- TECH:END -->
+ - [Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260924/p48#a260924p48)
+ - [At a White House summit, Xi Jinping says the US and China have &quot;the capability and responsibility to develop and manage AI for good&quot; as &quot;leading nations&quot; in AI &lpar;Mallory Wilson/The Hill&rpar;](https://www.techmeme.com/260924/p47#a260924p47)
+ - [Anonymous Men Have Turned Cyberharassment Into a Group Sport—Here’s One Woman’s Side of the Story](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
+ - [Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260924/p46#a260924p46)
+ - [Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260924/p45#a260924p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic commits to spending $11.6B over seven years on Akamai cloud services and secures an option to take a stake of up to 5%; AKAM jumps 17%+ after hours &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/260924/p48#a260924p48)
- - [At a White House summit, Xi Jinping says the US and China have &quot;the capability and responsibility to develop and manage AI for good&quot; as &quot;leading nations&quot; in AI &lpar;Mallory Wilson/The Hill&rpar;](https://www.techmeme.com/260924/p47#a260924p47)
- - [Anonymous Men Have Turned Cyberharassment Into a Group Sport—Here’s One Woman’s Side of the Story](https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/)
- - [Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/260924/p46#a260924p46)
- - [Email: Microsoft is moving its communications function out of its marketing group and into the corporate, external, and legal affairs org led by Brad Smith &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/260924/p45#a260924p45)<!-- TECH:END -->
+ - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
+ - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)
+ - [Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says &quot;user funds are safe&quot; &lpar;Matthew Brockett/Bloomberg&rpar;](https://www.techmeme.com/260924/p51#a260924p51)
+ - [Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes &lpar;The Information&rpar;](https://www.techmeme.com/260924/p50#a260924p50)
+ - [Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p49#a260924p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

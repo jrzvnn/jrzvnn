@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cricut&amp;#8217;s new compact crafter prints, cuts, and laminates stickers](https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers)
- - [Gaming’s biggest horror series are more vital than ever](https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil)
- - [Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints &lpar;The Information&rpar;](https://www.techmeme.com/260925/p7#a260925p7)
- - [Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail](https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss)
- - [Bill Gates warns about the catastrophic risk posed by &quot;people with ill intent using the latest AI tools&quot;, which are powerful enough to &quot;cause a billion deaths&quot; &lpar;Herb Scribner/Axios&rpar;](https://www.techmeme.com/260925/p6#a260925p6)<!-- TECH:END -->
+ - [Roku&amp;#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
+ - [Thousands of banks can now sue over Apple Pay fees in one antitrust case](https://appleinsider.com/articles/26/09/25/thousands-of-banks-can-now-sue-over-apple-pay-fees-in-one-antitrust-case?utm_source=rss)
+ - [A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260925/p13#a260925p13)
+ - [Gemini’s Live Avatar Puts a Face on Its AI Agent. It’s Freaking Me Out](https://www.cnet.com/tech/services-and-software/geminis-live-avatar-puts-a-face-on-its-ai-agent-its-freaking-me-out/)
+ - [Apple Intelligence is coming to the the next entry-level iPad](https://appleinsider.com/articles/26/09/25/apple-intelligence-is-coming-to-the-the-next-entry-level-ipad?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

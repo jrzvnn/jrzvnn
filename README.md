@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures](https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats)
- - [Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream](https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream)
- - [Bitget halts withdrawals after detecting unauthorized transfers from some hot and warm wallets, affecting ~$351.6M; CEO Gracy Chen says &quot;user funds are safe&quot; &lpar;Matthew Brockett/Bloomberg&rpar;](https://www.techmeme.com/260924/p51#a260924p51)
- - [Sources: Anthropic asks shareholders to approve a Palantir-style structure granting its seven co-founders 50.1% of voting power if three retain minimum stakes &lpar;The Information&rpar;](https://www.techmeme.com/260924/p50#a260924p50)
- - [Documents: Jeff Bezos has invested $30B in Blue Origin since 2000, including $2B in its first outside funding round, which has raised $10B at a $140B valuation &lpar;Micah Maidenberg/Wall Street Journal&rpar;](https://www.techmeme.com/260924/p49#a260924p49)<!-- TECH:END -->
+ - [Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260924/p56#a260924p56)
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2026](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2026?utm_source=rss)
+ - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
+ - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
+ - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

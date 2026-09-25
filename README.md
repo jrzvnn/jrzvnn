@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I had to do a double take\u2026](http://9gag.com/gag/a9y3Xyo)
  - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 💣 [Look carefully](http://9gag.com/gag/a87rDVY)
- - 😝 [In a few months : `The biggest money printing the world has ever seen. The best. Nobody has ever printed money like this before. Never. Absolutely tremendous printing. Historic printing. We gonna print so much, the printer is gonna ask for a break.`](http://9gag.com/gag/aNDyRo3)
- - 👉 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)<!-- MEMES:END -->
+ - 😝 [Look carefully](http://9gag.com/gag/a87rDVY)
+ - 💣 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)
+ - 😝 [Go Sports!](http://9gag.com/gag/apReA15)
+ - 👉 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
 
 ---
 

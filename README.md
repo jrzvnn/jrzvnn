@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI chip startup DensityAI, founded by ex-Tesla Dojo team members, is in talks to raise hundreds of millions of dollars at a $10B valuation &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/260924/p56#a260924p56)
- - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2026](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2026?utm_source=rss)
- - [Experts say that air-gapping AI could prevent events like the Hugging Face hack, but would undermine the value of evaluations and slow research to a crawl &lpar;Robert Hart/The Verge&rpar;](https://www.techmeme.com/260924/p55#a260924p55)
- - [Here’s the Tesla Semi… again](https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer)
- - [Massachusetts&#39; gambling regulator says it will examine how DraftKings and other betting companies in the state are using AI, in response to a NYT investigation &lpar;New York Times&rpar;](https://www.techmeme.com/260924/p54#a260924p54)<!-- TECH:END -->
+ - [Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT &lpar;Louise Lucas/Financial Times&rpar;](https://www.techmeme.com/260925/p2#a260925p2)
+ - [Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#39;s AI push &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p1#a260925p1)
+ - [Therabody Promo Codes: 15% Off September 2026](https://www.wired.com/story/therabody-promo-code/)
+ - [Reebok Discount Code: 15% Off - September 2026](https://www.wired.com/story/reebok-discount-code/)
+ - [Gametime Promo Code: Save on Tickets in September 2026](https://www.wired.com/story/gametime-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

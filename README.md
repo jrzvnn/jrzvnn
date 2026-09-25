@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 😝 [Survive 20 jumps](http://9gag.com/gag/a9y3X5W)
- - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 💣 [Jokes aside. Now *this* is a real Friday!](http://9gag.com/gag/aD2BX2Z)
  - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 👉 [Survive 20 jumps](http://9gag.com/gag/a9y3X5W)<!-- MEMES:END -->
+ - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
 
 ---
 

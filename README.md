@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
  - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 😝 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)
  - 💣 [Go Sports!](http://9gag.com/gag/apReA15)
- - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 👉 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
+ - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
+ - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
 
 ---
 

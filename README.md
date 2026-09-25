@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 😝 [Look carefully](http://9gag.com/gag/a87rDVY)
- - 💣 [Now that&#39;s a fun kinda wife to have](http://9gag.com/gag/a2vQbzw)
- - 😝 [Go Sports!](http://9gag.com/gag/apReA15)
+ - 😝 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)
+ - 💣 [Go Sports!](http://9gag.com/gag/apReA15)
+ - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
  - 👉 [Commitment level extreme](http://9gag.com/gag/aqyvzxM)<!-- MEMES:END -->
 
 ---

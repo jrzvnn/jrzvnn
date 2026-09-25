@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku&amp;#8217;s first OLED TVs are up to $400 off, starting at $699](https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale)
- - [Thousands of banks can now sue over Apple Pay fees in one antitrust case](https://appleinsider.com/articles/26/09/25/thousands-of-banks-can-now-sue-over-apple-pay-fees-in-one-antitrust-case?utm_source=rss)
- - [A jury finds Meta liable for misleading New Mexico residents about third-party data sharing, content moderation, and more in the Cambridge Analytica scandal &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/260925/p13#a260925p13)
- - [Gemini’s Live Avatar Puts a Face on Its AI Agent. It’s Freaking Me Out](https://www.cnet.com/tech/services-and-software/geminis-live-avatar-puts-a-face-on-its-ai-agent-its-freaking-me-out/)
- - [Apple Intelligence is coming to the the next entry-level iPad](https://appleinsider.com/articles/26/09/25/apple-intelligence-is-coming-to-the-the-next-entry-level-ipad?utm_source=rss)<!-- TECH:END -->
+ - [FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p21#a260925p21)
+ - [Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p20#a260925p20)
+ - [Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260925/p19#a260925p19)
+ - [Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p18#a260925p18)
+ - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

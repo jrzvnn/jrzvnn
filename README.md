@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Radical Ventures: AI neolabs, many lacking products, markets, or revenue, raised $24B in the past two quarters, nearly 5x OpenAI and Anthropic pre-ChatGPT &lpar;Louise Lucas/Financial Times&rpar;](https://www.techmeme.com/260925/p2#a260925p2)
- - [Chinese local governments are offering subsidies like computing vouchers, rent waivers, and dedicated funding to lure AI filmmakers as part of China&#39;s AI push &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p1#a260925p1)
- - [Therabody Promo Codes: 15% Off September 2026](https://www.wired.com/story/therabody-promo-code/)
- - [Reebok Discount Code: 15% Off - September 2026](https://www.wired.com/story/reebok-discount-code/)
- - [Gametime Promo Code: Save on Tickets in September 2026](https://www.wired.com/story/gametime-promo-code/)<!-- TECH:END -->
+ - [Cricut&amp;#8217;s new compact crafter prints, cuts, and laminates stickers](https://www.theverge.com/tech/1000655/cricut-sticker-pix-print-cut-crafting-printer-machines-stickers)
+ - [Gaming’s biggest horror series are more vital than ever](https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil)
+ - [Sources: Tesla ramped up Optimus production to several hundred units per week but faces hurdles with its hands, automation equipment, and supplier constraints &lpar;The Information&rpar;](https://www.techmeme.com/260925/p7#a260925p7)
+ - [Interview: Why Ron Johnson says Apple had no choice but to gamble millions on retail](https://appleinsider.com/articles/26/09/25/interview-why-ron-johnson-says-apple-had-no-choice-but-to-gamble-millions-on-retail?utm_source=rss)
+ - [Bill Gates warns about the catastrophic risk posed by &quot;people with ill intent using the latest AI tools&quot;, which are powerful enough to &quot;cause a billion deaths&quot; &lpar;Herb Scribner/Axios&rpar;](https://www.techmeme.com/260925/p6#a260925p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

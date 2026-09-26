@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
  - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)
  - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
  - [Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot;; YouTube is also allowing the ads &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260926/p16#a260926p16)
- - [A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#39;s&quot; tech &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260926/p15#a260926p15)
- - [Bitget CEO Gracy Chen says she suspects North Korean attackers exploited a backend system used to process wallet transactions to drain $387M from the platform &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260926/p14#a260926p14)<!-- TECH:END -->
+ - [A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#39;s&quot; tech &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260926/p15#a260926p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

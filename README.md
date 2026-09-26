@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple owes Taction $5.7B after losing haptic feedback IP trial](https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss)
- - [Save $200 on Apple Watch Ultra 3 with Milanese Loop while supplies last](https://appleinsider.com/articles/26/09/26/save-200-on-apple-watch-ultra-3-with-milanese-loop-while-supplies-last?utm_source=rss)
- - [Brazil&#39;s Lula da Silva signs an EO banning online betting; app stores and telecom providers must block platforms on Oct. 6; Congress has 120 days to approve it &lpar;Reuters&rpar;](https://www.techmeme.com/260926/p13#a260926p13)
- - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
- - [Sources: YouTube, TikTok, and Meta&#39;s Instagram and Facebook decline to run paid ads for Alex Gibney&#39;s Musk documentary, citing &quot;political content&quot; &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](https://www.techmeme.com/260926/p12#a260926p12)<!-- TECH:END -->
+ - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)
+ - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
+ - [Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot;; YouTube is also allowing the ads &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260926/p16#a260926p16)
+ - [A US federal jury awarded Taction Technology $5.7B+ in damages, finding Apple infringed haptics patents; Apple to appeal, says it &quot;does not use Taction&#39;s&quot; tech &lpar;Ashley Capoot/CNBC&rpar;](https://www.techmeme.com/260926/p15#a260926p15)
+ - [Bitget CEO Gracy Chen says she suspects North Korean attackers exploited a backend system used to process wallet transactions to drain $387M from the platform &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/260926/p14#a260926p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

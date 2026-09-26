@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [DAYUM GURL, I THOUGHT THE EXTRA ZERO ON THE 1500cm IN YOUR DATING PROFILE WAS JUST A TYPO ERROR OMG!](http://9gag.com/gag/aZZ9zQX)
+ - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 💣 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)

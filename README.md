@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart CEO John Furner says the company won&#39;t use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper&#39;s identity &lpar;Gregory Meyer/Financial Times&rpar;](https://www.techmeme.com/260926/p8#a260926p8)
- - [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs)
- - [Old-School Credit Card Scams Are Far From Dead](https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/)
- - [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
- - [12 Best White Elephant Gifts, Plus a Prank Box to Put Them In &lpar;2026&rpar;](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)<!-- TECH:END -->
+ - [Apple owes Taction $5.7B after losing haptic feedback IP trial](https://appleinsider.com/articles/26/09/26/apple-owes-taction-57b-after-losing-haptic-feedback-ip-trial?utm_source=rss)
+ - [Save $200 on Apple Watch Ultra 3 with Milanese Loop while supplies last](https://appleinsider.com/articles/26/09/26/save-200-on-apple-watch-ultra-3-with-milanese-loop-while-supplies-last?utm_source=rss)
+ - [Brazil&#39;s Lula da Silva signs an EO banning online betting; app stores and telecom providers must block platforms on Oct. 6; Congress has 120 days to approve it &lpar;Reuters&rpar;](https://www.techmeme.com/260926/p13#a260926p13)
+ - [OpenAI pauses training of its ‘most capable models’](https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause)
+ - [Sources: YouTube, TikTok, and Meta&#39;s Instagram and Facebook decline to run paid ads for Alex Gibney&#39;s Musk documentary, citing &quot;political content&quot; &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](https://www.techmeme.com/260926/p12#a260926p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

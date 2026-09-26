@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Gravitational Battle Within the Earth Is Changing the Length of Days](https://www.wired.com/story/gravitational-struggle-deep-in-earth-is-changing-length-of-days/)
- - [The Best Early Prime Day Deals Ahead of Amazon’s Second Sale &lpar;2026&rpar;](https://www.wired.com/story/amazon-prime-day-early-deals-09-26-2026/)
- - [Enshittification Has a New Mascot, and He’s Teaming Up With Death in a Hilarious Ad Campaign](https://www.cnet.com/tech/services-and-software/enshittification-humor-video-brings-awareness/)
- - [Can an &amp;#8216;eSUV&amp;#8217; e-bike really go from trail to town?](https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox)
- - [A look at the wave of Google DeepMind researchers who have exited recently to launch their own AI startups focused on alternatives to LLMs &lpar;Bloomberg&rpar;](https://www.techmeme.com/260926/p6#a260926p6)<!-- TECH:END -->
+ - [Walmart CEO John Furner says the company won&#39;t use its AI shopping assistant or electronic shelf labels to change product prices based on a shopper&#39;s identity &lpar;Gregory Meyer/Financial Times&rpar;](https://www.techmeme.com/260926/p8#a260926p8)
+ - [Control Resonant is a great game — it’s even better when you read everything](https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs)
+ - [Old-School Credit Card Scams Are Far From Dead](https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/)
+ - [Pokémon card resellers have turned collecting into an online blood sport](https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers)
+ - [12 Best White Elephant Gifts, Plus a Prank Box to Put Them In &lpar;2026&rpar;](https://www.wired.com/gallery/best-white-elephant-gifts-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

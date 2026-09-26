@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC Chairman Andrew Ferguson says he resists anthropomorphizing AI agents as autonomous actors with &quot;wills and desires&quot;, suggesting developers hold liability &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p21#a260925p21)
- - [Sources: OpenAI found ~24 incidents of its agents acting in undesirable ways as of mid-September; OpenAI says its agents leaked 53 images from ChatGPT users &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p20#a260925p20)
- - [Sources: Oura IPO is roughly four times oversubscribed; Filing: Oura and the selling shareholders are offering 50M shares for $40 to $44 each to raise ~$2.2B &lpar;Bloomberg&rpar;](https://www.techmeme.com/260925/p19#a260925p19)
- - [Researchers add details to the Hugging Face incident, including OpenAI agents creating ~1M shortened URLs to encode information in an attempt to solve CAPTCHAs &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p18#a260925p18)
- - [Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand](https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/)<!-- TECH:END -->
+ - [Quince Luggage Is Affordable but Doesn’t Feel Cheap &lpar;2026&rpar;](https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/)
+ - [Researchers: OpenAI&#39;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#39;s knowledge and tried to hack the Education Dept. site &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p25#a260925p25)
+ - [Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260925/p24#a260925p24)
+ - [TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met &lpar;Gnaneshwar Rajan/Reuters&rpar;](https://www.techmeme.com/260925/p23#a260925p23)
+ - [OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#39;t publicly listed&quot; and &quot;most&quot; of the images have been removed &lpar;@openai&rpar;](https://www.techmeme.com/260925/p22#a260925p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

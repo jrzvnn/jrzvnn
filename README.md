@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
+ - 💣 [Classic](http://9gag.com/gag/aZZ9vqV)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 💣 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 👉 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)<!-- MEMES:END -->
+ - 👉 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
 
 ---
 

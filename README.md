@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quince Luggage Is Affordable but Doesn’t Feel Cheap &lpar;2026&rpar;](https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/)
- - [Researchers: OpenAI&#39;s agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI&#39;s knowledge and tried to hack the Education Dept. site &lpar;New York Times&rpar;](https://www.techmeme.com/260925/p25#a260925p25)
- - [Former US Army soldier Cameron Wagenius, who pleaded guilty in 2025 to hacking into telecom companies and to extortion, is sentenced to 70 months in prison &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/260925/p24#a260925p24)
- - [TikTok reaches a settlement with Alabama over social media addiction claims; Alabama will receive at least $100M, and up to $300M if certain conditions are met &lpar;Gnaneshwar Rajan/Reuters&rpar;](https://www.techmeme.com/260925/p23#a260925p23)
- - [OpenAI says the 53 images its agents uploaded were on &quot;image-hosting sites as links that weren&#39;t publicly listed&quot; and &quot;most&quot; of the images have been removed &lpar;@openai&rpar;](https://www.techmeme.com/260925/p22#a260925p22)<!-- TECH:END -->
+ - [A US federal judge dealt fresh setbacks to Deel in the Rippling case over alleged spying, including rejecting its bid to strike testimony from a central witness &lpar;Peter Blumberg/Bloomberg&rpar;](https://www.techmeme.com/260926/p2#a260926p2)
+ - [OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training &lpar;OpenAI&rpar;](https://www.techmeme.com/260926/p1#a260926p1)
+ - [Google says ShinyHunters has renewed &quot;mass exploitation&quot; of a flaw in Oracle&#39;s PeopleSoft; ShinyHunters has said it accessed FBI data using a flaw in PeopleSoft &lpar;Reuters&rpar;](https://www.techmeme.com/260925/p27#a260925p27)
+ - [A bipartisan group of US lawmakers introduces a bill to bar the federal government from equipping sensitive government systems with Chinese optical transceivers &lpar;Alexandra Alper/Reuters&rpar;](https://www.techmeme.com/260925/p26#a260925p26)
+ - [Leaks Show That Meta’s New AI Agent Relied on Real People to Make Calls](https://www.cnet.com/tech/services-and-software/leaks-metas-new-ai-agent-muse-real-people-call-centers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

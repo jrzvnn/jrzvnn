@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 😝 [We are cooked.](http://9gag.com/gag/aRBxoyB)
- - 💣 [Jokes aside. Now *this* is a real Friday!](http://9gag.com/gag/aD2BX2Z)
- - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 👉 [We are cooked.](http://9gag.com/gag/aRBxoyB)<!-- MEMES:END -->
+ - 😝 [He is making a list of the United States&#39; new enemies.](http://9gag.com/gag/a87rKeO)
+ - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
+ - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
+ - 👉 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)<!-- MEMES:END -->
 
 ---
 

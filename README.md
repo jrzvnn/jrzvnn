@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)
- - 😝 [He is making a list of the United States&#39; new enemies.](http://9gag.com/gag/a87rKeO)
+ - 😝 [DAYUM GURL, I THOUGHT THE EXTRA ZERO ON THE 1500cm IN YOUR DATING PROFILE WAS JUST A TYPO ERROR OMG!](http://9gag.com/gag/aZZ9zQX)
  - 💣 [We are cooked.](http://9gag.com/gag/aRBxoyB)
  - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 👉 [POV: The Oldest House has fallen, Manhattan is cooked.](http://9gag.com/gag/a2vQbG9)<!-- MEMES:END -->

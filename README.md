@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
  - 😝 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
- - 💣 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
- - 👉 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)<!-- MEMES:END -->
+ - 💣 [Do you like Americano or white?](http://9gag.com/gag/aAynvWd)
+ - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
+ - 👉 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
 
 ---
 

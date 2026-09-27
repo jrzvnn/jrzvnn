@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
+ - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
+ - 😝 [Liberal woman bought and then burned Converse shoes to protest their `KKK-coded` ad](http://9gag.com/gag/an7AGpB)
+ - 💣 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
- - 💣 [Source pls](http://9gag.com/gag/a7ojA7w)
- - 😝 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
- - 👉 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
+ - 👉 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)<!-- MEMES:END -->
 
 ---
 

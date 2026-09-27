@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)
- - [Amazon slashes $900 off Apple&#39;s M5 Max MacBook Pro, lowest price ever](https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss)
- - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
- - [Sources: China&#39;s government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260927/p8#a260927p8)
- - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)<!-- TECH:END -->
+ - [How AI&#39;s acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks &lpar;New York Times&rpar;](https://www.techmeme.com/260927/p11#a260927p11)
+ - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
+ - [Sunday Reboot: Big Whoop and more Apple Watch nagging](https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss)
+ - [Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260927/p10#a260927p10)
+ - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

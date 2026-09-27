@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Party Speakers &lpar;2026&rpar;: JBL, Sony, Marshall, and More](https://www.wired.com/story/best-party-speaker/)
- - [What’s the Best Pet DNA Test? We Tested the Most Popular Ones](https://www.wired.com/story/best-pet-dna-test-kits/)
- - [In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals &lpar;Lily Kuo/New York Times&rpar;](https://www.techmeme.com/260927/p5#a260927p5)
- - [You Don’t Need to Pay for Distraction-Blocking Software](https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/)
- - [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet](https://www.wired.com/story/data-center-backlash-climate-reckoning/)<!-- TECH:END -->
+ - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)
+ - [Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei &lpar;Axios&rpar;](https://www.techmeme.com/260927/p7#a260927p7)
+ - [Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260927/p6#a260927p6)
+ - [Apple&#39;s smart glasses predicted for 2027, upgraded Apple Vision Pro 2028](https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028?utm_source=rss)
+ - [Apple&#39;s US staff will get extended Thanksgiving break under Ternus too](https://appleinsider.com/articles/26/09/27/apples-us-staff-will-get-extended-thanksgiving-break-under-ternus-too?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

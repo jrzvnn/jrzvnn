@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital &lpar;Brian Danga/The Block&rpar;](https://www.techmeme.com/260927/p3#a260927p3)
- - [PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260927/p2#a260927p2)
- - [Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners &lpar;FinTech Global&rpar;](https://www.techmeme.com/260927/p1#a260927p1)
- - [Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260926/p20#a260926p20)
- - [Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260926/p19#a260926p19)<!-- TECH:END -->
+ - [Best Party Speakers &lpar;2026&rpar;: JBL, Sony, Marshall, and More](https://www.wired.com/story/best-party-speaker/)
+ - [What’s the Best Pet DNA Test? We Tested the Most Popular Ones](https://www.wired.com/story/best-pet-dna-test-kits/)
+ - [In China, recent warnings about existential AI risks are seen as distinctly Western or as a ploy to stop Chinese AI companies from overtaking their US rivals &lpar;Lily Kuo/New York Times&rpar;](https://www.techmeme.com/260927/p5#a260927p5)
+ - [You Don’t Need to Pay for Distraction-Blocking Software](https://www.wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software/)
+ - [The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet](https://www.wired.com/story/data-center-backlash-climate-reckoning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

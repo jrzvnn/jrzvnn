@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
- - 😝 [Liberal woman bought and then burned Converse shoes to protest their `KKK-coded` ad](http://9gag.com/gag/an7AGpB)
+ - 😝 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
  - 💣 [Long legs VS. Long torso](http://9gag.com/gag/aQzYOLr)
  - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
  - 👉 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)<!-- MEMES:END -->

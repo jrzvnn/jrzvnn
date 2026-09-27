@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)
- - [Sources: Trump plans to host Dario Amodei at a private White House dinner on Sunday, an indication of thawing relations; Trump personally invited Amodei &lpar;Axios&rpar;](https://www.techmeme.com/260927/p7#a260927p7)
- - [Meta VR Glasses is the product Vision Pro should have been; sources: Apple Vision team is working on a revamped headset, but the work is still on &quot;life support&quot; &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/260927/p6#a260927p6)
- - [Apple&#39;s smart glasses predicted for 2027, upgraded Apple Vision Pro 2028](https://appleinsider.com/articles/26/09/27/apples-smart-glasses-predicted-for-2027-upgraded-apple-vision-pro-2028?utm_source=rss)
- - [Apple&#39;s US staff will get extended Thanksgiving break under Ternus too](https://appleinsider.com/articles/26/09/27/apples-us-staff-will-get-extended-thanksgiving-break-under-ternus-too?utm_source=rss)<!-- TECH:END -->
+ - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)
+ - [Amazon slashes $900 off Apple&#39;s M5 Max MacBook Pro, lowest price ever](https://appleinsider.com/articles/26/09/27/amazon-slashes-900-off-apples-m5-max-macbook-pro-lowest-price-ever?utm_source=rss)
+ - [OpenAI agents tried to ‘bruteforce’ a UN website](https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website)
+ - [Sources: China&#39;s government asked Alibaba, ByteDance, and others to report on their plans to buy Nvidia RTX Pro 5500, saying it intends to approve the purchases &lpar;Qianer Liu/The Information&rpar;](https://www.techmeme.com/260927/p8#a260927p8)
+ - [Apple Vision Pro&#39;s development graveyard exemplifies Apple&#39;s &#39;1,000 no&#39;s to every yes&#39;](https://appleinsider.com/articles/26/09/27/apple-vision-pros-development-graveyard-exemplifies-apples-1000-nos-to-every-yes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

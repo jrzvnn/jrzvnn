@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Threat Intelligence Group finds dark web marketplaces selling access to AI models, including from Anthropic, Google, and OpenAI, at up to 97% discounts &lpar;Tom Wilson/Financial Times&rpar;](https://www.techmeme.com/260926/p18#a260926p18)
- - [Apple hit with $5.7 billion in damages over haptic patents](https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents)
- - [Sources: US and Russian diplomats worked to weaken an AI weapons pact at the UN this month, removing a requirement that humans review AI-generated targets, more &lpar;Pranshu Verma/Washington Post&rpar;](https://www.techmeme.com/260926/p17#a260926p17)
- - [Decap is the man behind the drums behind your favorite song](https://www.theverge.com/report/1000994/decap-drums-that-knock-interview)
- - [Meta says its rejection of ads promoting the new documentary about Elon Musk &quot;was an error and the ads are being restored&quot;; YouTube is also allowing the ads &lpar;Anthony Ha/TechCrunch&rpar;](https://www.techmeme.com/260926/p16#a260926p16)<!-- TECH:END -->
+ - [New York City-based HIFI, which provides API infrastructure for stablecoin payments and settlements, raised a $37M Series A led by Left Lane Capital &lpar;Brian Danga/The Block&rpar;](https://www.techmeme.com/260927/p3#a260927p3)
+ - [PicoJool, which is developing AI data center interconnects based on vertical cavity surface emitting lasers, raised a $27.5M Series A led by Socratic Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/260927/p2#a260927p2)
+ - [Numeral, a provider of AI-powered tech to automate sales tax compliance workflows in over 90 countries, raised a $100M Series C led by Insight Partners &lpar;FinTech Global&rpar;](https://www.techmeme.com/260927/p1#a260927p1)
+ - [Sources: OpenAI, Anthropic, and researchers are probing tens of thousands of frontier model security incidents, including sandbox escapes and website hijacking &lpar;Madison Mills/Axios&rpar;](https://www.techmeme.com/260926/p20#a260926p20)
+ - [Research: OpenAI agents scanned a UN data hub 16K+ times between April and the end of June, and circumvented a filter that was blocking their requests for data &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/260926/p19#a260926p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

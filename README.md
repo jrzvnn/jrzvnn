@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mentions of open models in latest US earnings calls surged 6x YoY, with open models hitting 56% of Vercel tokens in August and 40% of AT&amp;T&#39;s AI workloads &lpar;Financial Times&rpar;](https://www.techmeme.com/260927/p12#a260927p12)
+ - [Out of the Park Baseball lets me enjoy baseball even when the Mets suck](https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review)
  - [How AI&#39;s acceleration created a global policy vacuum, as EU AI Act enforcement lags and regulators remain torn between harnessing AI and fearing its risks &lpar;New York Times&rpar;](https://www.techmeme.com/260927/p11#a260927p11)
  - [Engram is a sampler that turns broken AI hallucinations into music](https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music)
- - [Sunday Reboot: Big Whoop and more Apple Watch nagging](https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss)
- - [Q&amp;A with Mustafa Suleyman on recent AI safety incidents, risks of removing guardrails while testing 10x-larger future models, a cross-industry safety body, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/260927/p10#a260927p10)
- - [A profile of Jaan Tallinn, who led Anthropic&#39;s $124M Series A in 2021, has advocated for AI safety for over a decade, and donated ~$170M to safety initiatives &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/260927/p9#a260927p9)<!-- TECH:END -->
+ - [Sunday Reboot: Big Whoop and more Apple Watch nagging](https://appleinsider.com/articles/26/09/27/sunday-reboot-big-whoop-and-more-apple-watch-nagging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

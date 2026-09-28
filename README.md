@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
  - 😝 [Faster than food](http://9gag.com/gag/apRedDb)
- - 😝 [Detained Animals Ranked](http://9gag.com/gag/aVvGd0M)
- - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 😝 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
+ - 💣 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
+ - 😝 [Reasonable reaction](http://9gag.com/gag/apRedPM)
  - 👉 [Which one is the worst](http://9gag.com/gag/a4PMxPp)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SaaSpocalypse that wasn&amp;#8217;t, with Atlassian CEO Mike Cannon-Brookes](https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira)
- - [Apple &amp; Amazon UK face revived $383 million price fixing lawsuit](https://appleinsider.com/articles/26/09/28/apple-amazon-uk-face-revived-383-million-price-fixing-lawsuit?utm_source=rss)
- - [Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia&#39;s CUDA-based hardware &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260928/p22#a260928p22)
- - [Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’](https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents)
- - [Quartermaster, which builds a SmartMast for ships to relay real-time maritime data, raised a $140M Series B, with $100M in equity, after a $43M Series A in May &lpar;TechCrunch&rpar;](https://www.techmeme.com/260928/p21#a260928p21)<!-- TECH:END -->
+ - [AMD agrees to acquire Fei-Fei Li&#39;s World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260928/p36#a260928p36)
+ - [Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260928/p35#a260928p35)
+ - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
+ - [Boox Announces the Picco, Its Smallest E-Reader Ever &lpar;2026&rpar;](https://www.wired.com/story/boox-picco-announcement-2026/)
+ - [Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia&#39;s $13B acquisition, but talks fell apart; AMD and Salesforce also held talks &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/260928/p34#a260928p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

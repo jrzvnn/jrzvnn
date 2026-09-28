@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI-backed Red Queen Bio, an AI biosecurity startup with $36M raised to design antibody drugs against pathogens, including AI-enabled bioweapons &lpar;Georgia Wells/Wall Street Journal&rpar;](https://www.techmeme.com/260928/p2#a260928p2)
- - [The US DHS says it will &quot;revolutionize&quot; its FOIA process by using AI to handle certain types of requests and recommend what information should be redacted &lpar;Nate Jones/Washington Post&rpar;](https://www.techmeme.com/260928/p1#a260928p1)
- - [Citrix confirms two critical NetScaler zero-day RCE vulnerabilities are being exploited in attacks, says it has released security updates to fix the flaws &lpar;Lawrence Abrams/BleepingComputer&rpar;](https://www.techmeme.com/260927/p15#a260927p15)
- - [Ramona Optics, which makes microscopes that use AI to take and analyze large volumes of images of samples, raised a $25M Series A &lpar;Zachery Eanes/Axios&rpar;](https://www.techmeme.com/260927/p14#a260927p14)
- - [NYC-based Precision Neuroscience, which develops brain-computer interfaces, raised a $250M Series D at a $1B+ valuation, taking its total funding to $430M &lpar;Lauren Hirsch/New York Times&rpar;](https://www.techmeme.com/260927/p13#a260927p13)<!-- TECH:END -->
+ - [The SaaSpocalypse that wasn&amp;#8217;t, with Atlassian CEO Mike Cannon-Brookes](https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira)
+ - [Apple &amp; Amazon UK face revived $383 million price fixing lawsuit](https://appleinsider.com/articles/26/09/28/apple-amazon-uk-face-revived-383-million-price-fixing-lawsuit?utm_source=rss)
+ - [Physical AI chip startup SiMa.ai raised a $150M Series C led by Fidelity and Amplify at a $1.45B valuation, aiming to compete with Nvidia&#39;s CUDA-based hardware &lpar;Kyt Dotson/SiliconANGLE&rpar;](https://www.techmeme.com/260928/p22#a260928p22)
+ - [Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’](https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents)
+ - [Quartermaster, which builds a SmartMast for ships to relay real-time maritime data, raised a $140M Series B, with $100M in equity, after a $43M Series A in May &lpar;TechCrunch&rpar;](https://www.techmeme.com/260928/p21#a260928p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

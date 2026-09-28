@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
- - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
+ - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
  - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 😝 [Aggressive jungle wildlife](http://9gag.com/gag/aPAOnoG)
- - 👉 [Classic](http://9gag.com/gag/aZZ9vqV)<!-- MEMES:END -->
+ - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
 
 ---
 

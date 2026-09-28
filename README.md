@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
+ - 😝 [Faster than food](http://9gag.com/gag/apRedDb)
+ - 😝 [Detained Animals Ranked](http://9gag.com/gag/aVvGd0M)
+ - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
  - 😝 [It&#39;s Fred Flintstones rocklight](http://9gag.com/gag/azx6Qzm)
- - 💣 [Which one is the worst](http://9gag.com/gag/a4PMxPp)
- - 😝 [Classic](http://9gag.com/gag/aZZ9vqV)
- - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
+ - 👉 [Which one is the worst](http://9gag.com/gag/a4PMxPp)<!-- MEMES:END -->
 
 ---
 

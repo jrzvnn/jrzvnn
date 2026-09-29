@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sen. Blumenthal-led report: Tether&#39;s USDT is central to Iran&#39;s shadow banking system; 87% of 757 &quot;terrorism&quot;-related wallets predominantly transacted in USDT &lpar;Sarah Wynn/The Block&rpar;](https://www.techmeme.com/260928/p43#a260928p43)
- - [Huion Kamvas Pad 12 Review: A portable but problematic artist&#39;s tool](https://appleinsider.com/articles/26/09/29/huion-kamvas-pad-12-review-a-portable-but-problematic-artists-tool?utm_source=rss)
- - [Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260928/p42#a260928p42)
- - [Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/260928/p41#a260928p41)
- - [IPO prospectus: Anthropic reports a net loss of $42B in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260928/p40#a260928p40)<!-- TECH:END -->
+ - [Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house &lpar;Danny Park/The Block&rpar;](https://www.techmeme.com/260929/p2#a260929p2)
+ - [Motorola Coupon Code for October 2026](https://www.wired.com/story/motorola-coupon-code/)
+ - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
+ - [Home Depot Promo Codes: 30% Off in October 2026](https://www.wired.com/story/home-depot-promo-code/)
+ - [50% Off Blue Apron Promo Codes | October 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 😝 [My father knows everything](https://www.reddit.com/r/funny/comments/1wthido/my_father_knows_everything/)
+ - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 😝 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
  - 💣 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 👉 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)<!-- MEMES:END -->
+ - 😝 [Who&#39;s your favorite Marvel superhero?](https://www.reddit.com/r/funny/comments/1wtns9l/whos_your_favorite_marvel_superhero/)
+ - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
 
 ---
 

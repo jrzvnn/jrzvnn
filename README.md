@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase gets CFTC approval for Coinbase Clearing, completing its derivatives stack, letting it list, broker, and clear fully collateralized products in-house &lpar;Danny Park/The Block&rpar;](https://www.techmeme.com/260929/p2#a260929p2)
- - [Motorola Coupon Code for October 2026](https://www.wired.com/story/motorola-coupon-code/)
- - [NordVPN Coupons: 75% Off, Plus 3 Months Free in October 2026](https://www.wired.com/story/nordvpn-coupon/)
- - [Home Depot Promo Codes: 30% Off in October 2026](https://www.wired.com/story/home-depot-promo-code/)
- - [50% Off Blue Apron Promo Codes | October 2026](https://www.wired.com/story/blue-apron-coupon/)<!-- TECH:END -->
+ - [US Adults Have Tighter Holiday Shopping Budgets Amid Rising Tech Costs, CNET Finds](https://www.cnet.com/tech/holiday-shopping-2026/)
+ - [Will Chinese AI companies slow down? A top House Democrat wants answers](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty)
+ - [Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat)
+ - [M5 Max Mac Studio review: Far better choice than Ultra for most desks](https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss)
+ - [EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260929/p18#a260929p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

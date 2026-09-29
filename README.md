@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 😝 [Look where they sent the Google Street View guy.](http://9gag.com/gag/aoyBAmx)
- - 💣 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)
- - 😝 [Look where they sent the Google Street View guy.](http://9gag.com/gag/aoyBAmx)
- - 👉 [Pay here&#39;s two more dollar](http://9gag.com/gag/a6ZWx5A)<!-- MEMES:END -->
+ - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
+ - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
+ - 💣 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
+ - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
+ - 👉 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)<!-- MEMES:END -->
 
 ---
 

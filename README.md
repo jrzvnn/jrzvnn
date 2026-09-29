@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Adults Have Tighter Holiday Shopping Budgets Amid Rising Tech Costs, CNET Finds](https://www.cnet.com/tech/holiday-shopping-2026/)
- - [Will Chinese AI companies slow down? A top House Democrat wants answers](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty)
- - [Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing](https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat)
- - [M5 Max Mac Studio review: Far better choice than Ultra for most desks](https://appleinsider.com/articles/26/09/29/m5-max-mac-studio-review-far-better-choice-than-ultra-for-most-desks?utm_source=rss)
- - [EliseAI, which provides AI tools for health care and housing industries, raised $350M at a $4B valuation, up from $2.2B after raising $250M in August 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/260929/p18#a260929p18)<!-- TECH:END -->
+ - [OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT &lpar;Paul Sawers/The New Stack&rpar;](https://www.techmeme.com/260929/p39#a260929p39)
+ - [Anthropic Says It Discovered a Crispr-Like System. Now What?](https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/)
+ - [Apple Creator Studio lets you change iPhone 18 Pro video focus after filming](https://appleinsider.com/articles/26/09/29/apple-creator-studio-lets-you-change-iphone-18-pro-video-focus-after-filming?utm_source=rss)
+ - [OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260929/p38#a260929p38)
+ - [Variable aperture iPhone 18 Pro now supported by Final Cut Camera](https://appleinsider.com/articles/26/09/29/variable-aperture-iphone-18-pro-now-supported-by-final-cut-camera?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

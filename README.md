@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says Plus and Pro subscribers can use their existing plan allowance with 16 launch partners, including Vercel and Devin, via Sign in with ChatGPT &lpar;Paul Sawers/The New Stack&rpar;](https://www.techmeme.com/260929/p39#a260929p39)
- - [Anthropic Says It Discovered a Crispr-Like System. Now What?](https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/)
- - [Apple Creator Studio lets you change iPhone 18 Pro video focus after filming](https://appleinsider.com/articles/26/09/29/apple-creator-studio-lets-you-change-iphone-18-pro-video-focus-after-filming?utm_source=rss)
- - [OpenAI unveils Decisions API, which returns predefined answers with confidence scores, available in limited preview with no pricing details &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/260929/p38#a260929p38)
- - [Variable aperture iPhone 18 Pro now supported by Final Cut Camera](https://appleinsider.com/articles/26/09/29/variable-aperture-iphone-18-pro-now-supported-by-final-cut-camera?utm_source=rss)<!-- TECH:END -->
+ - [President Trump signs an executive order requiring federal government agencies to refer to AI as &quot;Super Intelligence&quot; or &quot;SI&quot; in all official communications &lpar;Michael Shepard/Bloomberg&rpar;](https://www.techmeme.com/260929/p50#a260929p50)
+ - [IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p49#a260929p49)
+ - [BMW’s revamped i3 boasts up to 468 miles of range](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
+ - [Suspected ShinyHunters leader arrested in the Netherlands](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
+ - [Elon Musk&amp;#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

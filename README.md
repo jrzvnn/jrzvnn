@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
- - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
- - 💣 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
- - 😝 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)
- - 👉 [Don&#39;t stick it into a crazy &lpar;or latina o de Monterrey las hijas de la shingada&rpar;](http://9gag.com/gag/avyb4zZ)<!-- MEMES:END -->
+ - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
+ - 😝 [My father knows everything](https://www.reddit.com/r/funny/comments/1wthido/my_father_knows_everything/)
+ - 💣 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
+ - 😝 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
+ - 👉 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)<!-- MEMES:END -->
 
 ---
 

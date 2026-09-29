@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD agrees to acquire Fei-Fei Li&#39;s World Labs for $8.2B in an all-stock deal expected to close by year-end; Li will join AMD as EVP and chief scientist &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260928/p36#a260928p36)
- - [Sources: Blockchain.com tells prospective investors it wants to go public this year, seeking to raise about $500M in an IPO targeting a $4B to $6B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/260928/p35#a260928p35)
- - [Bose starts adding Auracast to its headphones](https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support)
- - [Boox Announces the Picco, Its Smallest E-Reader Ever &lpar;2026&rpar;](https://www.wired.com/story/boox-picco-announcement-2026/)
- - [Sources: OpenAI offered to invest ~$100M in Hugging Face before Nvidia&#39;s $13B acquisition, but talks fell apart; AMD and Salesforce also held talks &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/260928/p34#a260928p34)<!-- TECH:END -->
+ - [Sen. Blumenthal-led report: Tether&#39;s USDT is central to Iran&#39;s shadow banking system; 87% of 757 &quot;terrorism&quot;-related wallets predominantly transacted in USDT &lpar;Sarah Wynn/The Block&rpar;](https://www.techmeme.com/260928/p43#a260928p43)
+ - [Huion Kamvas Pad 12 Review: A portable but problematic artist&#39;s tool](https://appleinsider.com/articles/26/09/29/huion-kamvas-pad-12-review-a-portable-but-problematic-artists-tool?utm_source=rss)
+ - [Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260928/p42#a260928p42)
+ - [Rep. Ro Khanna will introduce the Human Control Over AI Act, with strict liability and a ban on recursive self-improving AI until government safeguards exist &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/260928/p41#a260928p41)
+ - [IPO prospectus: Anthropic reports a net loss of $42B in 2025 and plans to spend $518B on cloud, computing, and infrastructure obligations in the coming year &lpar;Echo Wang/Reuters&rpar;](https://www.techmeme.com/260928/p40#a260928p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

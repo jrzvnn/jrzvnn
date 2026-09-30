@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)
- - [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
- - [Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p56#a260929p56)
- - [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/260929/p55#a260929p55)
- - [At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together &lpar;Ronan Shields/Digiday&rpar;](https://www.techmeme.com/260929/p54#a260929p54)<!-- TECH:END -->
+ - [Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260930/p8#a260930p8)
+ - [Alibaba&#39;s ModelScope and OSChina&#39;s MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K &lpar;Viola Zhou/Rest of World&rpar;](https://www.techmeme.com/260930/p7#a260930p7)
+ - [Hands-on with Dots, OpenAI&#39;s work-focused agentic product: highly capable and intuitive, with natural-feeling conversations represented as a chat inside ChatGPT &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260930/p6#a260930p6)
+ - [Sources: US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu &lpar;Megawati Wijaya/Bloomberg&rpar;](https://www.techmeme.com/260930/p5#a260930p5)
+ - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

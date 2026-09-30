@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore doubles down on chipmaking as the AI boom lifts its economy, but high costs, scarce land and labor, and US trade scrutiny threaten its ambitions &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/260930/p8#a260930p8)
- - [Alibaba&#39;s ModelScope and OSChina&#39;s MoArk are vying to become Chinese alternatives to Hugging Face; ModelScope hosts 170K+ open models, while MoArk hosts ~20K &lpar;Viola Zhou/Rest of World&rpar;](https://www.techmeme.com/260930/p7#a260930p7)
- - [Hands-on with Dots, OpenAI&#39;s work-focused agentic product: highly capable and intuitive, with natural-feeling conversations represented as a chat inside ChatGPT &lpar;Casey Newton/Platformer&rpar;](https://www.techmeme.com/260930/p6#a260930p6)
- - [Sources: US-based PaleBlueDot AI is seeking $600M in private credit to buy chips for its South Korea site, to be used by Chinese social media app Xiaohongshu &lpar;Megawati Wijaya/Bloomberg&rpar;](https://www.techmeme.com/260930/p5#a260930p5)
- - [The 6 Best Laptop Docking Stations to Unlock the Full Desktop Experience &lpar;2026&rpar;](https://www.wired.com/gallery/best-laptop-docking-stations/)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
+ - [The Sonos Ace Ultra are the headphones Sonos should have made the first time](https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review)
+ - [Potato by air](https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery)
+ - [You’ll soon be able to order DoorDash by text message](https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability)
+ - [Sources: Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely &lpar;The Information&rpar;](https://www.techmeme.com/260930/p22#a260930p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

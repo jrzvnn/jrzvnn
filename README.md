@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
- - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
- - 💣 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
- - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
- - 👉 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 💣 [What?](http://9gag.com/gag/a7ojm1A)
+ - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
 
 ---
 

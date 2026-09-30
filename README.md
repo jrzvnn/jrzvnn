@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump signs an executive order requiring federal government agencies to refer to AI as &quot;Super Intelligence&quot; or &quot;SI&quot; in all official communications &lpar;Michael Shepard/Bloomberg&rpar;](https://www.techmeme.com/260929/p50#a260929p50)
- - [IPO filing: Anthropic routed 47% of its sales, or ~$2.16B, in 2025 through cloud partners Amazon and Google; analysis: it paid ~$351M back in distribution fees &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p49#a260929p49)
- - [BMW’s revamped i3 boasts up to 468 miles of range](https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range)
- - [Suspected ShinyHunters leader arrested in the Netherlands](https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested)
- - [Elon Musk&amp;#8217;s AI-powered Grokipedia is updating again](https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again)<!-- TECH:END -->
+ - [AI infrastructure company Accelevation and backer Olympus raise $540M in a US IPO after selling 30M shares for $18 each, below its marketed $20-$24 range &lpar;Bloomberg&rpar;](https://www.techmeme.com/260929/p57#a260929p57)
+ - [Sam Altman says OpenAI won’t go public until its models are safe](https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety)
+ - [Robinhood plans to let users trade some US stocks round-the-clock during weekends, wager on specific corporate earnings metrics, and trade perpetual futures &lpar;Reuters&rpar;](https://www.techmeme.com/260929/p56#a260929p56)
+ - [Trump releases a voluntary AI accord with tech leaders, asking companies to partner with external auditors and set up internal controls to monitor AI alignment &lpar;Kanishka Singh/Reuters&rpar;](https://www.techmeme.com/260929/p55#a260929p55)
+ - [At the unBoxed conference, Amazon moves AI from being a feature to playing a more central role in ad-buying and brings previously separate ad workflows together &lpar;Ronan Shields/Digiday&rpar;](https://www.techmeme.com/260929/p54#a260929p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

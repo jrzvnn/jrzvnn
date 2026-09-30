@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
  - 😝 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 😝 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 💣 [Nefarious Plans [OC]](https://www.reddit.com/r/funny/comments/1wu45yt/nefarious_plans_oc/)
- - 😝 [This is getting out of control](https://www.reddit.com/r/funny/comments/1wu45tp/this_is_getting_out_of_control/)
+ - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 😝 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
  - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
 
 ---

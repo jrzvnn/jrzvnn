@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
- - 😝 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 😝 [Pubest le fromage?](http://9gag.com/gag/aMVp6KM)
- - 👉 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)<!-- MEMES:END -->
+ - 😝 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
+ - 😝 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
+ - 💣 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 👉 [Tipping culture is insane](http://9gag.com/gag/avybVeO)<!-- MEMES:END -->
 
 ---
 

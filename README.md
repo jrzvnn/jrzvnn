@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260930/p39#a260930p39)
- - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
- - [Apple Music finally lands in four countries 11 years after launch](https://appleinsider.com/articles/26/09/30/apple-music-finally-lands-in-four-countries-11-years-after-launch?utm_source=rss)
- - [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
- - [Amazon&amp;#8217;s delivery driver smart glasses will reportedly take photos &amp;#8216;almost constantly&amp;#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)<!-- TECH:END -->
+ - [Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it&#39;s important to be honest &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260930/p48#a260930p48)
+ - [Factory CEO Matan Grinberg alleges Cognition&#39;s new CRO Chris Degnan had been confiding with Cognition executives while advising Factory as a board observer &lpar;Rya Jetha/Business Insider&rpar;](https://www.techmeme.com/260930/p47#a260930p47)
+ - [Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks](https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/)
+ - [Ionna Charging Network Doubled to Over 180 Sites in 2026. Its CEO Tells Us What’s Next](https://www.cnet.com/home/electric-vehicles/ionna-ev-fast-charging-2026-growth-ceo-interview/)
+ - [Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates &lpar;CNBC&rpar;](https://www.techmeme.com/260930/p46#a260930p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

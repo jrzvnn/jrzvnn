@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&amp;#8217;s new Fire TV Stick 4K can pull power directly from your TV](https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power)
- - [The Sonos Ace Ultra are the headphones Sonos should have made the first time](https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review)
- - [Potato by air](https://www.theverge.com/report/1002172/potato-by-air-wing-drone-delivery)
- - [You’ll soon be able to order DoorDash by text message](https://www.theverge.com/tech/1002545/doordash-text-orders-drones-retail-returns-availability)
- - [Sources: Google is paying ~100 digital publishers for how much their content contributes to AI Overviews, AI Mode, and Gemini in a pilot; payments vary widely &lpar;The Information&rpar;](https://www.techmeme.com/260930/p22#a260930p22)<!-- TECH:END -->
+ - [Document: SpaceXAI plans a unified subscription for Grok and X with four tiers, including a $100/month Ultra plan, an $8/month Lite plan, and a free offering &lpar;Edward Ludlow/Bloomberg&rpar;](https://www.techmeme.com/260930/p39#a260930p39)
+ - [The AI Tamagotchis are coming](https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices)
+ - [Apple Music finally lands in four countries 11 years after launch](https://appleinsider.com/articles/26/09/30/apple-music-finally-lands-in-four-countries-11-years-after-launch?utm_source=rss)
+ - [Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots](https://www.theverge.com/tech/1002788/old-reddit-ai-scraping)
+ - [Amazon&amp;#8217;s delivery driver smart glasses will reportedly take photos &amp;#8216;almost constantly&amp;#8217;](https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

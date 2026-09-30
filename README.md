@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?](http://9gag.com/gag/a7ojm1A)
- - 😝 [F&rpar; Op likes trans](http://9gag.com/gag/aQzYD4e)
- - 💣 [You are only allowed to eat food from one region, which one do you choose?](http://9gag.com/gag/aKGbXV1)
- - 😝 [Who&#39;s your favorite Marvel superhero?](https://www.reddit.com/r/funny/comments/1wtns9l/whos_your_favorite_marvel_superhero/)
- - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
+ - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 💣 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 😝 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)
+ - 👉 [The guy left work, ordered an Uber, and while waiting, he was arrested for sitting on a bench right after the store closed](http://9gag.com/gag/aYQzvwm)<!-- MEMES:END -->
 
 ---
 

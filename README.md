@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
  - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 😝 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 👉 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
 
 ---
 

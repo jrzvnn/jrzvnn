@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle)
- - [Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle](https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash)
- - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
- - [Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged &lpar;Adrian Diaconescu/PhoneArena&rpar;](https://www.techmeme.com/261001/p22#a261001p22)
- - [What even is a ‘microdrama’?](https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video)<!-- TECH:END -->
+ - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
+ - [Anthropic urges Australia to consider &quot;conditional approval&quot; for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out &lpar;Josh Butler/The Guardian&rpar;](https://www.techmeme.com/261001/p35#a261001p35)
+ - [Android Central &amp;#8216;will continue&amp;#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
+ - [McDonald’s and Walmart Are Part of the Widening Fray Over Surveillance Pricing](https://www.cnet.com/news/privacy/surveillance-pricing-debate-walmart-mcdonalds/)
+ - [Gemini 4 Is Here: When You May Be Able to Use Google’s New AI Model](https://www.cnet.com/tech/services-and-software/google-gemini-4-argon-ai-model-release/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Guided Vision feature can help you read the fine print](https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision)
- - [Anthropic urges Australia to consider &quot;conditional approval&quot; for Big Tech to train models on copyrighted works, giving copyright holders a choice to opt out &lpar;Josh Butler/The Guardian&rpar;](https://www.techmeme.com/261001/p35#a261001p35)
- - [Android Central &amp;#8216;will continue&amp;#8217; despite laying off its staff](https://www.theverge.com/tech/1003735/android-central-layoffs)
- - [McDonald’s and Walmart Are Part of the Widening Fray Over Surveillance Pricing](https://www.cnet.com/news/privacy/surveillance-pricing-debate-walmart-mcdonalds/)
- - [Gemini 4 Is Here: When You May Be Able to Use Google’s New AI Model](https://www.cnet.com/tech/services-and-software/google-gemini-4-argon-ai-model-release/)<!-- TECH:END -->
+ - [California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261001/p43#a261001p43)
+ - [Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261001/p42#a261001p42)
+ - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
+ - [New Mexico asks a judge to order Meta to pay up to $40B after a jury found it willfully deceived customers, in what could be the biggest US court penalty ever &lpar;KRQE&rpar;](https://www.techmeme.com/261001/p41#a261001p41)
+ - [The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions &lpar;Amy Mackinnon/Financial Times&rpar;](https://www.techmeme.com/261001/p40#a261001p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

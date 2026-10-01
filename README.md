@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
- - 😝 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 😝 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
- - 👉 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
+ - 😝 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - 😝 [Only in the US : they&#39;re trying to pepsi you, then they try to heal you](http://9gag.com/gag/aLnqo8A)
+ - 💣 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
+ - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 👉 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Xbox CEO Asha Sharma, who insists that &quot;Xbox is not for sale&quot; despite mass layoffs and divested studios since inheriting the flailing division &lpar;Zachary Small/New York Times&rpar;](https://www.techmeme.com/261001/p10#a261001p10)
- - [SemiAnalysis estimates ~90% of Anthropic&#39;s business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients &lpar;Financial Times&rpar;](https://www.techmeme.com/261001/p9#a261001p9)
- - [A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY2018 to $11.48B in FY2026 as AI reshapes cybersecurity &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/261001/p8#a261001p8)
- - [Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access &lpar;Claude&rpar;](https://www.techmeme.com/261001/p7#a261001p7)
- - [Analysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company &lpar;Financial Times&rpar;](https://www.techmeme.com/261001/p6#a261001p6)<!-- TECH:END -->
+ - [OpenAI’s new agent is a shot at Meta — but can it compete with free?](https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle)
+ - [Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle](https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash)
+ - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+ - [Samsung quietly raises US prices for most of its Galaxy S26 lineup by $100 and the 1TB Galaxy S26 Ultra by $200; the Galaxy Z Fold 8 and Z Flip 8 are unchanged &lpar;Adrian Diaconescu/PhoneArena&rpar;](https://www.techmeme.com/261001/p22#a261001p22)
+ - [What even is a ‘microdrama’?](https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

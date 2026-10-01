@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp Unveils Strict Parental Controls to Head Off Looming Age Laws](https://www.cnet.com/tech/services-and-software/whatsapp-unveils-strict-parental-controls-to-head-off-looming-age-laws/)
- - [Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?](https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/)
- - [Artificial Analysis says Gemini 4 Argon &lpar;high&rpar; matches GPT-6 Astra &lpar;max&rpar; on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260930/p53#a260930p53)
- - [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
- - [California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &lpar;Paxton Honerkamp/CNBC&rpar;](https://www.techmeme.com/260930/p52#a260930p52)<!-- TECH:END -->
+ - [A profile of Xbox CEO Asha Sharma, who insists that &quot;Xbox is not for sale&quot; despite mass layoffs and divested studios since inheriting the flailing division &lpar;Zachary Small/New York Times&rpar;](https://www.techmeme.com/261001/p10#a261001p10)
+ - [SemiAnalysis estimates ~90% of Anthropic&#39;s business comes from agentic AI, while sources say nearly 25% of its revenue in 2025 came from just two clients &lpar;Financial Times&rpar;](https://www.techmeme.com/261001/p9#a261001p9)
+ - [A profile of Palo Alto Networks CEO Nikesh Arora, who has overseen revenue growth from $2.27B in FY2018 to $11.48B in FY2026 as AI reshapes cybersecurity &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/261001/p8#a261001p8)
+ - [Anthropic says Claude for Government is now generally available to federal and state agencies, with Claude Code CLI and Claude for Microsoft 365 in early access &lpar;Claude&rpar;](https://www.techmeme.com/261001/p7#a261001p7)
+ - [Analysis: Google, Apple, and Amazon each have more meetings with European parliament and European Commission officials than any individual European company &lpar;Financial Times&rpar;](https://www.techmeme.com/261001/p6#a261001p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

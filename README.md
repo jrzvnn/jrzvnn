@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [hey, It&#39;s me, orangity &lpar;7am wake up in the morning&rpar;](https://www.reddit.com/r/funny/comments/1wv153w/hey_its_me_orangity_7am_wake_up_in_the_morning/)
  - 😝 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
- - 💣 [What?](http://9gag.com/gag/a7ojm1A)
- - 😝 [New fun](http://9gag.com/gag/aryP0gX)
- - 👉 [Delicious](http://9gag.com/gag/a1m486w)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/a7ojm1A)
+ - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 😝 [Behind only the $16.4 million Pikachu Illustrator.](http://9gag.com/gag/ayNyrxV)
+ - 👉 [What?](http://9gag.com/gag/a7ojm1A)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Jensen Huang and other execs asked Dario Amodei at the White House why he was so extreme in public on AI risks; Amodei said it&#39;s important to be honest &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/260930/p48#a260930p48)
- - [Factory CEO Matan Grinberg alleges Cognition&#39;s new CRO Chris Degnan had been confiding with Cognition executives while advising Factory as a board observer &lpar;Rya Jetha/Business Insider&rpar;](https://www.techmeme.com/260930/p47#a260930p47)
- - [Apple Is Reportedly Ready to Release Its Smarter Home Hub in 2 Weeks](https://www.cnet.com/home/smart-home/apple-smarter-home-hub-report/)
- - [Ionna Charging Network Doubled to Over 180 Sites in 2026. Its CEO Tells Us What’s Next](https://www.cnet.com/home/electric-vehicles/ionna-ev-fast-charging-2026-growth-ceo-interview/)
- - [Micron reports Q4 revenue up 379% YoY to $54.23B, vs. $51.07B est., net income up 1,078% to $37.7B, and forecasts Q1 revenue above estimates &lpar;CNBC&rpar;](https://www.techmeme.com/260930/p46#a260930p46)<!-- TECH:END -->
+ - [WhatsApp Unveils Strict Parental Controls to Head Off Looming Age Laws](https://www.cnet.com/tech/services-and-software/whatsapp-unveils-strict-parental-controls-to-head-off-looming-age-laws/)
+ - [Amazon Delivery Driver Smart Glasses Will Snap Pictures of… Everything?](https://www.cnet.com/tech/amazon-delivery-driver-ai-smart-glasses-privacy/)
+ - [Artificial Analysis says Gemini 4 Argon &lpar;high&rpar; matches GPT-6 Astra &lpar;max&rpar; on its Intelligence Index and has a 15% hallucination rate, compared with 51% for Astra &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/260930/p53#a260930p53)
+ - [Elon Musk’s Grokipedia has a ‘newly refreshed’ design](https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai)
+ - [California Governor Gavin Newsom signs the No Robo Bosses Act, which prevents employers in the state from relying solely on AI to fire or discipline workers &lpar;Paxton Honerkamp/CNBC&rpar;](https://www.techmeme.com/260930/p52#a260930p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

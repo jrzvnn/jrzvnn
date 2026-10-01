@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tipping culture is insane](http://9gag.com/gag/avybVeO)
+ - 😝 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
  - 😝 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)
- - 💣 [Play stupid games\u2026](http://9gag.com/gag/aAynLZR)
- - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 👉 [Tipping culture is insane](http://9gag.com/gag/avybVeO)<!-- MEMES:END -->
+ - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 😝 [Anyone surprised?](http://9gag.com/gag/a4PM8Zv)
+ - 👉 [I&#39;ll take your entire stock](http://9gag.com/gag/aVvG8Kw)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
+ - 😝 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)
  - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 💣 [This could be us](https://www.reddit.com/r/funny/comments/1wvw51f/this_could_be_us/)
- - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
+ - 💣 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)
+ - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
+ - 👉 [Can&#39;t control it...](http://9gag.com/gag/ae9XwWv)<!-- MEMES:END -->
 
 ---
 

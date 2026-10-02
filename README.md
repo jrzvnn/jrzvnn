@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 😝 [Assume the position](http://9gag.com/gag/a0emq6O)
- - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 😝 [Great gloves. 9/11 neurosurgeons highly recommend.](http://9gag.com/gag/aRBxdOj)
- - 👉 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
+ - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
+ - 💣 [This could be us](https://www.reddit.com/r/funny/comments/1wvw51f/this_could_be_us/)
+ - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
+ - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 ---
 

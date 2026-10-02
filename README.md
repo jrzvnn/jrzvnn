@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
- - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)
- - [Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022 or 2023; a median 55% say it&#39;s good &lpar;Pew Research Center&rpar;](https://www.techmeme.com/261001/p45#a261001p45)
- - [Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies](https://www.cnet.com/news/privacy/welcome-to-opt-out-october-its-time-to-ditch-unwanted-subscriptions-and-ai-spies/)
- - [A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/261001/p44#a261001p44)<!-- TECH:END -->
+ - [A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David&#39;s media ambitions &lpar;Vanity Fair&rpar;](https://www.techmeme.com/261002/p4#a261002p4)
+ - [Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later &lpar;MBI Deep Dives&rpar;](https://www.techmeme.com/261002/p3#a261002p3)
+ - [Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers &lpar;Financial Times&rpar;](https://www.techmeme.com/261002/p2#a261002p2)
+ - [Columbia Promo Codes: 15% Off | October 2026](https://www.wired.com/story/columbia-promo-code/)
+ - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Larry Ellison, including his octopus fixation, influence across Oracle, data centers, TikTok, politics, and support for David&#39;s media ambitions &lpar;Vanity Fair&rpar;](https://www.techmeme.com/261002/p4#a261002p4)
- - [Meta may never need ads to monetize Muse, instead focusing on building trust in the near term and possibly monetizing it through merchant transaction fees later &lpar;MBI Deep Dives&rpar;](https://www.techmeme.com/261002/p3#a261002p3)
- - [Sources: Amazon has held talks with investors about a deal to spin off $8B of Grace Blackwell chips into an SPV, then lease them back for its US data centers &lpar;Financial Times&rpar;](https://www.techmeme.com/261002/p2#a261002p2)
- - [Columbia Promo Codes: 15% Off | October 2026](https://www.wired.com/story/columbia-promo-code/)
- - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
+ - [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI &quot;super intelligence&quot; &lpar;Laura Cress/BBC&rpar;](https://www.techmeme.com/261002/p14#a261002p14)
+ - [Tesla will now let you drive off mid-charge if there’s an emergency](https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting)
+ - [Sources: Broadcom&#39;s Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261002/p13#a261002p13)
+ - [Keurig’s new machine uses plastic-free compressed coffee pucks](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder)
+ - [Reddit Is Choking Off RSS and Open Web Access to Keep AI Bots Out](https://www.cnet.com/news/social-media/reddit-rss-oldreddit-api-changes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

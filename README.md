@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California AG Rob Bonta issues an investigative subpoena to OpenAI, as part of a broader inquiry into cybersecurity incidents and risks related to its AI models &lpar;Jaspreet Singh/Reuters&rpar;](https://www.techmeme.com/261001/p43#a261001p43)
- - [Microsoft launches MAI-Transcribe-2-Streaming, a model for low-latency, real-time transcripts, and two new voice models, MAI-Voice-2.1 and MAI-Voice-2.1-Flash &lpar;Microsoft AI&rpar;](https://www.techmeme.com/261001/p42#a261001p42)
- - [Apple’s reportedly developing a smart home camera that doesn’t record video](https://www.theverge.com/tech/1003877/apple-security-camera-no-video)
- - [New Mexico asks a judge to order Meta to pay up to $40B after a jury found it willfully deceived customers, in what could be the biggest US court penalty ever &lpar;KRQE&rpar;](https://www.techmeme.com/261001/p41#a261001p41)
- - [The US sanctions Russia-backed payment network A7, freezing its US assets and accusing it of enabling Iran and its proxy groups to evade western sanctions &lpar;Amy Mackinnon/Financial Times&rpar;](https://www.techmeme.com/261001/p40#a261001p40)<!-- TECH:END -->
+ - [OpenAI says that as of September 26, it has informed 100+ third-party organizations about unauthorized activity involving its AI agents &lpar;Arasu Kannagi Basil/Reuters&rpar;](https://www.techmeme.com/261001/p47#a261001p47)
+ - [Sources: Jay Clayton will likely be the White House&#39;s pick for AI czar, and he may remain in his current role as director of national intelligence &lpar;Jennifer Jacobs/CBS News&rpar;](https://www.techmeme.com/261001/p46#a261001p46)
+ - [Survey of 37 countries: the share of people who say social media is bad for democracy has risen significantly since 2022 or 2023; a median 55% say it&#39;s good &lpar;Pew Research Center&rpar;](https://www.techmeme.com/261001/p45#a261001p45)
+ - [Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies](https://www.cnet.com/news/privacy/welcome-to-opt-out-october-its-time-to-ditch-unwanted-subscriptions-and-ai-spies/)
+ - [A look at two opposing perspectives on AI agent sandboxing: infosec says labs need better containment while AI alignment says sandboxes cannot contain agents &lpar;Matthew Green/A Few Thoughts ...&rpar;](https://www.techmeme.com/261001/p44#a261001p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

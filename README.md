@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s a new way to run Android apps on Mac](https://appleinsider.com/articles/26/10/02/theres-a-new-way-to-run-android-apps-on-mac?utm_source=rss)
- - [TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and &quot;we were at a trillion tokens per day about a week ago&quot; &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/261002/p21#a261002p21)
- - [Why I can&#39;t wait to swap this iPhone 18 Pro Max for an iPhone Duo](https://appleinsider.com/articles/26/10/02/why-i-cant-wait-to-swap-this-iphone-18-pro-max-for-an-iphone-duo?utm_source=rss)
- - [Tavus unveils Griffin, the &quot;first Human Interaction Model&quot;, which it says passed the &quot;video Turing test&quot;, with 48% of users thinking it was human in live chats &lpar;@tavus&rpar;](https://www.techmeme.com/261002/p20#a261002p20)
- - [Apple says it is adding additional controls around &quot;Full Disk Access&quot; on macOS as AI agents have increased &quot;the risks associated with this level of access&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261002/p19#a261002p19)<!-- TECH:END -->
+ - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)
+ - [Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/261002/p26#a261002p26)
+ - [iPhone 18 Pro Max Can’t Make a Call on AT&amp;#038;T? Apple Says It Will Replace It for Free](https://www.cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement/)
+ - [Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video](https://www.cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video/)
+ - [California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet](https://www.cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

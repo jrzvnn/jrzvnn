@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI &quot;super intelligence&quot; &lpar;Laura Cress/BBC&rpar;](https://www.techmeme.com/261002/p14#a261002p14)
- - [Tesla will now let you drive off mid-charge if there’s an emergency](https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting)
- - [Sources: Broadcom&#39;s Wall Street syndicate is amassing $60B in AI chip financing to help Anthropic and others access chips and other key AI infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261002/p13#a261002p13)
- - [Keurig’s new machine uses plastic-free compressed coffee pucks](https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder)
- - [Reddit Is Choking Off RSS and Open Web Access to Keep AI Bots Out](https://www.cnet.com/news/social-media/reddit-rss-oldreddit-api-changes/)<!-- TECH:END -->
+ - [There&#39;s a new way to run Android apps on Mac](https://appleinsider.com/articles/26/10/02/theres-a-new-way-to-run-android-apps-on-mac?utm_source=rss)
+ - [TypeSafe CEO Diogo Almeida says Jev is in use by ~25% of Fortune 500 companies and &quot;we were at a trillion tokens per day about a week ago&quot; &lpar;Elias Schisgall/Wall Street Journal&rpar;](https://www.techmeme.com/261002/p21#a261002p21)
+ - [Why I can&#39;t wait to swap this iPhone 18 Pro Max for an iPhone Duo](https://appleinsider.com/articles/26/10/02/why-i-cant-wait-to-swap-this-iphone-18-pro-max-for-an-iphone-duo?utm_source=rss)
+ - [Tavus unveils Griffin, the &quot;first Human Interaction Model&quot;, which it says passed the &quot;video Turing test&quot;, with 48% of users thinking it was human in live chats &lpar;@tavus&rpar;](https://www.techmeme.com/261002/p20#a261002p20)
+ - [Apple says it is adding additional controls around &quot;Full Disk Access&quot; on macOS as AI agents have increased &quot;the risks associated with this level of access&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261002/p19#a261002p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

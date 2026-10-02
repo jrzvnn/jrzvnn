@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 😝 [YES or NO?](http://9gag.com/gag/aO86OZ6)
- - 💣 [Do you all remember this? I used to love it! 🦮](https://www.reddit.com/r/funny/comments/1wvi6uf/do_you_all_remember_this_i_used_to_love_it/)
- - 😝 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)
- - 👉 [YES or NO?](http://9gag.com/gag/aO86OZ6)<!-- MEMES:END -->
+ - 😝 [Assume the position](http://9gag.com/gag/a0emq6O)
+ - 💣 [YES or NO?](http://9gag.com/gag/aO86OZ6)
+ - 😝 [Great gloves. 9/11 neurosurgeons highly recommend.](http://9gag.com/gag/aRBxdOj)
+ - 👉 [One of the usuals tries to get uppity in small town America. Gets removed from the picture](http://9gag.com/gag/ajP2wqw)<!-- MEMES:END -->
 
 ---
 

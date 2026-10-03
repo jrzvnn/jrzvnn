@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
  - 😝 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
- - 💣 [Weight loss progression](http://9gag.com/gag/aryP7Mp)
- - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 👉 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)<!-- MEMES:END -->
+ - 💣 [Tetten](http://9gag.com/gag/aQzYWnr)
+ - 😝 [Weight loss progression](http://9gag.com/gag/aryP7Mp)
+ - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 ---
 

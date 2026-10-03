@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules an officer&#39;s use of Flock to search a car&#39;s license plate was a form of &quot;indiscriminate mass surveillance&quot;, and violated the Fourth Amendment &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/261002/p31#a261002p31)
- - [Supabase raised $150M led by Singapore&#39;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261002/p30#a261002p30)
- - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)
- - [Leaked Slack messages show OpenAI employees&#39; pushback in June to Greg Brockman&#39;s Leading the Future ties, contributing to Brockman reneging on a $25M donation &lpar;Garrison Lovely/Semafor&rpar;](https://www.techmeme.com/261002/p28#a261002p28)
- - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)<!-- TECH:END -->
+ - [A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/261003/p6#a261003p6)
+ - [Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture &quot;frontline intelligence&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/261003/p5#a261003p5)
+ - [Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261003/p4#a261003p4)
+ - [Sources: TSMC is exploring plans to work with Elon Musk&#39;s Terafab project as it mulls a presence in Texas, adding to its existing plans to expand in Arizona &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/261003/p3#a261003p3)
+ - [Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261003/p2#a261003p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

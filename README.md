@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Swarmchasers forum, which has 400 members, including the Nightingale Collective and Transluce, who comb the web for traces of rogue AI agents &lpar;Robert McMillan/Wall Street Journal&rpar;](https://www.techmeme.com/261003/p6#a261003p6)
- - [Relay, which develops cloud-hosted, AI-powered smart radio communicators for frontline workers, raised $36M to help businesses capture &quot;frontline intelligence&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/261003/p5#a261003p5)
- - [Nasdaq-listed neocloud Nebius acquires Inferize, whose tech helps optimize GPU utilization and reduce AI request costs, sources say for $100M to $150M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261003/p4#a261003p4)
- - [Sources: TSMC is exploring plans to work with Elon Musk&#39;s Terafab project as it mulls a presence in Texas, adding to its existing plans to expand in Arizona &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/261003/p3#a261003p3)
- - [Reco, whose tech helps enterprises secure and govern AI agents across SaaS environments, raised a $55M Series B extension, taking its total funding to $140M &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261003/p2#a261003p2)<!-- TECH:END -->
+ - [This $100 Power Washer Whupped My More Expensive Model. I Was as Shocked as Anyone](https://www.cnet.com/home/yard-and-outdoors/power-washer-test-lawnmaster-lt506-vs-ar-blue-clean/)
+ - [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/)
+ - [This Harry Potter Edition Phone From Realme Is the Coolest Collab of 2026](https://www.cnet.com/tech/mobile/this-harry-potter-edition-phone-from-realme-is-the-coolest-collab-of-2026/)
+ - [3D movies are finally worth watching](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro)
+ - [How to Collect CDs](https://www.wired.com/story/how-to-collect-cds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

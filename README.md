@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Found it somewhere else, but knowledge has to he shared.](http://9gag.com/gag/aNDyEdv)
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [Just be attractive](http://9gag.com/gag/aAynAqo)
- - 💣 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
- - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
- - 👉 [He dieded btw](http://9gag.com/gag/a2vQXbD)<!-- MEMES:END -->
+ - 💣 [Tetten](http://9gag.com/gag/aQzYWnr)
+ - 😝 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
+ - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 ---
 

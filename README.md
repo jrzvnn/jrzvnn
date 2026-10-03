@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)
- - [Nvidia announces a version of DGX Spark with 64 GB of unified memory for $4,999, or $1,000 more than the 128 GB version at launch &lpar;Michael Kan/PCMag&rpar;](https://www.techmeme.com/261002/p26#a261002p26)
- - [iPhone 18 Pro Max Can’t Make a Call on AT&amp;#038;T? Apple Says It Will Replace It for Free](https://www.cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement/)
- - [Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video](https://www.cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video/)
- - [California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet](https://www.cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal/)<!-- TECH:END -->
+ - [A US judge rules an officer&#39;s use of Flock to search a car&#39;s license plate was a form of &quot;indiscriminate mass surveillance&quot;, and violated the Fourth Amendment &lpar;Jason Koebler/404 Media&rpar;](https://www.techmeme.com/261002/p31#a261002p31)
+ - [Supabase raised $150M led by Singapore&#39;s GIC and agrees to acquire Turso, which offers a database optimized for AI agents, for an undisclosed sum &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261002/p30#a261002p30)
+ - [David Robinson, who worked on OpenAI&#39;s Safety Systems team and had previously led policy planning, left OpenAI last week &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261002/p29#a261002p29)
+ - [Leaked Slack messages show OpenAI employees&#39; pushback in June to Greg Brockman&#39;s Leading the Future ties, contributing to Brockman reneging on a $25M donation &lpar;Garrison Lovely/Semafor&rpar;](https://www.techmeme.com/261002/p28#a261002p28)
+ - [Amazon says it has stopped using NDAs with county officials for data center projects and acknowledges community backlash is leading to data center moratoriums &lpar;Molly Taft/Wired&rpar;](https://www.techmeme.com/261002/p27#a261002p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

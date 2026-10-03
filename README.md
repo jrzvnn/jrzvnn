@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
+ - 😝 [Just be attractive](http://9gag.com/gag/aAynAqo)
  - 💣 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
  - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
  - 👉 [He dieded btw](http://9gag.com/gag/a2vQXbD)<!-- MEMES:END -->

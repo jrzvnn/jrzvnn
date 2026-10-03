@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carl’s Jr. burned down and someone updated the sign](https://www.reddit.com/r/funny/comments/1ww8cyw/carls_jr_burned_down_and_someone_updated_the_sign/)
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
+ - 😝 [Don&#39;t go for a game](http://9gag.com/gag/ae9XBgq)
  - 💣 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
  - 😝 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)
  - 👉 [He dieded btw](http://9gag.com/gag/a2vQXbD)<!-- MEMES:END -->

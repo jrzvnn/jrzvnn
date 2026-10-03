@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $100 Power Washer Whupped My More Expensive Model. I Was as Shocked as Anyone](https://www.cnet.com/home/yard-and-outdoors/power-washer-test-lawnmaster-lt506-vs-ar-blue-clean/)
- - [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/)
- - [This Harry Potter Edition Phone From Realme Is the Coolest Collab of 2026](https://www.cnet.com/tech/mobile/this-harry-potter-edition-phone-from-realme-is-the-coolest-collab-of-2026/)
- - [3D movies are finally worth watching](https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro)
- - [How to Collect CDs](https://www.wired.com/story/how-to-collect-cds/)<!-- TECH:END -->
+ - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
+ - [Sources: ShinyHunters member Saif al-Din Khader, aka &quot;Rey,&quot; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach &lpar;Reuters&rpar;](https://www.techmeme.com/261003/p11#a261003p11)
+ - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+ - [YouTube says it is adjusting its Shorts recommendations to prioritize &quot;original content&quot; and reduce the reach of channels re-uploading others&#39; content &lpar;Andrew Romero/9to5Google&rpar;](https://www.techmeme.com/261003/p10#a261003p10)
+ - [Apple SouthGate reopening on October 23](https://appleinsider.com/articles/26/10/03/apple-southgate-reopening-on-october-23?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

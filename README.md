@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#39; safety approaches; time for trial and error&#39;s over &lpar;David Robinson/The Atlantic&rpar;](https://www.techmeme.com/261003/p12#a261003p12)
  - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
  - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
  - [Sources: ShinyHunters member Saif al-Din Khader, aka &quot;Rey,&quot; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach &lpar;Reuters&rpar;](https://www.techmeme.com/261003/p11#a261003p11)
- - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
- - [YouTube says it is adjusting its Shorts recommendations to prioritize &quot;original content&quot; and reduce the reach of channels re-uploading others&#39; content &lpar;Andrew Romero/9to5Google&rpar;](https://www.techmeme.com/261003/p10#a261003p10)<!-- TECH:END -->
+ - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
- - 💣 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
- - 😝 [Tetten](http://9gag.com/gag/aQzYWnr)
+ - 😝 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
+ - 💣 [Tetten](http://9gag.com/gag/aQzYWnr)
+ - 😝 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
  - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
 
 ---

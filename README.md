@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AirPods Pro 3 are a fantastic deal at $179](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale)
- - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
- - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
- - [A profile of Meta Chief AI Officer Alexandr Wang, who is the company&#39;s first senior executive from Gen Z and has succeeded in building hype for Muse &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261004/p10#a261004p10)
- - [The forgotten Chromebook that started it all](https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all)<!-- TECH:END -->
+ - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&#39;s push to replace &quot;artificial&quot; intelligence with &quot;super&quot; &lpar;Chandni Shah/Reuters&rpar;](https://www.techmeme.com/261004/p14#a261004p14)
+ - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
+ - [DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank&#39;s &quot;third-party infrastructure arm&quot; after SoftBank&#39;s ~$4B takeover closed &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p13#a261004p13)
+ - [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
+ - [Sources: John Ternus has effectively become Apple&#39;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261004/p12#a261004p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

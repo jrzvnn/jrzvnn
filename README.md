@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro plunge to as low as $89.99 for fall Prime Day](https://appleinsider.com/articles/26/10/04/airpods-pro-plunge-to-as-low-as-8999-for-fall-prime-day?utm_source=rss)
- - [Amazon&#39;s $199 Apple Watch deal is back for Prime Big Deal Days](https://appleinsider.com/articles/26/10/04/amazons-199-apple-watch-deal-is-back-for-prime-big-deal-days?utm_source=rss)
- - [Amazon slashes $100 off iPad mini 7 ahead of Prime Big Deal Days](https://appleinsider.com/articles/26/10/04/amazon-slashes-100-off-ipad-mini-7-ahead-of-prime-big-deal-days?utm_source=rss)
- - [As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask &lpar;Stephen Wolfram/Stephen Wolfram Writings&rpar;](https://www.techmeme.com/261004/p8#a261004p8)
- - [Google prepares to defend a £1.2B UK class action lawsuit over claims it levied &quot;excessive&quot; charges on Android apps downloaded from Google Play since 2015 &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p7#a261004p7)<!-- TECH:END -->
+ - [The AirPods Pro 3 are a fantastic deal at $179](https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale)
+ - [The MacBook Air M5 is $200 off for the first time in months](https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale)
+ - [The iPad Mini is slightly cheaper again during Prime Day](https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale)
+ - [A profile of Meta Chief AI Officer Alexandr Wang, who is the company&#39;s first senior executive from Gen Z and has succeeded in building hype for Muse &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261004/p10#a261004p10)
+ - [The forgotten Chromebook that started it all](https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

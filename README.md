@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
- - 💣 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
- - 😝 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
- - 👉 [He dieded btw](http://9gag.com/gag/a2vQXbD)<!-- MEMES:END -->
+ - 😝 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
+ - 💣 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
+ - 😝 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
+ - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
 
 ---
 

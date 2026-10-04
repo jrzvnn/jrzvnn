@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an X reply, Elon Musk says that SpaceX will rename its AI unit SpaceXAI to SpaceXSI, following Trump&#39;s push to replace &quot;artificial&quot; intelligence with &quot;super&quot; &lpar;Chandni Shah/Reuters&rpar;](https://www.techmeme.com/261004/p14#a261004p14)
- - [The best early October Prime Day deals happening now](https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october)
- - [DigitalBridge CEO Marc Ganzi says his data center investment group will become SoftBank&#39;s &quot;third-party infrastructure arm&quot; after SoftBank&#39;s ~$4B takeover closed &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p13#a261004p13)
- - [NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment](https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true)
- - [Sources: John Ternus has effectively become Apple&#39;s design chief, working in the studio several times a week; OLED touch-screen MacBook Pro will be much lighter &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261004/p12#a261004p12)<!-- TECH:END -->
+ - [Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p17#a261004p17)
+ - [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)
+ - [Sunday Reboot: Waiting a decade for Apple Pay and Apple Music](https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss)
+ - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
+ - [Extracted system prompts show Meta&#39;s Muse compiles &quot;a page for every person in the user&#39;s life&quot;, with facts, history, tips to improve relationships, and more &lpar;Wired&rpar;](https://www.techmeme.com/261004/p16#a261004p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

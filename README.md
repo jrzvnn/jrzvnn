@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He dieded btw](http://9gag.com/gag/a2vQXbD)
- - 😝 [What do you learn from this video?](http://9gag.com/gag/aXP8OYd)
- - 💣 [Tetten](http://9gag.com/gag/aQzYWnr)
- - 😝 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
- - 👉 [You know I&#39;m something of a stargate fan myself.](http://9gag.com/gag/aZZ95dW)<!-- MEMES:END -->
+ - 😝 [Danger is you](http://9gag.com/gag/a6ZW0r8)
+ - 😝 [Tetten](http://9gag.com/gag/aQzYWnr)
+ - 💣 [Never eat yellow snow.](http://9gag.com/gag/aMVpM91)
+ - 😝 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
+ - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
 
 ---
 

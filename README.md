@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI czar Jay Clayton to chair the WH&#39;s AI task force, called &quot;Super Intelligence Force&quot;, to pen a report on AI&#39;s risks and opportunities within 120 days &lpar;Alex Leary/Wall Street Journal&rpar;](https://www.techmeme.com/261003/p13#a261003p13)
- - [David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must study other fields&#39; safety approaches; time for trial and error&#39;s over &lpar;David Robinson/The Atlantic&rpar;](https://www.techmeme.com/261003/p12#a261003p12)
- - [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/)
- - [Capcom is preparing for a ‘future where we create games together with AI’](https://www.theverge.com/games/1004418/capcom-ai-game-development)
- - [Sources: ShinyHunters member Saif al-Din Khader, aka &quot;Rey,&quot; was detained in Jordan and is cooperating to identify other hackers involved in the FBI breach &lpar;Reuters&rpar;](https://www.techmeme.com/261003/p11#a261003p11)<!-- TECH:END -->
+ - [AirPods Pro plunge to as low as $89.99 for fall Prime Day](https://appleinsider.com/articles/26/10/04/airpods-pro-plunge-to-as-low-as-8999-for-fall-prime-day?utm_source=rss)
+ - [Amazon&#39;s $199 Apple Watch deal is back for Prime Big Deal Days](https://appleinsider.com/articles/26/10/04/amazons-199-apple-watch-deal-is-back-for-prime-big-deal-days?utm_source=rss)
+ - [Amazon slashes $100 off iPad mini 7 ahead of Prime Big Deal Days](https://appleinsider.com/articles/26/10/04/amazon-slashes-100-off-ipad-mini-7-ahead-of-prime-big-deal-days?utm_source=rss)
+ - [As AI automates parts of pure mathematics research, a look at formalization challenges and why human imagination remains key to deciding which questions to ask &lpar;Stephen Wolfram/Stephen Wolfram Writings&rpar;](https://www.techmeme.com/261004/p8#a261004p8)
+ - [Google prepares to defend a £1.2B UK class action lawsuit over claims it levied &quot;excessive&quot; charges on Android apps downloaded from Google Play since 2015 &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p7#a261004p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

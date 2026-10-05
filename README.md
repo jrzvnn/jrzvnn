@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia&#39;s largest IPOs &lpar;Bloomberg&rpar;](https://www.techmeme.com/261005/p1#a261005p1)
- - [Amazon slashes 50% off Beats Studio Pro headphones](https://appleinsider.com/articles/26/10/05/amazon-slashes-50-off-beats-studio-pro-headphones?utm_source=rss)
- - [Sources: several Western open-weight models are set to launch this month, including Reflection AI&#39;s first model, which will rival top Chinese open-weight models &lpar;Bradley Olson/Axios&rpar;](https://www.techmeme.com/261004/p24#a261004p24)
- - [A look at Sean Parker&#39;s resurrection of Stability AI following Emad Mostaque&#39;s ousting, and its new focus on AI for music professionals, backed by major labels &lpar;Abram Brown/The Information&rpar;](https://www.techmeme.com/261004/p23#a261004p23)
- - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)<!-- TECH:END -->
+ - [iPhone Duo&#39;s small outer screen prompts minimalist Focus Mode update](https://appleinsider.com/articles/26/10/05/iphone-duos-small-outer-screen-prompts-minimalist-focus-mode-update?utm_source=rss)
+ - [TCL’s paperlike OLED phone made me more excited for the iPhone Duo](https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo)
+ - [Ready for Driverless Trucks? I Took a Ride in Kodiak’s Autonomous Semi](https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/)
+ - [Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027](https://www.cnet.com/uncategorized/meta-muse-charm-pendant-smartwatch-hint/)
+ - [Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total &lpar;Kristine Owram/Bloomberg&rpar;](https://www.techmeme.com/261005/p14#a261005p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

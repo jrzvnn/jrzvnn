@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 😝 [Errrmmm... Yep, me neither](http://9gag.com/gag/aqyvPnL)
- - 💣 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)
- - 😝 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
- - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
+ - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 😝 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
+ - 💣 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
+ - 😝 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
+ - 👉 [Transformation 🔥🔥](https://www.reddit.com/r/funny/comments/1wy75dk/transformation/)<!-- MEMES:END -->
 
 ---
 

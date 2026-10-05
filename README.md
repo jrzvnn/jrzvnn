@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/261004/p20#a261004p20)
- - [Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI&#39;s benefits justify accepting some risks &lpar;Politico&rpar;](https://www.techmeme.com/261004/p19#a261004p19)
- - [Sources: Anthropic&#39;s stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders &lpar;Cory Weinberg/The Information&rpar;](https://www.techmeme.com/261004/p18#a261004p18)
- - [Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p17#a261004p17)
- - [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)<!-- TECH:END -->
+ - [Sources: Firmus plans to allocate ~50% of its IPO shares to existing holders, as investor demand far exceeds the offer size in one of Australia&#39;s largest IPOs &lpar;Bloomberg&rpar;](https://www.techmeme.com/261005/p1#a261005p1)
+ - [Amazon slashes 50% off Beats Studio Pro headphones](https://appleinsider.com/articles/26/10/05/amazon-slashes-50-off-beats-studio-pro-headphones?utm_source=rss)
+ - [Sources: several Western open-weight models are set to launch this month, including Reflection AI&#39;s first model, which will rival top Chinese open-weight models &lpar;Bradley Olson/Axios&rpar;](https://www.techmeme.com/261004/p24#a261004p24)
+ - [A look at Sean Parker&#39;s resurrection of Stability AI following Emad Mostaque&#39;s ousting, and its new focus on AI for music professionals, backed by major labels &lpar;Abram Brown/The Information&rpar;](https://www.techmeme.com/261004/p23#a261004p23)
+ - [Change.org says it is investing $100M of its own money to rebuild its core petitions platform with AI and has launched an AI copilot beta for petition creators &lpar;Dan Primack/Axios&rpar;](https://www.techmeme.com/261004/p22#a261004p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

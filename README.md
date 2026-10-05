@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: UK neobank Monzo is in talks with CVC and Advent to sell up to a 15% stake, after Nubank takeover talks collapsed over the ~£10B valuation Monzo sought &lpar;Laith Al-Khalaf/Financial Times&rpar;](https://www.techmeme.com/261004/p20#a261004p20)
+ - [Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI regulation, arguing that AI&#39;s benefits justify accepting some risks &lpar;Politico&rpar;](https://www.techmeme.com/261004/p19#a261004p19)
+ - [Sources: Anthropic&#39;s stock match of employee charity gifts hit $660M+ in the six months through March, likely to reach billions post-IPO, diluting shareholders &lpar;Cory Weinberg/The Information&rpar;](https://www.techmeme.com/261004/p18#a261004p18)
  - [Sources: Schneider Electric is in advanced talks to buy US engineering software firm PTC for ~$20B, its largest acquisition; a deal could come as soon as Monday &lpar;Financial Times&rpar;](https://www.techmeme.com/261004/p17#a261004p17)
- - [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)
- - [Sunday Reboot: Waiting a decade for Apple Pay and Apple Music](https://appleinsider.com/articles/26/10/04/sunday-reboot-waiting-a-decade-for-apple-pay-and-apple-music?utm_source=rss)
- - [Prick’s theatrical industrial punk is perfect for spooky season](https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review)
- - [Extracted system prompts show Meta&#39;s Muse compiles &quot;a page for every person in the user&#39;s life&quot;, with facts, history, tips to improve relationships, and more &lpar;Wired&rpar;](https://www.techmeme.com/261004/p16#a261004p16)<!-- TECH:END -->
+ - [The new Fitbit Edge leaks](https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

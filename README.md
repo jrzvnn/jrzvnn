@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Still answers 17, though](http://9gag.com/gag/aKGbomN)
- - 😝 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)
- - 💣 [Errrmmm... Yep, me neither](http://9gag.com/gag/aqyvPnL)
+ - 😝 [Errrmmm... Yep, me neither](http://9gag.com/gag/aqyvPnL)
+ - 💣 [Dating Options Nowadays](http://9gag.com/gag/a9y3x4j)
  - 😝 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
  - 👉 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)<!-- MEMES:END -->
 

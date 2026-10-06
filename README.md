@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261006/p34#a261006p34)
- - [Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p35#a261006p35)
- - [Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Built for Agents](https://www.cnet.com/tech/services-and-software/mistrals-new-le-chonk-ai-model-is-big-open-and-built-for-agents/)
- - [Anthropic integrates its Cyber Verification Program and Project Glasswing into a new, expanded version of CVP, with three tiers and access to its latest models &lpar;Anthropic&rpar;](https://www.techmeme.com/261006/p33#a261006p33)
- - [Save on MacBooks, iPads and Apple Watches during October Prime Day](https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale)<!-- TECH:END -->
+ - [Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo &lpar;Financial Times&rpar;](https://www.techmeme.com/261006/p44#a261006p44)
+ - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)
+ - [Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261006/p43#a261006p43)
+ - [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage &lpar;OpenAI&rpar;](https://www.techmeme.com/261006/p42#a261006p42)
+ - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/261006/p23#a261006p23)
- - [Interest is making Apple&#39;s payout to Masimo much larger](https://appleinsider.com/articles/26/10/06/interest-is-making-apples-payout-to-masimo-much-larger?utm_source=rss)
- - [7 Best Prime Day Kindle Deals &lpar;2026&rpar;: Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-06-2026/)
- - [The Pixel Watch 5 is a better value at $65 off](https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale)
- - [Paramount and Warner Bros. Discovery complete $110 billion media megamerger](https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed)<!-- TECH:END -->
+ - [Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 &lpar;Carl Franzen/VentureBeat&rpar;](https://www.techmeme.com/261006/p34#a261006p34)
+ - [Sources: Waymo increased the size of its inaugural debt raise from $3B+ to $5B, as it grapples with rising AI costs and rapidly expands its robotaxi fleet &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p35#a261006p35)
+ - [Mistral’s New ‘Le Chonk’ AI Model Is Big, Open and Built for Agents](https://www.cnet.com/tech/services-and-software/mistrals-new-le-chonk-ai-model-is-big-open-and-built-for-agents/)
+ - [Anthropic integrates its Cyber Verification Program and Project Glasswing into a new, expanded version of CVP, with three tiers and access to its latest models &lpar;Anthropic&rpar;](https://www.techmeme.com/261006/p33#a261006p33)
+ - [Save on MacBooks, iPads and Apple Watches during October Prime Day](https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

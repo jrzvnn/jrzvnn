@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u200e](http://9gag.com/gag/aYQz2Zx)
- - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 💣 [\u200e](http://9gag.com/gag/aYQz2Zx)
- - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 👉 [\u200e](http://9gag.com/gag/aYQz2Zx)<!-- MEMES:END -->
+ - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
+ - 💣 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 ---
 

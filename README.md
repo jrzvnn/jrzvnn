@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
- - [Gemini Call for Me might tell your mom you&amp;#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
- - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)
- - [Analysis: Anthropic&#39;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#39;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261005/p33#a261005p33)
- - [Google Acknowledges Day 1 Android App Performance Issues on New Laptops](https://www.cnet.com/tech/computing/google-acknowledges-day-one-android-app-performance-issues-on-new-laptops/)<!-- TECH:END -->
+ - [Q&amp;A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261006/p4#a261006p4)
+ - [Best Prime Big Deal Days offers on Apple Watch, AirPods, Mac, iPad &amp; more](https://appleinsider.com/articles/26/10/06/best-prime-big-deal-days-offers-on-apple-watch-airpods-mac-ipad-more?utm_source=rss)
+ - [Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable &lpar;Lee Harris/Financial Times&rpar;](https://www.techmeme.com/261006/p3#a261006p3)
+ - [Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p2#a261006p2)
+ - [Sources: Seagate and Toshiba are bidding for TDK&#39;s HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p1#a261006p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

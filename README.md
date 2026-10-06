@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
- - 😝 [Rook at the back just waiting for shit to go sideways](http://9gag.com/gag/aAyn8eL)
- - 💣 [Filipino Model Uses Money Made On OF To Build School In Her Hometown](http://9gag.com/gag/aLnq7nz)
- - 😝 [Let\u2019s make a list.](http://9gag.com/gag/apReZeb)
- - 👉 [Transformation 🔥🔥](https://www.reddit.com/r/funny/comments/1wy75dk/transformation/)<!-- MEMES:END -->
+ - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 💣 [Turf war](https://www.reddit.com/r/funny/comments/1wypvlf/turf_war/)
+ - 😝 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 👉 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)<!-- MEMES:END -->
 
 ---
 

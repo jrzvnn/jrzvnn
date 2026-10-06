@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261006/p4#a261006p4)
- - [Best Prime Big Deal Days offers on Apple Watch, AirPods, Mac, iPad &amp; more](https://appleinsider.com/articles/26/10/06/best-prime-big-deal-days-offers-on-apple-watch-airpods-mac-ipad-more?utm_source=rss)
- - [Analysis: insurers brace for multimillion-dollar claims caused by rogue AI agents, amid concern that execs like Sam Altman and Dario Amodei could be held liable &lpar;Lee Harris/Financial Times&rpar;](https://www.techmeme.com/261006/p3#a261006p3)
- - [Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p2#a261006p2)
- - [Sources: Seagate and Toshiba are bidding for TDK&#39;s HDD magnetic head business in a multibillion-dollar deal, as they compete for AI data center storage demand &lpar;Bloomberg&rpar;](https://www.techmeme.com/261006/p1#a261006p1)<!-- TECH:END -->
+ - [Anduril lands an up to $2.9B US Navy contract to make Virginia-class submarine components, days after Palmer Luckey was named to a DOD future weapons task force &lpar;Samantha Subin/CNBC&rpar;](https://www.techmeme.com/261006/p23#a261006p23)
+ - [Interest is making Apple&#39;s payout to Masimo much larger](https://appleinsider.com/articles/26/10/06/interest-is-making-apples-payout-to-masimo-much-larger?utm_source=rss)
+ - [7 Best Prime Day Kindle Deals &lpar;2026&rpar;: Save Up to $150](https://www.wired.com/story/best-kindle-prime-day-deals-10-06-2026/)
+ - [The Pixel Watch 5 is a better value at $65 off](https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale)
+ - [Paramount and Warner Bros. Discovery complete $110 billion media megamerger](https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

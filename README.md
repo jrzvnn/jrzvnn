@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo&#39;s small outer screen prompts minimalist Focus Mode update](https://appleinsider.com/articles/26/10/05/iphone-duos-small-outer-screen-prompts-minimalist-focus-mode-update?utm_source=rss)
- - [TCL’s paperlike OLED phone made me more excited for the iPhone Duo](https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo)
- - [Ready for Driverless Trucks? I Took a Ride in Kodiak’s Autonomous Semi](https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/)
- - [Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027](https://www.cnet.com/uncategorized/meta-muse-charm-pendant-smartwatch-hint/)
- - [Billionaires Index: tech billionaires account for all of the $845B in wealth gains so far in 2026; those whose fortunes came from outside tech lost $62B total &lpar;Kristine Owram/Bloomberg&rpar;](https://www.techmeme.com/261005/p14#a261005p14)<!-- TECH:END -->
+ - [Sources: AI inference-chip startup Etched is in early talks to raise funding at a $40B-$50B valuation, up from $21B in August &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261005/p34#a261005p34)
+ - [Gemini Call for Me might tell your mom you&amp;#8217;re running late](https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors)
+ - [macOS development continues to hint at touchscreen MacBooks](https://appleinsider.com/articles/26/10/05/macos-development-continues-to-hint-at-touchscreen-macbooks?utm_source=rss)
+ - [Analysis: Anthropic&#39;s subscriptions offer ~5x more API-equivalent value per month than OpenAI&#39;s for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261005/p33#a261005p33)
+ - [Google Acknowledges Day 1 Android App Performance Issues on New Laptops](https://www.cnet.com/tech/computing/google-acknowledges-day-one-android-app-performance-issues-on-new-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
  - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
- - 💣 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
  - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
- - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
+ - 💣 [More details about the outbreak in Russia](http://9gag.com/gag/ajP2pWQ)
+ - 😝 [Outrage in Japan as Pakistani immigrants plan to build a mosque and a self-sufficient farm for a proposed all-Muslim colony in the middle of a protected forest.](http://9gag.com/gag/ayNyg68)
+ - 👉 [Just played Cyberpunk 2077 and started to wonder if people would take cybernetic enhancements if they were possible? Like, would you trade your eye for a robotic eye that could see more sharply and zoom. Or trade your arm for a robotic arm that\u2019s way stronger than your own?](http://9gag.com/gag/a0emANd)<!-- MEMES:END -->
 
 ---
 

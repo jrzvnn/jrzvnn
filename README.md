@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I know it, but I don&#39;t think I should say it.](http://9gag.com/gag/avyb3e5)
  - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
- - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
- - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
- - 😝 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 💣 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
+ - 😝 [I know it, but I don&#39;t think I should say it.](http://9gag.com/gag/avyb3e5)
  - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
- - [Game studio Gardens Interactive raised a $35M+ Series B led by Lightspeed at a pre-money valuation of $190M, taking its total funding to $71M &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/261007/p26#a261007p26)
- - [Amazon slashes Apple Watch Ultra 3 to $599 for Prime Big Deal Days](https://appleinsider.com/articles/26/10/07/amazon-slashes-apple-watch-ultra-3-to-599-for-prime-big-deal-days?utm_source=rss)
- - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
- - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)<!-- TECH:END -->
+ - [Best Prime Day Vacuum Deals: Save Big On a Dyson &lpar;2026&rpar;](https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/)
+ - [ChatGPT for Teens Is an ‘Unacceptable Risk,’ Watchdog Group Says](https://www.cnet.com/tech/services-and-software/chatgpt-for-teens-unacceptable-risk-common-sense-media-study/)
+ - [BF6 Reports for Duty on Xbox Game Pass While Clair Obscur Gets Gommaged in October](https://www.cnet.com/tech/gaming/bf6-reports-for-duty-on-xbox-game-pass-while-clair-obscur-gets-gommaged-in-october/)
+ - [Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections](https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/)
+ - [Apple Home second-party partnerships include more than just LG](https://appleinsider.com/articles/26/10/07/apple-home-second-party-partnerships-include-more-than-just-lg?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

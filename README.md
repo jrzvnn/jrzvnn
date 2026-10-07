@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily](https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/)
- - [Spotify expands audiobooks to 180+ markets, bringing its catalog to 750M+ users, and adds 350K+ titles in 120+ languages in partnership with 300+ publishers &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261007/p7#a261007p7)
- - [Your Next Great Read Might Be Certified ‘Organic’](https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/)
- - [117 Best Prime Day Deals We’re Shopping This October &lpar;2026&rpar;](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
- - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/)<!-- TECH:END -->
+ - [A free mod for Titanfall 2 makes it one of the best VR games ever](https://www.theverge.com/games/1006448/titanfall-2-vr-mod-circuitlord-jordan-juarez)
+ - [Game studio Gardens Interactive raised a $35M+ Series B led by Lightspeed at a pre-money valuation of $190M, taking its total funding to $71M &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](https://www.techmeme.com/261007/p26#a261007p26)
+ - [Amazon slashes Apple Watch Ultra 3 to $599 for Prime Big Deal Days](https://appleinsider.com/articles/26/10/07/amazon-slashes-apple-watch-ultra-3-to-599-for-prime-big-deal-days?utm_source=rss)
+ - [Doxxing Jane Doe](https://www.theverge.com/report/1006636/jane-doe-cornell-dox)
+ - [ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

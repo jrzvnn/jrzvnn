@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SpaceX is seeking to raise $40B, including ~$10B in bank loans and ~$30B in investment-grade debt, to purchase Nvidia chips, in a deal led by Apollo &lpar;Financial Times&rpar;](https://www.techmeme.com/261006/p44#a261006p44)
- - [You Probably Aren’t Going to Get the Plague](https://www.wired.com/story/what-we-know-about-plague-russia/)
- - [Sources: Xbox has secured exclusive game streaming rights for Grand Theft Auto VI; it is not clear how long the agreement will be in place &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261006/p43#a261006p43)
- - [OpenAI releases a range of new mathematical results produced by an internal model, with details like estimations of compute spent in terms of ChatGPT Pro usage &lpar;OpenAI&rpar;](https://www.techmeme.com/261006/p42#a261006p42)
- - [Xbox has secured exclusive GTA 6 streaming rights](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)<!-- TECH:END -->
+ - [A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison &lpar;Bill Donahue/Billboard&rpar;](https://www.techmeme.com/261006/p50#a261006p50)
+ - [Boston Dynamics appoints former Amazon executive Rohit Prasad, who spent 12 years helping build and expand Alexa, as its CEO &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261006/p49#a261006p49)
+ - [GLM-5.3&#39;s open release has yet to produce major attacks despite Anthropic&#39;s warnings about its Mythos-level cyber risk, undercutting calls to ban open models &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/261006/p48#a261006p48)
+ - [A New Study Puts the Heat on Gas Stoves for Commercial Kitchen Air Pollution](https://www.cnet.com/health/a-new-study-puts-the-heat-on-gas-stoves-for-commercial-kitchen-air-pollution/)
+ - [I Found the 20 Best Prime Day Tech and Gadget Deals &lpar;October 2026&rpar;](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

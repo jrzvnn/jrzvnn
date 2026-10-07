@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
  - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 💣 [What&#39;s your favourite?](http://9gag.com/gag/aO86gBM)
- - 😝 [Proof](https://www.reddit.com/r/funny/comments/1wzro24/proof/)
+ - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
+ - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
  - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 ---

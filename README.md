@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal court sentences Michael Smith, who pleaded guilty to using bots to stream AI-generated songs, making $8M+ in royalties, to 18 months in prison &lpar;Bill Donahue/Billboard&rpar;](https://www.techmeme.com/261006/p50#a261006p50)
- - [Boston Dynamics appoints former Amazon executive Rohit Prasad, who spent 12 years helping build and expand Alexa, as its CEO &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261006/p49#a261006p49)
- - [GLM-5.3&#39;s open release has yet to produce major attacks despite Anthropic&#39;s warnings about its Mythos-level cyber risk, undercutting calls to ban open models &lpar;Nathan Lambert/Interconnects AI&rpar;](https://www.techmeme.com/261006/p48#a261006p48)
- - [A New Study Puts the Heat on Gas Stoves for Commercial Kitchen Air Pollution](https://www.cnet.com/health/a-new-study-puts-the-heat-on-gas-stoves-for-commercial-kitchen-air-pollution/)
- - [I Found the 20 Best Prime Day Tech and Gadget Deals &lpar;October 2026&rpar;](https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/)<!-- TECH:END -->
+ - [Elon Musk’s America PAC Is Spending Big on the Midterms. We’re Tracking It Daily](https://www.wired.com/story/elon-musks-america-pac-is-spending-big-on-the-midterms-were-tracking-it-daily/)
+ - [Spotify expands audiobooks to 180+ markets, bringing its catalog to 750M+ users, and adds 350K+ titles in 120+ languages in partnership with 300+ publishers &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261007/p7#a261007p7)
+ - [Your Next Great Read Might Be Certified ‘Organic’](https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/)
+ - [117 Best Prime Day Deals We’re Shopping This October &lpar;2026&rpar;](https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-07-2026/)
+ - [The 13 Amazon Device Deals Actually Worth Snagging This Prime Day &lpar;2026&rpar;](https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day-10-07-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

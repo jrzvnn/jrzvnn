@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manus&#39; parent Butterfly Effect says it raised $500M+, led by Boyu Capital and IDG Capital, in its first funding since Meta was forced to unwind its Manus buyout &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/261008/p11#a261008p11)
- - [A profile of Garmin CEO Cliff Pemble, who helped diversify its GPS product lines and grew annual revenue from $2.6B in 2013 to a record $7.2B last year &lpar;Brent Crane/Bloomberg&rpar;](https://www.techmeme.com/261008/p10#a261008p10)
- - [The Association for Human Mathematics says OpenAI&#39;s new math documents show power, not scholarship, and urges mathematicians to stop working with the company &lpar;AHM&rpar;](https://www.techmeme.com/261008/p9#a261008p9)
- - [A look at Emeryville, CA-based Atomic Machines, which is training AI on materials and designs to revamp how microelectromechanical systems &lpar;MEMS&rpar; are built &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261008/p8#a261008p8)
- - [SemiAnalysis: China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US &lpar;Financial Times&rpar;](https://www.techmeme.com/261008/p7#a261008p7)<!-- TECH:END -->
+ - [&#39;The storytelling genius of Steve Jobs&#39;](https://appleinsider.com/articles/26/10/08/the-storytelling-genius-of-steve-jobs?utm_source=rss)
+ - [75 great October Prime Day deals are still happening](https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals)
+ - [Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)
+ - [Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261008/p29#a261008p29)
+ - [Atari is bringing back one of its earliest 8-bit home computers](https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

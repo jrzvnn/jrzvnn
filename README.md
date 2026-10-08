@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The storytelling genius of Steve Jobs&#39;](https://appleinsider.com/articles/26/10/08/the-storytelling-genius-of-steve-jobs?utm_source=rss)
- - [75 great October Prime Day deals are still happening](https://www.theverge.com/gadgets/1007804/october-prime-day-leftover-deals)
- - [Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)
- - [Gallatin AI, which uses AI to digitize and streamline military logistics data, raised a $50M Series A, bringing its total funding to $70M &lpar;Colin Demarest/Axios&rpar;](https://www.techmeme.com/261008/p29#a261008p29)
- - [Atari is bringing back one of its earliest 8-bit home computers](https://www.theverge.com/tech/1007732/atari-console-800xl-basic-personal-computer-retro-preorder)<!-- TECH:END -->
+ - [Tim Cook has no intention of interfering with the John Ternus era](https://appleinsider.com/articles/26/10/08/tim-cook-has-no-intention-of-interfering-with-the-john-ternus-era?utm_source=rss)
+ - [Filing: the FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/261008/p44#a261008p44)
+ - [California to Ban Quartz Countertops Amid Health Concerns](https://www.cnet.com/everyday-needs/health-and-wellness/california-ban-quartz-countertops-health-concerns/)
+ - [Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/261008/p43#a261008p43)
+ - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

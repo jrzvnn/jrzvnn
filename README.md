@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/261007/p44#a261007p44)
- - [Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261007/p43#a261007p43)
- - [Jackery HomePower 2000 Plus v2 review: keeping you prepared when the power goes out](https://appleinsider.com/articles/26/10/08/jackery-homepower-2000-plus-v2-review-keeping-you-prepared-when-the-power-goes-out?utm_source=rss)
- - [Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are &quot;chilling those who remain at OpenAI&quot; &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p42#a261007p42)
- - [Your New Apple Watch and AirPods Still Fall Short on Repairability, iFixit Teardowns Reveal](https://www.cnet.com/tech/mobile/apple-watch-series-12-ultra-4-airpods-5-ifixit-teardown/)<!-- TECH:END -->
+ - [Manus&#39; parent Butterfly Effect says it raised $500M+, led by Boyu Capital and IDG Capital, in its first funding since Meta was forced to unwind its Manus buyout &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/261008/p11#a261008p11)
+ - [A profile of Garmin CEO Cliff Pemble, who helped diversify its GPS product lines and grew annual revenue from $2.6B in 2013 to a record $7.2B last year &lpar;Brent Crane/Bloomberg&rpar;](https://www.techmeme.com/261008/p10#a261008p10)
+ - [The Association for Human Mathematics says OpenAI&#39;s new math documents show power, not scholarship, and urges mathematicians to stop working with the company &lpar;AHM&rpar;](https://www.techmeme.com/261008/p9#a261008p9)
+ - [A look at Emeryville, CA-based Atomic Machines, which is training AI on materials and designs to revamp how microelectromechanical systems &lpar;MEMS&rpar; are built &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261008/p8#a261008p8)
+ - [SemiAnalysis: China has 24 GW of operational compute capacity and another 50 GW planned or under construction, compared to 56 GW operational in the US &lpar;Financial Times&rpar;](https://www.techmeme.com/261008/p7#a261008p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

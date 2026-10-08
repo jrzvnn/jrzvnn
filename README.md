@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)
+ - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
  - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 💣 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)
+ - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
  - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 👉 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)<!-- MEMES:END -->
+ - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you could pick only one, which would you choose?](http://9gag.com/gag/aEMddGn)
- - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
- - 💣 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 😝 [If you could pick only one, which would you choose?](http://9gag.com/gag/aEMddGn)
- - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
+ - 😝 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)
+ - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 💣 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)
+ - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 👉 [Technically correct is the best kind of correct](http://9gag.com/gag/aVgjjZM)<!-- MEMES:END -->
 
 ---
 

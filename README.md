@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day Vacuum Deals: Save Big On a Dyson &lpar;2026&rpar;](https://www.wired.com/story/prime-day-vacuum-deals-10-07-2026/)
- - [ChatGPT for Teens Is an ‘Unacceptable Risk,’ Watchdog Group Says](https://www.cnet.com/tech/services-and-software/chatgpt-for-teens-unacceptable-risk-common-sense-media-study/)
- - [BF6 Reports for Duty on Xbox Game Pass While Clair Obscur Gets Gommaged in October](https://www.cnet.com/tech/gaming/bf6-reports-for-duty-on-xbox-game-pass-while-clair-obscur-gets-gommaged-in-october/)
- - [Elon Musk’s America PAC Is Quietly Funding November’s Most Consequential Elections](https://www.wired.com/story/elon-musks-america-pac-is-quietly-funding-novembers-most-consequential-elections/)
- - [Apple Home second-party partnerships include more than just LG](https://appleinsider.com/articles/26/10/07/apple-home-second-party-partnerships-include-more-than-just-lg?utm_source=rss)<!-- TECH:END -->
+ - [Keyu Tian, a former ByteDance intern, raised ~$30M from 5Y and IDG for his unnamed AI lab that focuses on building world models, at a $200M post-money valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/261007/p44#a261007p44)
+ - [Mecka, which collects human motion data to train humanoid robots, raised a $60M Series B led by Sequoia, with participation from Nvidia, M12, and others &lpar;Marina Temkin/TechCrunch&rpar;](https://www.techmeme.com/261007/p43#a261007p43)
+ - [Jackery HomePower 2000 Plus v2 review: keeping you prepared when the power goes out](https://appleinsider.com/articles/26/10/08/jackery-homepower-2000-plus-v2-review-keeping-you-prepared-when-the-power-goes-out?utm_source=rss)
+ - [Letter: three fired OpenAI researchers urge AI labs to halt work that could impair AI monitoring and say their firings are &quot;chilling those who remain at OpenAI&quot; &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/261007/p42#a261007p42)
+ - [Your New Apple Watch and AirPods Still Fall Short on Repairability, iFixit Teardowns Reveal](https://www.cnet.com/tech/mobile/apple-watch-series-12-ultra-4-airpods-5-ifixit-teardown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

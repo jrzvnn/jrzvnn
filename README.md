@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If you could pick only one, which would you choose?](http://9gag.com/gag/aEMddGn)
  - 😝 [Why?](http://9gag.com/gag/aLnqyrW)
- - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 💣 [Why?](http://9gag.com/gag/aLnqyrW)
- - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 💣 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 😝 [If you could pick only one, which would you choose?](http://9gag.com/gag/aEMddGn)
  - 👉 [Why?](http://9gag.com/gag/aLnqyrW)<!-- MEMES:END -->
 
 ---

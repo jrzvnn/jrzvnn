@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A record 42 startups became decacorns so far in 2026, beating 2021&#39;s 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/261009/p21#a261009p21)
- - [Wean yourself off the Action Button before you get an iPhone Duo](https://appleinsider.com/inside/ios/tips/wean-yourself-off-the-action-button-before-you-get-an-iphone-duo?utm_source=rss)
- - [Brendan Carr says he&amp;#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
- - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
- - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)<!-- TECH:END -->
+ - [Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood](https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/)
+ - [Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261009/p28#a261009p28)
+ - [A man US authorities called a &quot;fixer&quot;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty &lpar;Bob Van Voris/Bloomberg&rpar;](https://www.techmeme.com/261009/p27#a261009p27)
+ - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
+ - [Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261009/p26#a261009p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

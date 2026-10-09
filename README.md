@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
  - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 😝 [WTF!](http://9gag.com/gag/aVvGG3v)
+ - 💣 [Who are you](http://9gag.com/gag/a6DrmV8)
+ - 😝 [Motivative frog](https://www.reddit.com/r/funny/comments/1x1705t/motivative_frog/)
  - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---

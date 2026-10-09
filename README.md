@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bambu Lab A2L review: your first 3D printer with plenty of room to grow](https://appleinsider.com/articles/26/10/09/bambu-lab-a2l-review-your-first-3d-printer-with-plenty-of-room-to-grow?utm_source=rss)
- - [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for &quot;prioritizing safety over the near-term interests of OpenAI&quot; &lpar;Mikita Balesni/@balesni&rpar;](https://www.techmeme.com/261008/p49#a261008p49)
- - [ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud](https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/)
- - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
- - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)<!-- TECH:END -->
+ - [Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech &lpar;Financial Times&rpar;](https://www.techmeme.com/261009/p2#a261009p2)
+ - [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/)
+ - [Ulta Promo Codes: Up to 20% Off in October 2026](https://www.wired.com/story/ulta-coupon/)
+ - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
+ - [Valvoline Coupons and Promo Codes for October 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

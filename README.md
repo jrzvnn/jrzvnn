@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ant couldnt resist that booty.](http://9gag.com/gag/abe359O)
  - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 💣 [Ant couldnt resist that booty.](http://9gag.com/gag/abe359O)
  - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 👉 [Ant couldnt resist that booty.](http://9gag.com/gag/abe359O)<!-- MEMES:END -->
+ - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 😝 [Need men&#39;s clothes? Amazon got you covered.](https://www.reddit.com/r/funny/comments/1x1zcuz/need_mens_clothes_amazon_got_you_covered/)
+ - 👉 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 ---
 

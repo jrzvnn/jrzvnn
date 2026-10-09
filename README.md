@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech &lpar;Financial Times&rpar;](https://www.techmeme.com/261009/p2#a261009p2)
- - [TurboTax Full Service Coupons This October 2026](https://www.wired.com/story/turbotax-coupon/)
- - [Ulta Promo Codes: Up to 20% Off in October 2026](https://www.wired.com/story/ulta-coupon/)
- - [Lowe’s Promo Codes and Deals: Up to $300 Off Appliances](https://www.wired.com/story/lowes-promo-code/)
- - [Valvoline Coupons and Promo Codes for October 2026](https://www.wired.com/story/valvoline-coupons/)<!-- TECH:END -->
+ - [Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/261009/p13#a261009p13)
+ - [Meta is banning TikTok ads across its platforms](https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban)
+ - [The humble Playdate has become one of gaming’s best deals](https://www.theverge.com/entertainment/1008441/playdate-season-3)
+ - [The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/261009/p12#a261009p12)
+ - [October Apple announcements &amp; more Home Hub leaks on the AppleInsider Podcast](https://appleinsider.com/articles/26/10/09/october-apple-announcements-more-home-hub-leaks-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

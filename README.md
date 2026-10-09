@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook has no intention of interfering with the John Ternus era](https://appleinsider.com/articles/26/10/08/tim-cook-has-no-intention-of-interfering-with-the-john-ternus-era?utm_source=rss)
- - [Filing: the FTC is probing Block over inadequate customer service for frozen or deactivated Square accounts amid staffing cuts, following 1,500+ complaints &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/261008/p44#a261008p44)
- - [California to Ban Quartz Countertops Amid Health Concerns](https://www.cnet.com/everyday-needs/health-and-wellness/california-ban-quartz-countertops-health-concerns/)
- - [Anthropic launches the Critical Infrastructure Defense Program to provide AI models, threat research, and on-site support, starting with CrowdStrike and others &lpar;Sam Sabin/Axios&rpar;](https://www.techmeme.com/261008/p43#a261008p43)
- - [She Designed Meta’s New AI Logo. Then Came the Hate](https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/)<!-- TECH:END -->
+ - [Bambu Lab A2L review: your first 3D printer with plenty of room to grow](https://appleinsider.com/articles/26/10/09/bambu-lab-a2l-review-your-first-3d-printer-with-plenty-of-room-to-grow?utm_source=rss)
+ - [AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for &quot;prioritizing safety over the near-term interests of OpenAI&quot; &lpar;Mikita Balesni/@balesni&rpar;](https://www.techmeme.com/261008/p49#a261008p49)
+ - [ICE Emails Discuss Using Palantir-Supported Tool to Investigate Voter Fraud](https://www.wired.com/story/ice-emails-discuss-using-palantir-supported-tool-to-investigate-voter-fraud/)
+ - [US plans livestream of execution by firing squad](https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood)
+ - [Anthropic launches free AI security scans for open-source projects](https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

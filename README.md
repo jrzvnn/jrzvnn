@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 😝 [Who are you](http://9gag.com/gag/a6DrmV8)
- - 💣 [WTF!](http://9gag.com/gag/aVvGG3v)
- - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 👉 [Who are you](http://9gag.com/gag/a6DrmV8)<!-- MEMES:END -->
+ - 😝 [6 year old](http://9gag.com/gag/abe35q8)
+ - 💣 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 😝 [6 year old](http://9gag.com/gag/abe35q8)
+ - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
 
 ---
 

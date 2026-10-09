@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jev developer TypeSafe AI raised ~$870M led by a16z at a $7.5B valuation with Sequoia and others participating &lpar;Bloomberg&rpar;](https://www.techmeme.com/261009/p13#a261009p13)
- - [Meta is banning TikTok ads across its platforms](https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban)
- - [The humble Playdate has become one of gaming’s best deals](https://www.theverge.com/entertainment/1008441/playdate-season-3)
- - [The UK plans to curb non-compete rules that force employees to wait before moving jobs or starting companies, an issue that has drawn complaints from startups &lpar;Shona Ghosh/Bloomberg&rpar;](https://www.techmeme.com/261009/p12#a261009p12)
- - [October Apple announcements &amp; more Home Hub leaks on the AppleInsider Podcast](https://appleinsider.com/articles/26/10/09/october-apple-announcements-more-home-hub-leaks-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [A record 42 startups became decacorns so far in 2026, beating 2021&#39;s 34; PitchBook: the average time to hit $10B dropped to 5.5 years in 2025 vs. 9.4 in 2020 &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/261009/p21#a261009p21)
+ - [Wean yourself off the Action Button before you get an iPhone Duo](https://appleinsider.com/inside/ios/tips/wean-yourself-off-the-action-button-before-you-get-an-iphone-duo?utm_source=rss)
+ - [Brendan Carr says he&amp;#8217;ll let Pete Hegseth decide whether TV networks can air the public execution](https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air)
+ - [NASA Just Made Nearly 1 TB of Artemis II Data Available to the Public](https://www.wired.com/story/nasa-just-made-nearly-1-tb-of-artemis-ii-data-available-to-the-public/)
+ - [Nikon microscopic video competition winner disqualified for using generative AI](https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

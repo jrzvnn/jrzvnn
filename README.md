@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)
- - [In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261009/p32#a261009p32)
- - [Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &lpar;Katharine Schwab/Forbes&rpar;](https://www.techmeme.com/261009/p31#a261009p31)
- - [Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&#39;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/261009/p30#a261009p30)
- - [Move Over ‘Carrie’: Mike Flanagan Teases ‘The Exorcist: Martyrs’ at NYCC 2026](https://www.cnet.com/culture/entertainment/mike-flanagan-exorcist-nycc-blumhouse/)<!-- TECH:END -->
+ - [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
+ - [A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share &lpar;Bloomberg&rpar;](https://www.techmeme.com/261010/p8#a261010p8)
+ - [Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs &lpar;TrendForce&rpar;](https://www.techmeme.com/261010/p7#a261010p7)
+ - [Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market &lpar;Yifan Yu/Nikkei Asia&rpar;](https://www.techmeme.com/261010/p6#a261010p6)
+ - [Sources detail how Firmus&#39; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &lpar;Bloomberg&rpar;](https://www.techmeme.com/261010/p5#a261010p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

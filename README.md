@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
- - [How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261010/p12#a261010p12)
- - [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)
- - [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)
- - [Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more &lpar;Adam Morgan/Wired&rpar;](https://www.techmeme.com/261010/p11#a261010p11)<!-- TECH:END -->
+ - [IDC: Shenzhen-based DJI and Insta360, accounting for 73% and 20% of global smart camera market in Q2, are vying for the top spot as GoPro&#39;s share drops to 3% &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/261010/p15#a261010p15)
+ - [Elon Musk Eyes ‘Complete Phone Coverage in America’ as SpaceX Clears Hurdle](https://www.cnet.com/tech/mobile/starlink-acquires-low-band-spectrum/)
+ - [A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and other companies help shape policy on AI apps and medical records access &lpar;CBS News&rpar;](https://www.techmeme.com/261010/p14#a261010p14)
+ - [Ledger wallet tampering suspected after reports of crypto thefts](https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts)
+ - [Amazon slashes $430 off 14-inch MacBook Pro M5 Pro, now $2,069](https://appleinsider.com/articles/26/10/10/amazon-slashes-430-off-14-inch-macbook-pro-m5-pro-now-2069?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 😝 [We all love your mum](http://9gag.com/gag/a6DrdDL)
- - 💣 [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)
- - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
- - 👉 [We all love your mum](http://9gag.com/gag/a6DrdDL)<!-- MEMES:END -->
+ - 😝 [Instantly .](http://9gag.com/gag/avW2ZEO)
+ - 😝 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
+ - 💣 [Make this happen.](http://9gag.com/gag/a9zjLnm)
+ - 😝 [Instantly .](http://9gag.com/gag/avW2ZEO)
+ - 👉 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 ---
 

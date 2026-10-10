@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My brief romance with an AI bird feeder](https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too)
- - [A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share &lpar;Bloomberg&rpar;](https://www.techmeme.com/261010/p8#a261010p8)
- - [Laptop production share outside China is expected to fall from 24% in 2025 to 21% in 2026 as PC makers rethink shifting production amid soaring component costs &lpar;TrendForce&rpar;](https://www.techmeme.com/261010/p7#a261010p7)
- - [Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market &lpar;Yifan Yu/Nikkei Asia&rpar;](https://www.techmeme.com/261010/p6#a261010p6)
- - [Sources detail how Firmus&#39; IPO collapsed in 48 hours after US fund managers deemed its $30B valuation too rich for a company with just $51M in FY 2026 revenue &lpar;Bloomberg&rpar;](https://www.techmeme.com/261010/p5#a261010p5)<!-- TECH:END -->
+ - [Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?](https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure)
+ - [How Anthropic co-founder Tom Brown used GOP ties to end a June standoff over model safety and win over Musk, brokering a $1.25B/month SpaceX compute deal &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261010/p12#a261010p12)
+ - [LG’s RGB LED TV is good for certain situations, but an OLED is better](https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review)
+ - [AI agent makers are promising privacy — will they deliver?](https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots)
+ - [Dozens of staff at HarperCollins, Simon &amp; Schuster, Hachette: without author consent, publishers are quietly using AI to make back-cover copy, cover art, more &lpar;Adam Morgan/Wired&rpar;](https://www.techmeme.com/261010/p11#a261010p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

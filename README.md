@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Curious what you degenerates come up with. But honest advice is appreciated](http://9gag.com/gag/a4np9Pm)
  - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 😝 [We all love your mum](http://9gag.com/gag/a6DrdDL)
  - 💣 [Anakin approved this poll](http://9gag.com/gag/aVgjQxM)
- - 😝 [Curious what you degenerates come up with. But honest advice is appreciated](http://9gag.com/gag/a4np9Pm)
- - 👉 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)<!-- MEMES:END -->
+ - 😝 [Dell CEO\u2019s Wife Goes Viral After Appearance At The Oval Office](http://9gag.com/gag/a6Drr69)
+ - 👉 [We all love your mum](http://9gag.com/gag/a6DrdDL)<!-- MEMES:END -->
 
 ---
 

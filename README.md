@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instantly .](http://9gag.com/gag/avW2ZEO)
+ - 😝 [Trump on Ukraine: `I think it&#39;s time for Ukraine to get a new president.`](http://9gag.com/gag/aoWm080)
  - 😝 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 💣 [Make this happen.](http://9gag.com/gag/a9zjLnm)
- - 😝 [Instantly .](http://9gag.com/gag/avW2ZEO)
+ - 💣 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)
+ - 😝 [To pass or not to pass](https://www.reddit.com/r/funny/comments/1x2mshr/to_pass_or_not_to_pass/)
  - 👉 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)<!-- MEMES:END -->
 
 ---

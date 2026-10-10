@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood](https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/)
- - [Oxide Computer, which helps companies build their own clouds, raised a $445M Series D led by Eclipse at a $6B valuation, taking its total funding to ~$835M &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261009/p28#a261009p28)
- - [A man US authorities called a &quot;fixer&quot;, who was charged alongside Super Micro co-founder Yih-Shyan Liaw with smuggling restricted chips to China, pleaded guilty &lpar;Bob Van Voris/Bloomberg&rpar;](https://www.techmeme.com/261009/p27#a261009p27)
- - [Decade-old RAM is making a comeback](https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback)
- - [Sources: top execs at Anthropic, OpenAI, and others are gaming out scenarios for a public and political revolt following a catastrophic AI event &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261009/p26#a261009p26)<!-- TECH:END -->
+ - [Sources: Dario Amodei spoke with Meta&#39;s Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261009/p33#a261009p33)
+ - [In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation &lpar;Brian Krebs/Krebs on Security&rpar;](https://www.techmeme.com/261009/p32#a261009p32)
+ - [Sources and internal docs: TikTok cut the violations for which an advertiser could be immediately banned from 37 to 13 last fall, leading to a surge in scams &lpar;Katharine Schwab/Forbes&rpar;](https://www.techmeme.com/261009/p31#a261009p31)
+ - [Sources: Nuvacore, a six-month-old Sequoia-backed chip startup that&#39;s designing a new central processor for data centers, is raising funds at a ~$2.5B valuation &lpar;Reuters&rpar;](https://www.techmeme.com/261009/p30#a261009p30)
+ - [Move Over ‘Carrie’: Mike Flanagan Teases ‘The Exorcist: Martyrs’ at NYCC 2026](https://www.cnet.com/culture/entertainment/mike-flanagan-exorcist-nycc-blumhouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Megan Fox Launches Exclusive Paid Content Page](http://9gag.com/gag/awgNKzQ)
- - 😝 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 💣 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)
- - 😝 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
- - 👉 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)<!-- MEMES:END -->
+ - 😝 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
+ - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
+ - 💣 [Fifteen dollar too beaucoup](http://9gag.com/gag/aD7RwoG)
+ - 😝 [Would you live on that planet?](http://9gag.com/gag/a9zjLy0)
+ - 👉 [See comments](http://9gag.com/gag/a0ovLXO)<!-- MEMES:END -->
 
 ---
 

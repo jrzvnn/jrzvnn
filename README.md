@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Beijing-based Neolix, which operates the world&#39;s largest robovan fleet at 27K, as Shenzhen tests nighttime parcel deliveries by driverless vehicles &lpar;Bloomberg&rpar;](https://www.techmeme.com/261011/p5#a261011p5)
- - [Rein Security, which develops runtime tools to secure enterprise AI agents and stop adversarial AI agents, raised a $25M Series A, taking total funding to $35M &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261011/p4#a261011p4)
- - [Multiply Labs, which develops robotic systems to automate pharmaceutical manufacturing processes, raised a $75M Series B led by Patrick Soon-Shiong&#39;s NantWorks &lpar;Maria Deutscher/SiliconANGLE&rpar;](https://www.techmeme.com/261011/p3#a261011p3)
- - [Microsoft unveils Microsoft-Decision-1, a fast decision-scoring model trained on Qwen3.5-9B, and says it will soon rebase it on MAI, OpenAI, and other models &lpar;Achint Srivastava/Command Line&rpar;](https://www.techmeme.com/261011/p2#a261011p2)
- - [General Medicine, an online storefront for medical care founded by PillPack founders TJ Parker and Elliot Cohen, raised a $120M Series B led by a16z &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261011/p1#a261011p1)<!-- TECH:END -->
+ - [PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261011/p6#a261011p6)
+ - [Vurt wants you to look at vertical videos as a genre of their own](https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey)
+ - [What to expect from Apple’s ‘Welcome Home’ event](https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home)
+ - [‘Dragon Ball Super: Beerus’: How to Stream the New Anime Today](https://www.cnet.com/tech/services-and-software/dragon-ball-super-beerus-how-to-stream-the-new-anime-today/)
+ - [Silent Hill Townfall Is Real for Me: I’ve Been to the Actual St. Amelia](https://www.cnet.com/uncategorized/silent-hill-townfall-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

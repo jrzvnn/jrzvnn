@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: robotics and physical AI companies have raised ~$48B YTD, as they gather training data from people completing tasks in factories, offices, and homes &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261011/p6#a261011p6)
- - [Vurt wants you to look at vertical videos as a genre of their own](https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey)
- - [What to expect from Apple’s ‘Welcome Home’ event](https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home)
- - [‘Dragon Ball Super: Beerus’: How to Stream the New Anime Today](https://www.cnet.com/tech/services-and-software/dragon-ball-super-beerus-how-to-stream-the-new-anime-today/)
- - [Silent Hill Townfall Is Real for Me: I’ve Been to the Actual St. Amelia](https://www.cnet.com/uncategorized/silent-hill-townfall-review/)<!-- TECH:END -->
+ - [A look at the economics of Anthropic&#39;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261011/p9#a261011p9)
+ - [Updated entry-level iPad won&#39;t arrive until early 2027](https://appleinsider.com/articles/26/10/11/updated-entry-level-ipad-wont-arrive-until-early-2027?utm_source=rss)
+ - [New Apple Smart Home Hub Reportedly Called HomeView and Will Ship in November](https://www.cnet.com/home/new-apple-homeview-smart-home-hub/)
+ - [The new Apple TV could have a built-in mic and a remote with a speaker](https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker)
+ - [Tim Cook visits China for the third time in 2026](https://appleinsider.com/articles/26/10/11/tim-cook-visits-china-for-the-third-time-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

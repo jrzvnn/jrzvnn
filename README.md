@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
+ - 😝 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
  - 😝 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
  - 💣 [HACK THE PLANET!](http://9gag.com/gag/a78vygr)
- - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
+ - 😝 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
  - 👉 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)<!-- MEMES:END -->
 
 ---

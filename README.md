@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the economics of Anthropic&#39;s data center leases as analysts estimate a 245 MW site could yield ~$1.3B/mo; sources say it signed a cloud deal with IREN &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261011/p9#a261011p9)
- - [Updated entry-level iPad won&#39;t arrive until early 2027](https://appleinsider.com/articles/26/10/11/updated-entry-level-ipad-wont-arrive-until-early-2027?utm_source=rss)
- - [New Apple Smart Home Hub Reportedly Called HomeView and Will Ship in November](https://www.cnet.com/home/new-apple-homeview-smart-home-hub/)
- - [The new Apple TV could have a built-in mic and a remote with a speaker](https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker)
- - [Tim Cook visits China for the third time in 2026](https://appleinsider.com/articles/26/10/11/tim-cook-visits-china-for-the-third-time-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261011/p11#a261011p11)
+ - [Sunday Reboot: Touch MacBook Pro&#39;s nice, but I want macOS on iPad](https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad?utm_source=rss)
+ - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)
+ - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
+ - [What to expect from Apple&#39;s October 13 &#39;Welcome home&#39; releases](https://appleinsider.com/articles/26/10/08/what-to-expect-from-apples-october-13-welcome-home-releases?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

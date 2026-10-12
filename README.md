@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See comments](http://9gag.com/gag/a0ovLXO)
- - 😝 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
- - 💣 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)
- - 😝 [That&#39;s quite the catalogue.](http://9gag.com/gag/a17peGR)
- - 👉 [It&#39; s a nordick tradition](http://9gag.com/gag/aoWm0We)<!-- MEMES:END -->
+ - 😝 [Tobey Maguire Officiates Ex-Wife\u2019s Wedding To Billionaire Heir Weeks After Finalizing Their Divorce](http://9gag.com/gag/aAQB1dg)
+ - 😝 [Is this allowed ?](http://9gag.com/gag/aNLmKx3)
+ - 💣 [HACK THE PLANET!](http://9gag.com/gag/a78vygr)
+ - 😝 [Tobey Maguire Officiates Ex-Wife\u2019s Wedding To Billionaire Heir Weeks After Finalizing Their Divorce](http://9gag.com/gag/aAQB1dg)
+ - 👉 [HACK THE PLANET!](http://9gag.com/gag/a78vygr)<!-- MEMES:END -->
 
 ---
 

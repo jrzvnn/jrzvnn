@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 😝 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
+ - 😝 [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
  - 💣 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 😝 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 👉 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)<!-- MEMES:END -->
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
+ - 👉 [So many things happened in this video that I don&#39;t even know who the main character is😂&lpar;by leedalrae411&rpar;](https://www.reddit.com/r/funny/comments/1x46uh9/so_many_things_happened_in_this_video_that_i_dont/)<!-- MEMES:END -->
 
 ---
 

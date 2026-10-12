@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261011/p13#a261011p13)
- - [Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more &lpar;CBS News&rpar;](https://www.techmeme.com/261011/p12#a261011p12)
- - [Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261011/p11#a261011p11)
- - [Sunday Reboot: Touch MacBook Pro&#39;s nice, but I want macOS on iPad](https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad?utm_source=rss)
- - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)<!-- TECH:END -->
+ - [Sources: the US restores the UK AISI&#39;s access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month &lpar;Tony Diver/Telegraph&rpar;](https://www.techmeme.com/261012/p4#a261012p4)
+ - [An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI &quot;super learner&quot; using RL as an alternative path to LLMs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/261012/p3#a261012p3)
+ - [Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/261012/p2#a261012p2)
+ - [Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/261012/p1#a261012p1)
+ - [Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &quot;hardware implant&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p17#a261011p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why Pray In The Road?](http://9gag.com/gag/aYGjLo2)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
- - 💣 [But... they&#39;re both a kilogram...](http://9gag.com/gag/az57j5B)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Officials Say](http://9gag.com/gag/abe30jL)
- - 👉 [So many things happened in this video that I don&#39;t even know who the main character is😂&lpar;by leedalrae411&rpar;](https://www.reddit.com/r/funny/comments/1x46uh9/so_many_things_happened_in_this_video_that_i_dont/)<!-- MEMES:END -->
+ - 😝 [\u2018Breaking Bad\u2019 Star RJ Mitte Dies Aged 34](http://9gag.com/gag/aAQBPNd)
+ - 😝 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
+ - 💣 [Yennefer - choose one](http://9gag.com/gag/az57AZB)
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 👉 [\u2018Breaking Bad\u2019 Star RJ Mitte Dies Aged 34](http://9gag.com/gag/aAQBPNd)<!-- MEMES:END -->
 
 ---
 

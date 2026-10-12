@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vitalize, an AI platform that helps hospitals manage labor and capacity in real time, raised a $31M Series A led by Oak HC/FT, with YC and others participating &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261011/p13#a261011p13)
+ - [Q&amp;A with Palantir CTO Shyam Sankar on the Iran school strike and AI targeting, the DOD dropping Anthropic, AI liability, effective altruism, and more &lpar;CBS News&rpar;](https://www.techmeme.com/261011/p12#a261011p12)
  - [Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261011/p11#a261011p11)
  - [Sunday Reboot: Touch MacBook Pro&#39;s nice, but I want macOS on iPad](https://appleinsider.com/articles/26/10/11/sunday-reboot-touch-macbook-pros-nice-but-i-want-macos-on-ipad?utm_source=rss)
- - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)
- - [A college in Illinois tried to cancel its Flock contact and it refused](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)
- - [What to expect from Apple&#39;s October 13 &#39;Welcome home&#39; releases](https://appleinsider.com/articles/26/10/08/what-to-expect-from-apples-october-13-welcome-home-releases?utm_source=rss)<!-- TECH:END -->
+ - [How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted &quot;super intelligence&quot;, as Silicon Valley falls in line with Trump &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p10#a261011p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

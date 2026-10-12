@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US restores the UK AISI&#39;s access to the latest US models for safety testing, after ordering OpenAI and Anthropic to stop sharing models last month &lpar;Tony Diver/Telegraph&rpar;](https://www.techmeme.com/261012/p4#a261012p4)
- - [An interview with ex-DeepMind scientist David Silver on his startup Ineffable, building an AI &quot;super learner&quot; using RL as an alternative path to LLMs, and more &lpar;Madhumita Murgia/Financial Times&rpar;](https://www.techmeme.com/261012/p3#a261012p3)
- - [Sources: TSMC execs in charge of overseas operations met Texas officials and started more serious discussions in H1 2026, after talking on and off for 10+ years &lpar;Tim Culpan/Culpium&rpar;](https://www.techmeme.com/261012/p2#a261012p2)
- - [Sources: PCB maker Dongshan is eyeing to raise $2B to $3B in a Hong Kong listing as soon as this month; Dongshan is listed in Shenzhen with a $39B valuation &lpar;Bloomberg&rpar;](https://www.techmeme.com/261012/p1#a261012p1)
- - [Hardware wallet maker Ledger says the $86M+ theft from hundreds of its wallets involved devices sold by reseller CryptoBilis and confirms a &quot;hardware implant&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261011/p17#a261011p17)<!-- TECH:END -->
+ - [How to set up your iPhone Duo pre-order to make checkout faster](https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster?utm_source=rss)
+ - [iPhone Duo production orders up 30% says report that does math strangely](https://appleinsider.com/articles/26/10/12/iphone-duo-production-orders-up-30-says-report-that-does-math-strangely?utm_source=rss)
+ - [Getty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/261012/p30#a261012p30)
+ - [Beats meets Pokemon in an upcoming speaker collaboration](https://appleinsider.com/articles/26/10/12/beats-meets-pokemon-in-an-upcoming-speaker-collaboration?utm_source=rss)
+ - [The Yandex outage probably didn’t blitz Russian bots](https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

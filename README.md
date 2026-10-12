@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up your iPhone Duo pre-order to make checkout faster](https://appleinsider.com/inside/iphone-duo/tips/how-to-set-up-your-iphone-duo-pre-order-to-make-checkout-faster?utm_source=rss)
- - [iPhone Duo production orders up 30% says report that does math strangely](https://appleinsider.com/articles/26/10/12/iphone-duo-production-orders-up-30-says-report-that-does-math-strangely?utm_source=rss)
- - [Getty enters a restructuring agreement to take the company private, with Getty family and Koch Equity committing to invest up to $533M to own 100% of Getty &lpar;Anhata Rooprai/Reuters&rpar;](https://www.techmeme.com/261012/p30#a261012p30)
- - [Beats meets Pokemon in an upcoming speaker collaboration](https://appleinsider.com/articles/26/10/12/beats-meets-pokemon-in-an-upcoming-speaker-collaboration?utm_source=rss)
- - [The Yandex outage probably didn’t blitz Russian bots](https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk)<!-- TECH:END -->
+ - [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss)
+ - [Meta Launches Muse and Wonder AI Models to Play Catch-Up With Rivals](https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/)
+ - [Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B &lpar;Claire Ruckin/Bloomberg&rpar;](https://www.techmeme.com/261012/p41#a261012p41)
+ - [Apple trails Samsung as global smartphone shipments hit a 13-year low](https://appleinsider.com/articles/26/10/12/apple-trails-samsung-as-global-smartphone-shipments-hit-a-13-year-low?utm_source=rss)
+ - [Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes &lpar;Anthropic&rpar;](https://www.techmeme.com/261012/p40#a261012p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

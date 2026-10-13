@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy deserves a oscar for the performance](https://www.reddit.com/r/funny/comments/1x4mcnm/this_guy_deserves_a_oscar_for_the_performance/)
  - 😝 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
- - 💣 [Sprite captured by accident by french photographer](http://9gag.com/gag/a17pXw8)
+ - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 💣 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)
  - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
  - 👉 [Bye Bye Walt Jr. - &lpar;34&rpar;](http://9gag.com/gag/aNLmWGA)<!-- MEMES:END -->
 

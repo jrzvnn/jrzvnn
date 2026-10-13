@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan&#39;s largest, potentially costing $6.3B &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261012/p45#a261012p45)
- - [How to get started with making music in GarageBand for Mac](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-making-music-in-garageband-for-mac?utm_source=rss)
- - [Q&amp;A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta&#39;s AI team, agentic commerce, more &lpar;Cheeky Pint&rpar;](https://www.techmeme.com/261012/p44#a261012p44)
- - [Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &quot;physical AI&quot; efforts &lpar;Anton Bridge/Reuters&rpar;](https://www.techmeme.com/261012/p43#a261012p43)
- - [Want Your New iPhone Duo Fast? Lock in Your Details Now](https://www.cnet.com/tech/mobile/iphone-duo-preorder-oct-16/)<!-- TECH:END -->
+ - [The IMF lifts its 2026 global GDP growth forecast to 3.1%, up from 3% in July, citing an AI boom that offsets Middle East war disruptions and high energy costs &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/261013/p15#a261013p15)
+ - [How crypto billionaires Christopher Harborne, who owns ~12% of Tether, and Ben Delo donated ~$100M to Nigel Farage&#39;s Reform, the largest donations in UK history &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/261013/p14#a261013p14)
+ - [Accenture&#39;s market cap rebounded from $76B in June to ~$130B ahead of its investor day, where it seeks to reassure investors that AI won&#39;t threaten its business &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/261013/p13#a261013p13)
+ - [Character.AI files for bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
+ - [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

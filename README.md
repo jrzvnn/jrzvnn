@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The IMF lifts its 2026 global GDP growth forecast to 3.1%, up from 3% in July, citing an AI boom that offsets Middle East war disruptions and high energy costs &lpar;Anniek Bao/CNBC&rpar;](https://www.techmeme.com/261013/p15#a261013p15)
- - [How crypto billionaires Christopher Harborne, who owns ~12% of Tether, and Ben Delo donated ~$100M to Nigel Farage&#39;s Reform, the largest donations in UK history &lpar;David Segal/New York Times&rpar;](https://www.techmeme.com/261013/p14#a261013p14)
- - [Accenture&#39;s market cap rebounded from $76B in June to ~$130B ahead of its investor day, where it seeks to reassure investors that AI won&#39;t threaten its business &lpar;Stephen Foley/Financial Times&rpar;](https://www.techmeme.com/261013/p13#a261013p13)
- - [Character.AI files for bankruptcy](https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney)
- - [Alex Gibney’s ‘Musk’ Has a Unique Perspective on Daddy Issues](https://www.wired.com/story/the-big-interview-podcast-alex-gibney-musk-doc/)<!-- TECH:END -->
+ - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
+ - [Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/261013/p36#a261013p36)
+ - [Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261013/p35#a261013p35)
+ - [Apple Just Declared War on Smart Home Security](https://www.cnet.com/home/smart-home/apple-just-declared-war-on-smart-home-security/)
+ - [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

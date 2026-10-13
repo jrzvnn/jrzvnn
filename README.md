@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New joint filing shows Epic remains unhappy with Apple at every turn](https://appleinsider.com/articles/26/10/12/new-joint-filing-shows-epic-remains-unhappy-with-apple-at-every-turn?utm_source=rss)
- - [Meta Launches Muse and Wonder AI Models to Play Catch-Up With Rivals](https://www.cnet.com/tech/services-and-software/meta-muse-and-wonder-ai-models/)
- - [Sources: JPMorgan and Goldman, leading a $5B loan sale with a yield of ~11% for AI startup Volta, took a rare move to limit exposure by underwriting just $1.3B &lpar;Claire Ruckin/Bloomberg&rpar;](https://www.techmeme.com/261012/p41#a261012p41)
- - [Apple trails Samsung as global smartphone shipments hit a 13-year low](https://appleinsider.com/articles/26/10/12/apple-trails-samsung-as-global-smartphone-shipments-hit-a-13-year-low?utm_source=rss)
- - [Anthropic researchers say small AI models may be months away from being able to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes &lpar;Anthropic&rpar;](https://www.techmeme.com/261012/p40#a261012p40)<!-- TECH:END -->
+ - [Sources: NTT Data is in advanced talks to build a data center for Anthropic in Osaka of up to 500 MW, among Japan&#39;s largest, potentially costing $6.3B &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261012/p45#a261012p45)
+ - [How to get started with making music in GarageBand for Mac](https://appleinsider.com/inside/macos/tips/how-to-get-started-with-making-music-in-garageband-for-mac?utm_source=rss)
+ - [Q&amp;A with Mark Zuckerberg and Alexandr Wang on the Muse app, Muse Wonder, the risks of committing $100B+ to AI, rebooting Meta&#39;s AI team, agentic commerce, more &lpar;Cheeky Pint&rpar;](https://www.techmeme.com/261012/p44#a261012p44)
+ - [Japanese manufacturer Omron says it will acquire US industrial PC firm OnLogic and its parent company, Interlogic, for $675M, to boost its &quot;physical AI&quot; efforts &lpar;Anton Bridge/Reuters&rpar;](https://www.techmeme.com/261012/p43#a261012p43)
+ - [Want Your New iPhone Duo Fast? Lock in Your Details Now](https://www.cnet.com/tech/mobile/iphone-duo-preorder-oct-16/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

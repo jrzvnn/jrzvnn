@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I don’t miss the camera on the Ray-Ban Meta Audio glasses](https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables)
- - [Sources: Decagon, which offers AI customer service agents and was last valued at $4.5B, hired a bank and is in early talks with buyers, including ServiceNow &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/261013/p36#a261013p36)
- - [Pluto Security, which monitors AI agents and vibe-coded apps, exits stealth with $42M, including a $34M Series A, and says it has hit $2M+ in ARR since April &lpar;Ram Iyer/TechCrunch&rpar;](https://www.techmeme.com/261013/p35#a261013p35)
- - [Apple Just Declared War on Smart Home Security](https://www.cnet.com/home/smart-home/apple-just-declared-war-on-smart-home-security/)
- - [The feds are looking into reports of Tesla’s robotaxis speeding through school zones](https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation)<!-- TECH:END -->
+ - [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss)
+ - [No Man’s Sky Headlines Apple’s New Wave of iPhone and iPad Games](https://www.cnet.com/tech/gaming/no-mans-sky-headlines-apples-new-wave-of-iphone-and-ipad-games/)
+ - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
+ - [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/)
+ - [A look at OpenAI&#39;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &lpar;The Information&rpar;](https://www.techmeme.com/261013/p45#a261013p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

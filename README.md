@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
  - 😝 [Women](http://9gag.com/gag/aK142GQ)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 💣 [Women](http://9gag.com/gag/aK142GQ)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 👉 [Women](http://9gag.com/gag/aK142GQ)<!-- MEMES:END -->
+ - 💣 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
+ - 😝 [Women](http://9gag.com/gag/aK142GQ)
+ - 👉 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)<!-- MEMES:END -->
 
 ---
 

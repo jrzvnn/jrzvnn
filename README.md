@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261014/p14#a261014p14)
- - [Precision Finding on the new Siri Remote comes with an unexpected catch](https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss)
- - [Getting a HomeView repaired could cost 93% of just replacing it](https://appleinsider.com/articles/26/10/14/getting-a-homeview-repaired-could-cost-93-of-just-replacing-it?utm_source=rss)
- - [Inside the making of Rockstar&#39;s GTA VI, which analysts expect to sell 40M copies and make $3B+ in revenue in its first four months; Rockstar now has 4,711 staff &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261014/p13#a261014p13)
- - [Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261014/p12#a261014p12)<!-- TECH:END -->
+ - [My AI doppelganger tells me what to eat](https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health)
+ - [New Echo III T5 gives new Macs three PCI-E slots across Thunderbolt 5](https://appleinsider.com/articles/26/10/14/new-echo-iii-t5-gives-new-macs-three-pci-e-slots-across-thunderbolt-5?utm_source=rss)
+ - [Skip the controller, the Apple TV 4K still isn&#39;t a good gaming platform](https://appleinsider.com/articles/26/10/14/skip-the-controller-the-apple-tv-4k-still-isnt-a-good-gaming-platform?utm_source=rss)
+ - [CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL is down 7%+ &lpar;Michelle Fox/CNBC&rpar;](https://www.techmeme.com/261014/p36#a261014p36)
+ - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

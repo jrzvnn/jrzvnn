@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
  - 😝 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
- - 😝 [Women](http://9gag.com/gag/aK142GQ)
- - 💣 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
- - 😝 [Women](http://9gag.com/gag/aK142GQ)
- - 👉 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)<!-- MEMES:END -->
+ - 💣 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 😝 [Dont we know it.](http://9gag.com/gag/a3Gvqp1)
+ - 👉 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)<!-- MEMES:END -->
 
 ---
 

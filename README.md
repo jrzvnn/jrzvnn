@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)
- - [Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p49#a261013p49)
- - [Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261013/p48#a261013p48)
- - [Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees &lpar;The Information&rpar;](https://www.techmeme.com/261013/p47#a261013p47)
- - [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/)<!-- TECH:END -->
+ - [A look at a coordinated theft of ~$100M in crypto using hardware backdoors planted in Ledger wallets sold by Malaysia-based authorized reseller CryptoBilis &lpar;Kim Zetter/ZERO DAY&rpar;](https://www.techmeme.com/261014/p4#a261014p4)
+ - [ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing &quot;strong interest&quot; in orders for 2029 and 2030 &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p3#a261014p3)
+ - [ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€44B to €44B-€45B &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/261014/p2#a261014p2)
+ - [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/)
+ - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

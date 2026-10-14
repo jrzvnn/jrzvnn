@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says the US government owns and controls Starshield systems and &quot;any limits on speed or usage are decided by the US military and ultimately POTUS&quot; &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/261014/p40#a261014p40)
- - [Apple Intelligence finally gets a release window for its debut in China](https://appleinsider.com/articles/26/10/14/apple-intelligence-finally-gets-a-release-window-for-its-debut-in-china?utm_source=rss)
- - [Apple HomeView hands on: So many questions, but I like it](https://appleinsider.com/articles/26/10/14/apple-homeview-hands-on-so-many-questions-but-i-like-it?utm_source=rss)
- - [Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won&#39;t include Siri AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261014/p39#a261014p39)
- - [Microsoft and Japan took down a cybercrime network behind over a billion scam messages](https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown)<!-- TECH:END -->
+ - [YouTube Rolls Out New Labeling System for AI-Generated Music](https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/)
+ - [Jio Platforms seeks to raise up to $3.2B in India&#39;s largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p47#a261014p47)
+ - [Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix](https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss)
+ - [Android Strengthens Scam Defenses for Calls and Texts](https://www.cnet.com/news/privacy/calls-and-messaging-android-security-options/)
+ - [Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn&#39;t implement sufficient safeguards to protect kids and other vulnerable users &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/261014/p46#a261014p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

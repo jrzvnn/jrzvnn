@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The constant struggle](https://www.reddit.com/r/funny/comments/1x5egnx/the_constant_struggle/)
  - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 💣 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
- - 😝 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)
+ - 💣 [Just don&#39;t use it](https://www.reddit.com/r/funny/comments/1x5edzi/just_dont_use_it/)
+ - 😝 [It can grow anywhere](https://www.reddit.com/r/funny/comments/1x5ecoo/it_can_grow_anywhere/)
  - 👉 [Tiger That Mauled Man To Death At Wildlife Park Will Not Be Euthanised, Park Confirms](http://9gag.com/gag/abe30jL)<!-- MEMES:END -->
 
 ---

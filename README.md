@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a coordinated theft of ~$100M in crypto using hardware backdoors planted in Ledger wallets sold by Malaysia-based authorized reseller CryptoBilis &lpar;Kim Zetter/ZERO DAY&rpar;](https://www.techmeme.com/261014/p4#a261014p4)
- - [ASML says it cannot fully meet AI-driven demand for its chipmaking tools in 2027 and 2028, and is seeing &quot;strong interest&quot; in orders for 2029 and 2030 &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p3#a261014p3)
- - [ASML reports Q3 net sales of €11.66B, vs. €11.72B est., a €4.96B net profit, vs. €4.1B est., and raises its 2026 net sales forecast from €43B-€44B to €44B-€45B &lpar;Arjun Kharpal/CNBC&rpar;](https://www.techmeme.com/261014/p2#a261014p2)
- - [HBO Max Promo Code: 50% Off | October 2026](https://www.wired.com/story/max-promo-code/)
- - [Uber Eats Promo Codes: $15 Off│October 2026](https://www.wired.com/story/uber-eats-promo-code/)<!-- TECH:END -->
+ - [Bengaluru-based Scimplify, which uses AI agents and 500+ partner manufacturing facilities to accelerate chemical production, raised $25M led by Hitachi Ventures &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261014/p14#a261014p14)
+ - [Precision Finding on the new Siri Remote comes with an unexpected catch](https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss)
+ - [Getting a HomeView repaired could cost 93% of just replacing it](https://appleinsider.com/articles/26/10/14/getting-a-homeview-repaired-could-cost-93-of-just-replacing-it?utm_source=rss)
+ - [Inside the making of Rockstar&#39;s GTA VI, which analysts expect to sell 40M copies and make $3B+ in revenue in its first four months; Rockstar now has 4,711 staff &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261014/p13#a261014p13)
+ - [Analysis: AI safety groups and individual donors have spent $48M in the midterm election cycle across bipartisan races to back candidates favoring AI regulation &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261014/p12#a261014p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

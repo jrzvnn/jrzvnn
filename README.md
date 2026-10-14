@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will get some OpenAI documents, but not everything it asked for in court](https://appleinsider.com/articles/26/10/13/apple-will-get-some-openai-documents-but-not-everything-it-asked-for-in-court?utm_source=rss)
- - [No Man’s Sky Headlines Apple’s New Wave of iPhone and iPad Games](https://www.cnet.com/tech/gaming/no-mans-sky-headlines-apples-new-wave-of-iphone-and-ipad-games/)
- - [Apple’s HomeView ad is confusing to everyone except parents](https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction)
- - [Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie](https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie/)
- - [A look at OpenAI&#39;s safety concerns over loop transformers before shipping its next major model; Microsoft accidentally confirmed GPT-6.1 Sol uses the technique &lpar;The Information&rpar;](https://www.techmeme.com/261013/p45#a261013p45)<!-- TECH:END -->
+ - [Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong](https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss)
+ - [Filing: Abdulrahman Alfozan, the OpenAI staffer charged with bugging a conference room, used a Seeed Xiao ESP32-S3 Sense dev board; a website sells it for $14 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261013/p49#a261013p49)
+ - [Albert Invent, which launched an AI model trained on chemical patents and data about 15M molecules, raised a $55M Series B, a source says at a $340M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261013/p48#a261013p48)
+ - [Sources: OpenAI is in early talks to buy Trail of Bits, which finds and fixes vulnerabilities in open-source software; founded in 2012, it has 40+ employees &lpar;The Information&rpar;](https://www.techmeme.com/261013/p47#a261013p47)
+ - [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

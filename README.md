@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My AI doppelganger tells me what to eat](https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health)
- - [New Echo III T5 gives new Macs three PCI-E slots across Thunderbolt 5](https://appleinsider.com/articles/26/10/14/new-echo-iii-t5-gives-new-macs-three-pci-e-slots-across-thunderbolt-5?utm_source=rss)
- - [Skip the controller, the Apple TV 4K still isn&#39;t a good gaming platform](https://appleinsider.com/articles/26/10/14/skip-the-controller-the-apple-tv-4k-still-isnt-a-good-gaming-platform?utm_source=rss)
- - [CoreWeave stock drops 15%+ and its bond yields near 15%, over concerns that some tech companies are borrowing too heavily for the AI build-out; ORCL is down 7%+ &lpar;Michelle Fox/CNBC&rpar;](https://www.techmeme.com/261014/p36#a261014p36)
- - [OpenAI claims an ex-employee took its product plans and presented them to Apple](https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans)<!-- TECH:END -->
+ - [Elon Musk says the US government owns and controls Starshield systems and &quot;any limits on speed or usage are decided by the US military and ultimately POTUS&quot; &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/261014/p40#a261014p40)
+ - [Apple Intelligence finally gets a release window for its debut in China](https://appleinsider.com/articles/26/10/14/apple-intelligence-finally-gets-a-release-window-for-its-debut-in-china?utm_source=rss)
+ - [Apple HomeView hands on: So many questions, but I like it](https://appleinsider.com/articles/26/10/14/apple-homeview-hands-on-so-many-questions-but-i-like-it?utm_source=rss)
+ - [Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with features first rolled out in 2024; the launch won&#39;t include Siri AI &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261014/p39#a261014p39)
+ - [Microsoft and Japan took down a cybercrime network behind over a billion scam messages](https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

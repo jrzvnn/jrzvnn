@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p51#a261014p51)
- - [Apple Maps Gets a Ticket to Austin for the F1 Grand Prix](https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/)
- - [Latest HomePods can output Mac system audio in compatible configurations](https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss)
- - [OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees&#39; devices &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p50#a261014p50)
- - [A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups&#39; claims that it violates free speech rights &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261014/p49#a261014p49)<!-- TECH:END -->
+ - [Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261015/p8#a261015p8)
+ - [TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261015/p7#a261015p7)
+ - [Chainalysis: agentic commerce on Coinbase&#39;s Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/261015/p6#a261015p6)
+ - [A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market &lpar;Financial Times&rpar;](https://www.techmeme.com/261015/p5#a261015p5)
+ - [Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines &lpar;IDC&rpar;](https://www.techmeme.com/261015/p4#a261015p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

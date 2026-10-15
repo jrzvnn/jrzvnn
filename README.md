@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 😝 [You may like it or not, but this is what a peak apex predator looks like](http://9gag.com/gag/anOejLq)
+ - 😝 [Get Fkd](http://9gag.com/gag/advy7w9)
  - 💣 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
  - 😝 [Get Fkd](http://9gag.com/gag/advy7w9)
- - 👉 [You may like it or not, but this is what a peak apex predator looks like](http://9gag.com/gag/anOejLq)<!-- MEMES:END -->
+ - 👉 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)<!-- MEMES:END -->
 
 ---
 

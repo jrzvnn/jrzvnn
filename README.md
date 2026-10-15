@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom)
- - [Precision Finding on the new Siri Remote comes with an unexpected catch](https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss)
- - [Ternus spent 15 years planning the iPhone Duo](https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo?utm_source=rss)
- - [Shelly’s new presence sensor simultaneously detects up to 10 people without a camera](https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera)
- - [Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries](https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud)<!-- TECH:END -->
+ - [&#39;Shogun 2 - Complete Edition&#39; release crashes and burns](https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss)
+ - [Sources: top DOJ officials halt career prosecutors&#39; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &lpar;Ben Penn/Bloomberg Law&rpar;](https://www.techmeme.com/261015/p46#a261015p46)
+ - [Grand Theft Auto 6: The Release Trailer You’ve Been Waiting For](https://www.cnet.com/tech/gaming/grand-theft-auto-6-gta6-trailer/)
+ - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
+ - [Apple&#39;s HomeView is $300 at a minimum, and it&#39;s not really clear who it&#39;s for](https://appleinsider.com/articles/26/10/15/apples-homeview-is-300-at-a-minimum-and-its-not-really-clear-who-its-for?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

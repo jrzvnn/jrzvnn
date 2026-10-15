@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Marc Andreessen, who sources say is close to White House COS Susie Wiles and has publicly described a fallout with Biden officials over AI policy &lpar;Austin Carr/Bloomberg&rpar;](https://www.techmeme.com/261015/p22#a261015p22)
- - [Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether &lpar;Sam Kessler/Wall Street Journal&rpar;](https://www.techmeme.com/261015/p21#a261015p21)
- - [Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261015/p20#a261015p20)
- - [AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s &lpar;Scott Alexander/Astral Codex Ten&rpar;](https://www.techmeme.com/261015/p19#a261015p19)
- - [&#39;Maximum Pleasure, guaranteed&#39; gets second season](https://appleinsider.com/articles/26/10/15/maximum-pleasure-guaranteed-gets-second-season?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom](https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom)
+ - [Precision Finding on the new Siri Remote comes with an unexpected catch](https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss)
+ - [Ternus spent 15 years planning the iPhone Duo](https://appleinsider.com/articles/26/10/15/ternus-spent-15-years-planning-the-iphone-duo?utm_source=rss)
+ - [Shelly’s new presence sensor simultaneously detects up to 10 people without a camera](https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera)
+ - [Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries](https://www.theverge.com/tech/1012003/microsoft-windows-11-new-photos-app-onedrive-icloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

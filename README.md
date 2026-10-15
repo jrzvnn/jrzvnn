@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Shogun 2 - Complete Edition&#39; release crashes and burns](https://appleinsider.com/articles/26/10/15/shogun-2---complete-edition-release-crashes-and-burns?utm_source=rss)
- - [Sources: top DOJ officials halt career prosecutors&#39; Biden-era investigation of Meta over facilitating illegal drug sales and are weighing more lenient options &lpar;Ben Penn/Bloomberg Law&rpar;](https://www.techmeme.com/261015/p46#a261015p46)
- - [Grand Theft Auto 6: The Release Trailer You’ve Been Waiting For](https://www.cnet.com/tech/gaming/grand-theft-auto-6-gta6-trailer/)
- - [Upgrade Your Thermostat for Winter With This Ecobee Deal for $120](https://www.wired.com/story/ecobee-fall-sale-2026/)
- - [Apple&#39;s HomeView is $300 at a minimum, and it&#39;s not really clear who it&#39;s for](https://appleinsider.com/articles/26/10/15/apples-homeview-is-300-at-a-minimum-and-its-not-really-clear-who-its-for?utm_source=rss)<!-- TECH:END -->
+ - [Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 &lpar;Rebecca Rubin/Variety&rpar;](https://www.techmeme.com/261015/p54#a261015p54)
+ - [Withings wants you to pay $100 a year to sync a scale with Apple Health](https://appleinsider.com/articles/26/10/15/withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health?utm_source=rss)
+ - [New Amazon Bee Personal AI Devices Will Listen and Record You](https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/)
+ - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
+ - [Bluesky expands Attie, its AI tool for building custom feeds, with a &quot;social vibe coding&quot; feature to create sites, games, quizzes, and more on the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261015/p53#a261015p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

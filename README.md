@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261015/p8#a261015p8)
- - [TSMC reports Q3 revenue up 50.9% YoY to $46.36B, net income up 68.7% to $23.7B, both above est., marking a sixth straight quarterly profit record on AI demand &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261015/p7#a261015p7)
- - [Chainalysis: agentic commerce on Coinbase&#39;s Base grew from ~1,500 transactions in Q2 2025 to 138M+ in Q3 2026; 87%+ of the payments were for less than 10 cents &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/261015/p6#a261015p6)
- - [A look at Yoti, a digital ID verification app downloaded by 23M people; its revenue grew from £6.2M in 2022 to £32M+ in 2025, with the UK as its biggest market &lpar;Financial Times&rpar;](https://www.techmeme.com/261015/p5#a261015p5)
- - [Global smartphone shipments fell 22% YoY to 255.3M in Q3, a record quarterly drop, as Samsung and Apple gained while Xiaomi, Oppo, and Vivo saw deeper declines &lpar;IDC&rpar;](https://www.techmeme.com/261015/p4#a261015p4)<!-- TECH:END -->
+ - [A profile of Marc Andreessen, who sources say is close to White House COS Susie Wiles and has publicly described a fallout with Biden officials over AI policy &lpar;Austin Carr/Bloomberg&rpar;](https://www.techmeme.com/261015/p22#a261015p22)
+ - [Sources and docs: while Bo Hines helped craft the crypto-friendly Genius Act, he had a 33% stake in consulting firm Nxum, which received millions from Tether &lpar;Sam Kessler/Wall Street Journal&rpar;](https://www.techmeme.com/261015/p21#a261015p21)
+ - [Source: the US FTC issues ~50-page civil investigative demands to OpenAI and Anthropic over safety incidents, safeguarding practices, and consumer protection &lpar;Maria Curi/Axios&rpar;](https://www.techmeme.com/261015/p20#a261015p20)
+ - [AI industry extinction warnings are genuine rather than corporate plots for regulatory capture or hype, and they go as far back as the mid-2000s and the 2010s &lpar;Scott Alexander/Astral Codex Ten&rpar;](https://www.techmeme.com/261015/p19#a261015p19)
+ - [&#39;Maximum Pleasure, guaranteed&#39; gets second season](https://appleinsider.com/articles/26/10/15/maximum-pleasure-guaranteed-gets-second-season?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

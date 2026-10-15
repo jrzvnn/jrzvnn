@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Rolls Out New Labeling System for AI-Generated Music](https://www.cnet.com/tech/services-and-software/youtube-labels-ai-generated-music/)
- - [Jio Platforms seeks to raise up to $3.2B in India&#39;s largest IPO, which would value it at as much as $108.3B; the offering opens October 21 and closes October 23 &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p47#a261014p47)
- - [Apple Maps Detailed City Experience comes to Austin, Texas ahead of F1 Grand Prix](https://appleinsider.com/articles/26/10/14/apple-maps-detailed-city-experience-comes-to-austin-texas-ahead-of-f1-grand-prix?utm_source=rss)
- - [Android Strengthens Scam Defenses for Calls and Texts](https://www.cnet.com/news/privacy/calls-and-messaging-android-security-options/)
- - [Eight US states sue OpenAI separately in a bipartisan effort, alleging it didn&#39;t implement sufficient safeguards to protect kids and other vulnerable users &lpar;Cassandre Coyer/Bloomberg Law&rpar;](https://www.techmeme.com/261014/p46#a261014p46)<!-- TECH:END -->
+ - [Mexican President Claudia Sheinbaum signs a decree banning digital platforms from exposing minors to sexual and violent content, giving them one month to comply &lpar;Reuters&rpar;](https://www.techmeme.com/261014/p51#a261014p51)
+ - [Apple Maps Gets a Ticket to Austin for the F1 Grand Prix](https://www.cnet.com/tech/services-and-software/apple-maps-gets-a-ticket-to-austin-for-the-f1-grand-prix/)
+ - [Latest HomePods can output Mac system audio in compatible configurations](https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss)
+ - [OpenAI agrees not to use trade secrets that Apple claims were stolen while their lawsuit plays out, and to collect forensic images of 14 employees&#39; devices &lpar;Bloomberg&rpar;](https://www.techmeme.com/261014/p50#a261014p50)
+ - [A US appeals court lets Florida enforce a law banning social media accounts for under-14s, rejecting tech groups&#39; claims that it violates free speech rights &lpar;Diana Novak Jones/Reuters&rpar;](https://www.techmeme.com/261014/p49#a261014p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

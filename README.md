@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls, girls, girls](http://9gag.com/gag/agQrnjv)
  - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
  - 😝 [Get Fkd](http://9gag.com/gag/advy7w9)
- - 👉 [Struggles of a wannabe horse](https://www.reddit.com/r/funny/comments/1x6zie7/struggles_of_a_wannabe_horse/)<!-- MEMES:END -->
+ - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
+ - 👉 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
 
 ---
 

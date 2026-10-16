@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
  - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
- - 😝 [Magic wand](http://9gag.com/gag/a17pQn8)
- - 👉 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)<!-- MEMES:END -->
+ - 💣 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)
+ - 😝 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 👉 [Magic wand](http://9gag.com/gag/a17pQn8)<!-- MEMES:END -->
 
 ---
 

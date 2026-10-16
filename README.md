@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 😝 [Complete video of flying Roadster](http://9gag.com/gag/aoWmere)
- - 💣 [Idk what possibly went wrung here in this stunt? He didnt pull hard enough? He didnt think this through hard enough?? What do you professionals thinks?](http://9gag.com/gag/aRL67QB)
  - 😝 [Great minds at work](http://9gag.com/gag/a5VpR8L)
- - 👉 [Based Batman](http://9gag.com/gag/arW1oQy)<!-- MEMES:END -->
+ - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 😝 [They&#39;re clueless](http://9gag.com/gag/aD7RgxO)
+ - 👉 [68? Because 10 left to 100 so give 5 to each? I hope im correct because the only thing i was good at school os math but i swear i didn&#39;t look it up.](http://9gag.com/gag/a3GvwRN)<!-- MEMES:END -->
 
 ---
 

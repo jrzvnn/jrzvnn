@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261015/p56#a261015p56)
- - [Did AI Just Erase an Entire Swedish TV Show?](https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/)
- - [Two US officials and a Western official say the order to limit Ukraine&#39;s access to SpaceX&#39;s Starshield came from inside the White House &lpar;Reuters&rpar;](https://www.techmeme.com/261015/p55#a261015p55)
- - [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets)
- - [Apple Sports gets better Live Activities](https://appleinsider.com/articles/26/10/15/apple-sports-gets-better-live-activities?utm_source=rss)<!-- TECH:END -->
+ - [Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p1#a261016p1)
+ - [Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261015/p61#a261015p61)
+ - [A Tesla Flying Car? I Don’t Know, Man](https://www.wired.com/story/tesla-flying-car-faa/)
+ - [Sources detail Nscale&#39;s setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance &lpar;Bloomberg&rpar;](https://www.techmeme.com/261015/p60#a261015p60)
+ - [How to manage your iPhone notifications on iOS 27](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

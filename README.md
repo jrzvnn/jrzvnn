@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
- - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
- - [Anthropic says Claude traced NIST&#39;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p20#a261016p20)
- - [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/)
- - [Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p19#a261016p19)<!-- TECH:END -->
+ - [Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&#39;s release &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261016/p25#a261016p25)
+ - [CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying &quot;ChatGPT is better now&quot;; source: the partnership is still in place &lpar;TechCrunch&rpar;](https://www.techmeme.com/261016/p24#a261016p24)
+ - [Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261016/p23#a261016p23)
+ - [Apple says demand for iPhone Duo has been &quot;nothing short of extraordinary&quot;; deliveries slipped to late January within hours of preorders opening &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261016/p22#a261016p22)
+ - [Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/261016/p21#a261016p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

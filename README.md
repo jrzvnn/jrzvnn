@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/)
- - [The Unusual Item I Use to Degrease a Pan Before Washing It](https://www.cnet.com/home/kitchen-and-household/the-unusual-item-i-use-to-degrease-a-pan-before-washing-it/)
- - [A look at China&#39;s AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI &lpar;Afra Wang/New York Magazine&rpar;](https://www.techmeme.com/261016/p3#a261016p3)
- - [Online Apple Store goes down ahead of iPhone Duo pre-orders](https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders?utm_source=rss)
- - [Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI &lpar;Reuters&rpar;](https://www.techmeme.com/261016/p2#a261016p2)<!-- TECH:END -->
+ - [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
+ - [Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn&#39;t take advantage of RTX Spark &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261016/p12#a261016p12)
+ - [Sources: PayPal, Epic, and others voiced concerns to DOJ as it signaled a preference to settle its Apple antitrust suit with a deal focusing on interoperability &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/261016/p11#a261016p11)
+ - [This stretchy MagSafe storage pouch gives your phone a sizable trunk](https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage)
+ - [Organizers abruptly cancel 2026&#39;s Grace Hopper Celebration, one of the biggest events for women in tech, after sponsorships and registrations fall short &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p10#a261016p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 😝 [Great minds at work](http://9gag.com/gag/a5VpR8L)
- - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 😝 [If you are bored](http://9gag.com/gag/ayqEoAb)
+ - 💣 [Great minds at work](http://9gag.com/gag/a5VpR8L)
  - 😝 [They&#39;re clueless](http://9gag.com/gag/aD7RgxO)
- - 👉 [68? Because 10 left to 100 so give 5 to each? I hope im correct because the only thing i was good at school os math but i swear i didn&#39;t look it up.](http://9gag.com/gag/a3GvwRN)<!-- MEMES:END -->
+ - 👉 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)<!-- MEMES:END -->
 
 ---
 

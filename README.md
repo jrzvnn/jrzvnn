@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix Chief Content Officer Bela Bajaria is leaving the company and will be replaced by former Disney and Fox executive Peter Rice, who starts October 26 &lpar;Rebecca Rubin/Variety&rpar;](https://www.techmeme.com/261015/p54#a261015p54)
- - [Withings wants you to pay $100 a year to sync a scale with Apple Health](https://appleinsider.com/articles/26/10/15/withings-wants-you-to-pay-100-a-year-to-sync-a-scale-with-apple-health?utm_source=rss)
- - [New Amazon Bee Personal AI Devices Will Listen and Record You](https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/)
- - [The tech backlash is now in theaters](https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial)
- - [Bluesky expands Attie, its AI tool for building custom feeds, with a &quot;social vibe coding&quot; feature to create sites, games, quizzes, and more on the AT Protocol &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261015/p53#a261015p53)<!-- TECH:END -->
+ - [Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261015/p56#a261015p56)
+ - [Did AI Just Erase an Entire Swedish TV Show?](https://www.cnet.com/culture/entertainment/swedish-tv-challenge-ai-deletion/)
+ - [Two US officials and a Western official say the order to limit Ukraine&#39;s access to SpaceX&#39;s Starshield came from inside the White House &lpar;Reuters&rpar;](https://www.techmeme.com/261015/p55#a261015p55)
+ - [Steam can now show game achievements in separate ‘sets’](https://www.theverge.com/games/1012541/valve-steam-achievement-sets)
+ - [Apple Sports gets better Live Activities](https://appleinsider.com/articles/26/10/15/apple-sports-gets-better-live-activities?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

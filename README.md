@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Finding a place for Apple HomeView on the AppleInsider Podcast](https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss)
- - [Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak &lpar;Dylan Sloan/Bloomberg&rpar;](https://www.techmeme.com/261016/p16#a261016p16)
- - [Beats Pill x Pokemon review: peak portable audio with a splash of Pikachu&#39;s charm](https://appleinsider.com/articles/26/10/16/beats-pill-x-pokemon-review-peak-portable-audio-with-a-splash-of-pikachus-charm?utm_source=rss)
- - [Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens &lpar;Matt Marshall/VentureBeat&rpar;](https://www.techmeme.com/261016/p15#a261016p15)
- - [Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’](https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/)<!-- TECH:END -->
+ - [We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
+ - [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
+ - [Anthropic says Claude traced NIST&#39;s ECDSA curve seeds to a pseudorandom number generator, challenging decades-old suspicions of an NSA backdoor in the algorithm &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p20#a261016p20)
+ - [Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds](https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/)
+ - [Sources: SoftBank weighs buying US security services giant Allied Universal at an ~$18B equity valuation, as Masayoshi Son explores deploying AI-powered robots &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p19#a261016p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

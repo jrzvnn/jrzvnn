@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 💣 [Parasites from a bears butt](http://9gag.com/gag/aGLKg9n)
- - 😝 [Boobie trap](http://9gag.com/gag/abe3MNE)
- - 👉 [Magic wand](http://9gag.com/gag/a17pQn8)<!-- MEMES:END -->
+ - 😝 [Complete video of flying Roadster](http://9gag.com/gag/aoWmere)
+ - 💣 [Idk what possibly went wrung here in this stunt? He didnt pull hard enough? He didnt think this through hard enough?? What do you professionals thinks?](http://9gag.com/gag/aRL67QB)
+ - 😝 [Great minds at work](http://9gag.com/gag/a5VpR8L)
+ - 👉 [Based Batman](http://9gag.com/gag/arW1oQy)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s new terms may allow it to train AI on news sites for free](https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers)
- - [Microsoft Surface Laptop Ultra review: powerful, useful Magnetic Connect port, bright screen, but heavy, loud, and Windows doesn&#39;t take advantage of RTX Spark &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261016/p12#a261016p12)
- - [Sources: PayPal, Epic, and others voiced concerns to DOJ as it signaled a preference to settle its Apple antitrust suit with a deal focusing on interoperability &lpar;Aaron Tilley/The Information&rpar;](https://www.techmeme.com/261016/p11#a261016p11)
- - [This stretchy MagSafe storage pouch gives your phone a sizable trunk](https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage)
- - [Organizers abruptly cancel 2026&#39;s Grace Hopper Celebration, one of the biggest events for women in tech, after sponsorships and registrations fall short &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p10#a261016p10)<!-- TECH:END -->
+ - [Finding a place for Apple HomeView on the AppleInsider Podcast](https://appleinsider.com/articles/26/10/16/finding-a-place-for-apple-homeview-on-the-appleinsider-podcast?utm_source=rss)
+ - [Three CoreWeave co-founders have sold $3.3B in stock since its March 2025 IPO, including $2.4B in 2026 alone; CoreWeave stock fell 60%+ from its June 2025 peak &lpar;Dylan Sloan/Bloomberg&rpar;](https://www.techmeme.com/261016/p16#a261016p16)
+ - [Beats Pill x Pokemon review: peak portable audio with a splash of Pikachu&#39;s charm](https://appleinsider.com/articles/26/10/16/beats-pill-x-pokemon-review-peak-portable-audio-with-a-splash-of-pikachus-charm?utm_source=rss)
+ - [Reflection AI releases Apache 2.0-licensed weights for Beam, a 501B-parameter model, trained with RL that penalized unnecessary tokens &lpar;Matt Marshall/VentureBeat&rpar;](https://www.techmeme.com/261016/p15#a261016p15)
+ - [Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’](https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

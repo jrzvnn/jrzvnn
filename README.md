@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwan plans US industrial parks costing $2B to $4B each, starting with a Texas complex costing up to $4B, to build a supply chain for Nvidia, TSMC, and Foxconn &lpar;Bloomberg&rpar;](https://www.techmeme.com/261016/p1#a261016p1)
- - [Austin-based RapidCanvas, which uses agents to help businesses build custom AI tools, raised a ∼$29M Series B led by Vertex Ventures and Hitachi Ventures &lpar;Chris Metinko/Axios&rpar;](https://www.techmeme.com/261015/p61#a261015p61)
- - [A Tesla Flying Car? I Don’t Know, Man](https://www.wired.com/story/tesla-flying-car-faa/)
- - [Sources detail Nscale&#39;s setbacks ahead of an IPO at up to a $35B valuation, including a six-month delay in Norway and penalties owed to Microsoft and ByteDance &lpar;Bloomberg&rpar;](https://www.techmeme.com/261015/p60#a261015p60)
- - [How to manage your iPhone notifications on iOS 27](https://appleinsider.com/articles/26/02/12/how-to-manage-your-iphone-notifications-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Egypt’s Climate-Resilient ‘Super Corals’ Are Starting to Feel the Heat](https://www.wired.com/story/egypts-climate-resilient-super-corals-are-starting-to-feel-the-heat/)
+ - [The Unusual Item I Use to Degrease a Pan Before Washing It](https://www.cnet.com/home/kitchen-and-household/the-unusual-item-i-use-to-degrease-a-pan-before-washing-it/)
+ - [A look at China&#39;s AI learning frenzy, as economic anxiety and fear of being left behind fuel a booming market for courses promising prosperity through AI &lpar;Afra Wang/New York Magazine&rpar;](https://www.techmeme.com/261016/p3#a261016p3)
+ - [Online Apple Store goes down ahead of iPhone Duo pre-orders](https://appleinsider.com/articles/26/10/16/online-apple-store-goes-down-ahead-of-iphone-duo-pre-orders?utm_source=rss)
+ - [Chinese state media: during an interview, Tim Cook says China has approved Apple Intelligence, and a test version will arrive in late October without Siri AI &lpar;Reuters&rpar;](https://www.techmeme.com/261016/p2#a261016p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

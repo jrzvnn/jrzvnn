@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
  - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 😝 [Get Fkd](http://9gag.com/gag/advy7w9)
- - 💣 [Boobie trap](http://9gag.com/gag/abe3MNE)
- - 😝 [Trump&#39;s Newly Appointed Ambassador Barbara Thornhill Goes Viral](http://9gag.com/gag/avW27mM)
- - 👉 [Get Fkd](http://9gag.com/gag/advy7w9)<!-- MEMES:END -->
+ - 💣 [Magic wand](http://9gag.com/gag/a17pQn8)
+ - 😝 [Boobie trap](http://9gag.com/gag/abe3MNE)
+ - 👉 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)<!-- MEMES:END -->
 
 ---
 

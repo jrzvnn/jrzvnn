@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas Says It’s Fixed a Glitch That Delayed Nearly 600,000 Voter Registrations](https://www.cnet.com/news/politics/texas-computer-glitch-voter-registrations/)
- - [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
- - [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
- - [Meta removes ToS language that suggested it could scrape websites &quot;associated with&quot; business accounts, saying it applied only to &quot;ads and business products&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261017/p14#a261017p14)
- - [Apple nabs Meta VP for global litigation chief role](https://appleinsider.com/articles/26/10/17/apple-nabs-meta-vp-for-global-litigation-chief-role?utm_source=rss)<!-- TECH:END -->
+ - [Anomaly Innovations, behind coding agent OpenCode, says a breach hit ~1.4% of OpenCode Console users and their API keys, in a &quot;large scale distillation attack&quot; &lpar;Walter Schulze/Startup Fortune&rpar;](https://www.techmeme.com/261017/p18#a261017p18)
+ - [Turkish police detained Hex and PulseChain founder Richard Heart on Oct. 14, seizing $7M+ in cash and six cold wallets; HEX fell nearly 50% on initial reports &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/261017/p17#a261017p17)
+ - [Apple&#39;s M5 Pro MacBook Pro is back on sale for $2,069 this weekend](https://appleinsider.com/articles/26/10/17/apples-m5-pro-macbook-pro-is-back-on-sale-for-2069-this-weekend?utm_source=rss)
+ - [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
+ - [Bleecker Street says TikTok suspended the Musk documentary account for &quot;political policy&quot; violations and called the suspension &quot;permanent&quot;; Bleecker&#39;s appealing &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](https://www.techmeme.com/261017/p16#a261017p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

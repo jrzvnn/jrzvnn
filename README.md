@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
- - [Bose’s new wired earbuds are simple in the best way](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
- - [A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google &lpar;Preeti Singh/Bloomberg&rpar;](https://www.techmeme.com/261017/p10#a261017p10)
- - [Encryption Is Getting Squeezed From All Sides](https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/)
- - [Yes, You’re Probably Paying More for Phone Service. Here’s Where Your Money Is Going](https://www.cnet.com/tech/mobile/yes-youre-probably-paying-more-for-phone-service-heres-where-your-money-is-going/)<!-- TECH:END -->
+ - [Meta removes ToS language that suggested it could scrape websites &quot;associated with&quot; business accounts, saying it applied only to &quot;ads and business products&quot; &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261017/p14#a261017p14)
+ - [Apple nabs Meta VP for global litigation chief role](https://appleinsider.com/articles/26/10/17/apple-nabs-meta-vp-for-global-litigation-chief-role?utm_source=rss)
+ - [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)
+ - [DeepSeek releases V4.1-Flash-1017, an update it says offers &quot;stronger benchmark performance, faster task completion, and shorter outputs&quot; than its predecessor &lpar;Saritha Rai/Bloomberg&rpar;](https://www.techmeme.com/261017/p13#a261017p13)
+ - [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

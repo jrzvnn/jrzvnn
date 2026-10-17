@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/261017/p4#a261017p4)
- - [NAND flash maker Kioxia has lost two-thirds of its peak market value since June, when it became Japan&#39;s most valuable listed company, as Chinese rivals emerge &lpar;Kyohei Suga/Nikkei Asia&rpar;](https://www.techmeme.com/261017/p3#a261017p3)
- - [Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/261017/p2#a261017p2)
- - [Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M &lpar;Malia Spencer/Portland Business Journal&rpar;](https://www.techmeme.com/261017/p1#a261017p1)
- - [Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p30#a261016p30)<!-- TECH:END -->
+ - [An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261017/p9#a261017p9)
+ - [Microplastics React With Water, a New Study Says. That’s a Problem for Biology](https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/)
+ - [Why AI Isn’t Ready to Tackle Our Convoluted Genomes](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)
+ - [A profile of Alexandr Wang, who sources say is &quot;an operator&quot;, had &quot;all&quot; of Zuckerberg&#39;s support during Meta&#39;s AI revamp, and is being touted as his successor &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261017/p8#a261017p8)
+ - [Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners &lpar;FinTech Global&rpar;](https://www.techmeme.com/261017/p7#a261017p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

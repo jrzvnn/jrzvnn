@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No denying it: these people make a good argument for abortion with their character and behavior.](http://9gag.com/gag/az57mOK)
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 😝 [If you are bored](http://9gag.com/gag/ayqEoAb)
  - 💣 [Great minds at work](http://9gag.com/gag/a5VpR8L)
  - 😝 [They&#39;re clueless](http://9gag.com/gag/aD7RgxO)
- - 👉 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)<!-- MEMES:END -->
+ - 👉 [found this in Hanoi Old Quarters](https://www.reddit.com/r/funny/comments/1x7xjvc/found_this_in_hanoi_old_quarters/)<!-- MEMES:END -->
 
 ---
 

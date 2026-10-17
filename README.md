@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 💣 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
- - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
+ - 😝 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
+ - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
+ - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 😝 [He Promised Us A Dream](https://www.reddit.com/r/funny/comments/1x89udk/he_promised_us_a_dream/)
+ - 👉 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)<!-- MEMES:END -->
 
 ---
 

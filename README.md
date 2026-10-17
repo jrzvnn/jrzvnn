@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p28#a261016p28)
- - [Intel CEO Lip-Bu Tan says the Trump administration does not have &quot;any policy&quot; to use a minority stake in Intel to interfere in its business strategy &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/261016/p27#a261016p27)
- - [Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261016/p26#a261016p26)
- - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
- - [Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&#39;s release &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261016/p25#a261016p25)<!-- TECH:END -->
+ - [London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion &lpar;Cate Lawrence/Tech.eu&rpar;](https://www.techmeme.com/261017/p4#a261017p4)
+ - [NAND flash maker Kioxia has lost two-thirds of its peak market value since June, when it became Japan&#39;s most valuable listed company, as Chinese rivals emerge &lpar;Kyohei Suga/Nikkei Asia&rpar;](https://www.techmeme.com/261017/p3#a261017p3)
+ - [Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A &lpar;Duncan Riley/SiliconANGLE&rpar;](https://www.techmeme.com/261017/p2#a261017p2)
+ - [Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M &lpar;Malia Spencer/Portland Business Journal&rpar;](https://www.techmeme.com/261017/p1#a261017p1)
+ - [Anthropic report on how AI is changing employment at the startup: decline of entry-level technical hiring, productivity boom across departments, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p30#a261016p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTuber Benn Jordan, who recently testified in Congress against license plate readers, on Flock, privacy, the surveillance backlash, and more &lpar;Nilay Patel/The Verge&rpar;](https://www.techmeme.com/261017/p9#a261017p9)
- - [Microplastics React With Water, a New Study Says. That’s a Problem for Biology](https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology/)
- - [Why AI Isn’t Ready to Tackle Our Convoluted Genomes](https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/)
- - [A profile of Alexandr Wang, who sources say is &quot;an operator&quot;, had &quot;all&quot; of Zuckerberg&#39;s support during Meta&#39;s AI revamp, and is being touted as his successor &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261017/p8#a261017p8)
- - [Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners &lpar;FinTech Global&rpar;](https://www.techmeme.com/261017/p7#a261017p7)<!-- TECH:END -->
+ - [Websites are closing their doors to AI agents](https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web)
+ - [Bose’s new wired earbuds are simple in the best way](https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review)
+ - [A profile of Blackstone President Jon Gray, who is making AI his biggest bet, has built a $200B data center empire, and is building a cloud venture with Google &lpar;Preeti Singh/Bloomberg&rpar;](https://www.techmeme.com/261017/p10#a261017p10)
+ - [Encryption Is Getting Squeezed From All Sides](https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/)
+ - [Yes, You’re Probably Paying More for Phone Service. Here’s Where Your Money Is Going](https://www.cnet.com/tech/mobile/yes-youre-probably-paying-more-for-phone-service-heres-where-your-money-is-going/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

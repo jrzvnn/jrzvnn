@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
- - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
- - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 😝 [He Promised Us A Dream](https://www.reddit.com/r/funny/comments/1x89udk/he_promised_us_a_dream/)
- - 👉 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)<!-- MEMES:END -->
+ - 😝 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
+ - 😝 [Dem hoes aint loyal](http://9gag.com/gag/aRL6X05)
+ - 💣 [Hol up](http://9gag.com/gag/a0ovRAq)
+ - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 👉 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)<!-- MEMES:END -->
 
 ---
 

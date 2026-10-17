@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
- - 😝 [Dem hoes aint loyal](http://9gag.com/gag/aRL6X05)
- - 💣 [Hol up](http://9gag.com/gag/a0ovRAq)
- - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 👉 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)<!-- MEMES:END -->
+ - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
+ - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 😝 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
+ - 👉 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
 
 ---
 

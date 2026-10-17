@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
  - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
- - 💣 [Great minds at work](http://9gag.com/gag/a5VpR8L)
- - 😝 [They&#39;re clueless](http://9gag.com/gag/aD7RgxO)
+ - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 💣 [Size Doesn&#39;t Matter](http://9gag.com/gag/ae4KD2m)
+ - 😝 [Tesla Roadster flying audience view](http://9gag.com/gag/a17pQ92)
  - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
 
 ---

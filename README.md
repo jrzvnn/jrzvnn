@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
  - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
  - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 😝 [Super Smash Bros. Legend Mew2King Banned From Tournament After Bed Bug Fears Spark Concern](http://9gag.com/gag/aAQBb3R)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
  - 👉 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&#39;s release &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261016/p25#a261016p25)
- - [CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying &quot;ChatGPT is better now&quot;; source: the partnership is still in place &lpar;TechCrunch&rpar;](https://www.techmeme.com/261016/p24#a261016p24)
- - [Sources: Apple has hired Scott Tucker, Meta VP and deputy general counsel, as its new litigation chief, as part of a shakeup in its legal team &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261016/p23#a261016p23)
- - [Apple says demand for iPhone Duo has been &quot;nothing short of extraordinary&quot;; deliveries slipped to late January within hours of preorders opening &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261016/p22#a261016p22)
- - [Filings: Meta reduced its $65M midterms budget by $25M through refunds, primarily from a super PAC it launched in 2025 with $45M to fight state AI bills &lpar;Theodore Schleifer/New York Times&rpar;](https://www.techmeme.com/261016/p21#a261016p21)<!-- TECH:END -->
+ - [Survey of Anthropic staffers and US adults: 39% of US adults vs. 91% of staffers expect AI will be able to make a Nobel-level discovery by 2030, and more &lpar;Anthropic&rpar;](https://www.techmeme.com/261016/p28#a261016p28)
+ - [Intel CEO Lip-Bu Tan says the Trump administration does not have &quot;any policy&quot; to use a minority stake in Intel to interfere in its business strategy &lpar;Kohei Yamada/Nikkei Asia&rpar;](https://www.techmeme.com/261016/p27#a261016p27)
+ - [Apple updates App Review Guidelines to crack down on AI nudify apps and apps that reveal undocumented capabilities, like nudification, after app review &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261016/p26#a261016p26)
+ - [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
+ - [Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model&#39;s release &lpar;Owen Dahlkamp/Politico&rpar;](https://www.techmeme.com/261016/p25#a261016p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

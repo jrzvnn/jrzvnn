@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
  - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 😝 [Hol up](http://9gag.com/gag/a0ovRAq)
  - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 👉 [Hol up](http://9gag.com/gag/a0ovRAq)<!-- MEMES:END -->
+ - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
+ - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 ---
 

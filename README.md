@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
  - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
  - 😝 [I bet you, he is a 9gager &lpar;hero&rpar; 1:11](http://9gag.com/gag/a4npoKm)
- - 👉 [Lol.](http://9gag.com/gag/aGLKp8K)<!-- MEMES:END -->
+ - 👉 [Gonna check that out](http://9gag.com/gag/aO2oxrr)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
  - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
  - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 😝 [Ultimate Heist](https://www.reddit.com/r/funny/comments/1x8uob3/ultimate_heist/)
+ - 😝 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
  - 👉 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)<!-- MEMES:END -->
 
 ---

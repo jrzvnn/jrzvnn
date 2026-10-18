@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
  - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
  - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
+ - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 ---
 

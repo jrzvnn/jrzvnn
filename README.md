@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
+ - [Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#39;s 3nm process; Samsung agreed, its first use of TSMC &lpar;Kyu-Seok Shim/Reuters&rpar;](https://www.techmeme.com/261018/p9#a261018p9)
+ - [Grab Apple&#39;s 2026 Mac Studio for $2,299, now $200 off](https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss)
  - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
- - [Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261018/p8#a261018p8)
- - [Retail reset set for November 6 as OLED MacBook Pro looms](https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms?utm_source=rss)
- - [Scientists Find a ‘Ghostly Green’ Star, and That’s Not the Only Crazy Color](https://www.cnet.com/science/space/white-dwarf-star-color-variability/)
- - [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)<!-- TECH:END -->
+ - [Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261018/p8#a261018p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history)
- - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
- - [Crime blotter: Man arrested for damage to Macau Apple Store](https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss)
- - [An interview with Apple&#39;s new VP of the App Store, Carson Oliver, on Apple&#39;s gaming vision, Apple Arcade, providing tools for indie game developers, and more &lpar;Giovanni Colantonio/Polygon&rpar;](https://www.techmeme.com/261018/p7#a261018p7)
- - [20 Best Gifts for Men, Manly Men, and Manly Man Men &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-for-manly-men-2026/)<!-- TECH:END -->
+ - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
+ - [Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261018/p8#a261018p8)
+ - [Retail reset set for November 6 as OLED MacBook Pro looms](https://appleinsider.com/articles/26/10/18/retail-reset-set-for-november-6-as-oled-macbook-pro-looms?utm_source=rss)
+ - [Scientists Find a ‘Ghostly Green’ Star, and That’s Not the Only Crazy Color](https://www.cnet.com/science/space/white-dwarf-star-color-variability/)
+ - [Lenovo’s fast, comfy SteamOS handheld is hundreds off](https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

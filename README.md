@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)
- - [Sources: Nvidia asked Samsung, SK Hynix, and Micron to make base dies for its custom NVHBM memory on TSMC&#39;s 3nm process; Samsung agreed, its first use of TSMC &lpar;Kyu-Seok Shim/Reuters&rpar;](https://www.techmeme.com/261018/p9#a261018p9)
- - [Grab Apple&#39;s 2026 Mac Studio for $2,299, now $200 off](https://appleinsider.com/articles/26/10/18/grab-apples-2026-mac-studio-for-2299-now-200-off?utm_source=rss)
- - [Video game ownership bill introduced in Congress](https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act)
- - [Sources: HomeView units sat in warehouses for months; Apple plans a Nov. 6 store reset, likely for new Macs; iPhone Duo preorder mess could boost 18 Pro sales &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261018/p8#a261018p8)<!-- TECH:END -->
+ - [Sunday Reboot: HomeView is an interesting smart home experiment](https://appleinsider.com/articles/26/10/18/sunday-reboot-homeview-is-an-interesting-smart-home-experiment?utm_source=rss)
+ - [Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261018/p11#a261018p11)
+ - [Mister Organ is one of the most unsettling documentaries I’ve ever seen](https://www.theverge.com/entertainment/1013545/mister-organ-horror-documentary-review)
+ - [Anthropic says it&#39;s committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise &lpar;Anthropic&rpar;](https://www.techmeme.com/261018/p10#a261018p10)
+ - [A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

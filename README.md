@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans&#39; behalf and interact with AI counterparts &lpar;Cristina Criddle/Financial Times&rpar;](https://www.techmeme.com/261018/p2#a261018p2)
- - [GTCR and Elliott agree to acquire and take private CCC, a Nasdaq-listed car insurance software provider, for $4.6B; the deal values CCC at $6.1B including debt &lpar;Bloomberg&rpar;](https://www.techmeme.com/261018/p1#a261018p1)
- - [Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve &lpar;Bloomberg&rpar;](https://www.techmeme.com/261017/p21#a261017p21)
- - [An interview with Microsoft CEO Satya Nadella on the Nvidia RTX Spark-powered Surface Laptop Ultra, plans to make Windows a safer OS to run AI agents, and more &lpar;Joanna Stern/The New Things&rpar;](https://www.techmeme.com/261017/p20#a261017p20)
- - [Google says &quot;magic state cultivation&quot; works in practice on its Willow quantum processor, calling it a breakthrough that reduces errors by about 40x &lpar;Google&rpar;](https://www.techmeme.com/261017/p19#a261017p19)<!-- TECH:END -->
+ - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/)
+ - [The Best AirPods Cases We’ve Used In Our Day-to-Day Lives &lpar;2026&rpar;](https://www.wired.com/story/best-airpods-case/)
+ - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/)
+ - [Voicemod’s New Phone Gadget Changes Your ‘Sonic Identity’ for Mobile Games and Streaming](https://www.cnet.com/tech/mobile/voicemod-phone-gadget-changes-sonic-identity-streaming-mobile-games/)
+ - [RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible &lpar;Financial Times&rpar;](https://www.techmeme.com/261018/p6#a261018p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

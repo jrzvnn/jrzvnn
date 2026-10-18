@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Burning history to lower the price of baguettes. Useful idiots peak performance](http://9gag.com/gag/a0ov7Oq)
  - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
- - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
- - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
+ - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 👉 [Burning history to lower the price of baguettes. Useful idiots peak performance](http://9gag.com/gag/a0ov7Oq)<!-- MEMES:END -->
 
 ---
 

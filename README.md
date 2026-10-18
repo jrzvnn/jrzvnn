@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
+ - 😝 [Britain&#39;s top Army general is issuing a chilling warning to the nation: Prepare for WAR and SACRIFICE.](http://9gag.com/gag/amWqgzX)
  - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 😝 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
- - 👉 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)<!-- MEMES:END -->
+ - 💣 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 👉 [Britain&#39;s top Army general is issuing a chilling warning to the nation: Prepare for WAR and SACRIFICE.](http://9gag.com/gag/amWqgzX)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burning history to lower the price of baguettes. Useful idiots peak performance](http://9gag.com/gag/a0ov7Oq)
- - 😝 [Boating license](http://9gag.com/gag/a5VpEEE)
- - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 😝 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)
  - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 👉 [Burning history to lower the price of baguettes. Useful idiots peak performance](http://9gag.com/gag/a0ov7Oq)<!-- MEMES:END -->
+ - 💣 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 😝 [Ultimate Heist](https://www.reddit.com/r/funny/comments/1x8uob3/ultimate_heist/)
+ - 👉 [The tower roof of the 143-year-old Limoges Town Hall collapses to the sounds of cheering and laughter.](http://9gag.com/gag/az57MDK)<!-- MEMES:END -->
 
 ---
 

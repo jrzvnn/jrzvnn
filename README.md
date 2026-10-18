@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Britain&#39;s top Army general is issuing a chilling warning to the nation: Prepare for WAR and SACRIFICE.](http://9gag.com/gag/amWqgzX)
  - 😝 [Be prepared](http://9gag.com/gag/aO2o7DE)
- - 💣 [A kid who deserves a slap](http://9gag.com/gag/avW2ALq)
  - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 👉 [Britain&#39;s top Army general is issuing a chilling warning to the nation: Prepare for WAR and SACRIFICE.](http://9gag.com/gag/amWqgzX)<!-- MEMES:END -->
+ - 💣 [Be prepared](http://9gag.com/gag/aO2o7DE)
+ - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
+ - 👉 [Be prepared](http://9gag.com/gag/aO2o7DE)<!-- MEMES:END -->
 
 ---
 

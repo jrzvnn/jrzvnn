@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Magnesium May Not Reach Your Brain, Despite Supplement Label Promises](https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/)
- - [The Best AirPods Cases We’ve Used In Our Day-to-Day Lives &lpar;2026&rpar;](https://www.wired.com/story/best-airpods-case/)
- - [Climate Change Has It In for the World’s Best Surfing](https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/)
- - [Voicemod’s New Phone Gadget Changes Your ‘Sonic Identity’ for Mobile Games and Streaming](https://www.cnet.com/tech/mobile/voicemod-phone-gadget-changes-sonic-identity-streaming-mobile-games/)
- - [RegLayer: 47+ large US data center projects were delayed, withdrawn, or blocked in 2026; Bernstein says ~35% of the planned US data center pipeline is credible &lpar;Financial Times&rpar;](https://www.techmeme.com/261018/p6#a261018p6)<!-- TECH:END -->
+ - [How overhead projectors took over your classroom](https://www.theverge.com/podcast/1013473/overhead-projector-version-history)
+ - [Cities want to put the boot on robotaxis](https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws)
+ - [Crime blotter: Man arrested for damage to Macau Apple Store](https://appleinsider.com/articles/26/10/18/crime-blotter-man-arrested-for-damage-to-macau-apple-store?utm_source=rss)
+ - [An interview with Apple&#39;s new VP of the App Store, Carson Oliver, on Apple&#39;s gaming vision, Apple Arcade, providing tools for indie game developers, and more &lpar;Giovanni Colantonio/Polygon&rpar;](https://www.techmeme.com/261018/p7#a261018p7)
+ - [20 Best Gifts for Men, Manly Men, and Manly Man Men &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-for-manly-men-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

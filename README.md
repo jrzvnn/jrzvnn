@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
  - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 💣 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
- - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 👉 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)<!-- MEMES:END -->
+ - 💣 [What do you think?](http://9gag.com/gag/ayqENg8)
+ - 😝 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
+ - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
  - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 😝 [Gonna check that out](http://9gag.com/gag/aO2oxrr)
- - 💣 [Rejection..](http://9gag.com/gag/aBZ9dBD)
+ - 💣 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
  - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 👉 [Gonna check that out](http://9gag.com/gag/aO2oxrr)<!-- MEMES:END -->
+ - 👉 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)<!-- MEMES:END -->
 
 ---
 

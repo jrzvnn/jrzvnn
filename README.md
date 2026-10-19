@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI&#39;s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology&#39;s accuracy &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p5#a261019p5)
- - [Survey of 94 economists: 54% expect AI&#39;s gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p4#a261019p4)
- - [Stripe Link data shows agentic transactions increased by 38x and volume of payments by 20x in September, with retail leading in both, and a ~$100 average spend &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261019/p3#a261019p3)
- - [Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/261019/p2#a261019p2)
- - [Allium: stablecoin payments rose 45% YoY to $482B YTD through September 30, with transactions up 71% to 1.04B, while circulating supply grew just 0.4% &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/261019/p1#a261019p1)<!-- TECH:END -->
+ - [Apple HomeView vs Amazon Echo Show 8: Smart home screens compared](https://appleinsider.com/inside/homeview/vs/apple-homeview-vs-amazon-echo-show-8-smart-home-screens-compared?utm_source=rss)
+ - [Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261019/p24#a261019p24)
+ - [How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261019/p23#a261019p23)
+ - [Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level](https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display)
+ - [Don&#39;t expect to buy iPhone Duo at Apple Stores on Friday](https://appleinsider.com/articles/26/10/19/dont-expect-to-buy-iphone-duo-at-apple-stores-on-friday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

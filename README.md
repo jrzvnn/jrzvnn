@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor girl](http://9gag.com/gag/aD7RYYG)
+ - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
  - 😝 [Join or leave](http://9gag.com/gag/aD7RD0d)
  - 💣 [Lol.](http://9gag.com/gag/aGLKp8K)
- - 😝 [Average hospital experience](http://9gag.com/gag/aQg6djq)
- - 👉 [I bet you, he is a 9gager &lpar;hero&rpar; 1:11](http://9gag.com/gag/a4npoKm)<!-- MEMES:END -->
+ - 😝 [I bet you, he is a 9gager &lpar;hero&rpar; 1:11](http://9gag.com/gag/a4npoKm)
+ - 👉 [Average hospital experience](http://9gag.com/gag/aQg6djq)<!-- MEMES:END -->
 
 ---
 

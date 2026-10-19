@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s latest design showcase explores how furniture can inspire us to stay present](https://appleinsider.com/articles/26/10/19/apples-latest-design-showcase-explores-how-furniture-can-inspire-us-to-stay-present?utm_source=rss)
- - [Election Offices in at Least 32 States Have Received Suspicious Letters](https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/)
- - [Sony’s best noise-canceling earbuds are nearly $100 off today only](https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only)
- - [Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth](https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/)
- - [Japan Is Launching a Mission to Mars Moons and Plans to Bring Samples Home](https://www.cnet.com/science/japanese-mars-mission-mmx-launch/)<!-- TECH:END -->
+ - [Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p46#a261019p46)
+ - [Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs &lpar;Cloudflare&rpar;](https://www.techmeme.com/261019/p45#a261019p45)
+ - [The US FTC clears Publicis&#39; $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp&#39;s data connectivity tools for all clients &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/261019/p44#a261019p44)
+ - [HomePod mini 2&#39;s Sound Glow feature is coming to other HomePod models](https://appleinsider.com/articles/26/10/19/homepod-mini-2s-sound-glow-feature-is-coming-to-other-homepod-models?utm_source=rss)
+ - [Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures &lpar;John Koetsier/Forbes&rpar;](https://www.techmeme.com/261019/p43#a261019p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

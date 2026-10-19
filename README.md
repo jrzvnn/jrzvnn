@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SF-based home insurer Stand, which uses digital twins of homes to price wildfire risk and insures $10B+ of property, raised a $70M Series C at a $1B valuation &lpar;Nick Lichtenberg/Fortune&rpar;](https://www.techmeme.com/261018/p13#a261018p13)
- - [A Savannah police officer gave her Flock login to her ICE agent husband](https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband)
- - [Sources: Nscale faces investor pushback on its ~$30B IPO valuation, with some urging a lower valuation of $16B to $19B, as Microsoft exits a UK data center deal &lpar;Bailey Lipschultz/Bloomberg&rpar;](https://www.techmeme.com/261018/p12#a261018p12)
- - [Sunday Reboot: HomeView is an interesting smart home experiment](https://appleinsider.com/articles/26/10/18/sunday-reboot-homeview-is-an-interesting-smart-home-experiment?utm_source=rss)
- - [Sources: industry execs expect only 7-10 of hundreds of neoclouds to survive, as Nvidia supports them with easier credit terms, site finding, and $20B in leases &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261018/p11#a261018p11)<!-- TECH:END -->
+ - [AI&#39;s ability to forecast extreme weather faces a major test in the coming months amid a historic El Niño, as some scientists question the technology&#39;s accuracy &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p5#a261019p5)
+ - [Survey of 94 economists: 54% expect AI&#39;s gains to spread across the G20 over the next decade, not just the US and China; 32 see African countries falling behind &lpar;Financial Times&rpar;](https://www.techmeme.com/261019/p4#a261019p4)
+ - [Stripe Link data shows agentic transactions increased by 38x and volume of payments by 20x in September, with retail leading in both, and a ~$100 average spend &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261019/p3#a261019p3)
+ - [Abby Care, which runs a clinically led, AI-powered platform to train and certify family caregivers, raised an $82M Series C led by Transformation Capital &lpar;Allie Garfinkle/Fortune&rpar;](https://www.techmeme.com/261019/p2#a261019p2)
+ - [Allium: stablecoin payments rose 45% YoY to $482B YTD through September 30, with transactions up 71% to 1.04B, while circulating supply grew just 0.4% &lpar;Krisztian Sandor/CoinDesk&rpar;](https://www.techmeme.com/261019/p1#a261019p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

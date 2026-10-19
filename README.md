@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple HomeView vs Amazon Echo Show 8: Smart home screens compared](https://appleinsider.com/inside/homeview/vs/apple-homeview-vs-amazon-echo-show-8-smart-home-screens-compared?utm_source=rss)
- - [Microsoft unveils new security tools in its 365 E7 bundle and Project Perception system to treat AI agents as potential insider threats via risk assessments &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261019/p24#a261019p24)
- - [How Democrats, who polls predict will flip at least one chamber of Congress in the midterm elections, are preparing to aggressively scrutinize the AI industry &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261019/p23#a261019p23)
- - [Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level](https://www.theverge.com/tech/1013081/wyze-smart-scale-ultra-bodyscan-plus-handle-display)
- - [Don&#39;t expect to buy iPhone Duo at Apple Stores on Friday](https://appleinsider.com/articles/26/10/19/dont-expect-to-buy-iphone-duo-at-apple-stores-on-friday?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s latest design showcase explores how furniture can inspire us to stay present](https://appleinsider.com/articles/26/10/19/apples-latest-design-showcase-explores-how-furniture-can-inspire-us-to-stay-present?utm_source=rss)
+ - [Election Offices in at Least 32 States Have Received Suspicious Letters](https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/)
+ - [Sony’s best noise-canceling earbuds are nearly $100 off today only](https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only)
+ - [Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth](https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/)
+ - [Japan Is Launching a Mission to Mars Moons and Plans to Bring Samples Home](https://www.cnet.com/science/japanese-mars-mission-mmx-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)
- - [Today’s NYT Connections: Sports Edition Hints and Answers for Oct. 20 #757](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-20-757/)
- - [Seniors Lose More Money to Investment Scams Than Any Other Fraud](https://www.cnet.com/tech/services-and-software/seniors-lose-money-to-investment-scams-ftc-report/)
- - [Sources: OpenAI is racing to secure investor commitments before Anthropic&#39;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &lpar;Reuters&rpar;](https://www.techmeme.com/261019/p49#a261019p49)
- - [Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261019/p48#a261019p48)<!-- TECH:END -->
+ - [Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets &lpar;Sam Biddle/The Intercept&rpar;](https://www.techmeme.com/261020/p2#a261020p2)
+ - [Adorama Camera Coupon Codes &amp; Promo Codes: October 2026](https://www.wired.com/story/adorama-promo-code/)
+ - [Mint Mobile Discounts for October 2026](https://www.wired.com/story/mint-mobile-promo-code/)
+ - [Mattress Firm Coupons: Save up to $700](https://www.wired.com/story/mattress-firm-coupon/)
+ - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

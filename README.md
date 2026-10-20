@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh ok](http://9gag.com/gag/aQg6ggd)
- - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 💣 [How do you think Trump will end?](http://9gag.com/gag/aWpBpy4)
- - 😝 [Oh ok](http://9gag.com/gag/aQg6ggd)
- - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
+ - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
+ - 😝 [Gyros in Paris](http://9gag.com/gag/aAQB0od)
+ - 💣 [On the clock](http://9gag.com/gag/a9zjqBo)
+ - 😝 [I am curious... does 9Gag hate GTA or is it just a loud minority? Pls I know 9gag hates polls but I&#39;m genuinely intrested in what you think about it](http://9gag.com/gag/abe31Vv)
+ - 👉 [Be honest](http://9gag.com/gag/aO2oedE)<!-- MEMES:END -->
 
 ---
 

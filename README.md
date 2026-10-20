@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked documents detail ECHOTRIBBLE, a nascent US Army Cyber Command program for agentic AI to autonomously spread across networks to find and eliminate targets &lpar;Sam Biddle/The Intercept&rpar;](https://www.techmeme.com/261020/p2#a261020p2)
- - [Adorama Camera Coupon Codes &amp; Promo Codes: October 2026](https://www.wired.com/story/adorama-promo-code/)
- - [Mint Mobile Discounts for October 2026](https://www.wired.com/story/mint-mobile-promo-code/)
- - [Mattress Firm Coupons: Save up to $700](https://www.wired.com/story/mattress-firm-coupon/)
- - [Wayfair Coupons: Up to 80% Off October 2026](https://www.wired.com/story/wayfair-promo-code/)<!-- TECH:END -->
+ - [Chinese state media: China inaugurates the National Data Group, a new state-owned enterprise that will focus on developing and utilizing data resources &lpar;Reuters&rpar;](https://www.techmeme.com/261020/p17#a261020p17)
+ - [Spotify’s new podcast memberships let you pay for extra perks](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch)
+ - [Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst&#39;s Customer Value Fund; PitchBook says it raised $50M prior to this round &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261020/p16#a261020p16)
+ - [Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK&#39;s MI5 said had &quot;very strong ties&quot; to China&#39;s main spy agency &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p15#a261020p15)
+ - [Alibaba, Tencent, and Huawei are pouring billions into data centers in Shaoguan, a hinterland region with cheap power and a cool climate, angering some locals &lpar;Financial Times&rpar;](https://www.techmeme.com/261020/p14#a261020p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

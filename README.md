@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Polymarket investors pressured CEO Shayne Coplan to add stricter financial and operational controls; Elon Musk&#39;s lawyer, Alex Spiro, joined its board &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p30#a261020p30)
- - [OWC has 1TB M5 iPad Pros on sale for $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/26/10/20/owc-has-1tb-m5-ipad-pros-on-sale-for-1499-300-off?utm_source=rss)
- - [Mark Zuckerberg says Joel Kaplan, Meta&#39;s chief global affairs officer and his top DC adviser for 15+ years, is set to leave in 2027; Kaplan had close Trump ties &lpar;Mike Allen/Axios&rpar;](https://www.techmeme.com/261020/p29#a261020p29)
- - [Perplexity Computer can run completely local on Mac, with a big caveat](https://appleinsider.com/articles/26/10/20/perplexity-computer-can-run-completely-local-on-mac-with-a-big-caveat?utm_source=rss)
- - [Hatch Sleep Clock Review: A Contactless Sleep Tracker &lpar;2026&rpar;](https://www.wired.com/review/review-hatch-sleep-clock/)<!-- TECH:END -->
+ - [Netflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours &lpar;Sarah Whitten/CNBC&rpar;](https://www.techmeme.com/261020/p41#a261020p41)
+ - [Logitech’s refurbished G Pro X2 Superstrike is 35 percent off](https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale)
+ - [Anthropic&#39;s IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p40#a261020p40)
+ - [A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/261020/p39#a261020p39)
+ - [As Midterms Approach, Top American Fears Include AI Interference in the Political Process](https://www.cnet.com/tech/services-and-software/midterms-top-american-fears-ai-interference-political-process/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

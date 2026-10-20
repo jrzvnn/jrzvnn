@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bring back good ol&#39; 2017-2020 9gag post please](http://9gag.com/gag/aK14Gy1)
+ - 😝 [Oh ok](http://9gag.com/gag/aQg6ggd)
  - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 💣 [What do you think?](http://9gag.com/gag/ayqENg8)
- - 😝 [Bring back good ol&#39; 2017-2020 9gag post please](http://9gag.com/gag/aK14Gy1)
+ - 💣 [How do you think Trump will end?](http://9gag.com/gag/aWpBpy4)
+ - 😝 [Oh ok](http://9gag.com/gag/aQg6ggd)
  - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
 
 ---

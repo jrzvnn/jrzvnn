@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rejection..](http://9gag.com/gag/aBZ9dBD)
  - 😝 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
- - 😝 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 💣 [What do you think?](http://9gag.com/gag/ayqENg8)
- - 😝 [Bad start of a conversation](http://9gag.com/gag/a8Ad7Q3)
- - 👉 [On the clock](http://9gag.com/gag/a9zjqBo)<!-- MEMES:END -->
+ - 💣 [On the clock](http://9gag.com/gag/a9zjqBo)
+ - 😝 [What do you think?](http://9gag.com/gag/ayqENg8)
+ - 👉 [A priest Pepsi from a cross falling on his head in Ecuador](http://9gag.com/gag/aXLZLv2)<!-- MEMES:END -->
 
 ---
 

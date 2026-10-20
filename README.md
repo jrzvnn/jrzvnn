@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix reports Q3 revenue up 12% YoY to $12.87B, vs. $12.87B est., net income up 44% to $3.66B, due to the timing of expenses; NFLX drops 4%+ after hours &lpar;Sarah Whitten/CNBC&rpar;](https://www.techmeme.com/261020/p41#a261020p41)
- - [Logitech’s refurbished G Pro X2 Superstrike is 35 percent off](https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale)
- - [Anthropic&#39;s IPO prospectus: H1 2026 revenue of $16.3B, ~20% from two customers, vs. $1.1B in H1 2025, and an $80.7B net loss driven by accounting charges &lpar;Anissa Gardizy/Wall Street Journal&rpar;](https://www.techmeme.com/261020/p40#a261020p40)
- - [A profile of Xbox CEO Asha Sharma; sources: Xbox plans a major Game Pass overhaul, a next-gen handheld device by late 2027, and next-gen console by late 2028 &lpar;Sebastian Herrera/Fortune&rpar;](https://www.techmeme.com/261020/p39#a261020p39)
- - [As Midterms Approach, Top American Fears Include AI Interference in the Political Process](https://www.cnet.com/tech/services-and-software/midterms-top-american-fears-ai-interference-political-process/)<!-- TECH:END -->
+ - [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)
+ - [Investigation Reveals How TikTok Executives Ignored Internal Child-Safety Warnings](https://www.cnet.com/news/social-media/tiktok-trial-child-safety-warning/)
+ - [Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/261020/p53#a261020p53)
+ - [Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program](https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers)
+ - [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Eric Schmidt, who owns ~1% of Anthropic after investing tens of millions in its Series A, is poised to have one of the largest windfalls from its IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p46#a261019p46)
- - [Cloudflare debuts Clairic, a System One-class extraction model it says processes unstructured data faster, more cheaply, and more accurately than normal LLMs &lpar;Cloudflare&rpar;](https://www.techmeme.com/261019/p45#a261019p45)
- - [The US FTC clears Publicis&#39; $2.2B LiveRamp acquisition, subject to a consent decree requiring equal access to LiveRamp&#39;s data connectivity tools for all clients &lpar;Leah Nylen/Bloomberg&rpar;](https://www.techmeme.com/261019/p44#a261019p44)
- - [HomePod mini 2&#39;s Sound Glow feature is coming to other HomePod models](https://appleinsider.com/articles/26/10/19/homepod-mini-2s-sound-glow-feature-is-coming-to-other-homepod-models?utm_source=rss)
- - [Dream Labs, which offers an API for its Dream-1 robot foundation model trained on human videos, raised a $90M seed led by B Capital and Kindred Ventures &lpar;John Koetsier/Forbes&rpar;](https://www.techmeme.com/261019/p43#a261019p43)<!-- TECH:END -->
+ - [Korean data-center company Elice falls 30%+ in Kosdaq trading debut; sources: Australian data center operator AirTrunk delays real estate investment trust IPO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261019/p50#a261019p50)
+ - [Today’s NYT Connections: Sports Edition Hints and Answers for Oct. 20 #757](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-20-757/)
+ - [Seniors Lose More Money to Investment Scams Than Any Other Fraud](https://www.cnet.com/tech/services-and-software/seniors-lose-money-to-investment-scams-ftc-report/)
+ - [Sources: OpenAI is racing to secure investor commitments before Anthropic&#39;s expected IPO in mid-Nov. and aims to raise ~$30B; the round could value it at $1.4T+ &lpar;Reuters&rpar;](https://www.techmeme.com/261019/p49#a261019p49)
+ - [Sources: Ted Sarandos complained for months of a lack of new hit shows at Netflix and US watch time being down; it just fired its film chief and content chief &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261019/p48#a261019p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

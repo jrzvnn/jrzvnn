@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese state media: China inaugurates the National Data Group, a new state-owned enterprise that will focus on developing and utilizing data resources &lpar;Reuters&rpar;](https://www.techmeme.com/261020/p17#a261020p17)
- - [Spotify’s new podcast memberships let you pay for extra perks](https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch)
- - [Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst&#39;s Customer Value Fund; PitchBook says it raised $50M prior to this round &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261020/p16#a261020p16)
- - [Four Z.ai founders participated in a 2018 to 2021 research project co-funded by CGTRI, which the UK&#39;s MI5 said had &quot;very strong ties&quot; to China&#39;s main spy agency &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p15#a261020p15)
- - [Alibaba, Tencent, and Huawei are pouring billions into data centers in Shaoguan, a hinterland region with cheap power and a cool climate, angering some locals &lpar;Financial Times&rpar;](https://www.techmeme.com/261020/p14#a261020p14)<!-- TECH:END -->
+ - [Sources: Polymarket investors pressured CEO Shayne Coplan to add stricter financial and operational controls; Elon Musk&#39;s lawyer, Alex Spiro, joined its board &lpar;Bloomberg&rpar;](https://www.techmeme.com/261020/p30#a261020p30)
+ - [OWC has 1TB M5 iPad Pros on sale for $1,499 &lpar;$300 off&rpar;](https://appleinsider.com/articles/26/10/20/owc-has-1tb-m5-ipad-pros-on-sale-for-1499-300-off?utm_source=rss)
+ - [Mark Zuckerberg says Joel Kaplan, Meta&#39;s chief global affairs officer and his top DC adviser for 15+ years, is set to leave in 2027; Kaplan had close Trump ties &lpar;Mike Allen/Axios&rpar;](https://www.techmeme.com/261020/p29#a261020p29)
+ - [Perplexity Computer can run completely local on Mac, with a big caveat](https://appleinsider.com/articles/26/10/20/perplexity-computer-can-run-completely-local-on-mac-with-a-big-caveat?utm_source=rss)
+ - [Hatch Sleep Clock Review: A Contactless Sleep Tracker &lpar;2026&rpar;](https://www.wired.com/review/review-hatch-sleep-clock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

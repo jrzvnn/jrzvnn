@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
  - 😝 [Something about busses](http://9gag.com/gag/aj7Q1d0)
  - 💣 [On the clock](http://9gag.com/gag/a9zjqBo)
- - 😝 [I am curious... does 9Gag hate GTA or is it just a loud minority? Pls I know 9gag hates polls but I&#39;m genuinely intrested in what you think about it](http://9gag.com/gag/abe31Vv)
- - 👉 [Be honest](http://9gag.com/gag/aO2oedE)<!-- MEMES:END -->
+ - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
+ - 👉 [Something about busses](http://9gag.com/gag/aj7Q1d0)<!-- MEMES:END -->
 
 ---
 

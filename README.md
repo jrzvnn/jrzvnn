@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261021/p6#a261021p6)
- - [Sources: Samsung and SK Hynix are upgrading their China fabs to produce NAND flash chips with 200+ layers, aiming to fend off fast-growing Chinese rival YMTC &lpar;Reuters&rpar;](https://www.techmeme.com/261021/p5#a261021p5)
- - [Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending &lpar;Gabrielle Ng/Bloomberg&rpar;](https://www.techmeme.com/261021/p4#a261021p4)
- - [Netflix execs and industry insiders say co-CEO Ted Sarandos devised its mass-market and international growth strategy, which the now-fired Bela Bajaria executed &lpar;Financial Times&rpar;](https://www.techmeme.com/261021/p3#a261021p3)
- - [An unconfirmed report claims PHP2Shell enables RCE on PHP sites; watchTowr says the exploit allegedly affects all versions since PHP 5, released in 2004 &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261021/p2#a261021p2)<!-- TECH:END -->
+ - [iPhone Duo review: fun to play with and cool matte inner display, but small cover display, heavier and bulkier than other phones, average cameras, and gets hot &lpar;The Verge&rpar;](https://www.techmeme.com/261021/p20#a261021p20)
+ - [Memo: eBay is cutting ~9% of its workforce to simplify operations and reallocate resources toward high-growth areas; eBay cut 6%, or ~800 staff, in February &lpar;Reuters&rpar;](https://www.techmeme.com/261021/p19#a261021p19)
+ - [Apple iPhone Duo Review: Is It Worth It?](https://www.wired.com/review/apple-iphone-duo/)
+ - [Spotify is busting free of CarPlay with the launch of its first native car app](https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay)
+ - [I can’t get enough of the iPhone Duo’s matte inner display](https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

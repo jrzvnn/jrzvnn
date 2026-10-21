@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Duo review: fun to play with and cool matte inner display, but small cover display, heavier and bulkier than other phones, average cameras, and gets hot &lpar;The Verge&rpar;](https://www.techmeme.com/261021/p20#a261021p20)
- - [Memo: eBay is cutting ~9% of its workforce to simplify operations and reallocate resources toward high-growth areas; eBay cut 6%, or ~800 staff, in February &lpar;Reuters&rpar;](https://www.techmeme.com/261021/p19#a261021p19)
- - [Apple iPhone Duo Review: Is It Worth It?](https://www.wired.com/review/apple-iphone-duo/)
- - [Spotify is busting free of CarPlay with the launch of its first native car app](https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay)
- - [I can’t get enough of the iPhone Duo’s matte inner display](https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte)<!-- TECH:END -->
+ - [Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261021/p41#a261021p41)
+ - [The PHP Foundation says its RCE patches are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors &lpar;Wired&rpar;](https://www.techmeme.com/261021/p40#a261021p40)
+ - [The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More &lpar;2026&rpar;](https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/)
+ - [They want your blood](https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech)
+ - [Flash deals: Save up to $100 on Thunderbolt docks for Mac](https://appleinsider.com/articles/26/10/21/flash-deals-save-up-to-100-on-thunderbolt-docks-for-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

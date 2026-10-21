@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source and leaked memo: EA plans to cut ~400 jobs, or ~3% of its total staff, and shut down BioWare; EA went private in August following a $55B leveraged buyout &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261021/p41#a261021p41)
- - [The PHP Foundation says its RCE patches are limited to PHP 8.2 and newer, leaving legacy deployments dependent on third-party vendors &lpar;Wired&rpar;](https://www.techmeme.com/261021/p40#a261021p40)
- - [The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More &lpar;2026&rpar;](https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026/)
- - [They want your blood](https://www.theverge.com/column/1015563/blood-death-clock-longevity-apps-health-tech)
- - [Flash deals: Save up to $100 on Thunderbolt docks for Mac](https://appleinsider.com/articles/26/10/21/flash-deals-save-up-to-100-on-thunderbolt-docks-for-mac?utm_source=rss)<!-- TECH:END -->
+ - [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026)
+ - [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger)
+ - [Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261021/p47#a261021p47)
+ - [Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds](https://www.wired.com/story/bose-acquires-skullcandy-october-2026/)
+ - [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

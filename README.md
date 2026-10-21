@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit](https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed)
- - [Investigation Reveals How TikTok Executives Ignored Internal Child-Safety Warnings](https://www.cnet.com/news/social-media/tiktok-trial-child-safety-warning/)
- - [Google says it is rolling out Personal Intelligence for Gemini on Android Auto now and to cars with Google built-in in the coming months as an opt-in feature &lpar;Abner Li/9to5Google&rpar;](https://www.techmeme.com/261020/p53#a261020p53)
- - [Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program](https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers)
- - [Google’s more personalized Gemini AI is heading to your car](https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto)<!-- TECH:END -->
+ - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
+ - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)
+ - [Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/261020/p55#a261020p55)
+ - [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)
+ - [An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/261020/p54#a261020p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PHP: The three letters that shut down sites all over the internet today](https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026)
- - [Flying Roadsters can’t lift Tesla’s flat Q3 revenues](https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger)
- - [Meta says it will create a new class of nonvoting stock to raise the capital it needs for developing AI models, with an effective date in January 2027 &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](https://www.techmeme.com/261021/p47#a261021p47)
- - [Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds](https://www.wired.com/story/bose-acquires-skullcandy-october-2026/)
- - [Bose acquires Skullcandy to help it reach a wider audience](https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers)<!-- TECH:END -->
+ - [Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings)
+ - [Google Chrome Will Notify You If You’re on a Scam Website](https://www.cnet.com/tech/computing/google-chrome-enhanced-protection-mode/)
+ - [Lawsuits Allege Delivery Robots Recorded Biometric Data Without Permission](https://www.cnet.com/tech/services-and-software/coco-serve-robots-biometric-data-lawsuit/)
+ - [Apple &amp; DOJ antitrust suit reaches impasse over document collection](https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss)
+ - [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

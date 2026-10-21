@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
  - 😝 [What happened](http://9gag.com/gag/aXLZNmD)
- - 💣 [Brigtened our dark world](http://9gag.com/gag/arW1AEK)
+ - 💣 [Who would win?](http://9gag.com/gag/a0ov0Kz)
  - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
  - 👉 [What happened](http://9gag.com/gag/aXLZNmD)<!-- MEMES:END -->
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 😝 [Something about busses](http://9gag.com/gag/aj7Q1d0)
- - 💣 [Understandable](http://9gag.com/gag/aNLm91A)
- - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 👉 [Something about busses](http://9gag.com/gag/aj7Q1d0)<!-- MEMES:END -->
+ - 😝 [What happened](http://9gag.com/gag/aXLZNmD)
+ - 😝 [Brigtened our dark world](http://9gag.com/gag/arW1AEK)
+ - 💣 [Agreement](http://9gag.com/gag/aQg6QNd)
+ - 😝 [I misread this display and had to go back to look again](https://www.reddit.com/r/funny/comments/1xbt5ww/i_misread_this_display_and_had_to_go_back_to_look/)
+ - 👉 [See this? Look at what it did!](https://www.reddit.com/r/funny/comments/1xbt5v2/see_this_look_at_what_it_did/)<!-- MEMES:END -->
 
 ---
 

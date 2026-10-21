@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thiel&#39;s leaked Rome lectures cast EA and AI &quot;safetyism&quot; as Antichrist forerunners, Bill Gates as &quot;Mr. Hyde&quot;, and Eliezer Yudkowsky as &quot;more Luddite than Greta&quot; &lpar;David Gibson/The Verge&rpar;](https://www.techmeme.com/261020/p57#a261020p57)
- - [Sources: Nvidia is in talks to invest hundreds of millions of dollars in Firmus, which pulled its IPO earlier this month, citing market volatility &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261020/p56#a261020p56)
- - [Reliable Robotics, which develops an autonomous flight system, raised a $115M extension for its $160M Series D, pushing its valuation to $1B+ &lpar;Kirsten Korosec/TechCrunch&rpar;](https://www.techmeme.com/261020/p55#a261020p55)
- - [YouTube might be testing hiding the dislike button](https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu)
- - [An interview with OnlyFans CEO Keily Blair about plans to offer financial services to its 2.5M active creators, a potential IPO, and more &lpar;Emma Hinchliffe/Fortune&rpar;](https://www.techmeme.com/261020/p54#a261020p54)<!-- TECH:END -->
+ - [OpenEvidence says nearly two-thirds of ~1M US physicians use its AI search engine; a source says it is on track to generate $400M-$500M in 2026 ad revenue &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](https://www.techmeme.com/261021/p6#a261021p6)
+ - [Sources: Samsung and SK Hynix are upgrading their China fabs to produce NAND flash chips with 200+ layers, aiming to fend off fast-growing Chinese rival YMTC &lpar;Reuters&rpar;](https://www.techmeme.com/261021/p5#a261021p5)
+ - [Google, Temasek, and Bain: online spending in SE Asia to rise ~17% YoY to $368B in 2026 despite economic headwinds, as businesses harness AI to spur spending &lpar;Gabrielle Ng/Bloomberg&rpar;](https://www.techmeme.com/261021/p4#a261021p4)
+ - [Netflix execs and industry insiders say co-CEO Ted Sarandos devised its mass-market and international growth strategy, which the now-fired Bela Bajaria executed &lpar;Financial Times&rpar;](https://www.techmeme.com/261021/p3#a261021p3)
+ - [An unconfirmed report claims PHP2Shell enables RCE on PHP sites; watchTowr says the exploit allegedly affects all versions since PHP 5, released in 2004 &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261021/p2#a261021p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

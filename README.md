@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was traumatized 😭](https://www.reddit.com/r/funny/comments/1xch1sc/bro_was_traumatized/)
- - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 💣 [Protect yourselves, kings.](http://9gag.com/gag/aVgjmen)
+ - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
  - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
- - 👉 [Who remembers this story?](http://9gag.com/gag/aXLZV8V)<!-- MEMES:END -->
+ - 💣 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
+ - 👉 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)<!-- MEMES:END -->
 
 ---
 

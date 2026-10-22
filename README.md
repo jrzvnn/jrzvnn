@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA Shutters BioWare, Creator of Mass Effect, Dragon Age, KOTOR and More](https://www.cnet.com/tech/gaming/ea-shutters-bioware-creator-mass-effect-dragon-age-kotor-layoffs/)
- - [Sources: advisers within Elon Musk&#39;s empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power &lpar;Bloomberg&rpar;](https://www.techmeme.com/261021/p58#a261021p58)
- - [Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/)
- - [AI and Data Centers Will Impact Midterm Voting, According to Experts](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
- - [Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents &lpar;Jacob Cooper/Railway Blog&rpar;](https://www.techmeme.com/261021/p57#a261021p57)<!-- TECH:END -->
+ - [Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations &lpar;AJ Vicens/Reuters&rpar;](https://www.techmeme.com/261022/p5#a261022p5)
+ - [A Micron labor union staged Taiwan&#39;s first-ever strike in the semiconductor industry on Thursday, demanding a regular profit-sharing scheme for its employees &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261022/p4#a261022p4)
+ - [SEC filings show how Meta restructured its stock to shield Mark Zuckerberg from California&#39;s proposed wealth tax, after he said he&#39;d sell his Palo Alto home &lpar;New York Times&rpar;](https://www.techmeme.com/261022/p3#a261022p3)
+ - [Epic says &quot;Fortnite is coming back to the App Store in Australia tomorrow&quot; after an Australian federal judge ordered Apple to open up iOS in an antitrust case &lpar;Rhea Rose Abraham/Reuters&rpar;](https://www.techmeme.com/261022/p2#a261022p2)
+ - [An Australian federal judge rules Apple must let Australian iPhone users install apps from third-party app stores starting March 1, 2027; Apple plans to appeal &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261022/p1#a261022p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro was traumatized 😭](https://www.reddit.com/r/funny/comments/1xch1sc/bro_was_traumatized/)
  - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 😝 [What happened](http://9gag.com/gag/aXLZNmD)
- - 💣 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
- - 😝 [Who would win?](http://9gag.com/gag/a0ov0Kz)
- - 👉 [Be honest](http://9gag.com/gag/aO2oedE)<!-- MEMES:END -->
+ - 💣 [Protect yourselves, kings.](http://9gag.com/gag/aVgjmen)
+ - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
+ - 👉 [Who remembers this story?](http://9gag.com/gag/aXLZV8V)<!-- MEMES:END -->
 
 ---
 

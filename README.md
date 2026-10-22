@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?](https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings)
- - [Google Chrome Will Notify You If You’re on a Scam Website](https://www.cnet.com/tech/computing/google-chrome-enhanced-protection-mode/)
- - [Lawsuits Allege Delivery Robots Recorded Biometric Data Without Permission](https://www.cnet.com/tech/services-and-software/coco-serve-robots-biometric-data-lawsuit/)
- - [Apple &amp; DOJ antitrust suit reaches impasse over document collection](https://appleinsider.com/articles/26/10/21/apple-doj-antitrust-suit-reaches-impasse-over-document-collection?utm_source=rss)
- - [Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure](https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/)<!-- TECH:END -->
+ - [EA Shutters BioWare, Creator of Mass Effect, Dragon Age, KOTOR and More](https://www.cnet.com/tech/gaming/ea-shutters-bioware-creator-mass-effect-dragon-age-kotor-layoffs/)
+ - [Sources: advisers within Elon Musk&#39;s empire are pushing to announce a SpaceX-Tesla merger by H1 2027 so it can close while President Trump remains in power &lpar;Bloomberg&rpar;](https://www.techmeme.com/261021/p58#a261021p58)
+ - [Tons of People Are Apparently Asking Meta’s Muse AI Agent to Shop for Them](https://www.cnet.com/tech/services-and-software/meta-muse-ai-agent-shopping-earnings/)
+ - [AI and Data Centers Will Impact Midterm Voting, According to Experts](https://www.cnet.com/news/politics/polls-experts-ai-data-centers-midterm-voting/)
+ - [Cloud provider Railway says an unauthorized party may have accessed customer encrypted environment variables and, for some, obtained the decrypted contents &lpar;Jacob Cooper/Railway Blog&rpar;](https://www.techmeme.com/261021/p57#a261021p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

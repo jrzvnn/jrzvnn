@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [German Influencer And &#39;Stick Run&#39; Creator Manuel Otto, 30, Dies During Twitch Livestream](http://9gag.com/gag/a8Ad051)
  - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 😝 [What happened](http://9gag.com/gag/aXLZNmD)
- - 💣 [Who would win?](http://9gag.com/gag/a0ov0Kz)
- - 😝 [Be honest](http://9gag.com/gag/aO2oedE)
- - 👉 [What happened](http://9gag.com/gag/aXLZNmD)<!-- MEMES:END -->
+ - 💣 [What happened](http://9gag.com/gag/aXLZNmD)
+ - 😝 [Who would win?](http://9gag.com/gag/a0ov0Kz)
+ - 👉 [German Influencer And &#39;Stick Run&#39; Creator Manuel Otto, 30, Dies During Twitch Livestream](http://9gag.com/gag/a8Ad051)<!-- MEMES:END -->
 
 ---
 

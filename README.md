@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/261022/p21#a261022p21)
- - [Filing: Meta reports ~$825B in total future commitments for leases and contracts, up from nearly $700B in July; off-balance-sheet leases total $355.7B to 2036 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/261022/p20#a261022p20)
- - [One particular Windows ARM laptop can be made into a Hackintosh](https://appleinsider.com/articles/26/10/22/one-particular-windows-arm-laptop-can-be-made-into-a-hackintosh?utm_source=rss)
- - [Test Driving an iPhone Duo? 6 Things to Try at the Apple Store](https://www.cnet.com/tech/mobile/test-iphone-duo-things-to-try-at-apple-store/)
- - [More iPhone Duo parts ordered does not mean an increase in shipments](https://appleinsider.com/articles/26/10/22/more-iphone-duo-parts-ordered-does-not-mean-an-increase-in-shipments?utm_source=rss)<!-- TECH:END -->
+ - [Someone hacked the Switch 2 by using an old game and AI](https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai)
+ - [Arc browser is shutting down](https://www.theverge.com/tech/1016832/arc-browser-shutting-down)
+ - [Microsoft says it is closing The Garage, which gave employees around the world space and tools for side projects and ran the company&#39;s Global Hackathon &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261022/p41#a261022p41)
+ - [The disastrous PHP vulnerabilities were exploited days before the patch](https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch)
+ - [Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261022/p40#a261022p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone hacked the Switch 2 by using an old game and AI](https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai)
- - [Arc browser is shutting down](https://www.theverge.com/tech/1016832/arc-browser-shutting-down)
- - [Microsoft says it is closing The Garage, which gave employees around the world space and tools for side projects and ran the company&#39;s Global Hackathon &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261022/p41#a261022p41)
- - [The disastrous PHP vulnerabilities were exploited days before the patch](https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch)
- - [Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261022/p40#a261022p40)<!-- TECH:END -->
+ - [Meta&amp;#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
+ - [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/)
+ - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
+ - [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
+ - [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an &quot;opportunistic&quot; bridge ahead of an IPO &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/261022/p52#a261022p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

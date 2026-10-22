@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&amp;#8217;s AI could still scrape news sites, legal experts say](https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns)
- - [FTC Imposter Scam Threatens to Unplug Your Phone Number](https://www.cnet.com/news/privacy/ftc-alert-phone-impersonation-scam/)
- - [Meta turns Muse sharing back on](https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts)
- - [The FCC is beginning to block gadgets with ‘foreign surveillance chips’](https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole)
- - [Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an &quot;opportunistic&quot; bridge ahead of an IPO &lpar;Kate Rooney/CNBC&rpar;](https://www.techmeme.com/261022/p52#a261022p52)<!-- TECH:END -->
+ - [Palmer Luckey Made a Genetically Modified Military Dog Startup](https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/)
+ - [a16z rebrands a16z Crypto as a16z Frontier and expands the fund&#39;s scope to back startups developing AI, robotics, and other emerging technologies &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/261022/p56#a261022p56)
+ - [Spotify says yes, it is busting people for using Family Plan sharing too widely](https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes)
+ - [The next-gen Xbox won’t cost you $1,800. It can’t. Can it?](https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial)
+ - [Hugging Face Announces AI Model to ‘Chat’ With DNA](https://www.cnet.com/science/hugging-face-announces-ai-model-to-chat-with-dna/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

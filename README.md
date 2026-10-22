@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations &lpar;AJ Vicens/Reuters&rpar;](https://www.techmeme.com/261022/p5#a261022p5)
- - [A Micron labor union staged Taiwan&#39;s first-ever strike in the semiconductor industry on Thursday, demanding a regular profit-sharing scheme for its employees &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261022/p4#a261022p4)
- - [SEC filings show how Meta restructured its stock to shield Mark Zuckerberg from California&#39;s proposed wealth tax, after he said he&#39;d sell his Palo Alto home &lpar;New York Times&rpar;](https://www.techmeme.com/261022/p3#a261022p3)
- - [Epic says &quot;Fortnite is coming back to the App Store in Australia tomorrow&quot; after an Australian federal judge ordered Apple to open up iOS in an antitrust case &lpar;Rhea Rose Abraham/Reuters&rpar;](https://www.techmeme.com/261022/p2#a261022p2)
- - [An Australian federal judge rules Apple must let Australian iPhone users install apps from third-party app stores starting March 1, 2027; Apple plans to appeal &lpar;Marcus Mendes/9to5Mac&rpar;](https://www.techmeme.com/261022/p1#a261022p1)<!-- TECH:END -->
+ - [Xona, which plans to deploy a 258-satellite low-Earth orbit constellation as a commercial alternative to GPS, raised a $250M Series D at a $2.45B valuation &lpar;Monica Hunter-Hart/Forbes&rpar;](https://www.techmeme.com/261022/p21#a261022p21)
+ - [Filing: Meta reports ~$825B in total future commitments for leases and contracts, up from nearly $700B in July; off-balance-sheet leases total $355.7B to 2036 &lpar;Sarah Frier/Bloomberg&rpar;](https://www.techmeme.com/261022/p20#a261022p20)
+ - [One particular Windows ARM laptop can be made into a Hackintosh](https://appleinsider.com/articles/26/10/22/one-particular-windows-arm-laptop-can-be-made-into-a-hackintosh?utm_source=rss)
+ - [Test Driving an iPhone Duo? 6 Things to Try at the Apple Store](https://www.cnet.com/tech/mobile/test-iphone-duo-things-to-try-at-apple-store/)
+ - [More iPhone Duo parts ordered does not mean an increase in shipments](https://appleinsider.com/articles/26/10/22/more-iphone-duo-parts-ordered-does-not-mean-an-increase-in-shipments?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

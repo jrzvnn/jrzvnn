@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
+ - 😝 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)
  - 💣 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 😝 [Would You Live On This Planet Part 2 `...it would be so safe &amp; calm`](http://9gag.com/gag/ayqE6Nq)
+ - 😝 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)
  - 👉 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)<!-- MEMES:END -->
 
 ---

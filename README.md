@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)
- - [All three Paris Apple Stores close ahead of protests](https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests?utm_source=rss)
- - [7 iPhone Duo Apps That Take Full Advantage of the New Foldable Phone](https://www.cnet.com/tech/mobile/iphone-duo-apps-full-advantage-new-foldable-phone/)
- - [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
- - [Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &quot;to reduce potential misuse risk while preserving general usefulness&quot; &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261023/p19#a261023p19)<!-- TECH:END -->
+ - [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261023/p24#a261023p24)
+ - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)
+ - [Memo: Helen Chiang, Xbox&#39;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261023/p23#a261023p23)
+ - [YouTube Is Letting Us Vibe Our Video Feeds, and I’m Liking It](https://www.cnet.com/tech/services-and-software/youtube-custom-video-feeds/)
+ - [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

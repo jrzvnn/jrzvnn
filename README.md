@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Testing iPhone Duo: Apple nearly solved my biggest concerns](https://appleinsider.com/articles/26/10/23/testing-iphone-duo-apple-nearly-solved-my-biggest-concerns?utm_source=rss)
- - [New iPhone Duo? Here are 4 Features You Should Check Out Now](https://www.cnet.com/tech/mobile/iphone-duo-features-to-try/)
- - [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
- - [An interview with Intel&#39;s leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/261023/p8#a261023p8)
- - [Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could](https://www.wired.com/review/samsung-galazy-z-flip8/)<!-- TECH:END -->
+ - [Amazon shaves up to $150 off M6, M5 Pro Mac mini desktops this weekend](https://appleinsider.com/articles/26/10/23/amazon-shaves-up-to-150-off-m6-m5-pro-mac-mini-desktops-this-weekend?utm_source=rss)
+ - [UK&#39;s AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/261023/p13#a261023p13)
+ - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
+ - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
+ - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 💣 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 😝 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)
+ - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
  - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---

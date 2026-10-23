@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 💣 [James. Bond James](http://9gag.com/gag/a9zjmrm)
- - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 👉 [Chatbot reveals too much during date](https://www.reddit.com/r/funny/comments/1xdjgfv/chatbot_reveals_too_much_during_date/)<!-- MEMES:END -->
 
 ---
 

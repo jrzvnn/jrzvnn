@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 👉 [Chatbot reveals too much during date](https://www.reddit.com/r/funny/comments/1xdjgfv/chatbot_reveals_too_much_during_date/)<!-- MEMES:END -->
+ - 💣 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 😝 [Europeans be looking at this and think: this is some serious gourmet sht](http://9gag.com/gag/a5Vpz0G)
+ - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---
 

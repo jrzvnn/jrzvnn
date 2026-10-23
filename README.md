@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p4#a261023p4)
- - [Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261023/p3#a261023p3)
- - [Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p2#a261023p2)
- - [SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing &quot;market conditions and share price trends&quot; &lpar;P.R. Venkat/Wall Street Journal&rpar;](https://www.techmeme.com/261023/p1#a261023p1)
- - [OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261022/p61#a261022p61)<!-- TECH:END -->
+ - [Testing iPhone Duo: Apple nearly solved my biggest concerns](https://appleinsider.com/articles/26/10/23/testing-iphone-duo-apple-nearly-solved-my-biggest-concerns?utm_source=rss)
+ - [New iPhone Duo? Here are 4 Features You Should Check Out Now](https://www.cnet.com/tech/mobile/iphone-duo-features-to-try/)
+ - [Retro gaming is being overrun with AI](https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port)
+ - [An interview with Intel&#39;s leadership, including CTO Pushkar Ranade, on AI chip demand, lessons from 10nm, whether Intel can catch up to TSMC, Terafab, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/261023/p8#a261023p8)
+ - [Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could](https://www.wired.com/review/samsung-galazy-z-flip8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

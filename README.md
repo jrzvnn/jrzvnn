@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify confirms it is rolling out a new family plan verification method requiring members to scan QR codes on plan managers&#39; phones within seven days of notice &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261022/p60#a261022p60)
- - [US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other &quot;countries of concern&quot; &lpar;Associated Press&rpar;](https://www.techmeme.com/261022/p59#a261022p59)
- - [Appeals court upholds Apple TV&#39;s &#39;Servant&#39; plagiarism lawsuit win](https://appleinsider.com/articles/26/10/23/appeals-court-upholds-apple-tvs-servant-plagiarism-lawsuit-win?utm_source=rss)
- - [An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities &lpar;Charlie Warzel/The Atlantic&rpar;](https://www.techmeme.com/261022/p58#a261022p58)
- - [German energy company PreussenElektra says it is working with Nvidia to assess whether the country&#39;s idle nuclear plants could be turned into data centers &lpar;Eva Brendel/Bloomberg&rpar;](https://www.techmeme.com/261022/p57#a261022p57)<!-- TECH:END -->
+ - [SK Telecom unit SK Hyper is in talks with tech firms and investors to finance 15GW of data center capacity in South Korea by 2035; the first 5GW will cost $350B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p4#a261023p4)
+ - [Oura sues Indian smart ring rival Ultrahuman again to block US sales of Ring Pro, months after a redesign helped Ultrahuman return following an import ban &lpar;Jagmeet Singh/TechCrunch&rpar;](https://www.techmeme.com/261023/p3#a261023p3)
+ - [Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls &lpar;Bloomberg&rpar;](https://www.techmeme.com/261023/p2#a261023p2)
+ - [SK Hynix says its SSD subsidiary Solidigm has halted a review of a potential US IPO to fund a new US chip fab, citing &quot;market conditions and share price trends&quot; &lpar;P.R. Venkat/Wall Street Journal&rpar;](https://www.techmeme.com/261023/p1#a261023p1)
+ - [OpenAI suspected the three fired researchers of leaking internal model designs to AI safety researcher Ryan Greenblatt, including via disappearing Signal chats &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261022/p61#a261022p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

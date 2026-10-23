@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon shaves up to $150 off M6, M5 Pro Mac mini desktops this weekend](https://appleinsider.com/articles/26/10/23/amazon-shaves-up-to-150-off-m6-m5-pro-mac-mini-desktops-this-weekend?utm_source=rss)
- - [UK&#39;s AISI finds Mythos 5 kept targeting real people in a July cyber eval despite evidence they were uninvolved, and other models make such attacks in simulation &lpar;AI Security Institute&rpar;](https://www.techmeme.com/261023/p13#a261023p13)
- - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update)
- - [The first broken iPhone Duos are here](https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen)
- - [Elon Musk Just Dumped Another $76 Million Into the Midterms](https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms/)<!-- TECH:END -->
+ - [OpenAI says it is cutting off internet access for its most capable AI models during training until adequate safeguards are in place to mitigate online actions &lpar;Rachel Metz/Bloomberg&rpar;](https://www.techmeme.com/261023/p20#a261023p20)
+ - [All three Paris Apple Stores close ahead of protests](https://appleinsider.com/articles/26/10/23/all-three-paris-apple-stores-close-ahead-of-protests?utm_source=rss)
+ - [7 iPhone Duo Apps That Take Full Advantage of the New Foldable Phone](https://www.cnet.com/tech/mobile/iphone-duo-apps-full-advantage-new-foldable-phone/)
+ - [Abandoned Popcorn Time apps had to be disabled to prevent a zombie army](https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided)
+ - [Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro &quot;to reduce potential misuse risk while preserving general usefulness&quot; &lpar;Matthias Bastian/The Decoder&rpar;](https://www.techmeme.com/261023/p19#a261023p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

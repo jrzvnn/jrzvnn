@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
- - 😝 [The Transporter](http://9gag.com/gag/aGLKMVw)
- - 💣 [My cat crossed the rainbow bridge](http://9gag.com/gag/aZnqQ0W)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 👉 [James. Bond James](http://9gag.com/gag/a9zjmrm)<!-- MEMES:END -->
+ - 💣 [James. Bond James](http://9gag.com/gag/a9zjmrm)
+ - 😝 [French Student Mocks Owners Who Lost Stores In Riots, Then Her Lifestyle Got Revealed](http://9gag.com/gag/axWEvxD)
+ - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---
 

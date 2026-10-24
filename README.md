@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/261024/p1#a261024p1)
+ - [Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &lpar;Shimul Sood/Android Authority&rpar;](https://www.techmeme.com/261023/p28#a261023p28)
+ - [Andy Jassy says AWS capacity for 2027 is &quot;largely sold out&quot; and a &quot;good chunk&quot; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand &lpar;Catherine Perloff/The Information&rpar;](https://www.techmeme.com/261023/p27#a261023p27)
  - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
- - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
- - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)
- - [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261023/p24#a261023p24)
- - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)<!-- TECH:END -->
+ - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

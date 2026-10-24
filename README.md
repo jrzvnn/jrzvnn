@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Man Destroys $2,000 iPhone Duo With Dirt, Fire, Knives and Medieval Chainmail](https://www.cnet.com/tech/mobile/iphone-duo-scratch-dust-bend-test-jerryrigeverything/)
+ - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
  - [A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261024/p7#a261024p7)
  - [Amazon drops 1TB M5 MacBook Air to $1,399, save $200](https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss)
- - [An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#39;s optical networking chips, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/261024/p6#a261024p6)
- - [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
- - [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)<!-- TECH:END -->
+ - [An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#39;s optical networking chips, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/261024/p6#a261024p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

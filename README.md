@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You can only pick one](http://9gag.com/gag/aXLZ2ov)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 😝 [Island life](http://9gag.com/gag/aoWmLAn)
  - 💣 [Accountability??](http://9gag.com/gag/a6DrpyR)
- - 😝 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)
+ - 😝 [You can only pick one](http://9gag.com/gag/aXLZ2ov)
  - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---

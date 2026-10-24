@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &lpar;Torsten Slok/Apollo Global Management&rpar;](https://www.techmeme.com/261024/p9#a261024p9)
+ - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
+ - [Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &lpar;The Information&rpar;](https://www.techmeme.com/261024/p8#a261024p8)
  - [Man Destroys $2,000 iPhone Duo With Dirt, Fire, Knives and Medieval Chainmail](https://www.cnet.com/tech/mobile/iphone-duo-scratch-dust-bend-test-jerryrigeverything/)
- - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
- - [A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261024/p7#a261024p7)
- - [Amazon drops 1TB M5 MacBook Air to $1,399, save $200](https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss)
- - [An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#39;s optical networking chips, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/261024/p6#a261024p6)<!-- TECH:END -->
+ - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting this for research purpose](http://9gag.com/gag/aEMdoqM)
- - 😝 [Not allowed.](http://9gag.com/gag/a2ME2PO)
- - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [Island life](http://9gag.com/gag/aoWmLAn)
+ - 💣 [Accountability??](http://9gag.com/gag/a6DrpyR)
  - 😝 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)
- - 👉 [Posting this for research purpose](http://9gag.com/gag/aEMdoqM)<!-- MEMES:END -->
+ - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---
 

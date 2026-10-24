@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
+ - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)
+ - [Call of Duty Modern Warfare 4 Review: A Dolphin Dive in the Right Direction](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-4-review/)
  - [Utopai, an AI film studio that says it has more than 20 projects in the works, raised $60M at a $1B valuation &lpar;Rocket Drew/The Information&rpar;](https://www.techmeme.com/261023/p24#a261023p24)
- - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)
- - [Memo: Helen Chiang, Xbox&#39;s first COO, is leaving Microsoft on October 23, just months after the role was created; she spent 21 years at the company &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261023/p23#a261023p23)
- - [YouTube Is Letting Us Vibe Our Video Feeds, and I’m Liking It](https://www.cnet.com/tech/services-and-software/youtube-custom-video-feeds/)
- - [Xbox’s first chief operating officer is out after just a few months](https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure)<!-- TECH:END -->
+ - [Apple’s iPod Turns 25: The Song Catalog That Rode Wit You](https://www.cnet.com/tech/mobile/apple-ipod-25th-anniversary/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

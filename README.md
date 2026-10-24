@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTubers break the iPhone Duo, but stores aren&#39;t seeing broken displays](https://appleinsider.com/articles/26/10/24/youtubers-break-the-iphone-duo-but-stores-arent-seeing-broken-displays?utm_source=rss)
- - [Block unveils Dessa, a &quot;true speech-to-speech&quot; AI model trained on &quot;nothing but human conversation&quot; that it says runs locally on a MacBook Pro M4 Max or better &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261024/p5#a261024p5)
- - [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
- - [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
- - [Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261024/p4#a261024p4)<!-- TECH:END -->
+ - [A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261024/p7#a261024p7)
+ - [Amazon drops 1TB M5 MacBook Air to $1,399, save $200](https://appleinsider.com/articles/26/10/24/amazon-drops-1tb-m5-macbook-air-to-1399-save-200?utm_source=rss)
+ - [An interview with Ciena CEO Gary Smith, a veteran of the 2001 telecoms crash, on AI demand outpacing supply for Ciena&#39;s optical networking chips, and more &lpar;Steven Rosenbush/Wall Street Journal&rpar;](https://www.techmeme.com/261024/p6#a261024p6)
+ - [Fielded is obsessed with scammers and unhinged Japanese cyberpunk](https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview)
+ - [LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday](https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

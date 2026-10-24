@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)
- - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 💣 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)
- - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 👉 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)<!-- MEMES:END -->
+ - 😝 [Posting this for research purpose](http://9gag.com/gag/aEMdoqM)
+ - 😝 [Not allowed.](http://9gag.com/gag/a2ME2PO)
+ - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [A wedding from parallel universe](http://9gag.com/gag/az57GYq)
+ - 👉 [Posting this for research purpose](http://9gag.com/gag/aEMdoqM)<!-- MEMES:END -->
 
 ---
 

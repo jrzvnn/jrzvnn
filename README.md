@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The PHP Foundation, which coordinated fixes for two critical PHP flaws, operates on a shoestring budget with one full-time staff member and 14 contractors &lpar;Toby Sterling/Reuters&rpar;](https://www.techmeme.com/261024/p1#a261024p1)
- - [Google updates its privacy policy to clarify it could use data shared via Personal Intelligence from connected apps, including Gmail and Photos, to target ads &lpar;Shimul Sood/Android Authority&rpar;](https://www.techmeme.com/261023/p28#a261023p28)
- - [Andy Jassy says AWS capacity for 2027 is &quot;largely sold out&quot; and a &quot;good chunk&quot; of 2028 capacity is also sold, though AWS reserves some capacity for on-demand &lpar;Catherine Perloff/The Information&rpar;](https://www.techmeme.com/261023/p27#a261023p27)
- - [The UK plans to invest £100M to create the AI Biosecurity Lab to boost defenses against biological threats, supported by OpenAI, Anthropic, and Google DeepMind &lpar;Liv McMahon/BBC&rpar;](https://www.techmeme.com/261023/p26#a261023p26)
- - [OpenAI says it built an &quot;offline world&quot; from cached web content to train isolated frontier models to browse, search for information, and use web apps &lpar;OpenAI&rpar;](https://www.techmeme.com/261023/p25#a261023p25)<!-- TECH:END -->
+ - [Best Pet Camera of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
+ - [9 Unique Apps to Try on the iPhone Duo](https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/)
+ - [Inside Meta&#39;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &lpar;Rachel Monroe/New Yorker&rpar;](https://www.techmeme.com/261024/p3#a261024p3)
+ - [My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale](https://www.wired.com/story/joybird-semi-annual-sale-2026/)
+ - [12 Absolutely Banging Proper Watches Under $400](https://www.wired.com/story/best-watches-under-400-chosen-by-experts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

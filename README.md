@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just being honest](http://9gag.com/gag/aj7QZmp)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 😝 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 💣 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
+ - 😝 [Just being honest](http://9gag.com/gag/aj7QZmp)
  - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
 
 ---

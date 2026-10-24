@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just being honest](http://9gag.com/gag/aj7QZmp)
+ - 😝 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)
  - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 💣 [How would you shoot this scene](http://9gag.com/gag/avW2xXZ)
- - 😝 [Just being honest](http://9gag.com/gag/aj7QZmp)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 💣 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)
+ - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 👉 [NYC city council just suspended its bus fare evasion unit, despite 52% evasion rates for public transportation. Residents now celebrate the decision saying it would make buses faster and less hassle.](http://9gag.com/gag/az57RYp)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can only pick one](http://9gag.com/gag/aXLZ2ov)
- - 😝 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
- - 💣 [Accountability??](http://9gag.com/gag/a6DrpyR)
- - 😝 [You can only pick one](http://9gag.com/gag/aXLZ2ov)
- - 👉 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)<!-- MEMES:END -->
+ - 😝 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
+ - 😝 [Is it?](http://9gag.com/gag/anOeDMq)
+ - 💣 [Check her basement because she sounds sus AF](http://9gag.com/gag/aGLKGVG)
+ - 😝 [Accountability??](http://9gag.com/gag/a6DrpyR)
+ - 👉 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)<!-- MEMES:END -->
 
 ---
 

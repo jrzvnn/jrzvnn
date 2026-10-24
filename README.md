@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Pet Camera of 2026: Furbo, Petcube, and Enabot](https://www.wired.com/gallery/best-pet-cameras/)
- - [9 Unique Apps to Try on the iPhone Duo](https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/)
- - [Inside Meta&#39;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &lpar;Rachel Monroe/New Yorker&rpar;](https://www.techmeme.com/261024/p3#a261024p3)
- - [My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale](https://www.wired.com/story/joybird-semi-annual-sale-2026/)
- - [12 Absolutely Banging Proper Watches Under $400](https://www.wired.com/story/best-watches-under-400-chosen-by-experts/)<!-- TECH:END -->
+ - [YouTubers break the iPhone Duo, but stores aren&#39;t seeing broken displays](https://appleinsider.com/articles/26/10/24/youtubers-break-the-iphone-duo-but-stores-arent-seeing-broken-displays?utm_source=rss)
+ - [Block unveils Dessa, a &quot;true speech-to-speech&quot; AI model trained on &quot;nothing but human conversation&quot; that it says runs locally on a MacBook Pro M4 Max or better &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261024/p5#a261024p5)
+ - [What to expect from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro)
+ - [I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop](https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis)
+ - [Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261024/p4#a261024p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

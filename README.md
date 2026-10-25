@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Meta&#39;s role in Brazil&#39;s runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches &lpar;Augusta Saraiva/Bloomberg&rpar;](https://www.techmeme.com/261024/p10#a261024p10)
  - [Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &lpar;Torsten Slok/Apollo Global Management&rpar;](https://www.techmeme.com/261024/p9#a261024p9)
  - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
  - [Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &lpar;The Information&rpar;](https://www.techmeme.com/261024/p8#a261024p8)
- - [Man Destroys $2,000 iPhone Duo With Dirt, Fire, Knives and Medieval Chainmail](https://www.cnet.com/tech/mobile/iphone-duo-scratch-dust-bend-test-jerryrigeverything/)
- - [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)<!-- TECH:END -->
+ - [Man Destroys $2,000 iPhone Duo With Dirt, Fire, Knives and Medieval Chainmail](https://www.cnet.com/tech/mobile/iphone-duo-scratch-dust-bend-test-jerryrigeverything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

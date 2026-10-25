@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Meta&#39;s role in Brazil&#39;s runoff, where Lula da Silva alleges Meta restricts his content and a court ordered it not to interfere; Meta cites glitches &lpar;Augusta Saraiva/Bloomberg&rpar;](https://www.techmeme.com/261024/p10#a261024p10)
- - [Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &lpar;Torsten Slok/Apollo Global Management&rpar;](https://www.techmeme.com/261024/p9#a261024p9)
- - [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
- - [Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &lpar;The Information&rpar;](https://www.techmeme.com/261024/p8#a261024p8)
- - [Man Destroys $2,000 iPhone Duo With Dirt, Fire, Knives and Medieval Chainmail](https://www.cnet.com/tech/mobile/iphone-duo-scratch-dust-bend-test-jerryrigeverything/)<!-- TECH:END -->
+ - [We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound](https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/)
+ - [How a Blackstone-led $2.3B private credit loan to CoreWeave in 2023 became a blueprint for chip-backed debt, which is on track to become a $1T market &lpar;Bloomberg&rpar;](https://www.techmeme.com/261025/p6#a261025p6)
+ - [Baba, which develops AI tools to help Medicare and Medicaid patients connect to care teams and handle advocacy tasks, raised a $40M Series A led by FirstMark &lpar;Cailey Gleeson/Fierce Healthcare&rpar;](https://www.techmeme.com/261025/p5#a261025p5)
+ - [CapitalOS, which helps vertical software platforms offer spend management, cards, and bill payment tools to SMB customers, raised a $21.9M Series A led by LGVP &lpar;Ryan Lawler/Axios&rpar;](https://www.techmeme.com/261025/p4#a261025p4)
+ - [Instagram launches an Apple TV app for watching Reels, longer videos, and live shows; the app previously launched on Fire TV, Google TV, and Samsung smart TVs &lpar;Hartley Charlton/MacRumors&rpar;](https://www.techmeme.com/261025/p3#a261025p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

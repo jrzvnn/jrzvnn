@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just One City ..](http://9gag.com/gag/a9zjXg6)
  - 😝 [Is it?](http://9gag.com/gag/anOeDMq)
- - 💣 [`So you have chosen death`](http://9gag.com/gag/aMdeXyX)
+ - 😝 [Title](http://9gag.com/gag/a8AdwyO)
+ - 💣 [New Zealanders rolling out the welcome mat today so they can become guests in their own country tomorrow](http://9gag.com/gag/aRL62mM)
  - 😝 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
  - 👉 [Accountability??](http://9gag.com/gag/a6DrpyR)<!-- MEMES:END -->
 

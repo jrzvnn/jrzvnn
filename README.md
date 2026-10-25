@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zen Browser is the Arc replacement I was looking for](https://www.theverge.com/tech/1018275/zen-browser-arc-replacement)
+ - [Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new &quot;delay-in-delivery&quot; coverage from brokers like Marsh &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261025/p10#a261025p10)
  - [The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &lpar;Tom Matsuda/Financial Times&rpar;](https://www.techmeme.com/261025/p9#a261025p9)
- - [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
- - [Touch-friendly dynamic interface coming soon to macOS Golden Gate](https://appleinsider.com/articles/26/10/25/touch-friendly-dynamic-interface-coming-soon-to-macos-golden-gate?utm_source=rss)
- - [Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261025/p8#a261025p8)
- - [Ternus shuffles more Apple roles as long-time executives look to retire](https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss)<!-- TECH:END -->
+ - [This Switch 2 sequel accessory was a few millimeters away from being good](https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on)
+ - [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

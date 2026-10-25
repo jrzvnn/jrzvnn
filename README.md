@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [r/opensource just banned AI, non-English speakers and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
- - [Is the Ninja MultiPot the Kitchen Appliance You Need, or Just the One You Want?](https://www.cnet.com/home/kitchen-and-household/is-the-ninja-multipot-the-kitchen-appliance-you-need-or-just-the-one-you-want/)
- - [Wallhack M-001 Review: When Fun Overrides Specs](https://www.wired.com/review/wallhack-m-001/)
- - [Scientists Trapped an Antimatter Particle for Months to Study Its Secrets](https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/)
- - [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)<!-- TECH:END -->
+ - [The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions &lpar;Tom Matsuda/Financial Times&rpar;](https://www.techmeme.com/261025/p9#a261025p9)
+ - [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
+ - [Touch-friendly dynamic interface coming soon to macOS Golden Gate](https://appleinsider.com/articles/26/10/25/touch-friendly-dynamic-interface-coming-soon-to-macos-golden-gate?utm_source=rss)
+ - [Sources: Apple tweaked macOS for its OLED touch MacBook Pro, due Wednesday, with a dynamic interface that adapts to whether touch or the trackpad was last used &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261025/p8#a261025p8)
+ - [Ternus shuffles more Apple roles as long-time executives look to retire](https://appleinsider.com/articles/26/10/25/ternus-shuffles-more-apple-roles-as-long-time-executives-look-to-retire?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

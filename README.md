@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No thx](http://9gag.com/gag/aVgjV2P)
- - 😝 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 💣 [This how they cheat in cycling races](http://9gag.com/gag/aBZ9O4P)
- - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
- - 👉 [Title](http://9gag.com/gag/aQg6Owd)<!-- MEMES:END -->
+ - 😝 [Is it?](http://9gag.com/gag/anOeDMq)
+ - 😝 [Title](http://9gag.com/gag/a8AdwyO)
+ - 💣 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
+ - 😝 [Title](http://9gag.com/gag/aQg6Owd)
+ - 👉 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OLED iPad mini arrives with A20 Pro processor, better dust protection](https://appleinsider.com/articles/26/10/26/oled-ipad-mini-8-arrives-to-challenge-iphone-duo-as-best-pocketable-tablet?utm_source=rss)
- - [Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/261026/p35#a261026p35)
- - [Few VC firms are mentioned in Anthropic&#39;s S-1, except Spark, which invested ~$800M across six rounds and whose GP Yasmin Razavi is the sole VC on its board &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/261026/p34#a261026p34)
- - [Instagram chases YouTube with a push for longer, widescreen videos](https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube)
- - [The Anthropic IPO Is Also a Doomsday Primer](https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/)<!-- TECH:END -->
+ - [Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261026/p46#a261026p46)
+ - [Are We All Maxxed Out? Dictionary.com Names ‘Maxxing’ Its 2026 Word of the Year](https://www.cnet.com/culture/internet/maxxing-word-of-the-year-dictionary-com/)
+ - [OpenAI Has a Surprising Defense Against Election Deepfakes](https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/)
+ - [Microsoft’s Massive Employee Buyout Shows How AI Is Reshaping the Economy](https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/)
+ - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

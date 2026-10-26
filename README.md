@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London police tried to take 11yo boy into custody for hate speech after he waved national flag in front of pro-Palestine rally](http://9gag.com/gag/aNLmj7G)
- - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
- - 💣 [Glitch of the matrix](http://9gag.com/gag/aVgjRrv)
  - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
- - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
+ - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
+ - 💣 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
+ - 👉 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
 
 ---
 

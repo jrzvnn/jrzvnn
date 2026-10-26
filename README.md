@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it?](http://9gag.com/gag/anOeDMq)
- - 😝 [Title](http://9gag.com/gag/a8AdwyO)
- - 💣 [Humble beginnings before the empire](http://9gag.com/gag/advy2qd)
- - 😝 [Title](http://9gag.com/gag/aQg6Owd)
- - 👉 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
+ - 😝 [London police tried to take 11yo boy into custody for hate speech after he waved national flag in front of pro-Palestine rally](http://9gag.com/gag/aNLmj7G)
+ - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
+ - 💣 [Glitch of the matrix](http://9gag.com/gag/aVgjRrv)
+ - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
 
 ---
 

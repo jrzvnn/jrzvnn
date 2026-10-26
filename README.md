@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261025/p12#a261025p12)
- - [OLED iMac &amp; MacBook Air in the works, far from launch](https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss)
- - [iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
- - [Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &quot;death and consolidation&quot; &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/261025/p11#a261025p11)
- - [Hinge damage suspected to be behind iPhone Duo screen cracks](https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss)<!-- TECH:END -->
+ - [Report: SK Hynix gained ~$15B from selling down its Kioxia stake earlier this year, and plans to return ~$12B to shareholders via a special dividend &lpar;Bloomberg&rpar;](https://www.techmeme.com/261025/p16#a261025p16)
+ - [High-frequency trading firms such as Jane Street are investing in AI and chip startups and neoclouds, and building data centers to gain an edge in the AI era &lpar;Bloomberg&rpar;](https://www.techmeme.com/261025/p15#a261025p15)
+ - [Sources detail how Ramp investors Joe Lonsdale and Keith Rabois pushed US lawmakers to probe rival Airwallex&#39;s China ties after Airwallex scrapped a Ramp deal &lpar;Michael Roddan/The Information&rpar;](https://www.techmeme.com/261025/p14#a261025p14)
+ - [iPhone Duo teardown: 5/10 repairability, a foldable record, but some screens crack along the fold, possibly because a hinge support bar fails to drop far enough &lpar;Elizabeth Chamberlain/iFixit News&rpar;](https://www.techmeme.com/261025/p13#a261025p13)
+ - [Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261025/p12#a261025p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

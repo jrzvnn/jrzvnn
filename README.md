@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at OpenAI&#39;s and Anthropic&#39;s aggressive price cuts between June and October, driven by low switching costs and heavy competition from open-weight models &lpar;Max Woolf&#39;s Blog&rpar;](https://www.techmeme.com/261026/p10#a261026p10)
- - [A look at TSMC&#39;s initial Phoenix fab, which has achieved chip output rates comparable to its Taiwan facilities, as its Taiwanese engineers teach US workers &lpar;New York Times&rpar;](https://www.techmeme.com/261026/p9#a261026p9)
- - [The Tragedy of Having a Wikipedia Page—and Then Losing It](https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/)
- - [Lykyn Review: A Mushroom Garden Worth Showing Off](https://www.wired.com/review/lykyn-automated-mushroom-grow-box/)
- - [The city that fought Flock](https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure)<!-- TECH:END -->
+ - [OLED iPad mini arrives with A20 Pro processor, better dust protection](https://appleinsider.com/articles/26/10/26/oled-ipad-mini-8-arrives-to-challenge-iphone-duo-as-best-pocketable-tablet?utm_source=rss)
+ - [Microsoft and others push out emergency patches for a critical flaw in Brotli, the C decoder library built into Node.js, that could allow remote code execution &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/261026/p35#a261026p35)
+ - [Few VC firms are mentioned in Anthropic&#39;s S-1, except Spark, which invested ~$800M across six rounds and whose GP Yasmin Razavi is the sole VC on its board &lpar;Kate Clark/Wall Street Journal&rpar;](https://www.techmeme.com/261026/p34#a261026p34)
+ - [Instagram chases YouTube with a push for longer, widescreen videos](https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube)
+ - [The Anthropic IPO Is Also a Doomsday Primer](https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

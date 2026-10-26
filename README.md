@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moderators of r/opensource ban submissions of projects using, made by, or intended for AI, exclude non-English speakers over AI translation concerns, and more &lpar;Terrence O&#39;Brien/The Verge&rpar;](https://www.techmeme.com/261025/p12#a261025p12)
+ - [OLED iMac &amp; MacBook Air in the works, far from launch](https://appleinsider.com/articles/26/10/25/oled-upgrades-for-imac-macbook-air-are-planned-but-still-far-from-launch?utm_source=rss)
  - [iFixit&amp;#8217;s look inside the iPhone Duo may explain those broken screens and hinges](https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge)
  - [Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face &quot;death and consolidation&quot; &lpar;Elon Musk/@elonmusk&rpar;](https://www.techmeme.com/261025/p11#a261025p11)
- - [Hinge damage suspected to be behind iPhone Duo screen cracks](https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss)
- - [Scott Walker’s The Drift will get under your skin](https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review)
- - [A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate](https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen)<!-- TECH:END -->
+ - [Hinge damage suspected to be behind iPhone Duo screen cracks](https://appleinsider.com/articles/26/10/25/hinge-damage-suspected-to-be-behind-iphone-duo-screen-cracks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rivian Halloween Update Turns R1, R2 Into Ghostbusting EVs Through Nov. 2](https://www.cnet.com/home/electric-vehicles/rivian-halloween-update-turns-r1-r2-into-ghostbusting-evs-through-nov-2/)
- - [&#39;F1&#39; star Damson Idris returns to Apple TV for Utah-set thriller](https://appleinsider.com/articles/26/10/26/f1-star-damson-idris-returns-to-apple-tv-for-utah-set-thriller?utm_source=rss)
- - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
- - [Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments &lpar;Ray Maker/DC Rainmaker&rpar;](https://www.techmeme.com/261026/p49#a261026p49)
- - [How to keep politicians from flooding your iPhone with campaign texts](https://appleinsider.com/inside/imessage/tips/how-to-keep-politicians-from-flooding-your-iphone-with-campaign-texts?utm_source=rss)<!-- TECH:END -->
+ - [Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods &lpar;Lisa Cavazuti/NBC News&rpar;](https://www.techmeme.com/261027/p1#a261027p1)
+ - [JAY-Z steps onto the Super Bowl stage after years behind the show](https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss)
+ - [China&#39;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &lpar;Reuters&rpar;](https://www.techmeme.com/261026/p51#a261026p51)
+ - [Ahead of US midterms, ChatGPT draws images &quot;depicting election interference or that may discourage voting&quot; in a cartoon style, ignoring photorealism requests &lpar;Katelyn Chedraoui/CNET&rpar;](https://www.techmeme.com/261026/p50#a261026p50)
+ - [Rivian Halloween Update Turns R1, R2 Into Ghostbusting EVs Through Nov. 2](https://www.cnet.com/home/electric-vehicles/rivian-halloween-update-turns-r1-r2-into-ghostbusting-evs-through-nov-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

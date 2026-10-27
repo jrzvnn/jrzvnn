@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261027/p29#a261027p29)
- - [Sources: Meta&#39;s $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &lpar;Anthony Hughes/Bloomberg&rpar;](https://www.techmeme.com/261027/p28#a261027p28)
- - [Apple Creator Studio Brings MotionVFX and AI Assistants to Subscribers](https://www.cnet.com/tech/services-and-software/apple-creator-studio-ai-update-october-2026-news/)
- - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
- - [Ford’s Most Affordable EV Will Offer Built-in Bidirectional Home Charging](https://www.cnet.com/home/electric-vehicles/ford-fathom-ev-truck-cheaper-built-in-bidirectional-home-charging/)<!-- TECH:END -->
+ - [As expected, you&#39;re going to pay a lot if you want a touchscreen MacBook Pro](https://appleinsider.com/articles/26/10/27/as-expected-youre-going-to-pay-a-lot-if-you-want-a-touchscreen-macbook-pro?utm_source=rss)
+ - [SK Hynix reports Q3 revenue up 328% YoY to ~$78.8B, vs. ~$74.07B est., and operating profit up 632% to ~$62.76B, vs. ~$57.78B est. &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261027/p37#a261027p37)
+ - [Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B &lpar;Anthropic&rpar;](https://www.techmeme.com/261027/p36#a261027p36)
+ - [Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261027/p35#a261027p35)
+ - [AT&amp;#038;T Is Paying Out Its $177 Million Data Breach Settlement. You Might Get a Check Soon](https://www.cnet.com/tech/mobile/att-177-million-data-breach-settlement-payouts-checks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

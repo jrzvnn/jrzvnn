@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s latest AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale)
- - [M6 24-inch iMac vs M4 24-inch iMac: Apple&#39;s all-in-ones compared](https://appleinsider.com/inside/24-inch-imac/vs/m6-24-inch-imac-vs-m4-24-inch-imac-apples-all-in-ones-compared?utm_source=rss)
- - [Siri AI expands to five more languages as EU users remain left out](https://appleinsider.com/articles/26/10/26/siri-ai-expands-to-five-more-languages-as-eu-users-remain-left-out?utm_source=rss)
- - [Apple&#39;s 11-inch iPad drops to $399 during Amazon&#39;s month-end sale](https://appleinsider.com/articles/26/10/27/apples-11-inch-ipad-drops-to-399-during-amazons-month-end-sale?utm_source=rss)
- - [Anthropic&#39;s S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn&#39;t be profitable &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/261027/p22#a261027p22)<!-- TECH:END -->
+ - [Sources: AI robotics startup Physical Intelligence is in talks to raise $1B+ led by Avenir and Lux Capital at a ~$20B valuation, up from $11.5B earlier in 2026 &lpar;Bloomberg&rpar;](https://www.techmeme.com/261027/p29#a261027p29)
+ - [Sources: Meta&#39;s $25B share sale was oversubscribed 5x as it seeks $98B for AI spending; the 15 largest investors in the sale accounted for ~70% of shares &lpar;Anthony Hughes/Bloomberg&rpar;](https://www.techmeme.com/261027/p28#a261027p28)
+ - [Apple Creator Studio Brings MotionVFX and AI Assistants to Subscribers](https://www.cnet.com/tech/services-and-software/apple-creator-studio-ai-update-october-2026-news/)
+ - [Anthropic Says It Will Revolutionize Biology—Some Day](https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/)
+ - [Ford’s Most Affordable EV Will Offer Built-in Bidirectional Home Charging](https://www.cnet.com/home/electric-vehicles/ford-fathom-ev-truck-cheaper-built-in-bidirectional-home-charging/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

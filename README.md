@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts: since June, $100M+ in US data center freight has been stolen; in two successful heists, robbers struck escorts protecting trucks hauling $10M+ in goods &lpar;Lisa Cavazuti/NBC News&rpar;](https://www.techmeme.com/261027/p1#a261027p1)
- - [JAY-Z steps onto the Super Bowl stage after years behind the show](https://appleinsider.com/articles/26/10/27/jay-z-steps-onto-the-super-bowl-stage-after-years-behind-the-show?utm_source=rss)
- - [China&#39;s Star 50 index of AI and chip leaders is down by 40% in under four months, losing ~$480B in market value; chipmaker CXMT is down ~25% in the past month &lpar;Reuters&rpar;](https://www.techmeme.com/261026/p51#a261026p51)
- - [Ahead of US midterms, ChatGPT draws images &quot;depicting election interference or that may discourage voting&quot; in a cartoon style, ignoring photorealism requests &lpar;Katelyn Chedraoui/CNET&rpar;](https://www.techmeme.com/261026/p50#a261026p50)
- - [Rivian Halloween Update Turns R1, R2 Into Ghostbusting EVs Through Nov. 2](https://www.cnet.com/home/electric-vehicles/rivian-halloween-update-turns-r1-r2-into-ghostbusting-evs-through-nov-2/)<!-- TECH:END -->
+ - [Anthropic&#39;s S-1 excludes Labs co-lead Ben Mann from its &quot;Continuing Founders&quot; and Founder LLC; Anthropic says &quot;it&#39;s still fair to refer to him as a co-founder&quot; &lpar;Zara Stone/The San Francisco Standard&rpar;](https://www.techmeme.com/261027/p8#a261027p8)
+ - [Instagram Is a Streaming Service Now](https://www.wired.com/story/instagram-is-a-streaming-service-now/)
+ - [Sources: UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others &lpar;Financial Times&rpar;](https://www.techmeme.com/261027/p7#a261027p7)
+ - [The Future of Wet Cat Food Dispensers Is Here. My Review of Neakasa Riko](https://www.cnet.com/home/smart-home/is-neakasa-riko-the-future-of-wet-cat-food-dispensers-maybe/)
+ - [Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls](https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

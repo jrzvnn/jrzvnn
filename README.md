@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting For Bus ..](http://9gag.com/gag/aO2opzy)
  - 😝 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
- - 💣 [This is wild](http://9gag.com/gag/agQrKw1)
- - 😝 [The Simpson&#39;s Treehouse of Horrors aired yesterday. On a sign outside of the DMV in Act 3 is a website. Go to it. Before they pull the site DONT OPEN IF YOURE AT WORK \ud83d\udc80\ud83d\udc80](http://9gag.com/gag/anOeVE0)
- - 👉 [Waiting For Bus ..](http://9gag.com/gag/aO2opzy)<!-- MEMES:END -->
+ - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
+ - 💣 [The Simpson&#39;s Treehouse of Horrors aired yesterday. On a sign outside of the DMV in Act 3 is a website. Go to it. Before they pull the site DONT OPEN IF YOURE AT WORK \ud83d\udc80\ud83d\udc80](http://9gag.com/gag/anOeVE0)
+ - 😝 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
+ - 👉 [This is wild](http://9gag.com/gag/agQrKw1)<!-- MEMES:END -->
 
 ---
 

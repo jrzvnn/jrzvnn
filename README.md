@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s S-1 excludes Labs co-lead Ben Mann from its &quot;Continuing Founders&quot; and Founder LLC; Anthropic says &quot;it&#39;s still fair to refer to him as a co-founder&quot; &lpar;Zara Stone/The San Francisco Standard&rpar;](https://www.techmeme.com/261027/p8#a261027p8)
- - [Instagram Is a Streaming Service Now](https://www.wired.com/story/instagram-is-a-streaming-service-now/)
- - [Sources: UK stealth AI startup 22one, which is building law enforcement tools, hit a nearly $400M valuation after raising funds from Sequoia, Lux, and others &lpar;Financial Times&rpar;](https://www.techmeme.com/261027/p7#a261027p7)
- - [The Future of Wet Cat Food Dispensers Is Here. My Review of Neakasa Riko](https://www.cnet.com/home/smart-home/is-neakasa-riko-the-future-of-wet-cat-food-dispensers-maybe/)
- - [Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls](https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls/)<!-- TECH:END -->
+ - [Apple&amp;#8217;s latest AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale)
+ - [M6 24-inch iMac vs M4 24-inch iMac: Apple&#39;s all-in-ones compared](https://appleinsider.com/inside/24-inch-imac/vs/m6-24-inch-imac-vs-m4-24-inch-imac-apples-all-in-ones-compared?utm_source=rss)
+ - [Siri AI expands to five more languages as EU users remain left out](https://appleinsider.com/articles/26/10/26/siri-ai-expands-to-five-more-languages-as-eu-users-remain-left-out?utm_source=rss)
+ - [Apple&#39;s 11-inch iPad drops to $399 during Amazon&#39;s month-end sale](https://appleinsider.com/articles/26/10/27/apples-11-inch-ipad-drops-to-399-during-amazons-month-end-sale?utm_source=rss)
+ - [Anthropic&#39;s S-1 shows an 85% gross margin in H1 from running its models, a reality check for skeptics who said pay-as-you-go model sales wouldn&#39;t be profitable &lpar;Stephanie Palazzolo/The Information&rpar;](https://www.techmeme.com/261027/p22#a261027p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

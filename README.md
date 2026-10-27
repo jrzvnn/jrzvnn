@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 😝 [The Glitch](http://9gag.com/gag/aQg6V4d)
+ - 😝 [Prepare \ud83e\ude90](http://9gag.com/gag/awgNe21)
+ - 💣 [Finally some good news](http://9gag.com/gag/aEMdEvn)
  - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
- - 💣 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
- - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
- - 👉 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)<!-- MEMES:END -->
+ - 👉 [The Glitch](http://9gag.com/gag/aQg6V4d)<!-- MEMES:END -->
 
 ---
 

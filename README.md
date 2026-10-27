@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prepare \ud83e\ude90](http://9gag.com/gag/awgNe21)
+ - 😝 [Finally some good news](http://9gag.com/gag/aEMdEvn)
+ - 😝 [Yes its happening everywhere around the world , yes its the same issue and crack](http://9gag.com/gag/axWEY0p)
+ - 💣 [This is wild](http://9gag.com/gag/agQrKw1)
  - 😝 [The Simpson&#39;s Treehouse of Horrors aired yesterday. On a sign outside of the DMV in Act 3 is a website. Go to it. Before they pull the site DONT OPEN IF YOURE AT WORK \ud83d\udc80\ud83d\udc80](http://9gag.com/gag/anOeVE0)
- - 💣 [Finally some good news](http://9gag.com/gag/aEMdEvn)
- - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
- - 👉 [The ride back home must’ve been awkward..](https://www.reddit.com/r/funny/comments/1xgk19m/the_ride_back_home_mustve_been_awkward/)<!-- MEMES:END -->
+ - 👉 [Finally some good news](http://9gag.com/gag/aEMdEvn)<!-- MEMES:END -->
 
 ---
 

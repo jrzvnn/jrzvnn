@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel agrees to acquire Tel Aviv-based quantum computing startup Classiq; Classiq has raised more than $200M in funding and has about 130 employees &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261026/p46#a261026p46)
- - [Are We All Maxxed Out? Dictionary.com Names ‘Maxxing’ Its 2026 Word of the Year](https://www.cnet.com/culture/internet/maxxing-word-of-the-year-dictionary-com/)
- - [OpenAI Has a Surprising Defense Against Election Deepfakes](https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/)
- - [Microsoft’s Massive Employee Buyout Shows How AI Is Reshaping the Economy](https://www.cnet.com/tech/services-and-software/microsofts-employee-buyout-ai-reshaping-economy/)
- - [Best Dyson Vacuum Deals for Dyson Week 2026](https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026/)<!-- TECH:END -->
+ - [Rivian Halloween Update Turns R1, R2 Into Ghostbusting EVs Through Nov. 2](https://www.cnet.com/home/electric-vehicles/rivian-halloween-update-turns-r1-r2-into-ghostbusting-evs-through-nov-2/)
+ - [&#39;F1&#39; star Damson Idris returns to Apple TV for Utah-set thriller](https://appleinsider.com/articles/26/10/26/f1-star-damson-idris-returns-to-apple-tv-for-utah-set-thriller?utm_source=rss)
+ - [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
+ - [Fitbit Edge review: notable upgrade over the Charge 6 for GPS and heart rate, Google Health app is an improvement, but lacks software polish and NFC payments &lpar;Ray Maker/DC Rainmaker&rpar;](https://www.techmeme.com/261026/p49#a261026p49)
+ - [How to keep politicians from flooding your iPhone with campaign texts](https://appleinsider.com/inside/imessage/tips/how-to-keep-politicians-from-flooding-your-iphone-with-campaign-texts?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

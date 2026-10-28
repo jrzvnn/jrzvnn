@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: Senator Elizabeth Warren asks Dario Amodei for &quot;exhaustive responses&quot; to four pages of questions by November 3 regarding existential risks in its S-1 &lpar;Corrie Driebusch/Wall Street Journal&rpar;](https://www.techmeme.com/261028/p15#a261028p15)
- - [Pornhub Stars Want to Teach You How to Make Dinner](https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/)
- - [Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country&#39;s main airport &lpar;Rozanna Latiff/Reuters&rpar;](https://www.techmeme.com/261028/p14#a261028p14)
- - [Apple AirPods Max 2 Are $100 Off Ahead of Black Friday](https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/)
- - [Research: professional analysts followed AI agents&#39; randomly assigned &quot;leans&quot; on subjective analytical decisions 86% of the time; 77% used the agents&#39; arguments &lpar;Anthropic&rpar;](https://www.techmeme.com/261028/p13#a261028p13)<!-- TECH:END -->
+ - [GitHub says it&#39;s seeing 7.4B commits per month, up from 2.9B in August, and has added 4M CPU cores and 160PB of storage in 2026 so far to support this growth &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/261028/p37#a261028p37)
+ - [Update to iOS 27.2 Now to Patch Hundreds of Bugs](https://www.cnet.com/tech/services-and-software/download-ios-27-2-patch-bugs/)
+ - [Touchscreen MacBook live blog: On the ground at Apple’s launch event](https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog)
+ - [GitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more &lpar;Meredith Shubel/The New Stack&rpar;](https://www.techmeme.com/261028/p36#a261028p36)
+ - [All the news from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

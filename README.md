@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meet The Korean Cosplayer Who Went Viral For Kissing Fan At Event](http://9gag.com/gag/aGLKor6)
- - 😝 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - 💣 [VHS footage](http://9gag.com/gag/ap1KdR8)
- - 😝 [This is wild](http://9gag.com/gag/agQrKw1)
- - 👉 [The Simpson&#39;s Treehouse of Horrors aired yesterday. On a sign outside of the DMV in Act 3 is a website. Go to it. Before they pull the site DONT OPEN IF YOURE AT WORK \ud83d\udc80\ud83d\udc80](http://9gag.com/gag/anOeVE0)<!-- MEMES:END -->
+ - 😝 [VHS footage](http://9gag.com/gag/ap1KdR8)
+ - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
+ - 😝 [The Simpson&#39;s Treehouse of Horrors aired yesterday. On a sign outside of the DMV in Act 3 is a website. Go to it. Before they pull the site DONT OPEN IF YOURE AT WORK \ud83d\udc80\ud83d\udc80](http://9gag.com/gag/anOeVE0)
+ - 👉 [Ps5](http://9gag.com/gag/a4nprp1)<!-- MEMES:END -->
 
 ---
 

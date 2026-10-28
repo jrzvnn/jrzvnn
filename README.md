@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub says it&#39;s seeing 7.4B commits per month, up from 2.9B in August, and has added 4M CPU cores and 160PB of storage in 2026 so far to support this growth &lpar;Frederic Lardinois/The New Stack&rpar;](https://www.techmeme.com/261028/p37#a261028p37)
- - [Update to iOS 27.2 Now to Patch Hundreds of Bugs](https://www.cnet.com/tech/services-and-software/download-ios-27-2-patch-bugs/)
- - [Touchscreen MacBook live blog: On the ground at Apple’s launch event](https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog)
- - [GitHub says Copilot Fusion, which handles model selection and orchestration, is now generally available, releases the GitHub Copilot app, and more &lpar;Meredith Shubel/The New Stack&rpar;](https://www.techmeme.com/261028/p36#a261028p36)
- - [All the news from Apple’s ‘Pro and tell’ event](https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements)<!-- TECH:END -->
+ - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
+ - [Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know](https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/)
+ - [Dead Island 2, Tomb Raider Remastered and More Come to All PlayStation Plus Subscribers in November](https://www.cnet.com/tech/gaming/playstation-plus-november-monthly-games/)
+ - [Touchscreen MacBook Pro Hands-On: Apple Finally Lets Us Swipe the Screen](https://www.cnet.com/tech/computing/macbook-pro-oled-touchscreen-hands-on/)
+ - [Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261028/p51#a261028p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

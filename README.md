@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 😝 [The most complicated thing i did on my PC was modding 3ds.](http://9gag.com/gag/aQg6BA2)
- - 💣 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 😝 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - 👉 [Think different](http://9gag.com/gag/avW2Xob)<!-- MEMES:END -->
+ - 😝 [Wrong answers only please](http://9gag.com/gag/aAQBqqE)
+ - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 💣 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)
+ - 😝 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)
+ - 👉 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)<!-- MEMES:END -->
 
 ---
 

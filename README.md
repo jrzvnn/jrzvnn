@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As expected, you&#39;re going to pay a lot if you want a touchscreen MacBook Pro](https://appleinsider.com/articles/26/10/27/as-expected-youre-going-to-pay-a-lot-if-you-want-a-touchscreen-macbook-pro?utm_source=rss)
- - [SK Hynix reports Q3 revenue up 328% YoY to ~$78.8B, vs. ~$74.07B est., and operating profit up 632% to ~$62.76B, vs. ~$57.78B est. &lpar;Jenny Lee/CNBC&rpar;](https://www.techmeme.com/261027/p37#a261027p37)
- - [Anthropic expands its US GSA partnership to give federal, state, local, tribal, and territorial governments a 40% discount on Claude, estimated to save $1B &lpar;Anthropic&rpar;](https://www.techmeme.com/261027/p36#a261027p36)
- - [Infisical, which helps companies use AI agents without handing over their private credentials, raised a $40M Series B led by Elad Gil at a $600M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](https://www.techmeme.com/261027/p35#a261027p35)
- - [AT&amp;#038;T Is Paying Out Its $177 Million Data Breach Settlement. You Might Get a Check Soon](https://www.cnet.com/tech/mobile/att-177-million-data-breach-settlement-payouts-checks/)<!-- TECH:END -->
+ - [Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261028/p3#a261028p3)
+ - [Anthropic&#39;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&#39;s $28.5T estimate, without explicitly naming it &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261028/p2#a261028p2)
+ - [Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261028/p1#a261028p1)
+ - [The US FCC approves Amazon Leo&#39;s $11.5B acquisition of Globalstar, giving Amazon access to Globalstar&#39;s 24 satellites and mobile satellite spectrum &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/261027/p45#a261027p45)
+ - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

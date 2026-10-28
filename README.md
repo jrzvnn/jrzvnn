@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)
- - 😝 [VHS footage](http://9gag.com/gag/ap1KdR8)
- - 💣 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
- - 😝 [India\u2019s Aquarium mermaid\u2026Uh.. I am speechless](http://9gag.com/gag/amWqbxv)
+ - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 😝 [The most complicated thing i did on my PC was modding 3ds.](http://9gag.com/gag/aQg6BA2)
+ - 💣 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 😝 [Gennadiy Gennadyevich Golovkin vs The Iiver King](http://9gag.com/gag/aGLKNVz)
  - 👉 [Think different](http://9gag.com/gag/avW2Xob)<!-- MEMES:END -->
 
 ---

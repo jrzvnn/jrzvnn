@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Fujifilm plans to increase magnetic tape production capacity fivefold to meet AI-driven storage demand, its biggest production expansion in ~20 years &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261028/p3#a261028p3)
- - [Anthropic&#39;s S-1 implies a $40T+ annual TAM based on the economic value of knowledge work in 2025, topping SpaceX&#39;s $28.5T estimate, without explicitly naming it &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261028/p2#a261028p2)
- - [Sources: HP, Asus, and Acer are shifting some PC production from Thailand and Vietnam back to China amid rising component costs; Dell is mulling a similar move &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261028/p1#a261028p1)
- - [The US FCC approves Amazon Leo&#39;s $11.5B acquisition of Globalstar, giving Amazon access to Globalstar&#39;s 24 satellites and mobile satellite spectrum &lpar;David Shepardson/Reuters&rpar;](https://www.techmeme.com/261027/p45#a261027p45)
- - [Sources: chipmaker Onsemi is in talks to acquire 16-year-old chip startup Ferric for ~$1B; PitchBook: Ferric last raised a $32.1M Series C in December 2024 &lpar;Valida Pau/The Information&rpar;](https://www.techmeme.com/261027/p44#a261027p44)<!-- TECH:END -->
+ - [Letter: Senator Elizabeth Warren asks Dario Amodei for &quot;exhaustive responses&quot; to four pages of questions by November 3 regarding existential risks in its S-1 &lpar;Corrie Driebusch/Wall Street Journal&rpar;](https://www.techmeme.com/261028/p15#a261028p15)
+ - [Pornhub Stars Want to Teach You How to Make Dinner](https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/)
+ - [Malaysia says it seized ~$12.11M worth of AI chips this month, as authorities close in on a syndicate suspected of smuggling through the country&#39;s main airport &lpar;Rozanna Latiff/Reuters&rpar;](https://www.techmeme.com/261028/p14#a261028p14)
+ - [Apple AirPods Max 2 Are $100 Off Ahead of Black Friday](https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/)
+ - [Research: professional analysts followed AI agents&#39; randomly assigned &quot;leans&quot; on subjective analytical decisions 86% of the time; 77% used the agents&#39; arguments &lpar;Anthropic&rpar;](https://www.techmeme.com/261028/p13#a261028p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

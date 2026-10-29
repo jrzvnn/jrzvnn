@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wrong answers only please](http://9gag.com/gag/aAQBqqE)
- - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 😝 [That laugh was infectious.](http://9gag.com/gag/aEMdE9K)
  - 💣 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)
- - 😝 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)
- - 👉 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)<!-- MEMES:END -->
+ - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
+ - 👉 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
 
 ---
 

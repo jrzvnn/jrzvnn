@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 😝 [Doll](http://9gag.com/gag/axWEeYK)
- - 💣 [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)
- - 😝 [Athletic and fit](http://9gag.com/gag/avW2B5M)
- - 👉 [Raugh in Chinese...](http://9gag.com/gag/aMde0XG)<!-- MEMES:END -->
+ - 😝 [\u00cbwww](http://9gag.com/gag/aVgj8Ed)
+ - 😝 [Superman could change the colour of her eyes by just looking at her](http://9gag.com/gag/awgNDZR)
+ - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 😝 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)
+ - 👉 [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)<!-- MEMES:END -->
 
 ---
 

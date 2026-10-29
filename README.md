@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epstein files](http://9gag.com/gag/aoWmAvx)
  - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 💣 [Athletic and fit](http://9gag.com/gag/avW2B5M)
- - 😝 [Why not become naturally old](http://9gag.com/gag/aNLmGA3)
- - 👉 [Cargo Cultish](http://9gag.com/gag/a0ovDQq)<!-- MEMES:END -->
+ - 😝 [Doll](http://9gag.com/gag/axWEeYK)
+ - 💣 [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)
+ - 😝 [Athletic and fit](http://9gag.com/gag/avW2B5M)
+ - 👉 [Raugh in Chinese...](http://9gag.com/gag/aMde0XG)<!-- MEMES:END -->
 
 ---
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/261029/p29#a261029p29)
- - [Up to 350,000 Macs exposed by a forgotten Popcorn Time updater](https://appleinsider.com/articles/26/10/29/up-to-350000-macs-exposed-by-a-forgotten-popcorn-time-updater?utm_source=rss)
- - [Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/261029/p28#a261029p28)
- - [Petkit Automatic Cat Litter Box Sale &lpar;2026&rpar;](https://www.wired.com/story/petkit-sale-october-2026/)
- - [This $149 digital candle uses AI to accurately simulate a flickering flame](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame)<!-- TECH:END -->
+ - [Sources: an Accenture staffer&#39;s Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified &lpar;Vittoria Elliott/Wired&rpar;](https://www.techmeme.com/261029/p44#a261029p44)
+ - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
+ - [DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal](https://www.cnet.com/home/kitchen-and-household/doordash-acquire-instacart-17b/)
+ - [Utah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah&#39;s gambling laws &lpar;Andy Larsen/Salt Lake Tribune&rpar;](https://www.techmeme.com/261029/p43#a261029p43)
+ - [Ikea&amp;#8217;s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

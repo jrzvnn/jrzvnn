@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261028/p61#a261028p61)
- - [Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/261028/p60#a261028p60)
- - [Sources: AI coding startup Cognition weighs a new funding round before year&#39;s end after receiving offers valuing it at $70B-$80B, up from $48B in September &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/261028/p59#a261028p59)
- - [You Can Spend Nearly $15K on Apple’s New Touchscreen MacBook Pro. Why?](https://www.cnet.com/tech/computing/max-out-new-apple-touchscreen-macbook-pro-nearly-15k/)
- - [Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea&#39;s National Growth Fund contributed $280M &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/261028/p58#a261028p58)<!-- TECH:END -->
+ - [How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat&#39;s speed filter, sparked social media&#39;s legal reckoning over user safety &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/261029/p11#a261029p11)
+ - [STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. &lpar;Reuters&rpar;](https://www.techmeme.com/261029/p10#a261029p10)
+ - [A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent&#39;s AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p9#a261029p9)
+ - [Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was &quot;shared without their authorization&quot; &lpar;Wired&rpar;](https://www.techmeme.com/261029/p8#a261029p8)
+ - [National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs &lpar;Elizabeth Rembert/Bloomberg&rpar;](https://www.techmeme.com/261029/p7#a261029p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

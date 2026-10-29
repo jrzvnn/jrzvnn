@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Maynard v. Snapchat, a 2016 lawsuit linked to a car crash involving Snapchat&#39;s speed filter, sparked social media&#39;s legal reckoning over user safety &lpar;Olivia Carville/Bloomberg&rpar;](https://www.techmeme.com/261029/p11#a261029p11)
- - [STMicro reports Q3 revenue up 17.9% YoY to $3.76B, operating income up 98% YoY to $429M, vs. $400.5M est., and forecasts $4.15B in Q4 revenue, vs. $4.10B est. &lpar;Reuters&rpar;](https://www.techmeme.com/261029/p10#a261029p10)
- - [A profile of Tencent Cloud CEO Dowson Tong, who is shifting Tencent&#39;s AI focus toward businesses and betting on its Claude Cowork-style assistant WorkBuddy &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p9#a261029p9)
- - [Bluesky blocks links to a leaked archive containing personal data of 41,000+ DHS employees and contractors, saying it was &quot;shared without their authorization&quot; &lpar;Wired&rpar;](https://www.techmeme.com/261029/p8#a261029p8)
- - [National Student Clearinghouse: US computer science enrollment fell 12%+ for undergrads and 10%+ for grad students this fall, as AI reduces coding jobs &lpar;Elizabeth Rembert/Bloomberg&rpar;](https://www.techmeme.com/261029/p7#a261029p7)<!-- TECH:END -->
+ - [Serval, which offers AI agents for enterprise IT operations like access management, raised $150M led by Sequoia at a $3B valuation, up from $1B in December 2025 &lpar;Harshita Mary Varghese/Reuters&rpar;](https://www.techmeme.com/261029/p29#a261029p29)
+ - [Up to 350,000 Macs exposed by a forgotten Popcorn Time updater](https://appleinsider.com/articles/26/10/29/up-to-350000-macs-exposed-by-a-forgotten-popcorn-time-updater?utm_source=rss)
+ - [Wabi, which is building an AI assistant that integrates into group chats and can take actions like booking appointments, raised $55M at a $1.25B valuation &lpar;Micah Barkley/Bloomberg&rpar;](https://www.techmeme.com/261029/p28#a261029p28)
+ - [Petkit Automatic Cat Litter Box Sale &lpar;2026&rpar;](https://www.wired.com/story/petkit-sale-october-2026/)
+ - [This $149 digital candle uses AI to accurately simulate a flickering flame](https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

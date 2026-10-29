@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is What the GOP’s Final Midterms Push Looks Like](https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like/)
- - [Google Debuts New AI Models, Genie 4 and Gemini 4 Carbon: What You Need to Know](https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/)
- - [Dead Island 2, Tomb Raider Remastered and More Come to All PlayStation Plus Subscribers in November](https://www.cnet.com/tech/gaming/playstation-plus-november-monthly-games/)
- - [Touchscreen MacBook Pro Hands-On: Apple Finally Lets Us Swipe the Screen](https://www.cnet.com/tech/computing/macbook-pro-oled-touchscreen-hands-on/)
- - [Microsoft reports Q1 capex of $45.2B, up from $34.9B a year earlier and below its own $50B projection, and free cash flow of $18.6B, vs. $8.54B est. by analysts &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261028/p51#a261028p51)<!-- TECH:END -->
+ - [Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261028/p61#a261028p61)
+ - [Zillow agrees to pay $212.5M to settle an investor class action over its failed Zillow Offers home-flipping venture, after SCOTUS refused to hear its appeal &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/261028/p60#a261028p60)
+ - [Sources: AI coding startup Cognition weighs a new funding round before year&#39;s end after receiving offers valuing it at $70B-$80B, up from $48B in September &lpar;Katie Roof/Business Insider&rpar;](https://www.techmeme.com/261028/p59#a261028p59)
+ - [You Can Spend Nearly $15K on Apple’s New Touchscreen MacBook Pro. Why?](https://www.cnet.com/tech/computing/max-out-new-apple-touchscreen-macbook-pro-nearly-15k/)
+ - [Seoul-based AI chip startup FuriosaAI raised a $620M Series D at a $2.9B valuation, up from $735M in 2025; South Korea&#39;s National Growth Fund contributed $280M &lpar;Yoolim Lee/Bloomberg&rpar;](https://www.techmeme.com/261028/p58#a261028p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

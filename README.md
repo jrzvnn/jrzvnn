@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: an Accenture staffer&#39;s Claude agent ran on a DOD network for two months and appears to have sent info to a third-party site before it was identified &lpar;Vittoria Elliott/Wired&rpar;](https://www.techmeme.com/261029/p44#a261029p44)
- - [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/)
- - [DoorDash Plans to Acquire Grocery Delivery Service Instacart in $17B Deal](https://www.cnet.com/home/kitchen-and-household/doordash-acquire-instacart-17b/)
- - [Utah files 14 criminal charges against Kalshi and its co-founders Tarek Mansour and Luana Lopes Lara for allegedly breaking Utah&#39;s gambling laws &lpar;Andy Larsen/Salt Lake Tribune&rpar;](https://www.techmeme.com/261029/p43#a261029p43)
- - [Ikea&amp;#8217;s colorful donut-shaped smart lamp is $20 off](https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale)<!-- TECH:END -->
+ - [Sandisk reports Q1 revenue up 378% YoY to $11B, vs. $10.7B est., forecasts Q2 revenue above est., announces an 8-for-1 stock split; SNDK drops 4%+ after hours &lpar;MarketWatch&rpar;](https://www.techmeme.com/261029/p62#a261029p62)
+ - [Pinterest reports Q3 revenue up 12% YoY to $1.17B, vs. $1.21B est., global MAUs up 10% to 661M, and forecasts Q4 revenue below est.; PINS drops 8%+ after hours &lpar;Liz Moyer/Barron&#39;s Online&rpar;](https://www.techmeme.com/261029/p61#a261029p61)
+ - [Polymarket resumes trading after a security incident with a third-party provider, which a source says is DebugBear, and says it will reimburse affected traders &lpar;Reuters&rpar;](https://www.techmeme.com/261029/p60#a261029p60)
+ - [Sources: Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261029/p59#a261029p59)
+ - [Binance says it is investigating a &quot;potential security issue&quot; as suspicious outflows reach up to $5.8B; Tether freezes 1.5B+ USDT, Circle freezes 800M+ USDC &lpar;The Block&rpar;](https://www.techmeme.com/261029/p58#a261029p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

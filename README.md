@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 😝 [That laugh was infectious.](http://9gag.com/gag/aEMdE9K)
- - 💣 [Its near Halloween guys](http://9gag.com/gag/a4npmKy)
- - 😝 [Don&#39;t look back. Or take responsibility](http://9gag.com/gag/aRL6Dqq)
- - 👉 [You get one for FREE. Which one are you taking?](http://9gag.com/gag/aAQBqmd)<!-- MEMES:END -->
+ - 😝 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)
+ - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
+ - 😝 [Fatigue Level: RISING](http://9gag.com/gag/aVgj4eP)
+ - 👉 [Damn Bro who did this to you. The man need a hug and a drink, don\u2019t look at me I will buy him a drink You hug him](http://9gag.com/gag/abe3LMB)<!-- MEMES:END -->
 
 ---
 

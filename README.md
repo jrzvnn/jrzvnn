@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u00cbwww](http://9gag.com/gag/aVgj8Ed)
- - 😝 [Superman could change the colour of her eyes by just looking at her](http://9gag.com/gag/awgNDZR)
+ - 😝 [At Last](http://9gag.com/gag/a78vmyA)
+ - 😝 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
  - 💣 [Too Dangerous](http://9gag.com/gag/aGLK60z)
- - 😝 [Opera singers use this dental device for warm-ups](http://9gag.com/gag/agQrb5g)
- - 👉 [And how do you deal with cops my fellow 9gagster](http://9gag.com/gag/aNLmGjb)<!-- MEMES:END -->
+ - 😝 [\u00cbwww](http://9gag.com/gag/aVgj8Ed)
+ - 👉 [Superman could change the colour of her eyes by just looking at her](http://9gag.com/gag/awgNDZR)<!-- MEMES:END -->
 
 ---
 

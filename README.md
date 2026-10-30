@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone demand sees Apple topple Nvidia as most valuable company, again](https://appleinsider.com/articles/26/10/30/iphone-demand-sees-apple-topple-nvidia-as-most-valuable-company-again?utm_source=rss)
- - [Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet&#39;s $1T and Meta&#39;s $800B &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/261030/p22#a261030p22)
- - [Chainalysis says Binance hackers used automated money-laundering patterns not seen before; Elliptic: almost all of the $6.3B was taken in the first 30 minutes &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p21#a261030p21)
- - [Microsoft, Alphabet, Amazon, Meta, and Oracle returned just 9.3% of cash to shareholders in the first three quarters of 2026, a 15-year low amid AI spending &lpar;Patturaja Murugaboopathy/Reuters&rpar;](https://www.techmeme.com/261030/p20#a261030p20)
- - [Anthropic renames its $100 per month Max 5x plan as Max and the $200 per month Max 20x plan as Ultra, and removes the 5-hour limit for verified Ultra accounts &lpar;Claude/@claudeai&rpar;](https://www.techmeme.com/261030/p19#a261030p19)<!-- TECH:END -->
+ - [GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data](https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/)
+ - [Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p28#a261030p28)
+ - [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
+ - [Google Pixel Watch 5 Sale: Its Lowest Price Yet &lpar;2026&rpar;](https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/)
+ - [Pokemon Happy Meals Land Nov. 10: Gotta Catch ‘Em All](https://www.cnet.com/tech/pokemon-mcdonalds-happy-meals-nov-10/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

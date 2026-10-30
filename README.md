@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p69#a261029p69)
- - [NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/261029/p68#a261029p68)
- - [Binance &quot;temporarily suspended&quot; all deposits and withdrawals as it investigates security issues and works with law enforcement; Binance.US says it&#39;s unaffected &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261029/p67#a261029p67)
- - [Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours &lpar;Elias Schisgall/MarketWatch&rpar;](https://www.techmeme.com/261029/p66#a261029p66)
- - [Andy Jassy says Prime Video has &quot;a revenue run rate in the tens of billions of dollars and is now profitable in its own right&quot; &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/261029/p65#a261029p65)<!-- TECH:END -->
+ - [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
+ - [Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals &lpar;Anna Nicolaou/Financial Times&rpar;](https://www.techmeme.com/261030/p5#a261030p5)
+ - [How a wave of startups are betting on AI to make formal software verification practical and essential, including &amp;Truth, which launches with a $70M seed &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/261030/p4#a261030p4)
+ - [TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes &lpar;Tom Westbrook/Reuters&rpar;](https://www.techmeme.com/261030/p3#a261030p3)
+ - [Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 &lpar;South China Morning Post&rpar;](https://www.techmeme.com/261030/p2#a261030p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

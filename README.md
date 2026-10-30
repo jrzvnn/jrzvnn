@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikipedia’s operator says a bad AI copyright ruling could threaten the open web](https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright)
- - [Sources: Spotify aims to launch an AI product in Q1 2027 that lets subscribers create their own remixes and covers for ~$5 per month, pending licensing deals &lpar;Anna Nicolaou/Financial Times&rpar;](https://www.techmeme.com/261030/p5#a261030p5)
- - [How a wave of startups are betting on AI to make formal software verification practical and essential, including &amp;Truth, which launches with a $70M seed &lpar;Paresh Dave/Wired&rpar;](https://www.techmeme.com/261030/p4#a261030p4)
- - [TRM Labs attributes the Binance hack to North Korea-based TraderTraitor, which drained ~$6.36B from Binance wallets across 10 blockchains, mostly in ~20 minutes &lpar;Tom Westbrook/Reuters&rpar;](https://www.techmeme.com/261030/p3#a261030p3)
- - [Binance pledges to cover all losses from a ~$6.3B hack, potentially the largest crypto theft ever, surpassing the $1.5B Bybit hack in February 2025 &lpar;South China Morning Post&rpar;](https://www.techmeme.com/261030/p2#a261030p2)<!-- TECH:END -->
+ - [Audit your subscriptions this Halloween and stop wasting money](https://appleinsider.com/inside/app-store/tips/audit-your-subscriptions-this-april-fools-and-stop-wasting-money?utm_source=rss)
+ - [Amazon knocks $150 off Apple&#39;s M6, M5 Pro Mac mini with 24GB RAM](https://appleinsider.com/articles/26/10/30/amazon-knocks-150-off-apples-m6-m5-pro-mac-mini-with-24gb-ram?utm_source=rss)
+ - [How to turn a Siri Remote into a handy Mac controller](https://appleinsider.com/inside/siri-remote/tips/how-to-turn-a-siri-remote-into-a-handy-mac-controller?utm_source=rss)
+ - [Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather](https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale)
+ - [Bose’s Hottest Product Is Briefly Back in Stock](https://www.cnet.com/tech/mobile/boses-hottest-product-is-briefly-back-in-stock/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

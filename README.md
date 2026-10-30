@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Athletic and fit](http://9gag.com/gag/avW2B5M)
+ - 😝 [At Last](http://9gag.com/gag/a78vmyA)
  - 😝 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)
  - 💣 [Athletic and fit](http://9gag.com/gag/avW2B5M)
- - 😝 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)
- - 👉 [Athletic and fit](http://9gag.com/gag/avW2B5M)<!-- MEMES:END -->
+ - 😝 [At Last](http://9gag.com/gag/a78vmyA)
+ - 👉 [Just opened my external HDD and found this inside](http://9gag.com/gag/a6DrgP8)<!-- MEMES:END -->
 
 ---
 

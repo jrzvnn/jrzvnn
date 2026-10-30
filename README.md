@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sandisk reports Q1 revenue up 378% YoY to $11B, vs. $10.7B est., forecasts Q2 revenue above est., announces an 8-for-1 stock split; SNDK drops 4%+ after hours &lpar;MarketWatch&rpar;](https://www.techmeme.com/261029/p62#a261029p62)
- - [Pinterest reports Q3 revenue up 12% YoY to $1.17B, vs. $1.21B est., global MAUs up 10% to 661M, and forecasts Q4 revenue below est.; PINS drops 8%+ after hours &lpar;Liz Moyer/Barron&#39;s Online&rpar;](https://www.techmeme.com/261029/p61#a261029p61)
- - [Polymarket resumes trading after a security incident with a third-party provider, which a source says is DebugBear, and says it will reimburse affected traders &lpar;Reuters&rpar;](https://www.techmeme.com/261029/p60#a261029p60)
- - [Sources: Nvidia is in talks to provide Nscale with billions of dollars in credit guarantees for debt to develop a 460MW data center that Anthropic plans to use &lpar;Phoebe Liu/The Information&rpar;](https://www.techmeme.com/261029/p59#a261029p59)
- - [Binance says it is investigating a &quot;potential security issue&quot; as suspicious outflows reach up to $5.8B; Tether freezes 1.5B+ USDT, Circle freezes 800M+ USDC &lpar;The Block&rpar;](https://www.techmeme.com/261029/p58#a261029p58)<!-- TECH:END -->
+ - [Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B to fund a previously announced purchase of Nvidia Vera Rubin systems &lpar;Bloomberg&rpar;](https://www.techmeme.com/261029/p69#a261029p69)
+ - [NYSE owner ICE plans US-regulated Hyperliquid-based perpetual markets with Trade.xyz, a market operator on the crypto platform, and takes a stake in Trade.xyz &lpar;Katherine Doherty/Bloomberg&rpar;](https://www.techmeme.com/261029/p68#a261029p68)
+ - [Binance &quot;temporarily suspended&quot; all deposits and withdrawals as it investigates security issues and works with law enforcement; Binance.US says it&#39;s unaffected &lpar;George Steer/Financial Times&rpar;](https://www.techmeme.com/261029/p67#a261029p67)
+ - [Twilio reports Q3 revenue up 20% YoY to $1.56B, vs. $1.52B est., net income up 333% to $161M, and expects slower Q4 revenue growth; TWLO drops 15%+ after hours &lpar;Elias Schisgall/MarketWatch&rpar;](https://www.techmeme.com/261029/p66#a261029p66)
+ - [Andy Jassy says Prime Video has &quot;a revenue run rate in the tens of billions of dollars and is now profitable in its own right&quot; &lpar;Julie Bort/TechCrunch&rpar;](https://www.techmeme.com/261029/p65#a261029p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

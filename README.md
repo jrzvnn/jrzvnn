@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 MacBook Pro plunges to $1,349, lowest price on record](https://appleinsider.com/articles/26/10/31/apples-m5-macbook-pro-plunges-to-1349-lowest-price-on-record?utm_source=rss)
+ - [Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#39;s ChatGPT share link &lpar;Swati Khandelwal/The Hacker News&rpar;](https://www.techmeme.com/261031/p11#a261031p11)
+ - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)
+ - [Happy Pikmin Day Eve](https://www.theverge.com/games/1024085/happy-pikmin-day-eve)
  - [PSA: Manually update your Synology NAS right now](https://appleinsider.com/articles/26/10/31/psa-manually-update-your-synology-nas-right-now?utm_source=rss)
- - [How AI detectors like Pangram are changing human writing: authors drop em dashes, &quot;not X, but Y&quot; phrasing, and words like &quot;delve&quot;, or add typos, to look human &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/261031/p8#a261031p8)
- - [Two years later, Apple Intelligence makes its way to China](https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss)
- - [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)<!-- TECH:END -->
+ - [Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units &lpar;Jyoti Mann/The Information&rpar;](https://www.techmeme.com/261031/p10#a261031p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

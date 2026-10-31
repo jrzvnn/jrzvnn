@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs &lpar;The Commanding Heights&rpar;](https://www.techmeme.com/261031/p6#a261031p6)
- - [When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &quot;being used 5% of the time&quot; &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261031/p5#a261031p5)
- - [Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261031/p4#a261031p4)
- - [S&amp;P downgraded Meta&#39;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/261031/p3#a261031p3)
- - [Anthropic says a malicious actor used access to Cursor&#39;s marketplace to publish a &quot;tampered&quot; copy of the Claude Code extension, which it didn&#39;t build or publish &lpar;Felix Rieseberg/@felixrieseberg&rpar;](https://www.techmeme.com/261031/p2#a261031p2)<!-- TECH:END -->
+ - [Apple&#39;s M5 MacBook Pro plunges to $1,349, lowest price on record](https://appleinsider.com/articles/26/10/31/apples-m5-macbook-pro-plunges-to-1349-lowest-price-on-record?utm_source=rss)
+ - [PSA: Manually update your Synology NAS right now](https://appleinsider.com/articles/26/10/31/psa-manually-update-your-synology-nas-right-now?utm_source=rss)
+ - [How AI detectors like Pangram are changing human writing: authors drop em dashes, &quot;not X, but Y&quot; phrasing, and words like &quot;delve&quot;, or add typos, to look human &lpar;Morgan Meaker/Bloomberg&rpar;](https://www.techmeme.com/261031/p8#a261031p8)
+ - [Two years later, Apple Intelligence makes its way to China](https://appleinsider.com/articles/26/10/31/two-years-later-apple-intelligence-makes-its-way-to-china?utm_source=rss)
+ - [Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims](https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

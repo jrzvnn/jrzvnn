@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/261030/p31#a261030p31)
+ - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
+ - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)
  - [GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data](https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/)
- - [Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p28#a261030p28)
- - [Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)
- - [Google Pixel Watch 5 Sale: Its Lowest Price Yet &lpar;2026&rpar;](https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/)
- - [Pokemon Happy Meals Land Nov. 10: Gotta Catch ‘Em All](https://www.cnet.com/tech/pokemon-mcdonalds-happy-meals-nov-10/)<!-- TECH:END -->
+ - [Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p28#a261030p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

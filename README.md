@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Velma vibin&#39; to spooky music](http://9gag.com/gag/aAQB9V0)
- - 😝 [Too soon...](http://9gag.com/gag/anOeZdL)
- - 💣 [Guess who\u2019s still around](http://9gag.com/gag/aLL6o3x)
- - 😝 [What a cheeky rascal](http://9gag.com/gag/a78vXBL)
- - 👉 [Noooo](http://9gag.com/gag/anOeZWL)<!-- MEMES:END -->
+ - 😝 [I\u2019ll take number 2 thank you](http://9gag.com/gag/advyzrQ)
+ - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 💣 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
+ - 😝 [Facts!](http://9gag.com/gag/aZnqYnQ)
+ - 👉 [I\u2019ll take number 2 thank you](http://9gag.com/gag/advyzrQ)<!-- MEMES:END -->
 
 ---
 

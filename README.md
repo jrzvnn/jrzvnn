@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)
  - 😝 [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
- - 😝 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)
- - 💣 [Athletic and fit](http://9gag.com/gag/avW2B5M)
- - 😝 [WINGARDIUM LEVIOOOOUSA](http://9gag.com/gag/a3Gvg8e)
- - 👉 [Only one GTA can survive. Which one?](http://9gag.com/gag/a3GvDR7)<!-- MEMES:END -->
+ - 💣 [Noooo](http://9gag.com/gag/anOeZWL)
+ - 😝 [He&#39;s right you know..](http://9gag.com/gag/a4npyyZ)
+ - 👉 [Waking up next morning aside an alien](http://9gag.com/gag/aqR4VW7)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019ll take number 2 thank you](http://9gag.com/gag/advyzrQ)
- - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
- - 💣 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
+ - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - 😝 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
+ - 💣 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
  - 😝 [Facts!](http://9gag.com/gag/aZnqYnQ)
- - 👉 [I\u2019ll take number 2 thank you](http://9gag.com/gag/advyzrQ)<!-- MEMES:END -->
+ - 👉 [Trigger warning: GHOST 👻](https://www.reddit.com/r/funny/comments/1xkn3qq/trigger_warning_ghost/)<!-- MEMES:END -->
 
 ---
 

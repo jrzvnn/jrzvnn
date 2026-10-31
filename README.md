@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks &lpar;Berber Jin/Wall Street Journal&rpar;](https://www.techmeme.com/261030/p31#a261030p31)
- - [Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at a $1.4T valuation, as some investors cut commitments amid an AI selloff &lpar;Financial Times&rpar;](https://www.techmeme.com/261030/p30#a261030p30)
- - [Sources: Baseten is raising ~$2B in two tranches, one valuing it at $26B and the other at $30B; Baseten was valued at $13B in June after raising $1.5B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p29#a261030p29)
- - [GM’s $220M Payout Shows How Cars Can Secretly Sell Your Driving Data](https://www.cnet.com/roadshow/auto-tech/gm-privacy-settlement-smart-driver-program/)
- - [Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &lpar;Bloomberg&rpar;](https://www.techmeme.com/261030/p28#a261030p28)<!-- TECH:END -->
+ - [As AI models commoditize, lasting wealth will accrue to those controlling chokepoints like distribution, payment rails, and a stablecoin dollar, not to the labs &lpar;The Commanding Heights&rpar;](https://www.techmeme.com/261031/p6#a261031p6)
+ - [When talking about local inference, Sam Altman says supply-constrained DRAM is better used in data centers than sitting in PCs and &quot;being used 5% of the time&quot; &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261031/p5#a261031p5)
+ - [Sources: neoclouds CoreWeave, Nebius, and Nscale have effectively been shut out of the bond market in recent weeks as lenders and investors demand tougher terms &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261031/p4#a261031p4)
+ - [S&amp;P downgraded Meta&#39;s outlook from stable to negative, citing high capex and negative free cash flow; META fell 15% in October, its worst month in four years &lpar;Jonathan Vanian/CNBC&rpar;](https://www.techmeme.com/261031/p3#a261031p3)
+ - [Anthropic says a malicious actor used access to Cursor&#39;s marketplace to publish a &quot;tampered&quot; copy of the Claude Code extension, which it didn&#39;t build or publish &lpar;Felix Rieseberg/@felixrieseberg&rpar;](https://www.techmeme.com/261031/p2#a261031p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

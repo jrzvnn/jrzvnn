@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: candidates backing a data center moratorium could win up to 15 of 36 US governors&#39; races on Tuesday, including in Texas, Ohio, Michigan, and New York &lpar;Shane Burke/The Information&rpar;](https://www.techmeme.com/261101/p13#a261101p13)
- - [A look at VC-backed glossy magazine Colossus, whose glowing profiles of Zuckerberg and other tech titans win industry praise, while Kara Swisher says it is PR &lpar;Andrew Fedorov/The San Francisco Standard&rpar;](https://www.techmeme.com/261101/p12#a261101p12)
- - [Binance says net outflows were $3.64B, or 2.1% of assets, in the 9.5 hours after it began restoring withdrawals; DefiLlama puts 24-hour net outflows at $4.05B &lpar;Zack Abrams/The Block&rpar;](https://www.techmeme.com/261101/p11#a261101p11)
- - [Apple’s HomeView could add security camera features](https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features)
- - [Google&#39;s data center energy head says space data centers cost up to 100x more than Earth-based ones, and US power supply is sufficient but permits are slow &lpar;Amir Efrati/The Information&rpar;](https://www.techmeme.com/261101/p10#a261101p10)<!-- TECH:END -->
+ - [Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#39;s PIF retains 51% &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/261101/p17#a261101p17)
+ - [OpenAI plans a post-midterms policy and PR blitz, pushing mandatory &quot;speed limits&quot; for powerful AI and rebranding its data centers as &quot;AI compute campuses&quot; &lpar;Axios&rpar;](https://www.techmeme.com/261101/p16#a261101p16)
+ - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
+ - [How &quot;get-paid-to&quot; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders &lpar;John Herrman/New York Magazine&rpar;](https://www.techmeme.com/261101/p15#a261101p15)
+ - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

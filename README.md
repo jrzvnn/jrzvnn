@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where did he go ??](http://9gag.com/gag/aQg65q8)
  - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 💣 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
- - 😝 [This trick-or-treater has quite the cajones](https://www.reddit.com/r/funny/comments/1xkql1y/this_trickortreater_has_quite_the_cajones/)
- - 👉 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)<!-- MEMES:END -->
+ - 💣 [Best 5 hours Japanese lesson ever!](http://9gag.com/gag/a3GvOre)
+ - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 👉 [When you\u2019re too loose](http://9gag.com/gag/aRL6qgj)<!-- MEMES:END -->
 
 ---
 

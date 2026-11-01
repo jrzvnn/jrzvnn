@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
+ - 😝 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)
+ - 😝 [What do you think Trump&#39;s response will be after Blues will take over in Congress?](http://9gag.com/gag/aRL6bQB)
  - 💣 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 👉 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)<!-- MEMES:END -->
+ - 😝 [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)
+ - 👉 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)<!-- MEMES:END -->
 
 ---
 

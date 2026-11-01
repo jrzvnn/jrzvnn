@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/261101/p6#a261101p6)
- - [Binance says it plans to resume withdrawals in phases starting Sunday, after covering 95% of the ~$6.3B in tokens stolen in the hack, including BTC and ETH &lpar;Reuters&rpar;](https://www.techmeme.com/261101/p5#a261101p5)
- - [Shanghai-based NeuroXess, which is developing BCI technology for movement support, speech decoding, and control of external devices, raised a ~$105M Series B &lpar;TechNode&rpar;](https://www.techmeme.com/261101/p4#a261101p4)
- - [Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261101/p3#a261101p3)
- - [DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261101/p2#a261101p2)<!-- TECH:END -->
+ - [HomePod Mini 2 first look: Three things I love and one disappointment](https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker)
+ - [New Zelda and GTA represent a games industry that no longer exists](https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists)
+ - [Prop 45 in California could be hiding a loophole for data centers](https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy)
+ - [Crime blotter: Apple Store looters in France got bricked iPhones](https://appleinsider.com/articles/26/11/01/crime-blotter-apple-store-looters-in-france-got-bricked-iphones?utm_source=rss)
+ - [The 30 Best Gifts for Star Wars Fans &lpar;2026&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

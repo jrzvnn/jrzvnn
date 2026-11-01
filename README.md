@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where did he go ??](http://9gag.com/gag/aQg65q8)
  - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
- - 💣 [Best 5 hours Japanese lesson ever!](http://9gag.com/gag/a3GvOre)
  - 😝 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
- - 👉 [When you\u2019re too loose](http://9gag.com/gag/aRL6qgj)<!-- MEMES:END -->
+ - 💣 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
+ - 👉 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)<!-- MEMES:END -->
 
 ---
 

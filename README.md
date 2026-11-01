@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tests: chatbots rely on three obscure AI-built voter sites for US midterm answers; Copilot cited the error-prone Ballot Brief in 75% of tests and ChatGPT in 22% &lpar;Washington Post&rpar;](https://www.techmeme.com/261031/p12#a261031p12)
- - [Get in the spirit with these horrors from YouTube](https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror)
- - [Keyboards of The Verge](https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks)
- - [Researchers are paid $5K for reporting a bug to OpenAI that would let attackers run code in logged-in sessions of all who opened the hacker&#39;s ChatGPT share link &lpar;Swati Khandelwal/The Hacker News&rpar;](https://www.techmeme.com/261031/p11#a261031p11)
- - [Binance CEO says 90 percent of stolen assets have been ‘replenished’](https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto)<!-- TECH:END -->
+ - [Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation &lpar;Sarah Klearman/Wall Street Journal&rpar;](https://www.techmeme.com/261101/p6#a261101p6)
+ - [Binance says it plans to resume withdrawals in phases starting Sunday, after covering 95% of the ~$6.3B in tokens stolen in the hack, including BTC and ETH &lpar;Reuters&rpar;](https://www.techmeme.com/261101/p5#a261101p5)
+ - [Shanghai-based NeuroXess, which is developing BCI technology for movement support, speech decoding, and control of external devices, raised a ~$105M Series B &lpar;TechNode&rpar;](https://www.techmeme.com/261101/p4#a261101p4)
+ - [Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and develops open-source voice AI framework Pipecat, for an undisclosed sum &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261101/p3#a261101p3)
+ - [DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it says can monitor group chats for coding issues and suggest solutions &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261101/p2#a261101p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

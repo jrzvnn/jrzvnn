@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)
  - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 😝 [I&#39;ve been &lpar;e&rpar;motion captured](http://9gag.com/gag/aEMd40p)
  - 💣 [Cardi&#39;s sign interpreter.](http://9gag.com/gag/aQg6jEe)
- - 😝 [Facts!](http://9gag.com/gag/aZnqYnQ)
- - 👉 [Trigger warning: GHOST 👻](https://www.reddit.com/r/funny/comments/1xkn3qq/trigger_warning_ghost/)<!-- MEMES:END -->
+ - 😝 [This trick-or-treater has quite the cajones](https://www.reddit.com/r/funny/comments/1xkql1y/this_trickortreater_has_quite_the_cajones/)
+ - 👉 [Surprised Pikachu face](http://9gag.com/gag/ae4KBdO)<!-- MEMES:END -->
 
 ---
 

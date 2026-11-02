@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YC details multi-agent tests in games like Minecraft, where agents exhibit emergent capabilities, forming roles, hierarchies, and complex coordination patterns &lpar;YC Labs&rpar;](https://www.techmeme.com/261102/p4#a261102p4)
- - [Bites, whose AI tools deliver personalized training to frontline workers via WhatsApp, SMS, Slack, and other channels, raised a $40M Series A led by PeakSpan &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261102/p3#a261102p3)
- - [Amazon slashes Apple Watch Ultra 4 to all-time best $699.99 price](https://appleinsider.com/articles/26/11/02/amazon-slashes-apple-watch-ultra-4-to-all-time-best-69999-price?utm_source=rss)
- - [The Hague-based Braid, whose API lets companies sell eSIM mobile plans under their own brand via 600+ carriers, raised a ~$38M Series A led by Octopus Ventures &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/261102/p2#a261102p2)
- - [SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261102/p1#a261102p1)<!-- TECH:END -->
+ - [OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain &lpar;OpenAI&rpar;](https://www.techmeme.com/261102/p34#a261102p34)
+ - [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
+ - [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)
+ - [Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M &lpar;John Werner/Forbes&rpar;](https://www.techmeme.com/261102/p33#a261102p33)
+ - [DeepSeek releases a &quot;creator mode&quot; that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261102/p32#a261102p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

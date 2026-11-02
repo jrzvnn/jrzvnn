@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)
- - 😝 [What do you think Trump&#39;s response will be after Blues will take over in Congress?](http://9gag.com/gag/aRL6bQB)
- - 💣 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 😝 [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)
- - 👉 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)<!-- MEMES:END -->
+ - 😝 [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
+ - 💣 [Near Trump&#39;s house in Florida today](http://9gag.com/gag/anOemQ5)
+ - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - 👉 [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)<!-- MEMES:END -->
 
 ---
 

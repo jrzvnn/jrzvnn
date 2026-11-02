@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#39;s PIF retains 51% &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/261101/p17#a261101p17)
- - [OpenAI plans a post-midterms policy and PR blitz, pushing mandatory &quot;speed limits&quot; for powerful AI and rebranding its data centers as &quot;AI compute campuses&quot; &lpar;Axios&rpar;](https://www.techmeme.com/261101/p16#a261101p16)
- - [NASA hopes the commercial space industry can help save Hubble](https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble)
- - [How &quot;get-paid-to&quot; apps like Freecash, briefly a top five App Store app in September, pay users small sums to play games and help publishers find big spenders &lpar;John Herrman/New York Magazine&rpar;](https://www.techmeme.com/261101/p15#a261101p15)
- - [Flock keeps ignoring requests to cancel its contracts](https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts)<!-- TECH:END -->
+ - [Letter: the White House argues it doesn&#39;t have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261101/p21#a261101p21)
+ - [Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan&#39;s Walden Catalyst; it has raised $50M to date &lpar;Geoff Weiss/Business Insider&rpar;](https://www.techmeme.com/261101/p20#a261101p20)
+ - [A look at Binance&#39;s efforts to contain the hack, including creating a global war room of ~100 people, coordinating with other crypto firms and the FBI, and more &lpar;Bloomberg&rpar;](https://www.techmeme.com/261101/p19#a261101p19)
+ - [How IShowSpeed became YouTube&#39;s top livestreamer with 62M+ subscribers, as his 24/7 &quot;IRL streams&quot; that last days mingle childlike wonder with teenage mischief &lpar;Jon Caramanica/New York Times&rpar;](https://www.techmeme.com/261101/p18#a261101p18)
+ - [Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#39;s PIF retains 51% &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/261101/p17#a261101p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

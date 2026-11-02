@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Dear...](http://9gag.com/gag/aZnq6pQ)
- - 😝 [Recipe calls for 2 scoops of gutter water](http://9gag.com/gag/aGLKmx0)
- - 💣 [Near Trump&#39;s house in Florida today](http://9gag.com/gag/anOemQ5)
+ - 😝 [Title](http://9gag.com/gag/awgNEQB)
  - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
- - 👉 [If there is any interest, I will of course share more recipes](http://9gag.com/gag/anOemKL)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/awgNEQB)
+ - 😝 [Businessman and his secretary](http://9gag.com/gag/aRL6pyQ)
+ - 👉 [Title](http://9gag.com/gag/awgNEQB)<!-- MEMES:END -->
 
 ---
 

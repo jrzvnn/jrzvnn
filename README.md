@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Letter: the White House argues it doesn&#39;t have to share the full draft of its voluntary AI testing framework, citing national security and commercial exemptions &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261101/p21#a261101p21)
- - [Hyperbolic, which lets companies rent AI compute across ~30 neoclouds, raised a $30M Series A-1 led by Lip-Bu Tan&#39;s Walden Catalyst; it has raised $50M to date &lpar;Geoff Weiss/Business Insider&rpar;](https://www.techmeme.com/261101/p20#a261101p20)
- - [A look at Binance&#39;s efforts to contain the hack, including creating a global war room of ~100 people, coordinating with other crypto firms and the FBI, and more &lpar;Bloomberg&rpar;](https://www.techmeme.com/261101/p19#a261101p19)
- - [How IShowSpeed became YouTube&#39;s top livestreamer with 62M+ subscribers, as his 24/7 &quot;IRL streams&quot; that last days mingle childlike wonder with teenage mischief &lpar;Jon Caramanica/New York Times&rpar;](https://www.techmeme.com/261101/p18#a261101p18)
- - [Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia&#39;s PIF retains 51% &lpar;Dean Takahashi/GamesBeat&rpar;](https://www.techmeme.com/261101/p17#a261101p17)<!-- TECH:END -->
+ - [YC details multi-agent tests in games like Minecraft, where agents exhibit emergent capabilities, forming roles, hierarchies, and complex coordination patterns &lpar;YC Labs&rpar;](https://www.techmeme.com/261102/p4#a261102p4)
+ - [Bites, whose AI tools deliver personalized training to frontline workers via WhatsApp, SMS, Slack, and other channels, raised a $40M Series A led by PeakSpan &lpar;Meir Orbach/CTech&rpar;](https://www.techmeme.com/261102/p3#a261102p3)
+ - [Amazon slashes Apple Watch Ultra 4 to all-time best $699.99 price](https://appleinsider.com/articles/26/11/02/amazon-slashes-apple-watch-ultra-4-to-all-time-best-69999-price?utm_source=rss)
+ - [The Hague-based Braid, whose API lets companies sell eSIM mobile plans under their own brand via 600+ carriers, raised a ~$38M Series A led by Octopus Ventures &lpar;Rahul Raj/EU-Startups&rpar;](https://www.techmeme.com/261102/p2#a261102p2)
+ - [SemiAnalysis launches GDPx, an agentic capability benchmark measuring 11 domains, including chip design, cybersecurity, and RSI; Opus 5.5 tops with a 12% score &lpar;SemiAnalysis&rpar;](https://www.techmeme.com/261102/p1#a261102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

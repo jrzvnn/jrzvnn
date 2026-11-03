@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [John Ternus says Apple expects memory costs to increase into December and beyond; Apple&#39;s inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261102/p47#a261102p47)
- - [Apps with dating &amp; location sharing features must be disclosed by January 2027](https://appleinsider.com/articles/26/11/03/apps-with-dating-location-sharing-features-must-be-disclosed-by-january-2027?utm_source=rss)
- - [TerraMaster D1 SSD Pro review: Faster than my Mac&#39;s internal storage](https://appleinsider.com/articles/26/11/03/terramaster-d1-ssd-pro-review-faster-than-my-macs-internal-storage?utm_source=rss)
- - [Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261102/p46#a261102p46)
- - [Starbucks Drive-Thru AI Could Know What You Want Before You Do](https://www.cnet.com/tech/starbucks-drive-thru-ai-customer-recognition/)<!-- TECH:END -->
+ - [OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings &lpar;OpenAI&rpar;](https://www.techmeme.com/261103/p2#a261103p2)
+ - [Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China&#39;s access to AI chips &lpar;Financial Times&rpar;](https://www.techmeme.com/261103/p1#a261103p1)
+ - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
+ - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
+ - [20% Off Brooks Promo Code | November 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

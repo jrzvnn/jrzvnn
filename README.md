@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings &lpar;OpenAI&rpar;](https://www.techmeme.com/261103/p2#a261103p2)
- - [Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China&#39;s access to AI chips &lpar;Financial Times&rpar;](https://www.techmeme.com/261103/p1#a261103p1)
- - [Uber Eats Promo Codes: $15 Off│November 2026](https://www.wired.com/story/uber-eats-promo-code/)
- - [Hotels.com Coupon Codes for November 2026](https://www.wired.com/story/hotels-com-coupon/)
- - [20% Off Brooks Promo Code | November 2026](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
+ - [Criticism over Ternus reading a script during earnings is pathetic](https://appleinsider.com/articles/26/11/03/criticism-over-ternus-reading-a-script-during-earnings-is-pathetic?utm_source=rss)
+ - [ChatGPT consumer product lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is ~20% of Google&#39;s &lpar;Alex Kantrowitz/Big Technology&rpar;](https://www.techmeme.com/261103/p19#a261103p19)
+ - [Google plans to make it easier to restrict its AI tools for students early next year but says schools that block AI entirely will lose student access to Search &lpar;New York Times&rpar;](https://www.techmeme.com/261103/p18#a261103p18)
+ - [Amazon slashes 15-inch MacBook Air to $1,299 with early Black Friday deal](https://appleinsider.com/articles/26/11/03/amazon-slashes-15-inch-macbook-air-to-1299-with-early-black-friday-deal?utm_source=rss)
+ - [Apple is all in on AI — its own and everyone else&amp;#8217;s](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

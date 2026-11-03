@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Criticism over Ternus reading a script during earnings is pathetic](https://appleinsider.com/articles/26/11/03/criticism-over-ternus-reading-a-script-during-earnings-is-pathetic?utm_source=rss)
- - [ChatGPT consumer product lead Adam Fry says ChatGPT has hit 1.2B WAUs, adding 200M over the past two months, and its search volume is ~20% of Google&#39;s &lpar;Alex Kantrowitz/Big Technology&rpar;](https://www.techmeme.com/261103/p19#a261103p19)
- - [Google plans to make it easier to restrict its AI tools for students early next year but says schools that block AI entirely will lose student access to Search &lpar;New York Times&rpar;](https://www.techmeme.com/261103/p18#a261103p18)
- - [Amazon slashes 15-inch MacBook Air to $1,299 with early Black Friday deal](https://appleinsider.com/articles/26/11/03/amazon-slashes-15-inch-macbook-air-to-1299-with-early-black-friday-deal?utm_source=rss)
- - [Apple is all in on AI — its own and everyone else&amp;#8217;s](https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai)<!-- TECH:END -->
+ - [AMD reports Q3 revenue up 45% YoY to $13.38B, vs. $13.09B est., Data Center revenue up 97% to $8.5B, forecasts Q4 revenue above est.; AMD jumps 7%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261103/p34#a261103p34)
+ - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
+ - [Sources: Ubisoft and at least two other gaming companies made offers to Microsoft to acquire the French game developer Arkane Studios &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261103/p33#a261103p33)
+ - [Hands on: iOS 27.3 beta&#39;s Safari, Siri AI, vertical tabs, and more](https://appleinsider.com/articles/26/11/03/hands-on-ios-273-betas-safari-siri-ai-vertical-tabs-and-more?utm_source=rss)
+ - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses to reduce electricity demand when the grid is under strain &lpar;OpenAI&rpar;](https://www.techmeme.com/261102/p34#a261102p34)
- - [OpenAI pitches data center power plants as a way to protect nearby areas](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program)
- - [The New York Times sues Brave web browser for AI scraping and bypassing paywalls](https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times)
- - [Tutor, which is training a frontier robot foundation model and builds AI warehouse robots, raised a $75M Series B led by a16z, taking total funding to $117M &lpar;John Werner/Forbes&rpar;](https://www.techmeme.com/261102/p33#a261102p33)
- - [DeepSeek releases a &quot;creator mode&quot; that allows users of DeepSeek Harness to create custom plugins, like a 3D model renderer and a video editing workbench &lpar;Debby Wu/Bloomberg&rpar;](https://www.techmeme.com/261102/p32#a261102p32)<!-- TECH:END -->
+ - [John Ternus says Apple expects memory costs to increase into December and beyond; Apple&#39;s inventory grew to $14.54B in Q4, up 31.1% QoQ and 154.3% YoY &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261102/p47#a261102p47)
+ - [Apps with dating &amp; location sharing features must be disclosed by January 2027](https://appleinsider.com/articles/26/11/03/apps-with-dating-location-sharing-features-must-be-disclosed-by-january-2027?utm_source=rss)
+ - [TerraMaster D1 SSD Pro review: Faster than my Mac&#39;s internal storage](https://appleinsider.com/articles/26/11/03/terramaster-d1-ssd-pro-review-faster-than-my-macs-internal-storage?utm_source=rss)
+ - [Match Group reports Q3 revenue fell 3% YoY to $891M, below estimates, and total paying users fell 5% to 13.8M; Q4 forecast has adjusted EBITDA below estimates &lpar;Samantha Kelly/Bloomberg&rpar;](https://www.techmeme.com/261102/p46#a261102p46)
+ - [Starbucks Drive-Thru AI Could Know What You Want Before You Do](https://www.cnet.com/tech/starbucks-drive-thru-ai-customer-recognition/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

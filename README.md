@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Tron, Tether, Binance, and TRM Labs&#39; T3 Financial Crime Unit quietly dissolved in August due to slow response times, after freezing $250M in assets &lpar;Ryan Weeks/Bloomberg&rpar;](https://www.techmeme.com/261104/p38#a261104p38)
- - [Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/261104/p37#a261104p37)
- - [TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p36#a261104p36)
- - [Not even $200 million could help Elon Musk buy Texas](https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding)
- - [Election Deniers Not Contesting Their Massive Losses](https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/)<!-- TECH:END -->
+ - [Snap reports Q3 revenue up 14% YoY to $1.72B, in line with est., and DAUs up 4% to 495M, vs. 499M est.; SNAP drops 9%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/261104/p53#a261104p53)
+ - [Snoopy ends up on Santa&#39;s naughty list in &#39;12 Days of Snoopy&#39; on Apple TV](https://appleinsider.com/articles/26/11/04/snoopy-ends-up-on-santas-naughty-list-in-12-days-of-snoopy-on-apple-tv?utm_source=rss)
+ - [Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p51#a261104p51)
+ - [Qualcomm reports Q4 revenue down 8% YoY to $10.3B, vs. $10.1B est., and handsets revenue down 26% to $5.14B, vs. $5.25B est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261104/p52#a261104p52)
+ - [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

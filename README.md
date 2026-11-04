@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
- - 😝 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
- - 💣 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
- - 😝 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
- - 👉 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)<!-- MEMES:END -->
+ - 😝 [Daaaaaamn](http://9gag.com/gag/aLL6yVg)
+ - 💣 [A woman gets caught cheating, but gets violent with her husband for catching her and sending her divorce papers. No accountability.](http://9gag.com/gag/aGLKWqw)
+ - 😝 [Christina Aguilera Reveals Her Best Skill In Bed Is Blowjobs, Calls Herself &#39;Promoter Of The Swallow&#39;](http://9gag.com/gag/aoWmX9A)
+ - 👉 [Daaaaaamn](http://9gag.com/gag/aLL6yVg)<!-- MEMES:END -->
 
 ---
 

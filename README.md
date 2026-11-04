@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster &lpar;Martha Muir/Financial Times&rpar;](https://www.techmeme.com/261104/p8#a261104p8)
- - [ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p7#a261104p7)
- - [Democratic gubernatorial wins in Texas, Georgia, Ohio and Pennsylvania could expose 50% of proposed US AI data center additions to greater scrutiny and pushback &lpar;Bloomberg&rpar;](https://www.techmeme.com/261104/p6#a261104p6)
- - [AMD projects ~$17B in Q4 2026 revenue, compared to Intel&#39;s $15B to $16B, potentially overtaking Intel as the largest x86 processor vendor for the first time &lpar;Simon Sharwood/The Register&rpar;](https://www.techmeme.com/261104/p5#a261104p5)
- - [India-based EloElo, whose Story TV microdrama app has 33M+ estimated active users, raised an $80M Series C from Hornbill Capital and NBCU at a $500M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](https://www.techmeme.com/261104/p4#a261104p4)<!-- TECH:END -->
+ - [Sources: Tron, Tether, Binance, and TRM Labs&#39; T3 Financial Crime Unit quietly dissolved in August due to slow response times, after freezing $250M in assets &lpar;Ryan Weeks/Bloomberg&rpar;](https://www.techmeme.com/261104/p38#a261104p38)
+ - [Circle reports Q3 revenue up 17% YoY to $875M, driven in part by ARC token sales, net income up 5% YoY to $226M, and says it is cutting 5% of its staff &lpar;Yueqi Yang/The Information&rpar;](https://www.techmeme.com/261104/p37#a261104p37)
+ - [TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 &lpar;Deborah Sophia/Reuters&rpar;](https://www.techmeme.com/261104/p36#a261104p36)
+ - [Not even $200 million could help Elon Musk buy Texas](https://www.theverge.com/policy/1026329/elon-musk-paxton-talarico-texas-election-funding)
+ - [Election Deniers Not Contesting Their Massive Losses](https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

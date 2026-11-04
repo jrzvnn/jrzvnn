@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD reports Q3 revenue up 45% YoY to $13.38B, vs. $13.09B est., Data Center revenue up 97% to $8.5B, forecasts Q4 revenue above est.; AMD jumps 7%+ after hours &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261103/p34#a261103p34)
- - [$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work](https://www.wired.com/story/iphone-duo-carrier-deal-november-2026/)
- - [Sources: Ubisoft and at least two other gaming companies made offers to Microsoft to acquire the French game developer Arkane Studios &lpar;Jason Schreier/Bloomberg&rpar;](https://www.techmeme.com/261103/p33#a261103p33)
- - [Hands on: iOS 27.3 beta&#39;s Safari, Siri AI, vertical tabs, and more](https://appleinsider.com/articles/26/11/03/hands-on-ios-273-betas-safari-siri-ai-vertical-tabs-and-more?utm_source=rss)
- - [The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud](https://www.wired.com/story/the-internets-conspiracy-theorists-are-desperate-for-voter-fraud/)<!-- TECH:END -->
+ - [AMD rides data center riches to &amp;#8216;largest and most profitable&amp;#8217; quarter in history](https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc)
+ - [Following backlash against its education updates, Google says schools can choose to enable Gemini, Gemini Notebook, and Search individually &lpar;Isabel O&#39;Brien/CNBC&rpar;](https://www.techmeme.com/261103/p44#a261103p44)
+ - [Apple Music gaining new Selfie Sing video karaoke mode](https://appleinsider.com/articles/26/11/04/apple-music-gaining-new-selfie-sing-video-karaoke-mode?utm_source=rss)
+ - [All the news about The Legend of Zelda: Ocarina of Time remake](https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news)
+ - [The biggest modding site in PC gaming is taking a stance on AI](https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

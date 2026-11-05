@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap reports Q3 revenue up 14% YoY to $1.72B, in line with est., and DAUs up 4% to 495M, vs. 499M est.; SNAP drops 9%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](https://www.techmeme.com/261104/p53#a261104p53)
- - [Snoopy ends up on Santa&#39;s naughty list in &#39;12 Days of Snoopy&#39; on Apple TV](https://appleinsider.com/articles/26/11/04/snoopy-ends-up-on-santas-naughty-list-in-12-days-of-snoopy-on-apple-tv?utm_source=rss)
- - [Arm reports Q2 revenue up 27% YoY to $1.44B, vs. $1.38B est., royalty revenue up 8% to $670M, vs. $720.8M est., and licensing revenue up 50% to $773M &lpar;Reuters&rpar;](https://www.techmeme.com/261104/p51#a261104p51)
- - [Qualcomm reports Q4 revenue down 8% YoY to $10.3B, vs. $10.1B est., and handsets revenue down 26% to $5.14B, vs. $5.25B est.; QCOM drops 5%+ after hours &lpar;Ian King/Bloomberg&rpar;](https://www.techmeme.com/261104/p52#a261104p52)
- - [How I learned to love an obnoxious phone grip](https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case)<!-- TECH:END -->
+ - [Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261104/p60#a261104p60)
+ - [Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&#39;s ~$40B chip financing, asking some for up to $500M before syndication &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/261104/p59#a261104p59)
+ - [‘You Can See Everything’ … in Space? A24 Sends Elizabeth Holmes Doc to ISS](https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/)
+ - [Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content &lpar;Mark Stenberg/Adweek&rpar;](https://www.techmeme.com/261104/p58#a261104p58)
+ - [OpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261104/p57#a261104p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

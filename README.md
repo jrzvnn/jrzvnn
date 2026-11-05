@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking a woman out on a date who just wants a free meal and then leaving her with the bill](http://9gag.com/gag/axWEpmn)
  - 😝 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - 💣 [How to avoid being pushed in Japan](http://9gag.com/gag/a6DrWML)
- - 😝 [`She pulled down her shorts and underwear, exposing her genitals to other passengers`](http://9gag.com/gag/a17p48P)
- - 👉 [Untied myself from monthly subscription payments: old laptop + ~300 EUR Upgrade](http://9gag.com/gag/ae4KX3p)<!-- MEMES:END -->
+ - 😝 [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
+ - 💣 [Sheesh](http://9gag.com/gag/a0ovmyz)
+ - 😝 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
+ - 👉 [Seriously what&#39;s going on here?](http://9gag.com/gag/avWp2xq)<!-- MEMES:END -->
 
 ---
 

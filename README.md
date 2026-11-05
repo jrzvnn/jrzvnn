@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rave&#39;s anti-Sherlocking suit delayed as Apple gets it moved to California](https://appleinsider.com/articles/26/11/05/raves-anti-sherlocking-suit-delayed-as-apple-gets-it-moved-to-california?utm_source=rss)
- - [Sources: Microsoft is tightening oversight of some data center projects, stepping away from those it deems risky, and debating whether to ink new neocloud deals &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/261105/p37#a261105p37)
- - [Greece&#39;s parliament approves a 10% capital gains tax on crypto, exempting gains of up to €500 a year, in the country&#39;s first comprehensive crypto tax framework &lpar;Lefteris Papadimas/Reuters&rpar;](https://www.techmeme.com/261105/p36#a261105p36)
- - [Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/)
- - [Google, Meta, and TikTok file lawsuits to block a California law that bans online platforms from providing &quot;psychologically exploitative features&quot; to under-16s &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/261105/p35#a261105p35)<!-- TECH:END -->
+ - [The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/261105/p55#a261105p55)
+ - [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
+ - [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
+ - [GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed exec Alice Huang, reported to be a Chinese asset &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/261105/p54#a261105p54)
+ - [Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

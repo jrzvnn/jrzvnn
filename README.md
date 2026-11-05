@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Is Throwing One More Phone Plan Into the T-Mix for Budget Subscribers](https://www.cnet.com/tech/mobile/t-mobile-t-mix-saver-plan/)
- - [OpenAI President Greg Brockman says H1 2026 was &quot;pretty rough&quot;, but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a &quot;revenue inflection&quot; in Q3 &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p8#a261105p8)
- - [Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY &lpar;Irina Anghel/Bloomberg&rpar;](https://www.techmeme.com/261105/p7#a261105p7)
- - [A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship](https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/)
- - [Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat &lpar;Tess Owen/Wired&rpar;](https://www.techmeme.com/261105/p6#a261105p6)<!-- TECH:END -->
+ - [Rave&#39;s anti-Sherlocking suit delayed as Apple gets it moved to California](https://appleinsider.com/articles/26/11/05/raves-anti-sherlocking-suit-delayed-as-apple-gets-it-moved-to-california?utm_source=rss)
+ - [Sources: Microsoft is tightening oversight of some data center projects, stepping away from those it deems risky, and debating whether to ink new neocloud deals &lpar;Brody Ford/Bloomberg&rpar;](https://www.techmeme.com/261105/p37#a261105p37)
+ - [Greece&#39;s parliament approves a 10% capital gains tax on crypto, exempting gains of up to €500 a year, in the country&#39;s first comprehensive crypto tax framework &lpar;Lefteris Papadimas/Reuters&rpar;](https://www.techmeme.com/261105/p36#a261105p36)
+ - [Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/)
+ - [Google, Meta, and TikTok file lawsuits to block a California law that bans online platforms from providing &quot;psychologically exploitative features&quot; to under-16s &lpar;Jonathan Stempel/Reuters&rpar;](https://www.techmeme.com/261105/p35#a261105p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

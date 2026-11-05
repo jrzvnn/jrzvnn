@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cat Wu, who left Anthropic last week, says she is joining OpenAI to lead product manangement for core products; Wu was the product lead for Claude Code &lpar;Stephen Council/Business Insider&rpar;](https://www.techmeme.com/261104/p60#a261104p60)
- - [Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&#39;s ~$40B chip financing, asking some for up to $500M before syndication &lpar;Carmen Arroyo/Bloomberg&rpar;](https://www.techmeme.com/261104/p59#a261104p59)
- - [‘You Can See Everything’ … in Space? A24 Sends Elizabeth Holmes Doc to ISS](https://www.cnet.com/culture/entertainment/you-can-see-everything-outer-space-a24/)
- - [Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content &lpar;Mark Stenberg/Adweek&rpar;](https://www.techmeme.com/261104/p58#a261104p58)
- - [OpenAI launches Images 2.6 in ChatGPT, Codex, and the API, saying it generates images 50% faster, and adds animated GIF creation from prompts or photos &lpar;Emma Roth/The Verge&rpar;](https://www.techmeme.com/261104/p57#a261104p57)<!-- TECH:END -->
+ - [T-Mobile Is Throwing One More Phone Plan Into the T-Mix for Budget Subscribers](https://www.cnet.com/tech/mobile/t-mobile-t-mix-saver-plan/)
+ - [OpenAI President Greg Brockman says H1 2026 was &quot;pretty rough&quot;, but agentic coding tools, GPT-5.6 Sol, and ChatGPT Work drove a &quot;revenue inflection&quot; in Q3 &lpar;Maxwell Zeff/Wall Street Journal&rpar;](https://www.techmeme.com/261105/p8#a261105p8)
+ - [Adzuna: UK entry-level job postings mentioning AI are up ~3x since early 2025; Indeed says one in six vacancies in AI-exposed fields now mentions AI, up 2x YoY &lpar;Irina Anghel/Bloomberg&rpar;](https://www.techmeme.com/261105/p7#a261105p7)
+ - [A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship](https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/)
+ - [Pro-AI PAC Leading the Future ended the midterms with $20M+ in its bank, from ~$100M, after focusing on safe bipartisan candidates; its riskier bets fell flat &lpar;Tess Owen/Wired&rpar;](https://www.techmeme.com/261105/p6#a261105p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

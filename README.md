@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - 😝 [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
- - 💣 [Sheesh](http://9gag.com/gag/a0ovmyz)
  - 😝 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 👉 [Seriously what&#39;s going on here?](http://9gag.com/gag/avWp2xq)<!-- MEMES:END -->
+ - 💣 [Guns n roses](http://9gag.com/gag/aZnbqX3)
+ - 😝 [Seriously what&#39;s going on here?](http://9gag.com/gag/avWp2xq)
+ - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 ---
 

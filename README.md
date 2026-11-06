@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
- - 😝 [That&#39;s quite the catalogue](http://9gag.com/gag/a17p4O6)
- - 💣 [9gag Censorship](http://9gag.com/gag/aMd21eM)
- - 😝 [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 👉 [She votes. Proudly.](http://9gag.com/gag/aO2KKR6)<!-- MEMES:END -->
+ - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
+ - 💣 [Seems fair](http://9gag.com/gag/az5g7pZ)
+ - 😝 [9gag Censorship](http://9gag.com/gag/aMd21eM)
+ - 👉 [That&#39;s quite the catalogue](http://9gag.com/gag/a17p4O6)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captured in Eagle River, Alaska near Joint Base Elmendorf - Richardson](http://9gag.com/gag/a4npMz1)
- - 😝 [A wise man once said- \u201cMen if you enjoy s#x, don\u2019t get married.\u201d](http://9gag.com/gag/aBZ9qdP)
- - 💣 [Guns n roses](http://9gag.com/gag/aZnbqX3)
- - 😝 [Seriously what&#39;s going on here?](http://9gag.com/gag/avWp2xq)
+ - 😝 [Guns n roses](http://9gag.com/gag/aZnbqX3)
+ - 😝 [Seems fair](http://9gag.com/gag/az5g7pZ)
+ - 💣 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)
+ - 😝 [Guns n roses](http://9gag.com/gag/aZnbqX3)
  - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
 
 ---

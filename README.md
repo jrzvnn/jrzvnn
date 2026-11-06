@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction &lpar;Bloomberg&rpar;](https://www.techmeme.com/261106/p6#a261106p6)
- - [Blockaid: Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in a single Ethereum transaction using wallet permissions that cost just $15 to set up &lpar;Sidhartha Shukla/Bloomberg&rpar;](https://www.techmeme.com/261106/p5#a261106p5)
- - [Save Up to $700 in Eufy’s Early Black Friday Sale: Exclusive CNET Codes on Robot Vacuums and Home Security](https://www.cnet.com/tech/eufy-black-friday-sale-2026/)
- - [NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation &lpar;Manya Saini/Reuters&rpar;](https://www.techmeme.com/261106/p4#a261106p4)
- - [Sources: China&#39;s top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory &lpar;Reuters&rpar;](https://www.techmeme.com/261106/p3#a261106p3)<!-- TECH:END -->
+ - [Get a free $150 gift card with Apple&#39;s new PROLED MacBook Pro at B&amp;H](https://appleinsider.com/articles/26/11/06/get-a-free-150-gift-card-with-apples-new-proled-macbook-pro-at-bh?utm_source=rss)
+ - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
+ - [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
+ - [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
+ - [Amazon Deals of the Day: Clean Up Before the Holidays With Over $100 Off the Dyson Ball Animal Vacuum](https://www.cnet.com/tech/amazon-deals-of-the-day-2026-11-06/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

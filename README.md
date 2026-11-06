@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &lpar;Financial Times&rpar;](https://www.techmeme.com/261105/p68#a261105p68)
- - [Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky&#39;s stealth AI lab; source: Chesky has self-funded it so far &lpar;The Information&rpar;](https://www.techmeme.com/261105/p67#a261105p67)
- - [If the White House Network Can Be Hijacked by Proxies, Your Smart Home Is Already at Risk](https://www.cnet.com/tech/services-and-software/if-the-white-house-network-can-be-hijacked-by-proxies-your-smart-home-is-already-at-risk/)
- - [Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year &lpar;Business Insider&rpar;](https://www.techmeme.com/261105/p66#a261105p66)
- - [Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash &lpar;high&rpar; in its index and would be the top open model outside China once its weights are out &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/261105/p65#a261105p65)<!-- TECH:END -->
+ - [Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction &lpar;Bloomberg&rpar;](https://www.techmeme.com/261106/p6#a261106p6)
+ - [Blockaid: Binance hackers stole ~$2.5B, or 40% of the $6.3B haul, in a single Ethereum transaction using wallet permissions that cost just $15 to set up &lpar;Sidhartha Shukla/Bloomberg&rpar;](https://www.techmeme.com/261106/p5#a261106p5)
+ - [Save Up to $700 in Eufy’s Early Black Friday Sale: Exclusive CNET Codes on Robot Vacuums and Home Security](https://www.cnet.com/tech/eufy-black-friday-sale-2026/)
+ - [NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation &lpar;Manya Saini/Reuters&rpar;](https://www.techmeme.com/261106/p4#a261106p4)
+ - [Sources: China&#39;s top memory maker YMTC plans to source up to 70% of equipment for its fourth chip factory locally, up from just over 50% for its third factory &lpar;Reuters&rpar;](https://www.techmeme.com/261106/p3#a261106p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

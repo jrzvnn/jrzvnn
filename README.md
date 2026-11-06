@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guns n roses](http://9gag.com/gag/aZnbqX3)
+ - 😝 [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)
  - 😝 [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 💣 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)
- - 😝 [Guns n roses](http://9gag.com/gag/aZnbqX3)
- - 👉 [Seems fair](http://9gag.com/gag/az5g7pZ)<!-- MEMES:END -->
+ - 💣 [Sorry But We Don&#39;t Accept Cash .](http://9gag.com/gag/aZnbb03)
+ - 😝 [Who&#39;s gonna be the next president?](http://9gag.com/gag/axWdE51)
+ - 👉 [She was happy divorcing her husband until she finds out he doesn&#39;t have to pay child support](http://9gag.com/gag/aZnbqWn)<!-- MEMES:END -->
 
 ---
 

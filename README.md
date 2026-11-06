@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get a free $150 gift card with Apple&#39;s new PROLED MacBook Pro at B&amp;H](https://appleinsider.com/articles/26/11/06/get-a-free-150-gift-card-with-apples-new-proled-macbook-pro-at-bh?utm_source=rss)
- - [Meta’s refurbished Quest 3S headset is nearly $100 off right now](https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale)
- - [Big Tech lost big in the 2026 election](https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast)
- - [How Akai and Moog are embracing vibe-coded mods](https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai)
- - [Amazon Deals of the Day: Clean Up Before the Holidays With Over $100 Off the Dyson Ball Animal Vacuum](https://www.cnet.com/tech/amazon-deals-of-the-day-2026-11-06/)<!-- TECH:END -->
+ - [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
+ - [Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China&#39;s top spy agency MSS to collect intelligence on Jensen Huang &lpar;New York Times&rpar;](https://www.techmeme.com/261106/p24#a261106p24)
+ - [Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261106/p23#a261106p23)
+ - [Good Riddance: Tesla to End Cybertruck Production in 2027](https://www.cnet.com/home/electric-vehicles/tesla-ends-cybertruck-production-2027/)
+ - [Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total &lpar;Bloomberg&rpar;](https://www.techmeme.com/261106/p22#a261106p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

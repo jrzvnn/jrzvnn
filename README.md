@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nasdaq 100 drops 6%, losing a record $2.3T in value, and the Philadelphia chip index plunges 12%, on concerns over the AI trade after Democrats won Congress &lpar;Natalia Kniazhevich/Bloomberg&rpar;](https://www.techmeme.com/261105/p55#a261105p55)
- - [Salon is shutting down after 31 years](https://www.theverge.com/news/1028281/salon-dot-com-shuts-down)
- - [The midterms proved once and for all that X is not real life](https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes)
- - [GOP leaders of three House committees ask Jensen Huang for a closed-door briefing on his ties with Megaspeed exec Alice Huang, reported to be a Chinese asset &lpar;Kevin Breuninger/CNBC&rpar;](https://www.techmeme.com/261105/p54#a261105p54)
- - [Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/)<!-- TECH:END -->
+ - [Sources: UK neobank Monzo is exploring a new fundraising round valuing it at ~£7.5B after failing to be acquired by Nu Holdings and struggling to sell a stake &lpar;Financial Times&rpar;](https://www.techmeme.com/261105/p68#a261105p68)
+ - [Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky&#39;s stealth AI lab; source: Chesky has self-funded it so far &lpar;The Information&rpar;](https://www.techmeme.com/261105/p67#a261105p67)
+ - [If the White House Network Can Be Hijacked by Proxies, Your Smart Home Is Already at Risk](https://www.cnet.com/tech/services-and-software/if-the-white-house-network-can-be-hijacked-by-proxies-your-smart-home-is-already-at-risk/)
+ - [Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year &lpar;Business Insider&rpar;](https://www.techmeme.com/261105/p66#a261105p66)
+ - [Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash &lpar;high&rpar; in its index and would be the top open model outside China once its weights are out &lpar;Artificial Analysis&rpar;](https://www.techmeme.com/261105/p65#a261105p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)
- - [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
- - [Apple says the App Store has over 100K apps built for the iPhone Duo and &quot;thousands of optimized apps are being added to the store each day&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261106/p26#a261106p26)
- - [Apple Says There Are Now 100,000 Apps Built for the iPhone Duo](https://www.cnet.com/tech/mobile/apple-iphone-duo-100000-apps-available/)
- - [Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/261106/p25#a261106p25)<!-- TECH:END -->
+ - [How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies &lpar;Gillian Tett/Financial Times&rpar;](https://www.techmeme.com/261107/p7#a261107p7)
+ - [Global tablet shipments fell 23% YoY to 32M units in Q3 2026, their lowest level in nearly three years; Apple&#39;s iPad shipments fell 27.5% YoY to ~11.58M &lpar;Omdia&rpar;](https://www.techmeme.com/261107/p6#a261107p6)
+ - [Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/261107/p5#a261107p5)
+ - [Shenzhen, home to tech giants and an illicit trade of smuggled chips and stolen iPhones, is clearing out its illegitimate markets ahead of the APEC summit &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/261107/p4#a261107p4)
+ - [Huawei unveils HarmonyOS-powered Qinyun HM650 series desktop PCs for enterprise and government users, saying they use &quot;100% domestically made&quot; components &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/261107/p3#a261107p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

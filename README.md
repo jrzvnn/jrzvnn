@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Can you spot it?](http://9gag.com/gag/axWd2M2)
- - 😝 [Welcome To Spain .](http://9gag.com/gag/a0o89KQ)
- - 💣 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
+ - 😝 [Hijabi girl has zero self-awareness](http://9gag.com/gag/avWp0jZ)
+ - 💣 [9gag Censorship](http://9gag.com/gag/aMd21eM)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
  - 👉 [Which one is the worst](http://9gag.com/gag/aPxwvEg)<!-- MEMES:END -->
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why would I deceive you ?](http://9gag.com/gag/aBZR9B2)
+ - 😝 [First of all](http://9gag.com/gag/aLLRKLP)
+ - 💣 [9gag Censorship](http://9gag.com/gag/aMd21eM)
  - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
- - 💣 [Seems fair](http://9gag.com/gag/az5g7pZ)
- - 😝 [9gag Censorship](http://9gag.com/gag/aMd21eM)
- - 👉 [That&#39;s quite the catalogue](http://9gag.com/gag/a17p4O6)<!-- MEMES:END -->
+ - 👉 [Sorry But We Don&#39;t Accept Cash .](http://9gag.com/gag/aZnbb03)<!-- MEMES:END -->
 
 ---
 

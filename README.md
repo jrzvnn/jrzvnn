@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claude gets AirPods 3 head tracking working on Linux](https://appleinsider.com/articles/26/11/07/claude-gets-airpods-3-head-tracking-working-on-linux?utm_source=rss)
- - [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
- - [The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call](https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/)
- - [iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple’s and Samsung’s Foldables](https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/)
- - [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)<!-- TECH:END -->
+ - [Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261107/p13#a261107p13)
+ - [Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&#39;s disproof &quot;shocking news&quot;; it could one day speed up chip design and break encryption &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261107/p12#a261107p12)
+ - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
+ - [Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &quot;shaky&quot; projects killed &lpar;Cecile Daurat/Bloomberg&rpar;](https://www.techmeme.com/261107/p11#a261107p11)
+ - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

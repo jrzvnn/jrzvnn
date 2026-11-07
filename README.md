@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you spot it?](http://9gag.com/gag/axWd2M2)
- - 😝 [Hijabi girl has zero self-awareness](http://9gag.com/gag/avWp0jZ)
- - 💣 [9gag Censorship](http://9gag.com/gag/aMd21eM)
+ - 😝 [Where is she? I am already unemployed.](http://9gag.com/gag/aNLroVA)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
- - 👉 [Which one is the worst](http://9gag.com/gag/aPxwvEg)<!-- MEMES:END -->
+ - 💣 [Which one is the worst](http://9gag.com/gag/aPxwvEg)
+ - 😝 [Yes, kitty… that is my toe.](https://www.reddit.com/r/funny/comments/1xqinmz/yes_kitty_that_is_my_toe/)
+ - 👉 [Where is she? I am already unemployed.](http://9gag.com/gag/aNLroVA)<!-- MEMES:END -->
 
 ---
 

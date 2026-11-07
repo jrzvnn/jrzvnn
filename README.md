@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies &lpar;Gillian Tett/Financial Times&rpar;](https://www.techmeme.com/261107/p7#a261107p7)
- - [Global tablet shipments fell 23% YoY to 32M units in Q3 2026, their lowest level in nearly three years; Apple&#39;s iPad shipments fell 27.5% YoY to ~11.58M &lpar;Omdia&rpar;](https://www.techmeme.com/261107/p6#a261107p6)
- - [Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July &lpar;Zack Whittaker/TechCrunch&rpar;](https://www.techmeme.com/261107/p5#a261107p5)
- - [Shenzhen, home to tech giants and an illicit trade of smuggled chips and stolen iPhones, is clearing out its illegitimate markets ahead of the APEC summit &lpar;William Langley/Financial Times&rpar;](https://www.techmeme.com/261107/p4#a261107p4)
- - [Huawei unveils HarmonyOS-powered Qinyun HM650 series desktop PCs for enterprise and government users, saying they use &quot;100% domestically made&quot; components &lpar;Iris Deng/South China Morning Post&rpar;](https://www.techmeme.com/261107/p3#a261107p3)<!-- TECH:END -->
+ - [Claude gets AirPods 3 head tracking working on Linux](https://appleinsider.com/articles/26/11/07/claude-gets-airpods-3-head-tracking-working-on-linux?utm_source=rss)
+ - [Zelda is back and better than ever](https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer)
+ - [The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call](https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/)
+ - [iPhone Duo vs. Galaxy Z Fold 8 Camera Comparison: Frolicking With Apple’s and Samsung’s Foldables](https://www.cnet.com/tech/mobile/iphone-duo-vs-galaxy-z-fold-8-camera-comparison/)
+ - [Why a new report on Anthropic automating AI development is alarming researchers](https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

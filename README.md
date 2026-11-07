@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: SEA makes up ~50% of APAC data center capacity being built, led by Malaysia and Thailand, which paused 49 and delayed approvals of 117 projects in Sept. &lpar;Arundhati Hazra/The Guardian&rpar;](https://www.techmeme.com/261107/p15#a261107p15)
+ - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)
  - [Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261107/p13#a261107p13)
  - [Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&#39;s disproof &quot;shocking news&quot;; it could one day speed up chip design and break encryption &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261107/p12#a261107p12)
- - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)
- - [Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &quot;shaky&quot; projects killed &lpar;Cecile Daurat/Bloomberg&rpar;](https://www.techmeme.com/261107/p11#a261107p11)
- - [Costco members can get $5 off the reimagined Ocarina of Time](https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale)<!-- TECH:END -->
+ - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

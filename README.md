@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium](https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale)
- - [Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China&#39;s top spy agency MSS to collect intelligence on Jensen Huang &lpar;New York Times&rpar;](https://www.techmeme.com/261106/p24#a261106p24)
- - [Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market &lpar;Ryan Barwick/The Information&rpar;](https://www.techmeme.com/261106/p23#a261106p23)
- - [Good Riddance: Tesla to End Cybertruck Production in 2027](https://www.cnet.com/home/electric-vehicles/tesla-ends-cybertruck-production-2027/)
- - [Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total &lpar;Bloomberg&rpar;](https://www.techmeme.com/261106/p22#a261106p22)<!-- TECH:END -->
+ - [CesiumAstro, which plans a 737-satellite LEO communications network at two altitudes, raised $730M at a $4.5B+ valuation, bringing its total funding to $1.4B &lpar;Loren Grush/Bloomberg&rpar;](https://www.techmeme.com/261106/p27#a261106p27)
+ - [OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO](https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation)
+ - [Apple says the App Store has over 100K apps built for the iPhone Duo and &quot;thousands of optimized apps are being added to the store each day&quot; &lpar;Jay Peters/The Verge&rpar;](https://www.techmeme.com/261106/p26#a261106p26)
+ - [Apple Says There Are Now 100,000 Apps Built for the iPhone Duo](https://www.cnet.com/tech/mobile/apple-iphone-duo-100000-apps-available/)
+ - [Crusoe says Google has bought out its data center site in southeast Wyoming; Crusoe reportedly failed to lock in customers including Google for the project &lpar;Lynn Doan/Bloomberg&rpar;](https://www.techmeme.com/261106/p25#a261106p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

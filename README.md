@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
- - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
+ - 😝 [I couldn&#39;t look away](http://9gag.com/gag/agQ3vV1)
  - 💣 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
- - 👉 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)<!-- MEMES:END -->
+ - 👉 [[OC] hold my calls](https://www.reddit.com/r/funny/comments/1xr07s5/oc_hold_my_calls/)<!-- MEMES:END -->
 
 ---
 

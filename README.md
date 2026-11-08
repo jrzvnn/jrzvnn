@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who is it, and what are the movies?](http://9gag.com/gag/az5gVMb)
  - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 😝 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
- - 💣 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 😝 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
- - 👉 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)<!-- MEMES:END -->
+ - 💣 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
+ - 😝 [Asking the real questions here](http://9gag.com/gag/a5VeKrL)
+ - 👉 [Who is it, and what are the movies?](http://9gag.com/gag/az5gVMb)<!-- MEMES:END -->
 
 ---
 

@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 💣 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
- - 💣 [Which one is the worst](http://9gag.com/gag/aPxwvEg)
- - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
- - 👉 [Which one is the worst](http://9gag.com/gag/aPxwvEg)<!-- MEMES:END -->
+ - 👉 [When someone asks why I avoid eastern European women](http://9gag.com/gag/aAQRY6L)<!-- MEMES:END -->
 
 ---
 

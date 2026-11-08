@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Black Friday deals deliver up to $250 off Apple Watch Ultra, Series 12](https://appleinsider.com/articles/26/11/08/best-early-black-friday-deals-deliver-up-to-250-off-apple-watch-ultra-series-12?utm_source=rss)
- - [How Apple&#39;s Personal Knowledge Graph learns about your life on Mac](https://appleinsider.com/articles/26/11/08/how-apples-personal-knowledge-graph-learns-about-your-life-on-mac?utm_source=rss)
- - [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
- - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 30 Pairs](https://www.wired.com/gallery/best-computer-speakers/)
- - [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)<!-- TECH:END -->
+ - [THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can&#39;t stop transfers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261108/p11#a261108p11)
+ - [Excluding Anthropic&#39;s IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb &lpar;Alex Eichenstein/The Information&rpar;](https://www.techmeme.com/261108/p10#a261108p10)
+ - [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
+ - [Sources: John Ternus wants more urgency in Apple&#39;s AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261108/p9#a261108p9)
+ - [Apple&#39;s iOS 28 schedule shift helps engineers get more creative](https://appleinsider.com/articles/26/11/08/apples-ios-28-schedule-shift-helps-engineers-get-more-creative?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

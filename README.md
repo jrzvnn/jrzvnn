@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/261107/p17#a261107p17)
+ - [US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/261107/p16#a261107p16)
+ - [Wendy’s Just Released a Video Game Where You Can Win Fast Food](https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/)
  - [Report: SEA makes up ~50% of APAC data center capacity being built, led by Malaysia and Thailand, which paused 49 and delayed approvals of 117 projects in Sept. &lpar;Arundhati Hazra/The Guardian&rpar;](https://www.techmeme.com/261107/p15#a261107p15)
- - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)
- - [Binance says CFO Kaiser Ng is leaving to &quot;pursue a new venture&quot; days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO &lpar;Bloomberg&rpar;](https://www.techmeme.com/261107/p13#a261107p13)
- - [Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI&#39;s disproof &quot;shocking news&quot;; it could one day speed up chip design and break encryption &lpar;Cade Metz/New York Times&rpar;](https://www.techmeme.com/261107/p12#a261107p12)
- - [The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance](https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions)<!-- TECH:END -->
+ - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

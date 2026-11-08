@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers &lpar;Valerie Volcovici/Reuters&rpar;](https://www.techmeme.com/261108/p6#a261108p6)
- - [Internal documents leaked by Cisco workers angry over the company&#39;s ties to Israel&#39;s military show how it expanded its business as the war in Gaza dragged on &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/261108/p5#a261108p5)
- - [The crypto industry is bracing for a reckoning after Democrats won the US midterms and vowed to investigate the Trump family and its ties to the industry &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p4#a261108p4)
- - [Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model&#39;s bias layer is shallow &lpar;Nous Research&rpar;](https://www.techmeme.com/261108/p3#a261108p3)
- - [Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ &lpar;TechNode&rpar;](https://www.techmeme.com/261108/p2#a261108p2)<!-- TECH:END -->
+ - [Best early Black Friday deals deliver up to $250 off Apple Watch Ultra, Series 12](https://appleinsider.com/articles/26/11/08/best-early-black-friday-deals-deliver-up-to-250-off-apple-watch-ultra-series-12?utm_source=rss)
+ - [How Apple&#39;s Personal Knowledge Graph learns about your life on Mac](https://appleinsider.com/articles/26/11/08/how-apples-personal-knowledge-graph-learns-about-your-life-on-mac?utm_source=rss)
+ - [There’s no slowing down media’s pivot-to-video 2.0](https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot)
+ - [8 Best Computer Speakers &lpar;2026&rpar; After Testing 30 Pairs](https://www.wired.com/gallery/best-computer-speakers/)
+ - [I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good](https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

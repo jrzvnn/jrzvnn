@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections &lpar;Emily Birnbaum/Bloomberg&rpar;](https://www.techmeme.com/261107/p17#a261107p17)
- - [US Treasury moves to cut crypto exchange MEXC off from the US financial system, alleging $16B+ in illicit flows, including Russian and Iranian sanctions evasion &lpar;Francisco Rodrigues/CoinDesk&rpar;](https://www.techmeme.com/261107/p16#a261107p16)
- - [Wendy’s Just Released a Video Game Where You Can Win Fast Food](https://www.cnet.com/tech/gaming/wendys-video-game-fast-food/)
- - [Report: SEA makes up ~50% of APAC data center capacity being built, led by Malaysia and Thailand, which paused 49 and delayed approvals of 117 projects in Sept. &lpar;Arundhati Hazra/The Guardian&rpar;](https://www.techmeme.com/261107/p15#a261107p15)
- - [Public records appear to show SpaceX building a &quot;Starbase supercomputer&quot; in TX, but Gina Hinojosa&#39;s election as governor may delay some of the data center plans &lpar;Ann Davis Vaughan/The Information&rpar;](https://www.techmeme.com/261107/p14#a261107p14)<!-- TECH:END -->
+ - [Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers &lpar;Valerie Volcovici/Reuters&rpar;](https://www.techmeme.com/261108/p6#a261108p6)
+ - [Internal documents leaked by Cisco workers angry over the company&#39;s ties to Israel&#39;s military show how it expanded its business as the war in Gaza dragged on &lpar;Alice Speri/The Guardian&rpar;](https://www.techmeme.com/261108/p5#a261108p5)
+ - [The crypto industry is bracing for a reckoning after Democrats won the US midterms and vowed to investigate the Trump family and its ties to the industry &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p4#a261108p4)
+ - [Nous Research unveils Arete-27B, a post-trained Qwen3.8-27B model that reinforces Western values, saying the underlying Chinese model&#39;s bias layer is shallow &lpar;Nous Research&rpar;](https://www.techmeme.com/261108/p3#a261108p3)
+ - [Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ &lpar;TechNode&rpar;](https://www.techmeme.com/261108/p2#a261108p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

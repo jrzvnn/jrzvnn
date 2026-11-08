@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [THORChain, which handled ~$1B of stolen Bybit funds in 2025 for $12M+ in fees, began moving the Binance loot despite FBI pleas, saying it can&#39;t stop transfers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261108/p11#a261108p11)
- - [Excluding Anthropic&#39;s IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb &lpar;Alex Eichenstein/The Information&rpar;](https://www.techmeme.com/261108/p10#a261108p10)
- - [Elvis and Eminem rights holders are suing Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit)
- - [Sources: John Ternus wants more urgency in Apple&#39;s AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities &lpar;Mark Gurman/Bloomberg&rpar;](https://www.techmeme.com/261108/p9#a261108p9)
- - [Apple&#39;s iOS 28 schedule shift helps engineers get more creative](https://appleinsider.com/articles/26/11/08/apples-ios-28-schedule-shift-helps-engineers-get-more-creative?utm_source=rss)<!-- TECH:END -->
+ - [Sources: officials at the Commerce Department&#39;s AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns &lpar;Garance Burke/Associated Press&rpar;](https://www.techmeme.com/261108/p16#a261108p16)
+ - [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review)
+ - [Nvidia Board Launches Probe After Reports CEO Was Targeted by Chinese Spy](https://www.cnet.com/news/nvidia-board-probes-reports-ceo-was-targeted-by-spy/)
+ - [US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears &lpar;Ian Hodgson/Wall Street Journal&rpar;](https://www.techmeme.com/261108/p15#a261108p15)
+ - [Sunday Reboot: Curses and a spotty reminder of times past](https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

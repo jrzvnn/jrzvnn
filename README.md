@@ -167,11 +167,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where is she? I am already unemployed.](http://9gag.com/gag/aNLroVA)
+ - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
  - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
  - 💣 [Which one is the worst](http://9gag.com/gag/aPxwvEg)
- - 😝 [Yes, kitty… that is my toe.](https://www.reddit.com/r/funny/comments/1xqinmz/yes_kitty_that_is_my_toe/)
- - 👉 [Where is she? I am already unemployed.](http://9gag.com/gag/aNLroVA)<!-- MEMES:END -->
+ - 😝 [Chad , Am I Cooked ?](http://9gag.com/gag/aWpQZ5Z)
+ - 👉 [Which one is the worst](http://9gag.com/gag/aPxwvEg)<!-- MEMES:END -->
 
 ---
 

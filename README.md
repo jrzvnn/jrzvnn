@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 😝 [Got a better deal...](http://9gag.com/gag/ae4jpjO)
+ - 😝 [The dog was calm and properly restrained with a leash and muzzle. He only became agitated when the Mooslim women started screaming at him and pushing the owner because they hate dogs.](http://9gag.com/gag/a3GPLRQ)
  - 💣 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
- - 😝 [Asking the real questions here](http://9gag.com/gag/a5VeKrL)
- - 👉 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)<!-- MEMES:END -->
+ - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
+ - 👉 [The dog was calm and properly restrained with a leash and muzzle. He only became agitated when the Mooslim women started screaming at him and pushing the owner because they hate dogs.](http://9gag.com/gag/a3GPLRQ)<!-- MEMES:END -->
 
 ---
 

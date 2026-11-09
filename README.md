@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/261109/p9#a261109p9)
- - [Sources: the EU sues IBM, French IT group Atos, and Italian contractor Leonardo over delays in developing its smart border system, which caused travel chaos &lpar;Laura Dubois/Financial Times&rpar;](https://www.techmeme.com/261109/p8#a261109p8)
- - [Chinese media denies Beijing&#39;s link to Jensen Huang&#39;s affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations &lpar;Bloomberg&rpar;](https://www.techmeme.com/261109/p7#a261109p7)
- - [As companies replace human workers with AI agents, determining managers&#39; grade and pay is becoming harder, as both often depend on how many people they manage &lpar;Pilita Clark/Financial Times&rpar;](https://www.techmeme.com/261109/p6#a261109p6)
- - [Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M &lpar;Globe and Mail&rpar;](https://www.techmeme.com/261109/p5#a261109p5)<!-- TECH:END -->
+ - [A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&#39;s relationship with Alice Huang as &quot;uncomfortably close&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261109/p46#a261109p46)
+ - [AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession](https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/)
+ - [Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
+ - [Apple is now offering additional AI access via one-time $50 &quot;intelligence usage packs&quot; when monthly usage caps are met, starting in its Creator Studio apps &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/261109/p45#a261109p45)
+ - [Meta&#39;s Muse AI now has an Apple Watch app, which you shouldn&#39;t install](https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

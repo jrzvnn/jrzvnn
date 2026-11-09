@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: officials at the Commerce Department&#39;s AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns &lpar;Garance Burke/Associated Press&rpar;](https://www.techmeme.com/261108/p16#a261108p16)
- - [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review)
- - [Nvidia Board Launches Probe After Reports CEO Was Targeted by Chinese Spy](https://www.cnet.com/news/nvidia-board-probes-reports-ceo-was-targeted-by-spy/)
- - [US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears &lpar;Ian Hodgson/Wall Street Journal&rpar;](https://www.techmeme.com/261108/p15#a261108p15)
- - [Sunday Reboot: Curses and a spotty reminder of times past](https://appleinsider.com/articles/26/11/08/sunday-reboot-curses-and-a-spotty-reminder-of-times-past?utm_source=rss)<!-- TECH:END -->
+ - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
+ - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)
+ - [How Sequoia&#39;s Alfred Lin and Pat Grady erased Roelof Botha&#39;s legacy, halving GPs and unwinding his fund; sources say he joined SpaceX&#39;s board behind their backs &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p18#a261108p18)
+ - [Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy &lpar;New York Times&rpar;](https://www.techmeme.com/261108/p17#a261108p17)
+ - [Sources: officials at the Commerce Department&#39;s AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns &lpar;Garance Burke/Associated Press&rpar;](https://www.techmeme.com/261108/p16#a261108p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

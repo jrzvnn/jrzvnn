@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 😝 [The dog was calm and properly restrained with a leash and muzzle. He only became agitated when the Mooslim women started screaming at him and pushing the owner because they hate dogs.](http://9gag.com/gag/a3GPLRQ)
+ - 😝 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
  - 💣 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
- - 😝 [A policeman, unrelated to the incident, managed to neutralize the attacker. When he made sure the danger had passed, he stepped down to the ground](http://9gag.com/gag/a4nKdnA)
- - 👉 [The dog was calm and properly restrained with a leash and muzzle. He only became agitated when the Mooslim women started screaming at him and pushing the owner because they hate dogs.](http://9gag.com/gag/a3GPLRQ)<!-- MEMES:END -->
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 👉 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)<!-- MEMES:END -->
 
 ---
 

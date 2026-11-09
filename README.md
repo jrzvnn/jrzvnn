@@ -158,11 +158,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Job listings show Amazon is building a &quot;new-to-world&quot; home robot to operate &quot;alongside family members&quot;, after its $1,450 Astro reached only a few thousand homes &lpar;Annie Palmer/CNBC&rpar;](https://www.techmeme.com/261108/p20#a261108p20)
- - [Trump says Jensen Huang should stay on as Nvidia CEO after affair admission, saying he is a &quot;fine person&quot; and &quot;I haven&#39;t heard he&#39;s done anything wrong&quot; &lpar;Kate Sullivan/Bloomberg&rpar;](https://www.techmeme.com/261108/p19#a261108p19)
- - [How Sequoia&#39;s Alfred Lin and Pat Grady erased Roelof Botha&#39;s legacy, halving GPs and unwinding his fund; sources say he joined SpaceX&#39;s board behind their backs &lpar;Financial Times&rpar;](https://www.techmeme.com/261108/p18#a261108p18)
- - [Sources: Marco Rubio oversaw the drafting of a classified memo this spring warning Trump admin that Jensen Huang was in a close relationship with a Chinese spy &lpar;New York Times&rpar;](https://www.techmeme.com/261108/p17#a261108p17)
- - [Sources: officials at the Commerce Department&#39;s AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns &lpar;Garance Burke/Associated Press&rpar;](https://www.techmeme.com/261108/p16#a261108p16)<!-- TECH:END -->
+ - [US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 &lpar;Adeel Hassan/New York Times&rpar;](https://www.techmeme.com/261109/p9#a261109p9)
+ - [Sources: the EU sues IBM, French IT group Atos, and Italian contractor Leonardo over delays in developing its smart border system, which caused travel chaos &lpar;Laura Dubois/Financial Times&rpar;](https://www.techmeme.com/261109/p8#a261109p8)
+ - [Chinese media denies Beijing&#39;s link to Jensen Huang&#39;s affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations &lpar;Bloomberg&rpar;](https://www.techmeme.com/261109/p7#a261109p7)
+ - [As companies replace human workers with AI agents, determining managers&#39; grade and pay is becoming harder, as both often depend on how many people they manage &lpar;Pilita Clark/Financial Times&rpar;](https://www.techmeme.com/261109/p6#a261109p6)
+ - [Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M &lpar;Globe and Mail&rpar;](https://www.techmeme.com/261109/p5#a261109p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

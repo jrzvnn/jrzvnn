@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine facing this and the 17th century in a wooden ship](http://9gag.com/gag/aj7YDwx)
  - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 💣 [Imagine facing this and the 17th century in a wooden ship](http://9gag.com/gag/aj7YDwx)
  - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 💣 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
+ - 👉 [Itchy!](https://www.reddit.com/r/funny/comments/1xsyv0n/itchy/)<!-- MEMES:END -->
 
 ---
 

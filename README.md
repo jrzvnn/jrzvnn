@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/261110/p26#a261110p26)
- - [Criminals are using government-grade spyware to infect iPhones](https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones?utm_source=rss)
- - [Kitchen Gear From Our Place Is Steeply Discounted](https://www.wired.com/story/our-place-sale-november-2026/)
- - [Reddit wants to guide your next purchase](https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping)
- - [Rockstar plans to make GTA VI available on Xbox Cloud Gaming at launch next week, likely restricting streaming exclusively to consoles; GTA VI runs at 30fps &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261110/p25#a261110p25)<!-- TECH:END -->
+ - [Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 &lpar;The Information&rpar;](https://www.techmeme.com/261110/p51#a261110p51)
+ - [Dot-eat? Google Introduces 3 More Top-Level Domain Names](https://www.cnet.com/tech/dot-eat-dot-fly-dot-here-new-domains/)
+ - [Sony cancels live-service shooter Fairgames](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled)
+ - [S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO &lpar;Cory Weinberg/New York Times&rpar;](https://www.techmeme.com/261110/p50#a261110p50)
+ - [New AirPods firmware has been released by Apple](https://appleinsider.com/articles/26/11/10/new-airpods-firmware-has-been-released-by-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

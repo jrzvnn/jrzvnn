@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules &lpar;Andy Lin/Bloomberg&rpar;](https://www.techmeme.com/261110/p2#a261110p2)
- - [Rover Promo Codes and Referral Deals for November 2026](https://www.wired.com/story/rover-promo-code/)
- - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
- - [Sam&#39;s Club Promo Codes and Membership Deals for November 2026](https://www.wired.com/story/sams-club-coupon/)
- - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)<!-- TECH:END -->
+ - [Reddit launches Reddit Reviews, a built-in hub using AI to turn subreddit comments into product pages with pros, cons, and sentiment, starting with 10K items &lpar;Mia Sato/The Verge&rpar;](https://www.techmeme.com/261110/p26#a261110p26)
+ - [Criminals are using government-grade spyware to infect iPhones](https://appleinsider.com/articles/26/11/10/criminals-are-using-government-grade-spyware-to-infect-iphones?utm_source=rss)
+ - [Kitchen Gear From Our Place Is Steeply Discounted](https://www.wired.com/story/our-place-sale-november-2026/)
+ - [Reddit wants to guide your next purchase](https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping)
+ - [Rockstar plans to make GTA VI available on Xbox Cloud Gaming at launch next week, likely restricting streaming exclusively to consoles; GTA VI runs at 30fps &lpar;Tom Warren/The Verge&rpar;](https://www.techmeme.com/261110/p25#a261110p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

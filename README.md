@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang&#39;s relationship with Alice Huang as &quot;uncomfortably close&quot; &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261109/p46#a261109p46)
- - [AI-Driven Tech Layoffs Could Trigger a 1.6 Million Job Recession](https://www.cnet.com/tech/services-and-software/ai-tech-layoffs-2026-trigger-recession/)
- - [Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
- - [Apple is now offering additional AI access via one-time $50 &quot;intelligence usage packs&quot; when monthly usage caps are met, starting in its Creator Studio apps &lpar;Ryan Christoffel/9to5Mac&rpar;](https://www.techmeme.com/261109/p45#a261109p45)
- - [Meta&#39;s Muse AI now has an Apple Watch app, which you shouldn&#39;t install](https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install?utm_source=rss)<!-- TECH:END -->
+ - [Filings: Moonshot signed a deal in August to rent 32 China-based Super Micro servers with Nvidia B300, the most powerful AI chip, possibly in breach of US rules &lpar;Andy Lin/Bloomberg&rpar;](https://www.techmeme.com/261110/p2#a261110p2)
+ - [Rover Promo Codes and Referral Deals for November 2026](https://www.wired.com/story/rover-promo-code/)
+ - [Naturepedic Promo Codes: Get 20% Off Plus Free Pillows](https://www.wired.com/story/naturepedic-promo-code/)
+ - [Sam&#39;s Club Promo Codes and Membership Deals for November 2026](https://www.wired.com/story/sams-club-coupon/)
+ - [Office Depot Coupons: $20 Off November 2026](https://www.wired.com/story/office-depot-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine you graduate from honeypot CCP academy, and your first task is asmongold](http://9gag.com/gag/a9zb7qm)
- - 😝 [The Hatian gangs are suing for peace.](http://9gag.com/gag/aGLYxB0)
- - 💣 [Incredible progress for modern medicine](http://9gag.com/gag/aBZRYqP)
- - 😝 [Tom should stop it and get some help](http://9gag.com/gag/aD7A3QG)
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 💣 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
+ - 😝 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
  - 👉 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: OpenAI told investors on Tuesday that its revenue jumped 50% to around $10B in Q3, up from 17% growth in Q2 &lpar;The Information&rpar;](https://www.techmeme.com/261110/p51#a261110p51)
- - [Dot-eat? Google Introduces 3 More Top-Level Domain Names](https://www.cnet.com/tech/dot-eat-dot-fly-dot-here-new-domains/)
- - [Sony cancels live-service shooter Fairgames](https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled)
- - [S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO &lpar;Cory Weinberg/New York Times&rpar;](https://www.techmeme.com/261110/p50#a261110p50)
- - [New AirPods firmware has been released by Apple](https://appleinsider.com/articles/26/11/10/new-airpods-firmware-has-been-released-by-apple?utm_source=rss)<!-- TECH:END -->
+ - [An analysis of the tech job market in late 2026: product managers seem to be benefiting most in the AI era, demand for engineers is plateauing, and more &lpar;Lenny Rachitsky/Lenny&#39;s Newsletter&rpar;](https://www.techmeme.com/261110/p61#a261110p61)
+ - [Sources: Anthropic&#39;s bankers are weighing plans to raise its IPO price following heavy demand, which could increase the valuation target to $1.5T or more &lpar;Financial Times&rpar;](https://www.techmeme.com/261110/p60#a261110p60)
+ - [Warhammer Survivors Isn’t Much More Than a Vampire Survivors Reskin, Which Is &lpar;Mostly&rpar; OK](https://www.cnet.com/tech/warhammer-survivors-review/)
+ - [Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode](https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling)
+ - [A deep dive into AMD&#39;s Zen 6 EPYC Venice: it uses TSMC&#39;s N2P, the 9686F often beats Nvidia&#39;s Vera, a dual 9996 is up to 93% faster than a dual Zen 5 9965, more &lpar;Jake Roach/Tom&#39;s Hardware&rpar;](https://www.techmeme.com/261110/p59#a261110p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

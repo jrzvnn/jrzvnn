@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people are dumb](http://9gag.com/gag/ae4j6oj)
+ - 😝 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)
+ - 😝 [A shop with no humans](http://9gag.com/gag/aMd281R)
+ - 💣 [Whoopsie](http://9gag.com/gag/aXL0ABP)
  - 😝 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 💣 [Actually this was the chinese spy](http://9gag.com/gag/aoWEjBw)
- - 😝 [Some people are dumb](http://9gag.com/gag/ae4j6oj)
- - 👉 [Peter please help](http://9gag.com/gag/aEMvR6e)<!-- MEMES:END -->
+ - 👉 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)<!-- MEMES:END -->
 
 ---
 

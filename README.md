@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
- - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
- - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
- - [Apple Support Communities were sound and fury, but sometimes so useful](https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss)
- - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang expected to be ousted](https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss)
+ - [Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation &lpar;Axios&rpar;](https://www.techmeme.com/261111/p45#a261111p45)
+ - [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
+ - [Sources: Nvidia&#39;s board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p44#a261111p44)
+ - [Apple employee charged with murder following fatal accident near Apple Park](https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

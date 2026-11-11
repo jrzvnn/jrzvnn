@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)
- - 😝 [A shop with no humans](http://9gag.com/gag/aMd281R)
- - 💣 [Whoopsie](http://9gag.com/gag/aXL0ABP)
- - 😝 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 👉 [FAFO Sport Edition](http://9gag.com/gag/amWNYq6)<!-- MEMES:END -->
+ - 😝 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 😝 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)
+ - 💣 [Peter please help](http://9gag.com/gag/aEMvR6e)
+ - 😝 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 👉 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)<!-- MEMES:END -->
 
 ---
 

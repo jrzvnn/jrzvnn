@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VR pioneer Jaron Lanier says Silicon Valley is sabotaging itself by poorly pitching AI and treating areas designated for data centers as sacrifice zones &lpar;Jaron Lanier/New York Times&rpar;](https://www.techmeme.com/261111/p9#a261111p9)
- - [Nintendo sold 5.2M copies of its The Legend of Zelda: Ocarina of Time remake in just four days, giving the Switch 2 the blockbuster hit it had been waiting for &lpar;Vlad Savov/Bloomberg&rpar;](https://www.techmeme.com/261111/p8#a261111p8)
- - [The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls &lpar;Owen Walker/Financial Times&rpar;](https://www.techmeme.com/261111/p7#a261111p7)
- - [Sources: Rapidus has yet to produce functioning SRAM, a key step that needed to be completed by summer 2026 to meet its March 2028 deadline for making 2nm chips &lpar;Takashi Mochizuki/Bloomberg&rpar;](https://www.techmeme.com/261111/p6#a261111p6)
- - [A profile of Alice Huang, an alleged Chinese spy who founded Megaspeed with her business partner Kang Wei, who sources say was often introduced as her husband &lpar;New York Times&rpar;](https://www.techmeme.com/261111/p5#a261111p5)<!-- TECH:END -->
+ - [The AO3 Shutdown Is Pitting Fanfic Readers Against Authors](https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/)
+ - [Google’s Tabletop AI experiment lets you build custom collaboration apps](https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability)
+ - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+ - [Apple Support Communities were sound and fury, but sometimes so useful](https://appleinsider.com/articles/26/11/11/apple-support-communities-were-sound-and-fury-but-sometimes-so-useful?utm_source=rss)
+ - [China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway](https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

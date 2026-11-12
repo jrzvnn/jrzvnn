@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How CFTC Chairman Michael Selig reversed long-standing policy to authorize perpetual crypto and stock trades on Kalshi and others, despite SEC staff concerns &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p23#a261112p23)
- - [Volodymyr Zelenskyy says Starshield faced &quot;systematic speed restrictions&quot; for several days; Ukrainian officials believe it is to pressure Kyiv amid peace talks &lpar;Financial Times&rpar;](https://www.techmeme.com/261112/p22#a261112p22)
- - [Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/261112/p21#a261112p21)
- - [Best Open Earbuds &lpar;2026&rpar;: Shokz, Bose, Soundcore, and More](https://www.wired.com/story/best-open-earbuds/)
- - [Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261112/p20#a261112p20)<!-- TECH:END -->
+ - [How Apple keeps your audio &amp; video secure and private](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
+ - [Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
+ - [Meet the people who want peptides to be made in America](https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha)
+ - [Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation &lpar;Reuters&rpar;](https://www.techmeme.com/261112/p52#a261112p52)
+ - [Users report being unable to access Outlook, Teams, and other Microsoft 365 services; Microsoft says many of its servers became unexpectedly unavailable &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/261112/p51#a261112p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

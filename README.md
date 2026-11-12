@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooklyn](http://9gag.com/gag/aZnbm9X)
- - 😝 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)
+ - 😝 [F**king. Legend.](http://9gag.com/gag/a6DmVMb)
+ - 😝 [`If she&#39;s a 10, you are an asset`.](http://9gag.com/gag/aoWEOjn)
  - 💣 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 😝 [Brooklyn](http://9gag.com/gag/aZnbm9X)
- - 👉 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)<!-- MEMES:END -->
+ - 😝 [F**king. Legend.](http://9gag.com/gag/a6DmVMb)
+ - 👉 [`If she&#39;s a 10, you are an asset`.](http://9gag.com/gag/aoWEOjn)<!-- MEMES:END -->
 
 ---
 

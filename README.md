@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)
- - [A detailed explanation of Apple&#39;s Secure Exclaves has been shared](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
- - [Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &lpar;Semafor&rpar;](https://www.techmeme.com/261111/p52#a261111p52)
- - [Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia&#39;s chip exports to China and Huang&#39;s affair &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p51#a261111p51)
- - [The Best Early Black Friday MacBook Air Deal: $200 Off](https://www.wired.com/story/early-black-friday-macbook-air-deal/)<!-- TECH:END -->
+ - [How CFTC Chairman Michael Selig reversed long-standing policy to authorize perpetual crypto and stock trades on Kalshi and others, despite SEC staff concerns &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p23#a261112p23)
+ - [Volodymyr Zelenskyy says Starshield faced &quot;systematic speed restrictions&quot; for several days; Ukrainian officials believe it is to pressure Kyiv amid peace talks &lpar;Financial Times&rpar;](https://www.techmeme.com/261112/p22#a261112p22)
+ - [Google launches Tabletop, an experimental AI platform to build customizable, collaborative personal planning and coordination hubs, in beta via a waitlist &lpar;Jess Weatherbed/The Verge&rpar;](https://www.techmeme.com/261112/p21#a261112p21)
+ - [Best Open Earbuds &lpar;2026&rpar;: Shokz, Bose, Soundcore, and More](https://www.wired.com/story/best-open-earbuds/)
+ - [Sources: Nvidia employees, known for their fierce loyalty to Jensen Huang, have been left stunned and some are angry at the news of his extramarital affairs &lpar;Michael Acton/Financial Times&rpar;](https://www.techmeme.com/261112/p20#a261112p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

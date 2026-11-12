@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 😝 [Brooklyn](http://9gag.com/gag/aZnbm9X)
  - 😝 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)
  - 💣 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 😝 [Whoopsie](http://9gag.com/gag/aXL0ABP)
+ - 😝 [Brooklyn](http://9gag.com/gag/aZnbm9X)
  - 👉 [Which tourists do you prefer to see?](http://9gag.com/gag/ae4j68O)<!-- MEMES:END -->
 
 ---

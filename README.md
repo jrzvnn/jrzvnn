@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang expected to be ousted](https://appleinsider.com/articles/26/11/11/nvidia-ceo-jensen-huang-expected-to-be-ousted?utm_source=rss)
- - [Sources: Scott Bessent confronted Howard Lutnick last week over the Commerce Dept. not adding Megaspeed to the Entity List; Commerce denies the confrontation &lpar;Axios&rpar;](https://www.techmeme.com/261111/p45#a261111p45)
- - [Nvidia is reportedly preparing to fire Jensen Huang](https://www.theverge.com/tech/1031652/jensen-huang-rumor)
- - [Sources: Nvidia&#39;s board is preparing to oust Jensen Huang; it plans to meet as soon as Wednesday to determine his future &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p44#a261111p44)
- - [Apple employee charged with murder following fatal accident near Apple Park](https://appleinsider.com/articles/26/11/11/apple-employee-charged-with-murder-following-fatal-accident-near-apple-park?utm_source=rss)<!-- TECH:END -->
+ - [Sources: the Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers &lpar;Leo Schwartz/The Information&rpar;](https://www.techmeme.com/261111/p53#a261111p53)
+ - [A detailed explanation of Apple&#39;s Secure Exclaves has been shared](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
+ - [Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting &lpar;Semafor&rpar;](https://www.techmeme.com/261111/p52#a261111p52)
+ - [Letter: Sens. Elizabeth Warren and Chris Coons ask the Trump administration to preserve all documents tied to Nvidia&#39;s chip exports to China and Huang&#39;s affair &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261111/p51#a261111p51)
+ - [The Best Early Black Friday MacBook Air Deal: $200 Off](https://www.wired.com/story/early-black-friday-macbook-air-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

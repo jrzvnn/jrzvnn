@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**king. Legend.](http://9gag.com/gag/a6DmVMb)
- - 😝 [`If she&#39;s a 10, you are an asset`.](http://9gag.com/gag/aoWEOjn)
+ - 😝 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
+ - 😝 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)
  - 💣 [Peter please help](http://9gag.com/gag/aEMvR6e)
- - 😝 [F**king. Legend.](http://9gag.com/gag/a6DmVMb)
- - 👉 [`If she&#39;s a 10, you are an asset`.](http://9gag.com/gag/aoWEOjn)<!-- MEMES:END -->
+ - 😝 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
+ - 👉 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)<!-- MEMES:END -->
 
 ---
 

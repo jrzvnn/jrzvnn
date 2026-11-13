@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess I&#39;ll die](http://9gag.com/gag/aD7A18K)
  - 😝 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 💣 [Nice.](http://9gag.com/gag/a5VeoAO)
- - 😝 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)
- - 👉 [Men of culture!! Everything changes at 00:27 with the biggest plot twist in history!!](http://9gag.com/gag/aZnb3wV)<!-- MEMES:END -->
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/abeXYrp)
+ - 💣 [Youve been had](http://9gag.com/gag/aAQR3Eo)
+ - 😝 [For you, corporate degenerates](http://9gag.com/gag/abeXYrp)
+ - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple keeps your audio &amp; video secure and private](https://appleinsider.com/articles/26/11/12/a-detailed-explanation-of-apples-secure-exclaves-has-been-shared?utm_source=rss)
- - [Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email](https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/)
- - [Meet the people who want peptides to be made in America](https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha)
- - [Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation &lpar;Reuters&rpar;](https://www.techmeme.com/261112/p52#a261112p52)
- - [Users report being unable to access Outlook, Teams, and other Microsoft 365 services; Microsoft says many of its servers became unexpectedly unavailable &lpar;Anna Washenko/Engadget&rpar;](https://www.techmeme.com/261112/p51#a261112p51)<!-- TECH:END -->
+ - [‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
+ - [Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock](https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/)
+ - [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
+ - [Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p66#a261112p66)
+ - [New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A &lpar;CJ Fairfield/CRN&rpar;](https://www.techmeme.com/261112/p65#a261112p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)
- - [Google Catches Up to Apple, With Digital Wallet Keys for Your Physical Home Lock](https://www.cnet.com/home/security/google-aliro-digital-wallet-keys-home-locks/)
- - [Donald Trump really wants Tim Cook to run Nvidia](https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang)
- - [Sources: President Trump urged Jensen Huang to keep fighting for his job in a Tuesday call; aides say Trump saw the company as essentially too big to fail &lpar;New York Times&rpar;](https://www.techmeme.com/261112/p66#a261112p66)
- - [New York-based Hatz AI, which makes tools for managed services providers to help small businesses adopt AI, raised a $24M Series A &lpar;CJ Fairfield/CRN&rpar;](https://www.techmeme.com/261112/p65#a261112p65)<!-- TECH:END -->
+ - [OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them &lpar;Jessica Lyons/The Register&rpar;](https://www.techmeme.com/261113/p5#a261113p5)
+ - [Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&#39;s market value is $5.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261113/p4#a261113p4)
+ - [Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/261113/p3#a261113p3)
+ - [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
+ - [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

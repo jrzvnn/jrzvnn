@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
- - 😝 [Pirates of the Carribean ain&#39;t shit compared to this Masterpiece...](http://9gag.com/gag/aK1wj3N)
- - 💣 [Men of culture!! Everything changes at 00:27 with the biggest plot twist in history!!](http://9gag.com/gag/aZnb3wV)
+ - 😝 [Guess I&#39;ll die](http://9gag.com/gag/aD7A18K)
+ - 😝 [Youve been had](http://9gag.com/gag/aAQR3Eo)
+ - 💣 [Nice.](http://9gag.com/gag/a5VeoAO)
  - 😝 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)
- - 👉 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)<!-- MEMES:END -->
+ - 👉 [Men of culture!! Everything changes at 00:27 with the biggest plot twist in history!!](http://9gag.com/gag/aZnb3wV)<!-- MEMES:END -->
 
 ---
 

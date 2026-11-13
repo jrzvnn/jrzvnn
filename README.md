@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
- - [After 3 Weeks and More Than 400,000 Folds, the iPhone Duo’s Hinge Is Finally Starting to Fail](https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/)
- - [Paytm gets tentative approval to revive its digital wallet, which effectively died after India&#39;s central bank canceled Paytm Payments Bank&#39;s license in April &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/261113/p16#a261113p16)
- - [Designing HomeView was a hard but fun journey, says Apple](https://appleinsider.com/articles/26/11/13/designing-homeview-was-a-hard-but-fun-journey-says-apple?utm_source=rss)
- - [Microsoft&amp;#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)<!-- TECH:END -->
+ - [Best Early Black Friday AirPods Deals &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/)
+ - [Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&#39;t believe it was due to a cyberattack or criminality &lpar;Myles Miller/Bloomberg&rpar;](https://www.techmeme.com/261113/p33#a261113p33)
+ - [The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/261113/p32#a261113p32)
+ - [Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&#39; stakes to its primary operating entity in China to pave the way for an IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261113/p31#a261113p31)
+ - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

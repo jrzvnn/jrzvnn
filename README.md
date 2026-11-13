@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
- - 😝 [Phosphorus warcrimes or accident?](http://9gag.com/gag/a17voeY)
- - 💣 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)
- - 😝 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)
- - 👉 [Phosphorus warcrimes or accident?](http://9gag.com/gag/a17voeY)<!-- MEMES:END -->
+ - 😝 [Pirates of the Carribean ain&#39;t shit compared to this Masterpiece...](http://9gag.com/gag/aK1wj3N)
+ - 💣 [Men of culture!! Everything changes at 00:27 with the biggest plot twist in history!!](http://9gag.com/gag/aZnb3wV)
+ - 😝 [Need to watch some good content](http://9gag.com/gag/aj7YXW0)
+ - 👉 [Palestinian Tik Tok is now claiming that Israel is dropping snakes on Gaza. Over 200,000 likes. Genuinely the most low-IQ movement in history.](http://9gag.com/gag/aO2KzP6)<!-- MEMES:END -->
 
 ---
 

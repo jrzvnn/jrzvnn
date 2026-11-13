@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI launches Daybreak Red Team in early access to test web apps for flaws and Daybreak Defense Factory to automate finding, validating, and fixing them &lpar;Jessica Lyons/The Register&rpar;](https://www.techmeme.com/261113/p5#a261113p5)
- - [Sources: Samsung is in talks to buy Modine Manufacturing, a US maker of data center cooling systems, as soon as the coming weeks; Modine&#39;s market value is $5.6B &lpar;Bloomberg&rpar;](https://www.techmeme.com/261113/p4#a261113p4)
- - [Filing: Nscale says it needs more funding for its 2027 commitments after ordering Nvidia chips for a $45B Anthropic deal, casting doubt on its planned $35B IPO &lpar;Financial Times&rpar;](https://www.techmeme.com/261113/p3#a261113p3)
- - [Gametime Promo Code: Save on Tickets in November 2026](https://www.wired.com/story/gametime-promo-code/)
- - [Instacart Promo Code: $15 Off | November 2026](https://www.wired.com/story/instacart-promo/code/)<!-- TECH:END -->
+ - [The new Apple TV has a YouTube problem](https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error)
+ - [After 3 Weeks and More Than 400,000 Folds, the iPhone Duo’s Hinge Is Finally Starting to Fail](https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/)
+ - [Paytm gets tentative approval to revive its digital wallet, which effectively died after India&#39;s central bank canceled Paytm Payments Bank&#39;s license in April &lpar;Sankalp Phartiyal/Bloomberg&rpar;](https://www.techmeme.com/261113/p16#a261113p16)
+ - [Designing HomeView was a hard but fun journey, says Apple](https://appleinsider.com/articles/26/11/13/designing-homeview-was-a-hard-but-fun-journey-says-apple?utm_source=rss)
+ - [Microsoft&amp;#8217;s massive Outlook outage continues](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

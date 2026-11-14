@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a &quot;bitcoin treasury,&quot; as its shares are down 60+% this year &lpar;Financial Times&rpar;](https://www.techmeme.com/261114/p13#a261114p13)
- - [Tesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle&#39;s $29,990 purchase price &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/261114/p12#a261114p12)
- - [I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks](https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/)
- - [Italy&#39;s data protection agency fines Meta €805M for allegedly accessing Android users&#39; photos and videos without their consent or informing them &lpar;Reuters&rpar;](https://www.techmeme.com/261114/p11#a261114p11)
- - [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)<!-- TECH:END -->
+ - [USD-pegged stablecoins are taking a growing share of Latin America&#39;s crypto activity, serving as a store of value and an efficient cross-border payment system &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/261114/p19#a261114p19)
+ - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)
+ - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
+ - [A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed &lpar;Lauren Edmonds/Business Insider&rpar;](https://www.techmeme.com/261114/p17#a261114p17)
+ - [Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation &lpar;FinTech Global&rpar;](https://www.techmeme.com/261114/p16#a261114p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

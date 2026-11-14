@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla says &quot;select customers&quot; can now place orders for its Cybercab &quot;for personal use&quot;, for $30K plus a required $299/month Autonomy Subscription to operate &lpar;Kara Carlson/Bloomberg&rpar;](https://www.techmeme.com/261113/p39#a261113p39)
- - [AI&#39;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/261113/p38#a261113p38)
- - [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
- - [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
- - [Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals&#39; sites &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/261113/p37#a261113p37)<!-- TECH:END -->
+ - [Thanksgiving Meal Deals Roundup &lpar;2026&rpar;: Walmart, Amazon, Target](https://www.wired.com/story/thanksgiving-meal-deals-2026/)
+ - [These ‘Ghostly’ Galaxies Have Lost Their Dark Matter](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/)
+ - [Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p8#a261114p8)
+ - [Sources: despite Nvidia&#39;s 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing&#39;s chip self-sufficiency campaign &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/261114/p7#a261114p7)
+ - [Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/261114/p6#a261114p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

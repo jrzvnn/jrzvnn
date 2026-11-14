@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SFW](http://9gag.com/gag/aD7A1ZK)
- - 😝 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
- - 💣 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 😝 [SFW](http://9gag.com/gag/aD7A1ZK)
- - 👉 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)<!-- MEMES:END -->
+ - 😝 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
+ - 😝 [He worked his ass off to save money to buy a house. Then when he feel he save enough, he invited his wife to go for a house hunting. But his wife told him that she lend all the money to her family for his Brother&#39;s wedding.](http://9gag.com/gag/adv057V)
+ - 💣 [Definitely not a moth](http://9gag.com/gag/a9zbRnL)
+ - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
+ - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
 
 ---
 

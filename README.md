@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kevin drops chilli in every era](https://www.reddit.com/r/funny/comments/1xwdg92/kevin_drops_chilli_in_every_era/)
  - 😝 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
+ - 💣 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
  - 😝 [Entitled tourist](http://9gag.com/gag/aAQRgOo)
- - 💣 [Definitely not a moth](http://9gag.com/gag/a9zbRnL)
- - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 👉 [I know you all recognize the music!](https://www.reddit.com/r/funny/comments/1xw6tzf/i_know_you_all_recognize_the_music/)<!-- MEMES:END -->
+ - 👉 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->
 
 ---
 

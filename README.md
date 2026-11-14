@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thanksgiving Meal Deals Roundup &lpar;2026&rpar;: Walmart, Amazon, Target](https://www.wired.com/story/thanksgiving-meal-deals-2026/)
- - [These ‘Ghostly’ Galaxies Have Lost Their Dark Matter](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/)
- - [Microsoft says all Microsoft 365 products are operational, ending an outage that disrupted governments, traders, hospitals, and businesses around the world &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p8#a261114p8)
- - [Sources: despite Nvidia&#39;s 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing&#39;s chip self-sufficiency campaign &lpar;Eleanor Olcott/Financial Times&rpar;](https://www.techmeme.com/261114/p7#a261114p7)
- - [Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation &lpar;Lucinda Shen/Axios&rpar;](https://www.techmeme.com/261114/p6#a261114p6)<!-- TECH:END -->
+ - [Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a &quot;bitcoin treasury,&quot; as its shares are down 60+% this year &lpar;Financial Times&rpar;](https://www.techmeme.com/261114/p13#a261114p13)
+ - [Tesla posts its Cybercab Autonomy Subscription Agreement, requiring personal buyers to pay a mandatory $299/month on top of the vehicle&#39;s $29,990 purchase price &lpar;Fred Lambert/Electrek&rpar;](https://www.techmeme.com/261114/p12#a261114p12)
+ - [I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks](https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/)
+ - [Italy&#39;s data protection agency fines Meta €805M for allegedly accessing Android users&#39; photos and videos without their consent or informing them &lpar;Reuters&rpar;](https://www.techmeme.com/261114/p11#a261114p11)
+ - [Here are our favorite deals from REI’s giant Holiday Sale](https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/abeXYrp)
+ - 😝 [SFW](http://9gag.com/gag/aD7A1ZK)
+ - 😝 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)
  - 💣 [Youve been had](http://9gag.com/gag/aAQR3Eo)
- - 😝 [For you, corporate degenerates](http://9gag.com/gag/abeXYrp)
- - 👉 [Youve been had](http://9gag.com/gag/aAQR3Eo)<!-- MEMES:END -->
+ - 😝 [SFW](http://9gag.com/gag/aD7A1ZK)
+ - 👉 [Temporary boyfriend](http://9gag.com/gag/aLLRgmA)<!-- MEMES:END -->
 
 ---
 

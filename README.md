@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Early Black Friday AirPods Deals &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-airpods-deals-11-13-2026/)
- - [Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn&#39;t believe it was due to a cyberattack or criminality &lpar;Myles Miller/Bloomberg&rpar;](https://www.techmeme.com/261113/p33#a261113p33)
- - [The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US &lpar;Jeremy Hsu/Ars Technica&rpar;](https://www.techmeme.com/261113/p32#a261113p32)
- - [Sources: Moonshot AI is deactivating its Cayman holding company and moving investors&#39; stakes to its primary operating entity in China to pave the way for an IPO &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261113/p31#a261113p31)
- - [FAA Grounds All US Flights Until Further Notice](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/)<!-- TECH:END -->
+ - [Tesla says &quot;select customers&quot; can now place orders for its Cybercab &quot;for personal use&quot;, for $30K plus a required $299/month Autonomy Subscription to operate &lpar;Kara Carlson/Bloomberg&rpar;](https://www.techmeme.com/261113/p39#a261113p39)
+ - [AI&#39;s impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](https://www.techmeme.com/261113/p38#a261113p38)
+ - [FAA lifts nationwide ground stop that blocked takeoffs for hours](https://www.theverge.com/news/1033489/faa-ground-stop)
+ - [The FAA Nationwide Ground Stop Is Over](https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/)
+ - [Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals&#39; sites &lpar;Greg Bensinger/Reuters&rpar;](https://www.techmeme.com/261113/p37#a261113p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

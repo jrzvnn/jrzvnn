@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
- - 😝 [Kiss Kiss, Bang Bang](http://9gag.com/gag/aj7Y5wq)
- - 💣 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
- - 😝 [Entitled tourist](http://9gag.com/gag/aAQRgOo)
+ - 😝 [Earthquake](http://9gag.com/gag/a2MzRnY)
+ - 💣 [Entitled tourist](http://9gag.com/gag/aAQRgOo)
+ - 😝 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
  - 👉 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->
 
 ---

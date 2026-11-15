@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 12 falls to $329 with early Black Friday deals](https://appleinsider.com/articles/26/11/15/apple-watch-series-12-falls-to-329-with-early-black-friday-deals?utm_source=rss)
- - [A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&#39; most valuable company cannot dictate US foreign policy &lpar;Chris Miller/Financial Times&rpar;](https://www.techmeme.com/261115/p6#a261115p6)
- - [Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261115/p5#a261115p5)
- - [TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying &quot;we also want to support the future&#39;s Nvidia&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/261115/p4#a261115p4)
- - [Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/261115/p3#a261115p3)<!-- TECH:END -->
+ - [Siri AI will be how Apple Glass will unseat Meta&#39;s smart glasses](https://appleinsider.com/articles/26/11/15/siri-ai-will-be-how-apple-glass-will-unseat-metas-smart-glasses?utm_source=rss)
+ - [Lightweight Apple Glasses rumored for WWDC 2027 reveal](https://appleinsider.com/articles/26/11/15/lightweight-apple-glasses-rumored-for-wwdc-2027-reveal?utm_source=rss)
+ - [Apple Glasses will not have Apple Vision Pro-style augmented reality](https://appleinsider.com/articles/26/11/15/apple-glasses-will-not-have-apple-vision-pro-style-augmented-reality?utm_source=rss)
+ - [Face ID &amp; telephoto lens are coming to iPhone Duo, eventually](https://appleinsider.com/articles/26/11/15/face-id-telephoto-lens-are-coming-to-iphone-duo-eventually?utm_source=rss)
+ - [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

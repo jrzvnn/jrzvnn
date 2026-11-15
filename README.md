@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p21#a261114p21)
+ - [Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company &lpar;Forbes&rpar;](https://www.techmeme.com/261114/p20#a261114p20)
+ - [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
  - [USD-pegged stablecoins are taking a growing share of Latin America&#39;s crypto activity, serving as a store of value and an efficient cross-border payment system &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/261114/p19#a261114p19)
- - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)
- - [Magic: The Gathering is getting a Netflix animated series. For real this time.](https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series)
- - [A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed &lpar;Lauren Edmonds/Business Insider&rpar;](https://www.techmeme.com/261114/p17#a261114p17)
- - [Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation &lpar;FinTech Global&rpar;](https://www.techmeme.com/261114/p16#a261114p16)<!-- TECH:END -->
+ - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

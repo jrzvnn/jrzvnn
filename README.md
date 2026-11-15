@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri AI will be how Apple Glass will unseat Meta&#39;s smart glasses](https://appleinsider.com/articles/26/11/15/siri-ai-will-be-how-apple-glass-will-unseat-metas-smart-glasses?utm_source=rss)
- - [Lightweight Apple Glasses rumored for WWDC 2027 reveal](https://appleinsider.com/articles/26/11/15/lightweight-apple-glasses-rumored-for-wwdc-2027-reveal?utm_source=rss)
- - [Apple Glasses will not have Apple Vision Pro-style augmented reality](https://appleinsider.com/articles/26/11/15/apple-glasses-will-not-have-apple-vision-pro-style-augmented-reality?utm_source=rss)
- - [Face ID &amp; telephoto lens are coming to iPhone Duo, eventually](https://appleinsider.com/articles/26/11/15/face-id-telephoto-lens-are-coming-to-iphone-duo-eventually?utm_source=rss)
- - [LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend](https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale)<!-- TECH:END -->
+ - [Sunday Reboot: Unhinged robots and commentator curses](https://appleinsider.com/articles/26/11/15/sunday-reboot-unhinged-robots-and-commentator-curses?utm_source=rss)
+ - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
+ - [Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &quot;legitimate and lawful business&quot; as it opens an internal probe &lpar;Associated Press&rpar;](https://www.techmeme.com/261115/p15#a261115p15)
+ - [Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &quot;war room&quot; to lobby for his return and seek White House support &lpar;Financial Times&rpar;](https://www.techmeme.com/261115/p14#a261115p14)
+ - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

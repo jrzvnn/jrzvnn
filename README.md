@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 💣 [Can I talk to you about Jesus?](https://www.reddit.com/r/funny/comments/1xwygy1/can_i_talk_to_you_about_jesus/)
- - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
- - 👉 [The Airport Experience](https://www.reddit.com/r/funny/comments/1xwyefc/the_airport_experience/)<!-- MEMES:END -->
+ - 😝 [The magician](http://9gag.com/gag/aXL0g2P)
+ - 😝 [They could have given her a shirt :&lpar;](http://9gag.com/gag/avWpzYM)
+ - 💣 [Distraction jackson](https://www.reddit.com/r/funny/comments/1xx6a7d/distraction_jackson/)
+ - 😝 [Window winders.](http://9gag.com/gag/a9zbEnZ)
+ - 👉 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
 
 ---
 

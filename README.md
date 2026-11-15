@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kevin drops chilli in every era](https://www.reddit.com/r/funny/comments/1xwdg92/kevin_drops_chilli_in_every_era/)
  - 😝 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
+ - 😝 [Kiss Kiss, Bang Bang](http://9gag.com/gag/aj7Y5wq)
  - 💣 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
  - 😝 [Entitled tourist](http://9gag.com/gag/aAQRgOo)
  - 👉 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->

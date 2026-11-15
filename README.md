@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want hardcore raids without the PvP pressure?](http://9gag.com/gag/awg0Amy)
- - 😝 [Earthquake](http://9gag.com/gag/a2MzRnY)
- - 💣 [Entitled tourist](http://9gag.com/gag/aAQRgOo)
- - 😝 [Nice to see the marriage spark re-ignited](http://9gag.com/gag/ae4jrAb)
- - 👉 [Jackpot](http://9gag.com/gag/ap1E59E)<!-- MEMES:END -->
+ - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
+ - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
+ - 💣 [Can I talk to you about Jesus?](https://www.reddit.com/r/funny/comments/1xwygy1/can_i_talk_to_you_about_jesus/)
+ - 😝 [Jackpot](http://9gag.com/gag/ap1E59E)
+ - 👉 [The Airport Experience](https://www.reddit.com/r/funny/comments/1xwyefc/the_airport_experience/)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases &lpar;Bloomberg&rpar;](https://www.techmeme.com/261114/p21#a261114p21)
- - [Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company &lpar;Forbes&rpar;](https://www.techmeme.com/261114/p20#a261114p20)
- - [Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship](https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch)
- - [USD-pegged stablecoins are taking a growing share of Latin America&#39;s crypto activity, serving as a store of value and an efficient cross-border payment system &lpar;Maria Clara Cobo/Bloomberg&rpar;](https://www.techmeme.com/261114/p19#a261114p19)
- - [Letter: Altimeter&#39;s Brad Gerstner and Atreides&#39;s Gavin Baker urge Nvidia&#39;s board to consider &quot;the potential return of Jensen Huang&quot;; they own $2.13B in Nvidia &lpar;Katie Tarasov/CNBC&rpar;](https://www.techmeme.com/261114/p18#a261114p18)<!-- TECH:END -->
+ - [Apple Watch Series 12 falls to $329 with early Black Friday deals](https://appleinsider.com/articles/26/11/15/apple-watch-series-12-falls-to-329-with-early-black-friday-deals?utm_source=rss)
+ - [A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&#39; most valuable company cannot dictate US foreign policy &lpar;Chris Miller/Financial Times&rpar;](https://www.techmeme.com/261115/p6#a261115p6)
+ - [Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed &lpar;Alex Konrad/Upstarts Media&rpar;](https://www.techmeme.com/261115/p5#a261115p5)
+ - [TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying &quot;we also want to support the future&#39;s Nvidia&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/261115/p4#a261115p4)
+ - [Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](https://www.techmeme.com/261115/p3#a261115p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

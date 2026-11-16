@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic&#39;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &lpar;Bloomberg&rpar;](https://www.techmeme.com/261115/p18#a261115p18)
- - [Amazon loses 40 Leo satellites after ULA&#39;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &lpar;Joey Roulette/Reuters&rpar;](https://www.techmeme.com/261115/p17#a261115p17)
- - [Analysis: Huawei&#39;s Horinger data center, among China&#39;s largest for AI, has ~7% of the compute of SpaceX&#39;s Colossus 2 and may stay far behind until at least 2028 &lpar;Ben Cottier/Epoch AI&rpar;](https://www.techmeme.com/261115/p16#a261115p16)
- - [Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
- - [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)<!-- TECH:END -->
+ - [Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261116/p5#a261116p5)
+ - [Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, bringing total funding to $29.2M after a $4.2M pre-seed in Nov. 2025 &lpar;Sofia Chesnokova/Tech Funding News&rpar;](https://www.techmeme.com/261116/p4#a261116p4)
+ - [Source: Musk will attend this week&#39;s APEC summit in Shenzhen, where Trump, Xi, and Putin will meet; many US business leaders may skip over scheduling conflicts &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261116/p3#a261116p3)
+ - [Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas &lpar;Financial Times&rpar;](https://www.techmeme.com/261116/p2#a261116p2)
+ - [Alibaba says it filtered Qwen4-Max&#39;s training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/261116/p1#a261116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

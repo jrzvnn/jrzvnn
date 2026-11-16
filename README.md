@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you?](http://9gag.com/gag/aGLYpB7)
- - 😝 [The magician](http://9gag.com/gag/aXL0g2P)
- - 💣 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - 😝 [Would you?](http://9gag.com/gag/aGLYpB7)
- - 👉 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
+ - 😝 [No comments](http://9gag.com/gag/a9zb1W1)
+ - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 💣 [I can see the disappointment in her face](http://9gag.com/gag/aVgz7RM)
+ - 😝 [I know you are](http://9gag.com/gag/a5VeEYr)
+ - 👉 [No comments](http://9gag.com/gag/a9zb1W1)<!-- MEMES:END -->
 
 ---
 

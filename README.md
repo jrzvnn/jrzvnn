@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ &lpar;Heather Landi/Fierce Healthcare&rpar;](https://www.techmeme.com/261116/p5#a261116p5)
- - [Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, bringing total funding to $29.2M after a $4.2M pre-seed in Nov. 2025 &lpar;Sofia Chesnokova/Tech Funding News&rpar;](https://www.techmeme.com/261116/p4#a261116p4)
- - [Source: Musk will attend this week&#39;s APEC summit in Shenzhen, where Trump, Xi, and Putin will meet; many US business leaders may skip over scheduling conflicts &lpar;Nikkei Asia&rpar;](https://www.techmeme.com/261116/p3#a261116p3)
- - [Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas &lpar;Financial Times&rpar;](https://www.techmeme.com/261116/p2#a261116p2)
- - [Alibaba says it filtered Qwen4-Max&#39;s training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks &lpar;Ann Cao/South China Morning Post&rpar;](https://www.techmeme.com/261116/p1#a261116p1)<!-- TECH:END -->
+ - [Sam Altman says he has &quot;personal strong empathy&quot; for Jensen Huang and &quot;heroes have flaws,&quot; but the AI industry &quot;will be fine&quot; due to strong revenues and demand &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/261116/p38#a261116p38)
+ - [This classic Frog Design compact Mac prototype is reborn](https://appleinsider.com/articles/26/11/16/this-frog-design-compact-mac-prototype-project?utm_source=rss)
+ - [Gotta catch these Pokemon 30th anniversary items from Apple Japan](https://appleinsider.com/articles/26/11/16/gotta-catch-these-pokemon-30th-anniversary-items-from-apple-japan?utm_source=rss)
+ - [I Put Xiaomi’s 18 Pro Max Camera to the Test and I Love the Results](https://www.cnet.com/tech/mobile/i-put-xiaomis-18-pro-max-camera-to-the-test-and-love-the-results/)
+ - [Oprah&#39;s &#39;Favorite things&#39; giveaway just awarded $240,000 in iPhone Duos](https://appleinsider.com/articles/26/11/16/oprahs-favorite-things-giveaway-just-awarded-240000-in-iphone-duos?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The magician](http://9gag.com/gag/aXL0g2P)
- - 😝 [They could have given her a shirt :&lpar;](http://9gag.com/gag/avWpzYM)
- - 💣 [Distraction jackson](https://www.reddit.com/r/funny/comments/1xx6a7d/distraction_jackson/)
- - 😝 [Window winders.](http://9gag.com/gag/a9zbEnZ)
- - 👉 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
+ - 😝 [Would you?](http://9gag.com/gag/aGLYpB7)
+ - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 💣 [She deserved more karma](http://9gag.com/gag/a4nKEEd)
+ - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 👉 [Would you?](http://9gag.com/gag/aGLYpB7)<!-- MEMES:END -->
 
 ---
 

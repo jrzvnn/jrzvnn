@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Unhinged robots and commentator curses](https://appleinsider.com/articles/26/11/15/sunday-reboot-unhinged-robots-and-commentator-curses?utm_source=rss)
- - [Jensen Huang might be plotting a return and more of the latest Nvidia drama](https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed)
- - [Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a &quot;legitimate and lawful business&quot; as it opens an internal probe &lpar;Associated Press&rpar;](https://www.techmeme.com/261115/p15#a261115p15)
- - [Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a &quot;war room&quot; to lobby for his return and seek White House support &lpar;Financial Times&rpar;](https://www.techmeme.com/261115/p14#a261115p14)
- - [Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)<!-- TECH:END -->
+ - [Sources: Anthropic&#39;s IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement &lpar;Bloomberg&rpar;](https://www.techmeme.com/261115/p18#a261115p18)
+ - [Amazon loses 40 Leo satellites after ULA&#39;s Vulcan rocket fails 10 minutes into flight, marking the first mission failure for the Boeing-Lockheed joint venture &lpar;Joey Roulette/Reuters&rpar;](https://www.techmeme.com/261115/p17#a261115p17)
+ - [Analysis: Huawei&#39;s Horinger data center, among China&#39;s largest for AI, has ~7% of the compute of SpaceX&#39;s Colossus 2 and may stay far behind until at least 2028 &lpar;Ben Cottier/Epoch AI&rpar;](https://www.techmeme.com/261115/p16#a261115p16)
+ - [Listen to this: Armand Hammer’s Snakes &amp;#038; Ladders](https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review)
+ - [Vulcan rocket fails, destroying 40 Amazon Leo satellites](https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

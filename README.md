@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Would you?](http://9gag.com/gag/aGLYpB7)
- - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - 💣 [She deserved more karma](http://9gag.com/gag/a4nKEEd)
- - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - 👉 [Would you?](http://9gag.com/gag/aGLYpB7)<!-- MEMES:END -->
+ - 😝 [The magician](http://9gag.com/gag/aXL0g2P)
+ - 💣 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
+ - 😝 [Would you?](http://9gag.com/gag/aGLYpB7)
+ - 👉 [The magician](http://9gag.com/gag/aXL0g2P)<!-- MEMES:END -->
 
 ---
 

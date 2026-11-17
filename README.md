@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says he has &quot;personal strong empathy&quot; for Jensen Huang and &quot;heroes have flaws,&quot; but the AI industry &quot;will be fine&quot; due to strong revenues and demand &lpar;Shirin Ghaffary/Bloomberg&rpar;](https://www.techmeme.com/261116/p38#a261116p38)
- - [This classic Frog Design compact Mac prototype is reborn](https://appleinsider.com/articles/26/11/16/this-frog-design-compact-mac-prototype-project?utm_source=rss)
- - [Gotta catch these Pokemon 30th anniversary items from Apple Japan](https://appleinsider.com/articles/26/11/16/gotta-catch-these-pokemon-30th-anniversary-items-from-apple-japan?utm_source=rss)
- - [I Put Xiaomi’s 18 Pro Max Camera to the Test and I Love the Results](https://www.cnet.com/tech/mobile/i-put-xiaomis-18-pro-max-camera-to-the-test-and-love-the-results/)
- - [Oprah&#39;s &#39;Favorite things&#39; giveaway just awarded $240,000 in iPhone Duos](https://appleinsider.com/articles/26/11/16/oprahs-favorite-things-giveaway-just-awarded-240000-in-iphone-duos?utm_source=rss)<!-- TECH:END -->
+ - [The 8 Best Movies to Stream Right Now &lpar;November 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
+ - [School Campuses Emerge as the Latest Battleground for Flock Safety Cameras](https://www.cnet.com/news/privacy/school-campuses-flock-safety-cameras/)
+ - [Keychron K2 Ultra 8K review: More affordable 8KHz polling &amp; custom RGB](https://appleinsider.com/articles/26/11/17/keychron-k2-ultra-8k-review-more-affordable-8khz-polling-custom-rgb?utm_source=rss)
+ - [Did a Single Router Ground the Nation’s Flights? Experts Express Doubt](https://www.cnet.com/home/internet/did-single-router-ground-nations-flights/)
+ - [Sources: the US DOJ will review DoorDash&#39;s ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/261116/p48#a261116p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

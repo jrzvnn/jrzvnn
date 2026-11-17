@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 😝 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)
- - 💣 [I know you are](http://9gag.com/gag/a5VeEYr)
- - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 👉 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)<!-- MEMES:END -->
+ - 😝 [The kills kill](http://9gag.com/gag/abeXAqL)
+ - 💣 [Power to the people? Abolish electoral college?](http://9gag.com/gag/ayq7NxV)
+ - 😝 [I know you are](http://9gag.com/gag/a5VeEYr)
+ - 👉 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)<!-- MEMES:END -->
 
 ---
 

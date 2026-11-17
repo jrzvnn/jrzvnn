@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comments](http://9gag.com/gag/a9zb1W1)
- - 😝 [Full image in the comments](http://9gag.com/gag/ap1ENL5)
- - 💣 [I can see the disappointment in her face](http://9gag.com/gag/aVgz7RM)
- - 😝 [I know you are](http://9gag.com/gag/a5VeEYr)
- - 👉 [No comments](http://9gag.com/gag/a9zb1W1)<!-- MEMES:END -->
+ - 😝 [First class](http://9gag.com/gag/ayq79gb)
+ - 😝 [James Bond](http://9gag.com/gag/axWdBmW)
+ - 💣 [Which nation has produced the world&#39;s most magnificent architecture throughout history?](http://9gag.com/gag/aoWEgvg)
+ - 😝 [The Names Edward](http://9gag.com/gag/abeXgB8)
+ - 👉 [Just your regular ol&#39; British Chap](https://www.reddit.com/r/funny/comments/1xy7z4j/just_your_regular_ol_british_chap/)<!-- MEMES:END -->
 
 ---
 

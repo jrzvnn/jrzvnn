@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 8 Best Movies to Stream Right Now &lpar;November 2026&rpar;](https://www.wired.com/story/the-8-best-movies-to-stream-right-now/)
- - [School Campuses Emerge as the Latest Battleground for Flock Safety Cameras](https://www.cnet.com/news/privacy/school-campuses-flock-safety-cameras/)
- - [Keychron K2 Ultra 8K review: More affordable 8KHz polling &amp; custom RGB](https://appleinsider.com/articles/26/11/17/keychron-k2-ultra-8k-review-more-affordable-8khz-polling-custom-rgb?utm_source=rss)
- - [Did a Single Router Ground the Nation’s Flights? Experts Express Doubt](https://www.cnet.com/home/internet/did-single-router-ground-nations-flights/)
- - [Sources: the US DOJ will review DoorDash&#39;s ~$17B acquisition of Instacart; DoorDash has agreed to pay a $1.25B breakup fee if the deal fails antitrust review &lpar;Jody Godoy/Reuters&rpar;](https://www.techmeme.com/261116/p48#a261116p48)<!-- TECH:END -->
+ - [Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About](https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/)
+ - [Nvidia&#39;s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/261117/p8#a261117p8)
+ - [Are Smart Car Seats Worth It? I Tested Two to Find Out &lpar;2026&rpar;](https://www.wired.com/story/do-you-need-a-smart-car-seat/)
+ - [Oakland-based Numa, which builds an AI platform to manage car dealership customer service, raised a $45M Series C, a source says at a $500M post-money valuation &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/261117/p7#a261117p7)
+ - [Meta says it modified Instagram&#39;s recommendation systems in India to show less sexual and violent content, after New Delhi called for tighter content checks &lpar;Reuters&rpar;](https://www.techmeme.com/261117/p6#a261117p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

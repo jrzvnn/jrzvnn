@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About](https://www.wired.com/story/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/)
- - [Nvidia&#39;s board establishes a National Security and Export Control Oversight Committee to oversee national security policies, export control compliance, and more &lpar;Nvidia Newsroom&rpar;](https://www.techmeme.com/261117/p8#a261117p8)
- - [Are Smart Car Seats Worth It? I Tested Two to Find Out &lpar;2026&rpar;](https://www.wired.com/story/do-you-need-a-smart-car-seat/)
- - [Oakland-based Numa, which builds an AI platform to manage car dealership customer service, raised a $45M Series C, a source says at a $500M post-money valuation &lpar;Camila Grigera Naón/Fortune&rpar;](https://www.techmeme.com/261117/p7#a261117p7)
- - [Meta says it modified Instagram&#39;s recommendation systems in India to show less sexual and violent content, after New Delhi called for tighter content checks &lpar;Reuters&rpar;](https://www.techmeme.com/261117/p6#a261117p6)<!-- TECH:END -->
+ - [Framework’s better couch keyboard is now available for preorder](https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open)
+ - [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
+ - [iCloud account login &amp; iCloud mail services are having trouble today](https://appleinsider.com/articles/26/11/17/icloud-account-login-icloud-mail-services-are-having-trouble-today?utm_source=rss)
+ - [Apple&#39;s System Status page shows an outage affecting iCloud sign-in for &quot;all users&quot;, the App Store, and Apple Music; some users report failed iPhone activations &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261117/p48#a261117p48)
+ - [JBL’s headphones that are great for in-flight entertainment are 67 percent off](https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

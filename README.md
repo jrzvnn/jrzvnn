@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework’s better couch keyboard is now available for preorder](https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open)
- - [California just banned Waymo from all state freeways](https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety)
- - [iCloud account login &amp; iCloud mail services are having trouble today](https://appleinsider.com/articles/26/11/17/icloud-account-login-icloud-mail-services-are-having-trouble-today?utm_source=rss)
- - [Apple&#39;s System Status page shows an outage affecting iCloud sign-in for &quot;all users&quot;, the App Store, and Apple Music; some users report failed iPhone activations &lpar;Sarah Perez/TechCrunch&rpar;](https://www.techmeme.com/261117/p48#a261117p48)
- - [JBL’s headphones that are great for in-flight entertainment are 67 percent off](https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026)<!-- TECH:END -->
+ - [Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic&#39;s IPO midpoint, the average employee&#39;s equity is valued at $72M &lpar;Bloomberg&rpar;](https://www.techmeme.com/261117/p67#a261117p67)
+ - [Hackers Are Using AI to Speed Through Cyberattacks, FBI Warns](https://www.cnet.com/tech/hackers-artex-ai-cyberattacks-fbi-warning/)
+ - [Sources: Wall Street execs and the NSA told Congress this week&#39;s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models &lpar;Jeff Stein/The Washington Sun&rpar;](https://www.techmeme.com/261117/p66#a261117p66)
+ - [Tech outages disrupting everything from air travel to banking transactions over the past week have fueled public distrust and paranoia about tech infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261117/p65#a261117p65)
+ - [FAA pauses installations of Juniper routers like the one officials believe contributed to Friday&#39;s nationwide ground stop; HPE says its device wasn&#39;t defective &lpar;Neil Vigdor/New York Times&rpar;](https://www.techmeme.com/261117/p64#a261117p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: San Francisco-based AI startup insiders hold a combined $1.2T in equity; at Anthropic&#39;s IPO midpoint, the average employee&#39;s equity is valued at $72M &lpar;Bloomberg&rpar;](https://www.techmeme.com/261117/p67#a261117p67)
- - [Hackers Are Using AI to Speed Through Cyberattacks, FBI Warns](https://www.cnet.com/tech/hackers-artex-ai-cyberattacks-fbi-warning/)
- - [Sources: Wall Street execs and the NSA told Congress this week&#39;s outages stemmed from systems overwhelmed by a rush to patch vulnerabilities found by AI models &lpar;Jeff Stein/The Washington Sun&rpar;](https://www.techmeme.com/261117/p66#a261117p66)
- - [Tech outages disrupting everything from air travel to banking transactions over the past week have fueled public distrust and paranoia about tech infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261117/p65#a261117p65)
- - [FAA pauses installations of Juniper routers like the one officials believe contributed to Friday&#39;s nationwide ground stop; HPE says its device wasn&#39;t defective &lpar;Neil Vigdor/New York Times&rpar;](https://www.techmeme.com/261117/p64#a261117p64)<!-- TECH:END -->
+ - [Apple HomeView Review &lpar;2026&rpar;: Should’ve Been Better](https://www.wired.com/review/apple-homeview-review/)
+ - [Best Smart Bed of 2026: Bryte and Tempur-Pedic](https://www.wired.com/gallery/best-smart-bed/)
+ - [House Democrats Are Officially Coming for Trump’s Orbit](https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/)
+ - [Lovable Wants You to Vibe Code Your Dream Job](https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/)
+ - [Sources: Nvidia made two separate introductions in 2022 connecting Alibaba with alleged Chinese spy Alice Huang, actively helping Megaspeed land Alibaba &lpar;The Information&rpar;](https://www.techmeme.com/261118/p6#a261118p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

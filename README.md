@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple HomeView Review &lpar;2026&rpar;: Should’ve Been Better](https://www.wired.com/review/apple-homeview-review/)
- - [Best Smart Bed of 2026: Bryte and Tempur-Pedic](https://www.wired.com/gallery/best-smart-bed/)
- - [House Democrats Are Officially Coming for Trump’s Orbit](https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit/)
- - [Lovable Wants You to Vibe Code Your Dream Job](https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/)
- - [Sources: Nvidia made two separate introductions in 2022 connecting Alibaba with alleged Chinese spy Alice Huang, actively helping Megaspeed land Alibaba &lpar;The Information&rpar;](https://www.techmeme.com/261118/p6#a261118p6)<!-- TECH:END -->
+ - [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
+ - [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
+ - [An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings](https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/)
+ - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+ - [Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them &lpar;Google&rpar;](https://www.techmeme.com/261118/p37#a261118p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

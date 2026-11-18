@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)
+ - 😝 [She said F-wha?](http://9gag.com/gag/awg0yEQ)
  - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 💣 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)
+ - 💣 [She said F-wha?](http://9gag.com/gag/awg0yEQ)
  - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 👉 [That condescending irritating voice of the dispatcher when lives are on the line. Why do some americans speak like this?](http://9gag.com/gag/aAQRyWR)<!-- MEMES:END -->
+ - 👉 [She said F-wha?](http://9gag.com/gag/awg0yEQ)<!-- MEMES:END -->
 
 ---
 

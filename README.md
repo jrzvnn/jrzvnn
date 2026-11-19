@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [GOTY](http://9gag.com/gag/a8ALAQY)
+ - 😝 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 💣 [Finish the Drawing](http://9gag.com/gag/a2MzMAe)
  - 😝 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
- - 😝 [9GAG Review](http://9gag.com/gag/ayq731y)
- - 💣 [Best video ever](http://9gag.com/gag/aBZR6yN)
- - 😝 [People who preordered it got what they f**king deserved.](http://9gag.com/gag/ayq73pX)
- - 👉 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)<!-- MEMES:END -->
+ - 👉 [Activists and minority NPCs are invulnerable in GTA VI. And Nexusmod will ban any mod that remove their invincibility](http://9gag.com/gag/amWN17j)<!-- MEMES:END -->
 
 ---
 

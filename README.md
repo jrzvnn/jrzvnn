@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Owning an Apple Home: Bye bye SwitchBot](https://appleinsider.com/articles/26/11/19/owning-an-apple-home-bye-bye-switchbot?utm_source=rss)
- - [NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features &lpar;New York Times&rpar;](https://www.techmeme.com/261118/p52#a261118p52)
- - [Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B &lpar;Yasutaka Tamura/Bloomberg&rpar;](https://www.techmeme.com/261118/p51#a261118p51)
- - [At DealBook, Elon Musk says he feels &quot;pretty foolish&quot; after spending nearly $500M backing Republicans in midterms won by Democrats and claims &quot;I&#39;m not MAGA&quot; &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261118/p50#a261118p50)
- - [The Best Early Black Friday Deals On Laptops I&#39;ve Tested Myself &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/)<!-- TECH:END -->
+ - [Amazon&#39;s Black Friday Beats deals drive prices down to as low as $89](https://appleinsider.com/articles/26/11/19/amazons-black-friday-beats-deals-drive-prices-down-to-as-low-as-89?utm_source=rss)
+ - [Apple Studio Display plunges to $1,399 in Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/26/11/19/apple-studio-display-plunges-to-1399-in-amazons-black-friday-sale?utm_source=rss)
+ - [A profile of Netflix&#39;s new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy &lpar;Alex Weprin/The Hollywood Reporter&rpar;](https://www.techmeme.com/261119/p10#a261119p10)
+ - [College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261119/p9#a261119p9)
+ - [Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing &lpar;Christian Davies/Financial Times&rpar;](https://www.techmeme.com/261119/p8#a261119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

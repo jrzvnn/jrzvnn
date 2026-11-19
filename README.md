@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She said F-wha?](http://9gag.com/gag/awg0yEQ)
- - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 💣 [She said F-wha?](http://9gag.com/gag/awg0yEQ)
- - 😝 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 👉 [She said F-wha?](http://9gag.com/gag/awg0yEQ)<!-- MEMES:END -->
+ - 😝 [Girl cooking](http://9gag.com/gag/aEMvM5e)
+ - 😝 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
+ - 💣 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
+ - 😝 [Girl cooking](http://9gag.com/gag/aEMvM5e)
+ - 👉 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)<!-- MEMES:END -->
 
 ---
 

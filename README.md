@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl cooking](http://9gag.com/gag/aEMvM5e)
- - 😝 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)
- - 💣 [Make sure you have another job offer in hand before you pull this trick on HR.](http://9gag.com/gag/aLLR1gv)
- - 😝 [Girl cooking](http://9gag.com/gag/aEMvM5e)
- - 👉 [You can&#39;t kill ppl protesting for LGBTQ rights in GTA VI](http://9gag.com/gag/aVgzgrw)<!-- MEMES:END -->
+ - 😝 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
+ - 😝 [9GAG Review](http://9gag.com/gag/ayq731y)
+ - 💣 [Best video ever](http://9gag.com/gag/aBZR6yN)
+ - 😝 [People who preordered it got what they f**king deserved.](http://9gag.com/gag/ayq73pX)
+ - 👉 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)<!-- MEMES:END -->
 
 ---
 

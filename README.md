@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Black Friday Beats deals drive prices down to as low as $89](https://appleinsider.com/articles/26/11/19/amazons-black-friday-beats-deals-drive-prices-down-to-as-low-as-89?utm_source=rss)
- - [Apple Studio Display plunges to $1,399 in Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/26/11/19/apple-studio-display-plunges-to-1399-in-amazons-black-friday-sale?utm_source=rss)
- - [A profile of Netflix&#39;s new Chief Content Officer Peter Rice, a former Fox and Disney executive, as sources say he may focus on revamping its film strategy &lpar;Alex Weprin/The Hollywood Reporter&rpar;](https://www.techmeme.com/261119/p10#a261119p10)
- - [College students are increasingly pushing back against campus AI mandates, demanding opt-outs from AI-required assignments and an end to enterprise licenses &lpar;Dana Goldstein/New York Times&rpar;](https://www.techmeme.com/261119/p9#a261119p9)
- - [Association for Advancing Automation: North American companies ordered ~11K robots in Q3 2026, up 25% YoY, as they seek to ease labor shortages in manufacturing &lpar;Christian Davies/Financial Times&rpar;](https://www.techmeme.com/261119/p8#a261119p8)<!-- TECH:END -->
+ - [Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/261119/p46#a261119p46)
+ - [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
+ - [Leaked images reveal Motorola’s wide foldable](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak)
+ - [Oh, Elon Musk is ‘moderate’ now, is he?](https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook)
+ - [Apple’s iPhone camera leader has reportedly left the company](https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

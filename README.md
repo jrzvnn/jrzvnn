@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The leaked Lenovo Legion Go Beam could be the affordable handheld we need](https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need)
- - [Tech lawsuits defined 2026 — and lawmakers want more](https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act)
- - [An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings](https://www.wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings/)
- - [The best early Black Friday deals you can already shop](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
- - [Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them &lpar;Google&rpar;](https://www.techmeme.com/261118/p37#a261118p37)<!-- TECH:END -->
+ - [Owning an Apple Home: Bye bye SwitchBot](https://appleinsider.com/articles/26/11/19/owning-an-apple-home-bye-bye-switchbot?utm_source=rss)
+ - [NYC, LA, and Chicago school districts are weighing alternatives to Google Search after Google declined to offer schools a version of Search without AI features &lpar;New York Times&rpar;](https://www.techmeme.com/261118/p52#a261118p52)
+ - [Filing: Anthropic raised ~$3B from Japanese investors as part of its IPO, the lower end of its planned range of $3B to $3.5B &lpar;Yasutaka Tamura/Bloomberg&rpar;](https://www.techmeme.com/261118/p51#a261118p51)
+ - [At DealBook, Elon Musk says he feels &quot;pretty foolish&quot; after spending nearly $500M backing Republicans in midterms won by Democrats and claims &quot;I&#39;m not MAGA&quot; &lpar;Todd Spangler/Variety&rpar;](https://www.techmeme.com/261118/p50#a261118p50)
+ - [The Best Early Black Friday Deals On Laptops I&#39;ve Tested Myself &lpar;2026&rpar;](https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

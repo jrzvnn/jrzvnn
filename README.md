@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#39;s close, a 430%+ return on investment &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/261119/p56#a261119p56)
- - [Engwe M20 3.0 review: Cruising in style without any smarts](https://appleinsider.com/articles/26/11/20/engwe-m20-30-review-cruising-in-style-without-any-smarts?utm_source=rss)
- - [Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/261119/p55#a261119p55)
- - [Uber Is Testing Rides for Kids With Qualified Drivers](https://www.cnet.com/roadshow/uber-testing-rides-for-kids/)
- - [The Funniest GTA 6 Memes Are Running Full Throttle](https://www.cnet.com/tech/best-funniest-gta6-memes-jokes/)<!-- TECH:END -->
+ - [Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/261120/p6#a261120p6)
+ - [Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p5#a261120p5)
+ - [This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/)
+ - [Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/261120/p4#a261120p4)
+ - [Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale&#39;s 2025 revenue &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p3#a261120p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

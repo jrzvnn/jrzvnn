@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
- - [Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn&#39;t come up &lpar;Reuters&rpar;](https://www.techmeme.com/261120/p20#a261120p20)
- - [Teenage Engineering’s first CD player puts the spinning disc on display](https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth)
- - [The 23 Best Early Black Friday Deals: Our Ultimate Picks &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-deals-11-20-2026/)
- - [Google Gemini Partners With Watch Duty to Clear Static From Firefighter Radio](https://www.cnet.com/tech/services-and-software/google-gemini-clears-firefighter-radio-static/)<!-- TECH:END -->
+ - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
+ - [Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p41#a261120p41)
+ - [Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p40#a261120p40)
+ - [Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to &quot;geopolitical risk&quot;; Cursor&#39;s Composer 2 was built on Kimi K2.5 &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/261120/p39#a261120p39)
+ - [Sources: hackers breached the US Department of Agriculture&#39;s system that facilitates payments to farmers this week &lpar;Julia Ainsley/NBC News&rpar;](https://www.techmeme.com/261120/p38#a261120p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

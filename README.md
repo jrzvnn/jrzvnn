@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
  - 😝 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
- - 😝 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
- - 💣 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)
- - 😝 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
- - 👉 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)<!-- MEMES:END -->
+ - 💣 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
+ - 😝 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)
+ - 👉 [The Cozy Room](http://9gag.com/gag/a8AL6B1)<!-- MEMES:END -->
 
 ---
 

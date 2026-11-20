@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Simp VI](http://9gag.com/gag/a8ALm8d)
- - 😝 [So, is it any good...?](http://9gag.com/gag/abeXO2r)
- - 💣 [$imp Sim VI](http://9gag.com/gag/aYGNEG7)
- - 😝 [...](http://9gag.com/gag/aVgzEoO)
- - 👉 [The Cozy Room](http://9gag.com/gag/a8AL6B1)<!-- MEMES:END -->
+ - 😝 [Beautiful](http://9gag.com/gag/ae4j12m)
+ - 😝 [Only a girl playing air guitare outside, nothing to see here.](http://9gag.com/gag/amWNGed)
+ - 💣 [The Cozy Room](http://9gag.com/gag/a8AL6B1)
+ - 😝 [Alright Johnny Sins...](http://9gag.com/gag/aoWEV82)
+ - 👉 [Teleports behind you - nothing personal kid](http://9gag.com/gag/aBZRLGD)<!-- MEMES:END -->
 
 ---
 

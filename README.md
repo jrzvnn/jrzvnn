@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](https://www.techmeme.com/261120/p6#a261120p6)
- - [Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p5#a261120p5)
- - [This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/)
- - [Samsung names Choi Won-Joon head of its mobile division, replacing TM Roh, who stays as Samsung co-CEO, and Sang Joon Hwang to lead its memory business &lpar;Ben Schoon/9to5Google&rpar;](https://www.techmeme.com/261120/p4#a261120p4)
- - [Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale&#39;s 2025 revenue &lpar;Bloomberg&rpar;](https://www.techmeme.com/261120/p3#a261120p3)<!-- TECH:END -->
+ - [Here are the Apple deals actually worth picking up ahead of Black Friday](https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026)
+ - [Scott Bessent says Trump and Xi agreed that military AI decisions should involve humans, and that the spying allegations involving Alice Huang didn&#39;t come up &lpar;Reuters&rpar;](https://www.techmeme.com/261120/p20#a261120p20)
+ - [Teenage Engineering’s first CD player puts the spinning disc on display](https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth)
+ - [The 23 Best Early Black Friday Deals: Our Ultimate Picks &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-deals-11-20-2026/)
+ - [Google Gemini Partners With Watch Duty to Clear Static From Firefighter Radio](https://www.cnet.com/tech/services-and-software/google-gemini-clears-firefighter-radio-static/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

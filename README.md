@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everful, which connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, raised a $48.5M Series A &lpar;Kate Park/TechCrunch&rpar;](https://www.techmeme.com/261119/p46#a261119p46)
- - [Gemini on Mac can now use your computer](https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use)
- - [Leaked images reveal Motorola’s wide foldable](https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak)
- - [Oh, Elon Musk is ‘moderate’ now, is he?](https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook)
- - [Apple’s iPhone camera leader has reportedly left the company](https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera)<!-- TECH:END -->
+ - [Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday&#39;s close, a 430%+ return on investment &lpar;Richard Nieva/Forbes&rpar;](https://www.techmeme.com/261119/p56#a261119p56)
+ - [Engwe M20 3.0 review: Cruising in style without any smarts](https://appleinsider.com/articles/26/11/20/engwe-m20-30-review-cruising-in-style-without-any-smarts?utm_source=rss)
+ - [Sources: Menlo invested $1B+ for a ~1.5% Anthropic stake, worth $20B+ at a $1.5T valuation; Lightspeed, the top financial investor, invested $3B+ and holds 2%+ &lpar;Krystal Hu/Reuters&rpar;](https://www.techmeme.com/261119/p55#a261119p55)
+ - [Uber Is Testing Rides for Kids With Qualified Drivers](https://www.cnet.com/roadshow/uber-testing-rides-for-kids/)
+ - [The Funniest GTA 6 Memes Are Running Full Throttle](https://www.cnet.com/tech/best-funniest-gta6-memes-jokes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

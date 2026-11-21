@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
- - [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)
- - [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
- - [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
- - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
+ - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)
+ - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
+ - [Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China &lpar;Financial Times&rpar;](https://www.techmeme.com/261121/p9#a261121p9)
+ - [Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week &lpar;Financial Times&rpar;](https://www.techmeme.com/261121/p8#a261121p8)
+ - [The FBI and USDA were reportedly hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

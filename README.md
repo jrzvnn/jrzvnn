@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)
- - 😝 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)
- - 💣 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
- - 😝 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)
- - 👉 [`Woke Theft Auto` introduced `empathy system` to reward people for not doing crimes](http://9gag.com/gag/agQ37Vg)<!-- MEMES:END -->
+ - 😝 [Punching like a girl](http://9gag.com/gag/aQgP72d)
+ - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
+ - 💣 [WOMEN: `Don&#39;t do what I WANT you to do.`](http://9gag.com/gag/a6Dm5KN)
+ - 😝 [Maybe there is one already?](http://9gag.com/gag/a6Dmnyq)
+ - 👉 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop](https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/)
- - [Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p41#a261120p41)
- - [Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261120/p40#a261120p40)
- - [Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to &quot;geopolitical risk&quot;; Cursor&#39;s Composer 2 was built on Kimi K2.5 &lpar;Kai Nicol-Schwarz/CNBC&rpar;](https://www.techmeme.com/261120/p39#a261120p39)
- - [Sources: hackers breached the US Department of Agriculture&#39;s system that facilitates payments to farmers this week &lpar;Julia Ainsley/NBC News&rpar;](https://www.techmeme.com/261120/p38#a261120p38)<!-- TECH:END -->
+ - [Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261121/p3#a261121p3)
+ - [Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/261121/p2#a261121p2)
+ - [Mint Mobile Discounts for November 2026](https://www.wired.com/story/mint-mobile-promo-code/)
+ - [Mountain Hardwear Coupon Code 15% Off November](https://www.wired.com/story/mountain-hardwear-promo-codes/)
+ - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

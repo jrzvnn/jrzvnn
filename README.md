@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts &lpar;Todd Bishop/GeekWire&rpar;](https://www.techmeme.com/261121/p3#a261121p3)
- - [Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](https://www.techmeme.com/261121/p2#a261121p2)
- - [Mint Mobile Discounts for November 2026](https://www.wired.com/story/mint-mobile-promo-code/)
- - [Mountain Hardwear Coupon Code 15% Off November](https://www.wired.com/story/mountain-hardwear-promo-codes/)
- - [Google Workspace Promo Codes: 14% Off for November 2026](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [Chess.com’s next move is a new hub for classic games, from mahjong to sudoku](https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai)
+ - [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/)
+ - [The Xiaomi 18 Pro proves two screens aren’t better than one](https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review)
+ - [The game of the year is finally here](https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer)
+ - [Best Power Banks &lpar;2026&rpar;: My Picks After Testing Over 100](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

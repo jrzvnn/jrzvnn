@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
- - [Bumper crop of spring launches go way beyond just iPhone 18](https://appleinsider.com/articles/26/11/22/bumper-crop-of-spring-launches-go-way-beyond-just-iphone-18?utm_source=rss)
- - [New MacBook Neo now expected in spring 2027](https://appleinsider.com/articles/26/11/22/new-macbook-neo-now-expected-in-spring-2027?utm_source=rss)
- - [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
- - [Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&#39;s obsession with &quot;taste&quot; as a moat against AI slop and whether AI can learn it &lpar;Jonah Weiner/New York Times&rpar;](https://www.techmeme.com/261122/p7#a261122p7)<!-- TECH:END -->
+ - [Sunday Reboot: Siri AI limits and the possibility of pettiness](https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss)
+ - [Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/)
+ - [After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &quot;bumps in the road&quot; as systems are upgraded to adapt to the AI age &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/261122/p11#a261122p11)
+ - [A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&#39;s return should depend on probes of its China chip sales and presses Nvidia for answers &lpar;Alan Rappeport/New York Times&rpar;](https://www.techmeme.com/261122/p10#a261122p10)
+ - [OpenAI shares its models&#39; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains &lpar;Jakub Pachocki/OpenAI&rpar;](https://www.techmeme.com/261122/p9#a261122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

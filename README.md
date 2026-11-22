@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 😝 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
+ - 😝 [Straight in the feels](http://9gag.com/gag/adv0xyV)
  - 💣 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 😝 [Can someone explain to me why everyone is liquidating? are we finally crashing? i need a new GPU](http://9gag.com/gag/ayq7WEr)
+ - 😝 [Again I poll you 9gag. You could think I&#39;m an ai agent trying to assess your interests. Do you like GTA 6](http://9gag.com/gag/a78LVgz)
  - 👉 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)<!-- MEMES:END -->
 
 ---

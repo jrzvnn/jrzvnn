@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches &quot;zero espionage&quot; executive girlfriends &lpar;Wired&rpar;](https://www.techmeme.com/261121/p11#a261121p11)
- - [Amazon is complaining about NYC Council on shipping labels, too](https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label)
- - [Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under &quot;ZDR&quot; policies, and saw &quot;privacy&quot; often broken, keys stolen &lpar;Dan Goodin/Ars Technica&rpar;](https://www.techmeme.com/261121/p10#a261121p10)
- - [The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)
- - [Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China &lpar;Financial Times&rpar;](https://www.techmeme.com/261121/p9#a261121p9)<!-- TECH:END -->
+ - [Current and former officials from the US and other countries describe the Chinese spy agency MSS&#39; campaign to help Chinese companies acquire advanced AI chips &lpar;New York Times&rpar;](https://www.techmeme.com/261122/p5#a261122p5)
+ - [Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines &lpar;Mike Pearl/Gizmodo&rpar;](https://www.techmeme.com/261122/p4#a261122p4)
+ - [A joint statement by the Lean and Mathlib communities says &quot;we have full confidence that Alpöge&#39;s proof of the Riemann Hypothesis is correct&quot; &lpar;Lean community blog&rpar;](https://www.techmeme.com/261122/p3#a261122p3)
+ - [Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed &lpar;Financial Times&rpar;](https://www.techmeme.com/261122/p2#a261122p2)
+ - [Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China &lpar;Stu Woo/Wall Street Journal&rpar;](https://www.techmeme.com/261122/p1#a261122p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

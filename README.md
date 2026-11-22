@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Current and former officials from the US and other countries describe the Chinese spy agency MSS&#39; campaign to help Chinese companies acquire advanced AI chips &lpar;New York Times&rpar;](https://www.techmeme.com/261122/p5#a261122p5)
- - [Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines &lpar;Mike Pearl/Gizmodo&rpar;](https://www.techmeme.com/261122/p4#a261122p4)
- - [A joint statement by the Lean and Mathlib communities says &quot;we have full confidence that Alpöge&#39;s proof of the Riemann Hypothesis is correct&quot; &lpar;Lean community blog&rpar;](https://www.techmeme.com/261122/p3#a261122p3)
- - [Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed &lpar;Financial Times&rpar;](https://www.techmeme.com/261122/p2#a261122p2)
- - [Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China &lpar;Stu Woo/Wall Street Journal&rpar;](https://www.techmeme.com/261122/p1#a261122p1)<!-- TECH:END -->
+ - [Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk](https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review)
+ - [Bumper crop of spring launches go way beyond just iPhone 18](https://appleinsider.com/articles/26/11/22/bumper-crop-of-spring-launches-go-way-beyond-just-iphone-18?utm_source=rss)
+ - [New MacBook Neo now expected in spring 2027](https://appleinsider.com/articles/26/11/22/new-macbook-neo-now-expected-in-spring-2027?utm_source=rss)
+ - [Protesters storm Meta offices in India](https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india)
+ - [Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley&#39;s obsession with &quot;taste&quot; as a moat against AI slop and whether AI can learn it &lpar;Jonah Weiner/New York Times&rpar;](https://www.techmeme.com/261122/p7#a261122p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teslas in GTA 6 are brutal](http://9gag.com/gag/agQ3xWv)
  - 😝 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 💣 [Coincidence???](http://9gag.com/gag/az5gOex)
+ - 😝 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
+ - 💣 [Copper is Bitcoin](http://9gag.com/gag/adv0xwd)
  - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 👉 [South Africa, how you doing?](http://9gag.com/gag/a6DmBO8)<!-- MEMES:END -->
+ - 👉 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)<!-- MEMES:END -->
 
 ---
 

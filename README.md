@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
- - 😝 [Straight in the feels](http://9gag.com/gag/adv0xyV)
- - 💣 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
- - 😝 [Again I poll you 9gag. You could think I&#39;m an ai agent trying to assess your interests. Do you like GTA 6](http://9gag.com/gag/a78LVgz)
- - 👉 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)<!-- MEMES:END -->
+ - 😝 [Is this supposed to be a bad thing. I don&#39;t really know as I never had any kind of girlfriend.](http://9gag.com/gag/aD7AbGZ)
+ - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
+ - 💣 [South Africa, how you doing?](http://9gag.com/gag/a6DmBO8)
+ - 😝 [Actor Behind GTA 6\u2019s Mandy Reveals Her Identity After Taking The Internet By Storm](http://9gag.com/gag/a0o80ZO)
+ - 👉 [Is this supposed to be a bad thing. I don&#39;t really know as I never had any kind of girlfriend.](http://9gag.com/gag/aD7AbGZ)<!-- MEMES:END -->
 
 ---
 

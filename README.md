@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Reboot: Siri AI limits and the possibility of pettiness](https://appleinsider.com/articles/26/11/22/sunday-reboot-siri-ai-limits-and-the-possibility-of-pettiness?utm_source=rss)
- - [Today’s NYT Connections Hints and Answers for Monday, Nov. 23, #1261](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-23-1261/)
- - [After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for &quot;bumps in the road&quot; as systems are upgraded to adapt to the AI age &lpar;Garrett Downs/CNBC&rpar;](https://www.techmeme.com/261122/p11#a261122p11)
- - [A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&#39;s return should depend on probes of its China chip sales and presses Nvidia for answers &lpar;Alan Rappeport/New York Times&rpar;](https://www.techmeme.com/261122/p10#a261122p10)
- - [OpenAI shares its models&#39; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains &lpar;Jakub Pachocki/OpenAI&rpar;](https://www.techmeme.com/261122/p9#a261122p9)<!-- TECH:END -->
+ - [TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/261122/p17#a261122p17)
+ - [GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &lpar;Jessica Wachtel/The New Stack&rpar;](https://www.techmeme.com/261122/p16#a261122p16)
+ - [Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&#39; Senate confirmation &lpar;Axios&rpar;](https://www.techmeme.com/261122/p15#a261122p15)
+ - [A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261122/p14#a261122p14)
+ - [Sources: Alice Huang was in touch with an officer of China&#39;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS &lpar;New York Times&rpar;](https://www.techmeme.com/261122/p13#a261122p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

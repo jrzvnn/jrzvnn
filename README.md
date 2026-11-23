@@ -170,9 +170,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [GTA 6 Fans Are Now Switching From Mandy To Goth Girl Vicki](http://9gag.com/gag/az5gG4Z)
  - 😝 [Lest we forget](http://9gag.com/gag/aO2K9dv)
- - 😝 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
- - 💣 [Nordic Aryan Girl from 1370 BC](http://9gag.com/gag/ae4jxXq)
+ - 💣 [Has anyone found this one in gta yet](http://9gag.com/gag/aBZRPqP)
  - 😝 [Dad, pick me up im scared](http://9gag.com/gag/ap1EPd5)
  - 👉 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)<!-- MEMES:END -->
 

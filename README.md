@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B &lpar;Pritam Biswas/Reuters&rpar;](https://www.techmeme.com/261122/p17#a261122p17)
- - [GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much &lpar;Jessica Wachtel/The New Stack&rpar;](https://www.techmeme.com/261122/p16#a261122p16)
- - [Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies&#39; Senate confirmation &lpar;Axios&rpar;](https://www.techmeme.com/261122/p15#a261122p15)
- - [A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261122/p14#a261122p14)
- - [Sources: Alice Huang was in touch with an officer of China&#39;s spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS &lpar;New York Times&rpar;](https://www.techmeme.com/261122/p13#a261122p13)<!-- TECH:END -->
+ - [Bret Taylor&#39;s customer service AI startup Sierra says it&#39;s finalizing a $1.75B+ round led by Lightspeed and Greenoaks at a $30B valuation, up from $15.8B in May &lpar;Bloomberg&rpar;](https://www.techmeme.com/261123/p15#a261123p15)
+ - [Submit Your Questions: Will Anyone Keep You Safe From AI?](https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/)
+ - [44 Best Gifts Under $100 That WIRED Loves &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-under-100/)
+ - [Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market &lpar;Ian Duncan/Washington Post&rpar;](https://www.techmeme.com/261123/p14#a261123p14)
+ - [Best Gifts for Parents &lpar;and Their Babies&rpar;: Bottle Washers, Prepared Meals, and More](https://www.wired.com/story/gifts-for-parents-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

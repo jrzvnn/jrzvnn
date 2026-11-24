@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not saying it&#39;s not wrong. I&#39;m saying it&#39;s kinda impressive](http://9gag.com/gag/aAQROY2)
- - 😝 [What is happening?](http://9gag.com/gag/ae4j2dq)
- - 💣 [How safe is Birmingham?](http://9gag.com/gag/aBZRXLA)
- - 😝 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
- - 👉 [I&#39;m not saying it&#39;s not wrong. I&#39;m saying it&#39;s kinda impressive](http://9gag.com/gag/aAQROY2)<!-- MEMES:END -->
+ - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
+ - 😝 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
+ - 💣 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
+ - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
+ - 👉 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)<!-- MEMES:END -->
 
 ---
 

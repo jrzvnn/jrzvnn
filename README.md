@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
  - 😝 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)
- - 💣 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
  - 😝 [European vacation](http://9gag.com/gag/aj7YWv0)
- - 👉 [Just started my 12-hour shift at the hand-washing and tube-slapping station at the bullshit factory](http://9gag.com/gag/aYGNAwv)<!-- MEMES:END -->
+ - 💣 [Asian woman&#39;s age](http://9gag.com/gag/aEMvD2O)
+ - 😝 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
+ - 👉 [Which one would you saying yes to?](http://9gag.com/gag/a9zbOQm)<!-- MEMES:END -->
 
 ---
 

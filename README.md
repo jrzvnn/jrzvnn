@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bret Taylor&#39;s customer service AI startup Sierra says it&#39;s finalizing a $1.75B+ round led by Lightspeed and Greenoaks at a $30B valuation, up from $15.8B in May &lpar;Bloomberg&rpar;](https://www.techmeme.com/261123/p15#a261123p15)
- - [Submit Your Questions: Will Anyone Keep You Safe From AI?](https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/)
- - [44 Best Gifts Under $100 That WIRED Loves &lpar;2026&rpar;](https://www.wired.com/gallery/best-gifts-under-100/)
- - [Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market &lpar;Ian Duncan/Washington Post&rpar;](https://www.techmeme.com/261123/p14#a261123p14)
- - [Best Gifts for Parents &lpar;and Their Babies&rpar;: Bottle Washers, Prepared Meals, and More](https://www.wired.com/story/gifts-for-parents-2026/)<!-- TECH:END -->
+ - [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)
+ - [Apple Reportedly Adding Product Red Options to HomePod Mini 2 and AirPods Max 2](https://www.cnet.com/tech/apple-product-red-homepod-mini-2-airpods-max-2/)
+ - [Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](https://www.techmeme.com/261123/p45#a261123p45)
+ - [The hacker behind early GTA VI leaks has been sentenced — and released](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released)
+ - [Google Imagines a Personalized TV Channel Full of AI Slop, Starring You](https://www.cnet.com/tech/google-personalized-ai-slop-tv-channel-patent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

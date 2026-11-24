@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)
- - [Apple Reportedly Adding Product Red Options to HomePod Mini 2 and AirPods Max 2](https://www.cnet.com/tech/apple-product-red-homepod-mini-2-airpods-max-2/)
- - [Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C &lpar;Rhiannon Hoyle/Wall Street Journal&rpar;](https://www.techmeme.com/261123/p45#a261123p45)
- - [The hacker behind early GTA VI leaks has been sentenced — and released](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released)
- - [Google Imagines a Personalized TV Channel Full of AI Slop, Starring You](https://www.cnet.com/tech/google-personalized-ai-slop-tv-channel-patent/)<!-- TECH:END -->
+ - [Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life](https://www.wired.com/story/wish-list-2026/)
+ - [Sony says GTA VI is the biggest game launch in PlayStation history across five generations, drawing 39M+ unique PS5 players, who logged 683M total hours &lpar;Tim Turi/PlayStation.Blog&rpar;](https://www.techmeme.com/261124/p5#a261124p5)
+ - [Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/261124/p4#a261124p4)
+ - [Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&#39;s &quot;engineering mindset&quot; overlooks human biology &lpar;Financial Times&rpar;](https://www.techmeme.com/261124/p3#a261124p3)
+ - [OpenRouter removes Together AI, Phala, and Novita over data policy violations; Novita says a misconfiguration sent some MiniMax requests to MiniMax official API &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/261124/p2#a261124p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

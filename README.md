@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wish List 2026: 27 Gifts for the Visionaries, Explorers, and Early Adopters in Your Life](https://www.wired.com/story/wish-list-2026/)
- - [Sony says GTA VI is the biggest game launch in PlayStation history across five generations, drawing 39M+ unique PS5 players, who logged 683M total hours &lpar;Tim Turi/PlayStation.Blog&rpar;](https://www.techmeme.com/261124/p5#a261124p5)
- - [Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents &lpar;Mizy Clifton/Politico&rpar;](https://www.techmeme.com/261124/p4#a261124p4)
- - [Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech&#39;s &quot;engineering mindset&quot; overlooks human biology &lpar;Financial Times&rpar;](https://www.techmeme.com/261124/p3#a261124p3)
- - [OpenRouter removes Together AI, Phala, and Novita over data policy violations; Novita says a misconfiguration sent some MiniMax requests to MiniMax official API &lpar;Bill Toulas/BleepingComputer&rpar;](https://www.techmeme.com/261124/p2#a261124p2)<!-- TECH:END -->
+ - [A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy &lpar;Associated Press&rpar;](https://www.techmeme.com/261124/p35#a261124p35)
+ - [Apple&#39;s brand-new M6 iMac is already up to $111 off for Black Friday](https://appleinsider.com/articles/26/11/24/apples-brand-new-m6-imac-is-already-up-to-111-off-for-black-friday?utm_source=rss)
+ - [Bambu Lab’s New P3C 3D Printer Brings Advanced Features to the Mainstream](https://www.cnet.com/tech/bambu-labs-new-p3c-3d-printer-brings-advanced-features-to-the-mainstream/)
+ - [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
+ - [Sources: Jensen Huang said Nvidia doesn&#39;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy &lpar;CNBC&rpar;](https://www.techmeme.com/261124/p34#a261124p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

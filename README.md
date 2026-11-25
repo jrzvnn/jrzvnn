@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
- - [Apple is running macOS on an iPad, but you won&#39;t be able to](https://appleinsider.com/articles/26/11/25/apple-is-running-macos-on-an-ipad-but-you-wont-be-able-to?utm_source=rss)
- - [Source: President Trump is scheduled to lead a December 4 groundbreaking ceremony for TSMC&#39;s Phoenix plant expansion, deepening his chip sector involvement &lpar;Bloomberg&rpar;](https://www.techmeme.com/261125/p23#a261125p23)
- - [Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday](https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale)
- - [‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV](https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa)<!-- TECH:END -->
+ - [Hands-on with the &quot;Install as app&quot; feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app &lpar;Federico Viticci/MacStories&rpar;](https://www.techmeme.com/261125/p40#a261125p40)
+ - [Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia&#39;s board to reinstate Jensen Huang &lpar;Washington Post&rpar;](https://www.techmeme.com/261125/p39#a261125p39)
+ - [Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan &lpar;Bloomberg&rpar;](https://www.techmeme.com/261125/p38#a261125p38)
+ - [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)
+ - [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

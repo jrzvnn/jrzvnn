@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy &lpar;Associated Press&rpar;](https://www.techmeme.com/261124/p35#a261124p35)
- - [Apple&#39;s brand-new M6 iMac is already up to $111 off for Black Friday](https://appleinsider.com/articles/26/11/24/apples-brand-new-m6-imac-is-already-up-to-111-off-for-black-friday?utm_source=rss)
- - [Bambu Lab’s New P3C 3D Printer Brings Advanced Features to the Mainstream](https://www.cnet.com/tech/bambu-labs-new-p3c-3d-printer-brings-advanced-features-to-the-mainstream/)
- - [TikTok was down](https://www.theverge.com/tech/1041618/tiktok-down-outage)
- - [Sources: Jensen Huang said Nvidia doesn&#39;t need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy &lpar;CNBC&rpar;](https://www.techmeme.com/261124/p34#a261124p34)<!-- TECH:END -->
+ - [Nutanix CEO Rajiv Ramaswami announces plans to step down and become a senior adviser, but will remain as CEO until a successor is named; he joined in late 2020 &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/261124/p51#a261124p51)
+ - [HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives &quot;prudent&quot; fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/261124/p50#a261124p50)
+ - [Nvidia Is Also Trying to Fix the Bug Causing Excessive SSD Writing](https://www.cnet.com/tech/computing/nvidia-ssd-writing/)
+ - [A history professor says GPT-6.2 Astra solved a historical mystery in 22 minutes by identifying the creator of an anonymous 1808 sketchbook held at Yale &lpar;Mark Humphries/Generative History&rpar;](https://www.techmeme.com/261124/p49#a261124p49)
+ - [The US Treasury&#39;s FinCEN says it&#39;s investigating a cybersecurity incident that &quot;resulted in unauthorized access to a limited subset of its systems&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261124/p48#a261124p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

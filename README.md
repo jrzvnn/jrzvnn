@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nutanix CEO Rajiv Ramaswami announces plans to step down and become a senior adviser, but will remain as CEO until a successor is named; he joined in late 2020 &lpar;Mike Wheatley/SiliconANGLE&rpar;](https://www.techmeme.com/261124/p51#a261124p51)
- - [HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives &quot;prudent&quot; fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments &lpar;Dina Bass/Bloomberg&rpar;](https://www.techmeme.com/261124/p50#a261124p50)
- - [Nvidia Is Also Trying to Fix the Bug Causing Excessive SSD Writing](https://www.cnet.com/tech/computing/nvidia-ssd-writing/)
- - [A history professor says GPT-6.2 Astra solved a historical mystery in 22 minutes by identifying the creator of an anonymous 1808 sketchbook held at Yale &lpar;Mark Humphries/Generative History&rpar;](https://www.techmeme.com/261124/p49#a261124p49)
- - [The US Treasury&#39;s FinCEN says it&#39;s investigating a cybersecurity incident that &quot;resulted in unauthorized access to a limited subset of its systems&quot; &lpar;Lauren Feiner/The Verge&rpar;](https://www.techmeme.com/261124/p48#a261124p48)<!-- TECH:END -->
+ - [Amazon is reportedly in talks to end Muse AI shopping block](https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions)
+ - [Apple is running macOS on an iPad, but you won&#39;t be able to](https://appleinsider.com/articles/26/11/25/apple-is-running-macos-on-an-ipad-but-you-wont-be-able-to?utm_source=rss)
+ - [Source: President Trump is scheduled to lead a December 4 groundbreaking ceremony for TSMC&#39;s Phoenix plant expansion, deepening his chip sector involvement &lpar;Bloomberg&rpar;](https://www.techmeme.com/261125/p23#a261125p23)
+ - [Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday](https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale)
+ - [‘It’s not for the timid’: Blade Runner 2099’s showrunner on adapting the series for TV](https://www.theverge.com/entertainment/1041596/blade-runner-2099-interview-showrunner-silka-luisa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

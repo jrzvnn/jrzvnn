@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows how to handle a wiener](http://9gag.com/gag/aK1wKW6)
- - 😝 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
- - 💣 [She knows how to handle a wiener](http://9gag.com/gag/aK1wKW6)
- - 😝 [POLL: Which continent has the most sophisticated and historically rich cultural heritage??](http://9gag.com/gag/a2MzOPp)
- - 👉 [She knows how to handle a wiener](http://9gag.com/gag/aK1wKW6)<!-- MEMES:END -->
+ - 😝 [Current state of the PC port 40 hours after release](http://9gag.com/gag/az5gQEK)
+ - 😝 [Always respect the ocean](http://9gag.com/gag/a78LAM2)
+ - 💣 [Current state of the PC port 40 hours after release](http://9gag.com/gag/az5gQEK)
+ - 😝 [Always respect the ocean](http://9gag.com/gag/a78LAM2)
+ - 👉 [Current state of the PC port 40 hours after release](http://9gag.com/gag/az5gQEK)<!-- MEMES:END -->
 
 ---
 

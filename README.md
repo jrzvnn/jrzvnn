@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the &quot;Install as app&quot; feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app &lpar;Federico Viticci/MacStories&rpar;](https://www.techmeme.com/261125/p40#a261125p40)
- - [Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia&#39;s board to reinstate Jensen Huang &lpar;Washington Post&rpar;](https://www.techmeme.com/261125/p39#a261125p39)
- - [Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan &lpar;Bloomberg&rpar;](https://www.techmeme.com/261125/p38#a261125p38)
- - [Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future](https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent)
- - [The Verge’s 2026 holiday gift guide for travelers](https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026)<!-- TECH:END -->
+ - [Sensor Tower: Shein&#39;s app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra&#39;s 100M; Reliance oversees Shein&#39;s India operations &lpar;Bloomberg&rpar;](https://www.techmeme.com/261126/p1#a261126p1)
+ - [Thanksgiving Mac mini deals knock up to $500 off M4 Pro models](https://appleinsider.com/articles/26/11/26/thanksgiving-mac-mini-deals-knock-up-to-500-off-m4-pro-models?utm_source=rss)
+ - [Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261125/p48#a261125p48)
+ - [How to keep watching DVDs with VLC as Apple phases out Mac DVD support](https://appleinsider.com/inside/macos-27/tips/how-to-keep-watching-dvds-with-vlc-as-apple-phases-out-mac-dvd-support?utm_source=rss)
+ - [Happy Thanksgiving 2026 from all of us at AppleInsider!](https://appleinsider.com/articles/26/11/26/happy-thanksgiving-2026-from-all-of-us-at-appleinsider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

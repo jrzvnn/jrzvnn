@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Shein&#39;s app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra&#39;s 100M; Reliance oversees Shein&#39;s India operations &lpar;Bloomberg&rpar;](https://www.techmeme.com/261126/p1#a261126p1)
- - [Thanksgiving Mac mini deals knock up to $500 off M4 Pro models](https://appleinsider.com/articles/26/11/26/thanksgiving-mac-mini-deals-knock-up-to-500-off-m4-pro-models?utm_source=rss)
- - [Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September &lpar;Wall Street Journal&rpar;](https://www.techmeme.com/261125/p48#a261125p48)
- - [How to keep watching DVDs with VLC as Apple phases out Mac DVD support](https://appleinsider.com/inside/macos-27/tips/how-to-keep-watching-dvds-with-vlc-as-apple-phases-out-mac-dvd-support?utm_source=rss)
- - [Happy Thanksgiving 2026 from all of us at AppleInsider!](https://appleinsider.com/articles/26/11/26/happy-thanksgiving-2026-from-all-of-us-at-appleinsider?utm_source=rss)<!-- TECH:END -->
+ - [Amazon&#39;s $599 Black Friday MacBook Neo deal is back](https://appleinsider.com/articles/26/11/26/amazons-599-black-friday-macbook-neo-deal-is-back?utm_source=rss)
+ - [M6 Mac mini drops to $779 with $120 Black Friday discount at Amazon, B&amp;H](https://appleinsider.com/articles/26/11/26/m6-mac-mini-gets-120-black-friday-discount-at-amazon-bh?utm_source=rss)
+ - [The 40 Best Early Black Friday Deals: Our Ultimate Picks &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
+ - [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design)
+ - [Best video compression software in 2026 - Adobe Premiere &lpar;Media Encoder&rpar; offers top video compression software](https://appleinsider.com/articles/26/11/26/best-video-compression-software-in-2026---adobe-premiere-media-encoder-offers-top-video-compression-software?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

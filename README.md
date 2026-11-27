@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $599 Black Friday MacBook Neo deal is back](https://appleinsider.com/articles/26/11/26/amazons-599-black-friday-macbook-neo-deal-is-back?utm_source=rss)
- - [M6 Mac mini drops to $779 with $120 Black Friday discount at Amazon, B&amp;H](https://appleinsider.com/articles/26/11/26/m6-mac-mini-gets-120-black-friday-discount-at-amazon-bh?utm_source=rss)
- - [The 40 Best Early Black Friday Deals: Our Ultimate Picks &lpar;2026&rpar;](https://www.wired.com/story/best-black-friday-deals-11-26-2026/)
- - [Why GTA VI’s version of Florida feels so real](https://www.theverge.com/entertainment/1042629/gta-6-city-design)
- - [Best video compression software in 2026 - Adobe Premiere &lpar;Media Encoder&rpar; offers top video compression software](https://appleinsider.com/articles/26/11/26/best-video-compression-software-in-2026---adobe-premiere-media-encoder-offers-top-video-compression-software?utm_source=rss)<!-- TECH:END -->
+ - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)
+ - [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
+ - [Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &lpar;Rajveer Singh Pardesi/Reuters&rpar;](https://www.techmeme.com/261126/p24#a261126p24)
+ - [Best early Black Friday Apple deals start at just $11](https://appleinsider.com/articles/26/11/23/best-early-black-friday-apple-deals-start-at-just-11?utm_source=rss)
+ - [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

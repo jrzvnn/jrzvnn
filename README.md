@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin&#39;s organizers out of ~$260K &lpar;Nathan Grayson/Aftermath&rpar;](https://www.techmeme.com/261126/p25#a261126p25)
- - [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
- - [Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month &lpar;Rajveer Singh Pardesi/Reuters&rpar;](https://www.techmeme.com/261126/p24#a261126p24)
- - [Best early Black Friday Apple deals start at just $11](https://appleinsider.com/articles/26/11/23/best-early-black-friday-apple-deals-start-at-just-11?utm_source=rss)
- - [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)<!-- TECH:END -->
+ - [Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October&#39;s record outflow amid AI valuation fears and a broader tech sell-off &lpar;Eunice Xu/Bloomberg&rpar;](https://www.techmeme.com/261127/p2#a261127p2)
+ - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
+ - [Get $1,200 off iPhone Duo or iPhone 18 Pro during T-Mobile Black Friday sale](https://appleinsider.com/articles/26/11/27/get-1200-off-iphone-duo-or-iphone-18-pro-during-t-mobile-black-friday-sale?utm_source=rss)
+ - [Best Black Friday Apple deals deliver up to $800 off Macs, iPads, AirPods, Watch](https://appleinsider.com/articles/26/11/27/best-black-friday-apple-deals-deliver-up-to-800-off-macs-ipads-airpods-watch?utm_source=rss)
+ - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

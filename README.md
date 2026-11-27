@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October&#39;s record outflow amid AI valuation fears and a broader tech sell-off &lpar;Eunice Xu/Bloomberg&rpar;](https://www.techmeme.com/261127/p2#a261127p2)
- - [A New Breed of Chip Runs AI Models Using Waves of Light](https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/)
- - [Get $1,200 off iPhone Duo or iPhone 18 Pro during T-Mobile Black Friday sale](https://appleinsider.com/articles/26/11/27/get-1200-off-iphone-duo-or-iphone-18-pro-during-t-mobile-black-friday-sale?utm_source=rss)
- - [Best Black Friday Apple deals deliver up to $800 off Macs, iPads, AirPods, Watch](https://appleinsider.com/articles/26/11/27/best-black-friday-apple-deals-deliver-up-to-800-off-macs-ipads-airpods-watch?utm_source=rss)
- - [Ulta Promo Codes: Up to 20% Off in November 2026](https://www.wired.com/story/ulta-coupon/)<!-- TECH:END -->
+ - [Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses &lpar;Financial Times&rpar;](https://www.techmeme.com/261127/p11#a261127p11)
+ - [Black Friday streaming deals deliver Disney Plus &amp; Hulu for $4.99/mo](https://appleinsider.com/articles/26/11/27/black-friday-streaming-deals-deliver-disney-plus-hulu-for-499mo?utm_source=rss)
+ - [Anker’s 100W universal travel charger is down to $60, its lowest price yet](https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale)
+ - [Black Friday iPhone deals go beyond $1,200 off with free Apple gear](https://appleinsider.com/articles/26/11/27/black-friday-iphone-deals-go-beyond-1200-off-with-free-apple-gear?utm_source=rss)
+ - [European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels &lpar;Alexander Weber/Bloomberg&rpar;](https://www.techmeme.com/261127/p10#a261127p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

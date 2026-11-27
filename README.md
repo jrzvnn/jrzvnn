@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Priorities straight](http://9gag.com/gag/aj7Yy0p)
- - 😝 [Men are simple](http://9gag.com/gag/aBZRNxD)
- - 💣 [Apologies for the retarded pool but generally curious here. How much do people realistically have saved or available financially these days excluding assets like a house or car?](http://9gag.com/gag/aj7YM9R)
- - 😝 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)
- - 👉 [Priorities straight](http://9gag.com/gag/aj7Yy0p)<!-- MEMES:END -->
+ - 😝 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
+ - 💣 [Never stick your dick in _____?](http://9gag.com/gag/az5gBbB)
+ - 😝 [Seems like not all 9gaggers are basement fatass virgin c**ts. F**k y&#39;all and see you tomorrow.](http://9gag.com/gag/a8ALXQ1)
+ - 👉 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)<!-- MEMES:END -->
 
 ---
 

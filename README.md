@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)
- - [The absolute best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
- - [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale)
- - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
- - [OpenAI counter-sues Apple over trade secret theft](https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss)<!-- TECH:END -->
+ - [I Found the Best Black Friday Streaming Deals &lpar;2026&rpar;: Apple TV, Disney, HBO Max](https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/)
+ - [Best Kindle and E-Reader Black Friday Deals &lpar;2026&rpar;: Up to $180 Off](https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/)
+ - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-28-2026/)
+ - [Amazon extends its best Black Friday Apple deals into Cyber Monday](https://appleinsider.com/articles/26/11/28/amazon-extends-its-best-black-friday-apple-deals-into-cyber-monday?utm_source=rss)
+ - [Best Black Friday Espresso Machine Deals: Up to 38% Off &lpar;2026&rpar;](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

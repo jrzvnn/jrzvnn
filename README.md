@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No service](http://9gag.com/gag/aEMvyjn)
- - 😝 [Title](http://9gag.com/gag/ap1EjWW)
+ - 😝 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
+ - 😝 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
  - 💣 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
- - 😝 [An interesting experiment: Take this image, upload it to ChatGPT, Gemini or Meta AI &lpar;the AI you use most often&rpar; and give it this simple instruction: \u201cFill this room with what you know about me.\u201d I\u2019ll show you in the comments what it came up with in my case...](http://9gag.com/gag/aEMvEKO)
- - 👉 [Title](http://9gag.com/gag/ap1EjWW)<!-- MEMES:END -->
+ - 😝 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
+ - 👉 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)<!-- MEMES:END -->
 
 ---
 

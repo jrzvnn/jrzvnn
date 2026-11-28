@@ -170,11 +170,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
  - 😝 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
- - 💣 [This girl was interviewed outside of a concert back in 1996, wonder where she&#39;s at now](http://9gag.com/gag/aRLwNd2)
- - 😝 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
- - 👉 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)<!-- MEMES:END -->
+ - 😝 [Still asleep after the sleepover](http://9gag.com/gag/aAQRLx2)
+ - 💣 [The Audacity of This B*tch is unparalleled! Seriously hoe?](http://9gag.com/gag/a6DmeM2)
+ - 😝 [Dont put your D in crazy.](http://9gag.com/gag/aLLRVy6)
+ - 👉 [Still asleep after the sleepover](http://9gag.com/gag/aAQRLx2)<!-- MEMES:END -->
 
 ---
 

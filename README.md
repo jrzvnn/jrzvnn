@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Found the Best Black Friday Streaming Deals &lpar;2026&rpar;: Apple TV, Disney, HBO Max](https://www.wired.com/story/black-friday-streaming-deals-11-28-2026/)
- - [Best Kindle and E-Reader Black Friday Deals &lpar;2026&rpar;: Up to $180 Off](https://www.wired.com/story/best-kindle-ereader-black-friday-deals-11-28-2026/)
+ - [The Best Hatch Black Friday Deals &lpar;2026&rpar;](https://www.wired.com/story/hatch-black-friday-deals-11-28-2026/)
+ - [Trump-backed World Liberty&#39;s WLFI token falls ~50% overnight; the company says Binance automatically closed perpetual futures positions tied to it &lpar;Robin Respaut/Reuters&rpar;](https://www.techmeme.com/261128/p8#a261128p8)
+ - [You can get a Pixel 11 Pro for what flagship phones used to cost](https://www.theverge.com/gadgets/1042667/google-pixel-11-pro-xl-10a-black-friday-2026-deal-sale)
  - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-28-2026/)
- - [Amazon extends its best Black Friday Apple deals into Cyber Monday](https://appleinsider.com/articles/26/11/28/amazon-extends-its-best-black-friday-apple-deals-into-cyber-monday?utm_source=rss)
- - [Best Black Friday Espresso Machine Deals: Up to 38% Off &lpar;2026&rpar;](https://www.wired.com/story/black-friday-coffee-espresso-deals-11-28-2026/)<!-- TECH:END -->
+ - [Here’s what other Verge readers bought during Black Friday](https://www.theverge.com/gadgets/1045251/what-verge-readers-bought-black-friday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

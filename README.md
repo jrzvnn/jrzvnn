@@ -161,11 +161,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses &lpar;Financial Times&rpar;](https://www.techmeme.com/261127/p11#a261127p11)
- - [Black Friday streaming deals deliver Disney Plus &amp; Hulu for $4.99/mo](https://appleinsider.com/articles/26/11/27/black-friday-streaming-deals-deliver-disney-plus-hulu-for-499mo?utm_source=rss)
- - [Anker’s 100W universal travel charger is down to $60, its lowest price yet](https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale)
- - [Black Friday iPhone deals go beyond $1,200 off with free Apple gear](https://appleinsider.com/articles/26/11/27/black-friday-iphone-deals-go-beyond-1200-off-with-free-apple-gear?utm_source=rss)
- - [European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels &lpar;Alexander Weber/Bloomberg&rpar;](https://www.techmeme.com/261127/p10#a261127p10)<!-- TECH:END -->
+ - [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)
+ - [The absolute best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
+ - [Sony’s 1000XM4C headphones are a Black Friday bargain at $198](https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale)
+ - [2026’s Best Black Friday Deals: We’ve Been Tracking Since 4 AM](https://www.wired.com/story/best-black-friday-deals-11-27-2026/)
+ - [OpenAI counter-sues Apple over trade secret theft](https://appleinsider.com/articles/26/11/27/openai-counter-sues-apple-over-trade-secret-theft?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
